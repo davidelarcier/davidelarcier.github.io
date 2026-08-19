@@ -1,0 +1,2826 @@
+{
+  "data": "2026-07-25",
+  "generato": "2026-07-28T14:07:43",
+  "temi": [
+    {
+      "id": 1,
+      "titolo": "Incendi devastanti in Spagna e Francia: oltre 270.000 evacuati",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Gravi incendi in Spagna e Francia hanno costretto a evacuare centinaia di migliaia di persone. I dati oscillano tra 200.000 e 285.000 evacuati, con danni a migliaia di ettari. Le fiamme non sono sotto controllo, con emergenze in regioni come Madrid e Bordeaux. Le fonti internazionali segnalano l'escalation della situazione.",
+      "confronto": [
+        {
+          "area": "Sud America",
+          "sintesi": "Articoli segnalano evacuazioni di 88.500 persone, 285.000 affetti e 45.000 ettari colpiti in Spagna e Francia. Si evidenzia l'impatto su Madrid, Ávila e altre aree.",
+          "testate": [
+            "ABC Color",
+            "El Deber",
+            "El Nacional",
+            "El País (Uruguay)",
+            "El Tiempo",
+            "El Universo",
+            "Estadão",
+            "Infobae",
+            "La Nación (Argentina)",
+            "La Tercera",
+            "Los Tiempos",
+            "Telesur",
+            "UOL",
+            "Última Hora"
+          ]
+        },
+        {
+          "area": "Oceania",
+          "sintesi": "Fonti australiane riferiscono 250.000 evacuati a causa di incendi in Spagna e Francia, con enfasi sull'evacuazione di massa in Europa.",
+          "testate": [
+            "ABC News (Australia)",
+            "NITV",
+            "Sydney Morning Herald"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Testate canadesi e panamensi segnalano 250.000 evacuati, con focus su incendi in Spagna e Francia e l'impatto su centinaia di migliaia di persone.",
+          "testate": [
+            "CBC News",
+            "Diario Libre",
+            "La Nación (Costa Rica)",
+            "La Prensa (Panama)",
+            "Le Devoir",
+            "The Globe and Mail"
+          ]
+        },
+        {
+          "area": "Europa",
+          "sintesi": "Articoli europei riferiscono 270.000 evacuati, con incendi non controllati vicino a Madrid e Bordeaux. Si menzionano 140.000 evacuati in Gironda e 220.000 in emergenza.",
+          "testate": [
+            "Aftenposten",
+            "BBC News",
+            "Dagens Nyheter",
+            "Der Spiegel",
+            "Der Standard",
+            "Die Presse",
+            "El País",
+            "Gazeta Wyborcza",
+            "Helsingin Sanomat",
+            "Kathimerini",
+            "LRT",
+            "Libération",
+            "Meduza",
+            "NRC",
+            "NRK Sápmi",
+            "Oslobođenje",
+            "Rzeczpospolita",
+            "Süddeutsche Zeitung",
+            "The Guardian",
+            "The Irish Times"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "Fonti italiane segnalano 270.000 evacuati, 220.000 in emergenza e 140.000 in Gironda. Si evidenzia l'uso di aerei militari e l'evacuazione di Madrid.",
+          "testate": [
+            "ANSA",
+            "Corriere della Sera",
+            "Il Sole 24 Ore"
+          ]
+        },
+        {
+          "area": "Africa",
+          "sintesi": "Articoli africani riferiscono 160.000 evacuati in Spagna e Francia, con incendi fuori controllo e migliaia costretti a fuggire.",
+          "testate": [
+            "News24",
+            "The Standard"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Fonti asiatiche segnalano 200.000 evacuati, con 166.000 in fuga e incendi non controllati in Spagna e Francia. Si menzionano 100.000 persone in emergenza.",
+          "testate": [
+            "Al Jazeera",
+            "Chosun Ilbo",
+            "Kompas",
+            "Tempo",
+            "The Jakarta Post"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 19,
+        "n_testate": 54,
+        "continenti": [
+          "Africa",
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Oceania",
+          "Sud America"
+        ],
+        "paesi": [
+          "Argentina",
+          "Australia",
+          "Austria",
+          "Bolivia",
+          "Bosnia ed Erzegovina",
+          "Brasile",
+          "Canada",
+          "Cile",
+          "Colombia",
+          "Corea del Sud",
+          "Costa Rica",
+          "Ecuador",
+          "Finlandia",
+          "Francia",
+          "Germania",
+          "Grecia",
+          "Indonesia",
+          "Irlanda",
+          "Italia",
+          "Kenya",
+          "Lituania",
+          "Norvegia",
+          "Paesi Bassi",
+          "Panama",
+          "Paraguay",
+          "Polonia",
+          "Qatar",
+          "Regno Unito",
+          "Repubblica Dominicana",
+          "Russia",
+          "Spagna",
+          "Sudafrica",
+          "Svezia",
+          "Uruguay",
+          "Venezuela"
+        ],
+        "trend": {
+          "agganciato": true,
+          "delta_articoli": 77,
+          "delta_testate": 48,
+          "rispetto_a": "2026-07-24"
+        }
+      },
+      "n_articoli": 85,
+      "fonti": [
+        {
+          "testata": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/07/25/incendi-record-in-francia-e-spagna-quasi-300mila-evacuati_80ab366f-8a73-4a3c-b3bf-1efc3ae4120a.html",
+          "titolo": "Incendi record in Francia e Spagna, quasi 300mila evacuati - Notizie",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Corriere della Sera",
+          "url": "https://www.corriere.it/esteri/26_luglio_25/incendi-francia-spagna-fiamme-incontrollabili-gironda-madrid-446b0b4c-f324-466d-81ea-4f4f4ceaaxlk.shtml",
+          "titolo": "Incendi in Francia e Spagna: «le fiamme sono incontrollabili», 140 mila evacuati in Gironda, disposto l'uso dell'aereo militare. Emergenza nella regione di Madrid",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Il Sole 24 Ore",
+          "url": "https://www.ilsole24ore.com/art/incendi-francia-e-spagna-evacuate-220mila-persone-AJGZrWV",
+          "titolo": "Incendi «senza precedenti» in Francia e Spagna, evacuate 220mila persone",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Rzeczpospolita",
+          "url": "https://www.rp.pl/kleski-zywiolowe/art44886271-pozary-pustosza-francje-i-hiszpanie-ewakuowano-ponad-cwierc-miliona-osob",
+          "titolo": "Pożary we Francji i Hiszpanii: 270 tys. ewakuowanych, ogień wciąż nie został opanowany",
+          "titolo_it": "Incendi in Francia e Spagna: 270mila evacuati, il fuoco non è ancora sotto controllo",
+          "paese": "Polonia",
+          "continente": "Europa",
+          "lingua_originale": "polacco",
+          "live_blog": false
+        },
+        {
+          "testata": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/07/25/dode-bij-bosbranden-in-buurt-van-valencia-in-spanje-en-frankrijk-samen-ruim-270-000-evacuaties-a4933251",
+          "titolo": "Dode bij bosbranden in buurt van Valencia, in Spanje en Frankrijk samen ruim 270.000 mensen geëvacueerd",
+          "titolo_it": "Dodici incendi nella zona di Valencia hanno costretto oltre 270mila persone all'evacuazione tra Spagna e Francia.",
+          "paese": "Paesi Bassi",
+          "continente": "Europa",
+          "lingua_originale": "olandese",
+          "live_blog": false
+        },
+        {
+          "testata": "Kathimerini",
+          "url": "https://www.kathimerini.gr/world/564367714/ektos-elegchoy-oi-pyrkagies-se-gallia-kai-ispania-pano-apo-200-000-echoyn-afisei-ta-spitia-toys",
+          "titolo": "Εκτός ελέγχου οι πυρκαγιές σε Γαλλία και Ισπανία – Πάνω από 200.000 εγκατέλειψαν τα σπίτια τους",
+          "titolo_it": "Fuoco fuori controllo in Francia e Spagna: oltre 200.000 persone hanno abbandonato le loro case.",
+          "paese": "Grecia",
+          "continente": "Europa",
+          "lingua_originale": "greco",
+          "live_blog": false
+        },
+        {
+          "testata": "El Tiempo",
+          "url": "https://www.eltiempo.com/mundo/europa/espana-y-francia-afrontan-incendios-record-con-mas-de-285-000-afectados-3573855",
+          "titolo": "España y Francia afrontan incendios récord con más de 285.000 afectados",
+          "titolo_it": "Spagna e Francia affrontano incendi record che hanno colpito oltre 285.000 ettari.",
+          "paese": "Colombia",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Última Hora",
+          "url": "https://www.ultimahora.com/incendios-en-espana-y-francia-afectan-a-decenas-de-miles-de-personas-y-hectareas",
+          "titolo": "Incendios en España y Francia afectan a decenas de miles de personas y hectáreas",
+          "titolo_it": "Incendi in Spagna e Francia colpiscono decine di migliaia di persone ed ettari",
+          "paese": "Paraguay",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Telesur",
+          "url": "https://www.telesurtv.net/espana-francia-evacuaciones-incendios",
+          "titolo": "España y Francia despliegan evacuaciones masivas ante incendios devastadores",
+          "titolo_it": "Spagna e Francia attivano grandi operazioni di sfollamento a causa degli incendi distruttivi",
+          "paese": "Venezuela",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/world/gallery-in-photos-wildfires-continue-to-rage-across-southern-europe",
+          "titolo": "In photos: Wildfires continue to rage across southern Europe",
+          "titolo_it": "Foto: gli incendi boschivi continuano a devastare il sud dell'Europa",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "La Prensa (Panama)",
+          "url": "https://www.prensa.com/mundo/mas-de-88500-afectados-en-el-centro-de-espana-por-dos-grandes-incendios",
+          "titolo": "Más de 88,500 afectados en el centro de España por dos grandes incendios",
+          "titolo_it": "Oltre 88.500 persone colpite nel cuore della Spagna a causa di due grandi incendi.",
+          "paese": "Panama",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Diario Libre",
+          "url": "https://www.diariolibre.com/mundo/europa/2026/07/25/270000-evacuados-por-incendios-forestales-en-espana-y-francia/3610293",
+          "titolo": "270,000 evacuados por incendios forestales en España y Francia",
+          "titolo_it": "270mila sfollati a causa degli incendi boschivi in Spagna e Francia",
+          "paese": "Repubblica Dominicana",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Tempo",
+          "url": "https://en.tempo.co/read/2115414/europe-wildfires-rage-on-forcing-200000-from-homes",
+          "titolo": "Europe Wildfires Rage on, Forcing 200,000 from Homes",
+          "titolo_it": "Incendi in Europa si intensificano e costringono a lasciare casa oltre 200mila persone",
+          "paese": "Indonesia",
+          "continente": "Asia",
+          "lingua_originale": "indonesiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people",
+          "titolo": "Wildfires in Spain and France force evacuation of 200,000 people",
+          "titolo_it": "Incendi boschivi in Spagna e Francia costringono all'evacuazione di 200mila persone",
+          "paese": "Qatar",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Kompas",
+          "url": "https://www.kompas.com/global/read/2026/07/25/133841170/perancis-dan-spanyol-dikepung-kebakaran-hutan-hampir-100000-warga",
+          "titolo": "Perancis dan Spanyol Dikepung Kebakaran Hutan, Hampir 100.000 Warga Mengungsi",
+          "titolo_it": "Francia e Spagna investite dalle fiamme del bosco, quasi 100mila sfollati",
+          "paese": "Indonesia",
+          "continente": "Asia",
+          "lingua_originale": "indonesiano",
+          "live_blog": false
+        },
+        {
+          "testata": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-07-26/deadly-wildfires-france-spain-evacuations/106959442",
+          "titolo": "Deadly wildfires in France and Spain force 250,000 people to flee",
+          "titolo_it": "Incendi mortali in Francia e Spagna costringono a fuggire 250mila persone",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Sydney Morning Herald",
+          "url": "https://www.smh.com.au/world/hundreds-of-thousands-of-people-evacuated-as-wildfires-rage-across-europe-20260726-p60ikk.html",
+          "titolo": "Hundreds of thousands of people evacuated as wildfires rage across Europe",
+          "titolo_it": "Centinaia di migliaia di persone evacuate mentre gli incendi boschivi devastano l'Europa",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "NITV",
+          "url": "https://www.sbs.com.au/news/podcast-episode/over-160-000-evacuated-from-fires-in-france-and-spain-midday-news-bulletin-25-july-2026/zb8h0ftwv",
+          "titolo": "Over 160,000 evacuated from fires in France and Spain | Midday News Bulletin 25 July 2026",
+          "titolo_it": "Oltre 160.000 evacuati per gli incendi in Francia e Spagna - Bollettino delle notizie di mezzogiorno del 25 luglio 2026",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "News24",
+          "url": "https://www.news24.com/world/untamed-wildfires-in-spain-france-force-over-200-000-people-to-flee-20260725-0670",
+          "titolo": "Untamed wildfires in Spain, France force over 200 000 people to flee",
+          "titolo_it": "Incendi selvaggi in Spagna e Francia costringono oltre 200.000 persone a fuggire.",
+          "paese": "Sudafrica",
+          "continente": "Africa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 66
+    },
+    {
+      "id": 2,
+      "titolo": "Furgone contro la folla al Pride di Berlino: un morto e 15 feriti",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Un veicolo ha investito una folla durante il Pride di Berlino, causando 1 morto e 15-17 feriti. Le autorità indagano sul presunto autore dell'atto. L'evento è stato annullato in seguito all'incidente. Le notizie provengono da testate internazionali che riportano dettagli simili.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Testate europee (BBC, El País, LRT) descrivono l'incidente durante il Pride di Berlino con 1 morto e 15-16 feriti. Alcuni articoli menzionano la ricerca del sospetto.",
+          "testate": [
+            "Aftenposten",
+            "BBC News",
+            "Dagens Nyheter",
+            "El Mundo",
+            "El País",
+            "Helsingin Sanomat",
+            "LRT",
+            "Le Monde",
+            "Meduza",
+            "NRK Sápmi",
+            "Novaya Gazeta Europe",
+            "Oslobođenje",
+            "Politiken",
+            "Svenska Dagbladet",
+            "Telex",
+            "The Guardian"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Testate come Aristegui Noticias e CBC News segnalano 1 morto e 15-16 feriti, con riferimenti alla fuga del sospetto.",
+          "testate": [
+            "Aristegui Noticias",
+            "CBC News",
+            "El Universal",
+            "La Nación (Costa Rica)",
+            "Prensa Libre",
+            "The Globe and Mail"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Articoli di Hindustan Times e Al Jazeera riportano 1 morto e 15-17 feriti, senza dettagli sul sospetto.",
+          "testate": [
+            "Al Jazeera",
+            "Asahi Shimbun",
+            "Chosun Ilbo",
+            "Hindustan Times",
+            "South China Morning Post",
+            "The Jerusalem Post",
+            "The News International",
+            "VnExpress"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Testate sudamericane (Clarín, La Nación) descrivono l'incidente con 1 morto e 15-17 feriti, senza menzionare il sospetto.",
+          "testate": [
+            "ABC Color",
+            "Clarín",
+            "El País (Uruguay)",
+            "Infobae",
+            "La Nación (Argentina)",
+            "La Tercera",
+            "UOL"
+          ]
+        },
+        {
+          "area": "Oceania",
+          "sintesi": "Sydney Morning Herald e ABC News segnalano 1 morto e 15 feriti, con riferimento alla cancellazione del Pride.",
+          "testate": [
+            "ABC News (Australia)",
+            "NITV",
+            "Sydney Morning Herald"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "ANSA e Corriere della Sera riportano 1 morto e 15 feriti, senza dettagli aggiuntivi.",
+          "testate": [
+            "ANSA",
+            "Corriere della Sera"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 16,
+        "n_testate": 42,
+        "continenti": [
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Oceania",
+          "Sud America"
+        ],
+        "paesi": [
+          "Argentina",
+          "Australia",
+          "Bosnia ed Erzegovina",
+          "Brasile",
+          "Canada",
+          "Cile",
+          "Cina",
+          "Corea del Sud",
+          "Costa Rica",
+          "Danimarca",
+          "Finlandia",
+          "Francia",
+          "Giappone",
+          "Guatemala",
+          "India",
+          "Israele",
+          "Italia",
+          "Lituania",
+          "Messico",
+          "Norvegia",
+          "Pakistan",
+          "Paraguay",
+          "Qatar",
+          "Regno Unito",
+          "Russia",
+          "Spagna",
+          "Svezia",
+          "Ungheria",
+          "Uruguay",
+          "Vietnam"
+        ],
+        "trend": {
+          "agganciato": false,
+          "rispetto_a": "2026-07-24"
+        }
+      },
+      "n_articoli": 62,
+      "fonti": [
+        {
+          "testata": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/furgone-contro-la-folla-al-pride-di-berlino-un-morto-e-15-feriti_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
+          "titolo": "Furgone contro la folla al Pride di Berlino, un morto e 15 feriti - Europa",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Corriere della Sera",
+          "url": "https://www.corriere.it/esteri/26_luglio_25/auto-sulla-folla-a-berlino-durante-un-corteo-lgbtqia-diversi-feriti-4c76a3c1-4c57-442e-8fa4-5a8640aaexlk.shtml",
+          "titolo": "Furgone sulla folla a Berlino durante un corteo LGBTQIA+, un morto e almeno 15 feriti",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "LRT",
+          "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3001141/vokietijos-vidaus-reikalu-ministras-viskas-ka-matome-rodo-jog-tai-islamistu-ispuolis",
+          "titolo": "Vokietijos vidaus reikalų ministras: viskas, ką matome, rodo, jog tai – islamistų išpuolis",
+          "titolo_it": "Il ministro degli Interni lituano: tutto ciò che vediamo indica un attacco da parte di islamisti.",
+          "paese": "Lituania",
+          "continente": "Europa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Aftenposten",
+          "url": "https://www.aftenposten.no/verden/i/K8bLVE/bil-kjoerte-inn-i-en-folkemengde-i-berlin-minst-en-doed-og-flere-skadet",
+          "titolo": "Bil kjørte inn i en folkemengde i Berlin – minst én død og flere skadet",
+          "titolo_it": "Un'auto è entrata in mezzo alla folla a Berlino: almeno un morto e diversi feriti.",
+          "paese": "Norvegia",
+          "continente": "Europa",
+          "lingua_originale": "norvegese",
+          "live_blog": false
+        },
+        {
+          "testata": "BBC News",
+          "url": "https://www.bbc.com/portuguese/articles/c4gv7lw42n8o",
+          "titolo": "Parada LGBT em Berlim: uma pessoa morre e 16 ficam feridas após motorista atropelar multidão",
+          "titolo_it": "Parata a Berlino per i diritti LGBTQ+: un morto e 16 feriti dopo che l'autista investe la folla.",
+          "paese": "Regno Unito",
+          "continente": "Europa",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/one-killed-15-wounded-as-car-hits-crowd-near-berlin-gay-pride-101785019042688.html",
+          "titolo": "One killed, 15 wounded as car hits crowd near Berlin Gay Pride",
+          "titolo_it": "Un morto e quindici feriti dopo che un'auto ha investito una folla vicino al gay pride di Berlino.",
+          "paese": "India",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The News International",
+          "url": "https://www.thenews.com.pk/latest/1410249-vehicle-crashes-into-crowd-at-berlin-pride-killing-one",
+          "titolo": "Vehicle crashes into crowd at Berlin Pride, killing one",
+          "titolo_it": "Un veicolo investe un gruppo di persone durante il Gay Pride a Berlino, uccidendo uno.",
+          "paese": "Pakistan",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Asahi Shimbun",
+          "url": "https://www.asahi.com/articles/ASV7T7JN3V7TUHBI002M.html",
+          "titolo": "LGBTQ祭典で群衆に車 1人死亡、14人負傷 ベルリン中心部：朝日新聞",
+          "titolo_it": "Durante il Pride di Berlino, un'auto investe la folla nel centro della città causando una vittima e quattordici feriti.",
+          "paese": "Giappone",
+          "continente": "Asia",
+          "lingua_originale": "giapponese",
+          "live_blog": false
+        },
+        {
+          "testata": "Clarín",
+          "url": "https://www.clarin.com/mundo/muerto-15-heridos-atropello-masivo-masivo-desfile-orgullo-berlin_0_agoqWdumcA.html",
+          "titolo": "Un muerto y casi 15 heridos en un atropello masivo tras el desfile del Orgullo en Berlín",
+          "titolo_it": "Un morto e quasi quindici feriti in uno scontro stradale di massa dopo il corteo dell'orgoglio a Berlino",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "La Tercera",
+          "url": "https://www.latercera.com/mundo/noticia/suspenden-marcha-del-orgullo-en-berlin-tras-atropello-que-dejo-varios-heridos",
+          "titolo": "Un fallecido y al menos 15 heridos deja atropello durante marcha del Orgullo en Berlín",
+          "titolo_it": "Un morto e almeno 15 feriti in un tamponamento avvenuto durante la marcia per il Pride a Berlino",
+          "paese": "Cile",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "La Nación (Argentina)",
+          "url": "https://www.lanacion.com.ar/el-mundo/un-vehiculo-atropello-a-una-multitud-durante-la-celebracion-por-el-dia-del-orgullo-en-berlin-nid25072026",
+          "titolo": "Una camioneta atropelló a varias personas durante la celebración por el Día del Orgullo en Berlín: un muerto y 17 heridos",
+          "titolo_it": "Una furgonetta ha investito diverse persone durante le celebrazioni per il Pride di Berlino: una vittima e 17 feriti.",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Aristegui Noticias",
+          "url": "https://aristeguinoticias.com/2507/mundo/atropello-multiple-deja-un-muerto-y-16-heridos-en-berlin-durante-el-dia-del-orgullo",
+          "titolo": "Atropello múltiple deja un muerto y 16 heridos en Berlín durante el Día del Orgullo",
+          "titolo_it": "Atroppo in berlinese lascia un morto e 16 feriti nel quartiere di Friedrichshain il giorno dell'orgoglio.",
+          "paese": "Messico",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "El Universal",
+          "url": "https://www.eluniversal.com.mx/mundo/auto-atropella-a-multitud-en-desfile-del-orgullo-lgbtq-de-alemania-reportan-un-muerto-y-15-heridos",
+          "titolo": "Auto atropella a multitud en desfile del orgullo LGBTQ+ de Alemania; reportan un muerto y 15 heridos",
+          "titolo_it": "Un'auto investe il corteo dell'homonazionalismo in Germania: uno morto e quindici feriti",
+          "paese": "Messico",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "CBC News",
+          "url": "https://www.cbc.ca/news/world/berlin-pride-parade-car-crowd-christopher-street-day-9.7284516",
+          "titolo": "Berlin police say 1 killed, several injured after car drove into crowd near Pride parade",
+          "titolo_it": "Polizia berlinese conferma un morto e diversi feriti dopo che un'auto ha investito la folla vicino allo sfilata del Pride.",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Sydney Morning Herald",
+          "url": "https://www.smh.com.au/world/europe/our-freedom-has-been-attacked-manhunt-after-car-rams-crowd-at-berlin-pride-parade-20260726-p60ikw.html",
+          "titolo": "Manhunt after car rams crowd at Berlin Pride parade",
+          "titolo_it": "Caccia all'uomo dopo che un'auto ha investito la folla durante il corteo del Gay Pride a Berlino",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "NITV",
+          "url": "https://www.sbs.com.au/news/article/berlin-pride-attack-crowd/prbgfexe9",
+          "titolo": "One dead and 15 injured after suspected car ramming at Berlin Pride event",
+          "titolo_it": "Uno morto e quindici feriti dopo un presunto attentato a Berlino durante il Gay Pride.",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-07-26/berlin-pride-parade-called-off-after-car-hits-crowds/106959326",
+          "titolo": "Berlin Christopher Street Day pride parade called off after car hits crowd, killing one",
+          "titolo_it": "Parata del Pride a Berlino cancellata dopo che un'auto investe il corteo uccidendo una persona",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 45
+    },
+    {
+      "id": 3,
+      "titolo": "Il ministro indiano dell'istruzione si dimette dopo le proteste degli 'scarafaggi'",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Il ministro indiano dell'istruzione, Dharmendra Pradhan, ha rassegnato le dimissioni dopo intense proteste studentesche denominate 'movimento delle cucarachette', scatenatesi per irregolarità negli esami nazionali. La notizia è stata riportata da media globali, con riferimento alla vittoria del movimento e alla sospensione delle manifestazioni.",
+      "confronto": [
+        {
+          "area": "Asia",
+          "sintesi": "Media asiatici segnalano la dimissione del ministro indiano per irregolarità negli esami e la vittoria del movimento 'cockroach', con riferimenti a pressioni internazionali e a un baco nell'esame nazionale.",
+          "testate": [
+            "Al Jazeera",
+            "Asahi Shimbun",
+            "Daily Mirror",
+            "Daily Sabah",
+            "Kompas",
+            "Nikkei",
+            "South China Morning Post",
+            "The Daily Star",
+            "The Kathmandu Post",
+            "The National",
+            "VnExpress"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Testate sudamericane riferiscono della dimissione del ministro indiano a causa di proteste studentesche per irregolarità negli esami, con enfasi sulla mobilitazione del 'movimento delle cucarachette'.",
+          "testate": [
+            "ABC Color",
+            "Infobae",
+            "La República",
+            "La Tercera",
+            "UOL"
+          ]
+        },
+        {
+          "area": "Europa",
+          "sintesi": "Media europei descrivono la dimissione del ministro indiano dopo proteste giovanili denominate 'movimento delle cucarachette', con riferimento a un baco negli esami e alla sospensione delle manifestazioni.",
+          "testate": [
+            "Aftenposten",
+            "BBC News",
+            "Dagens Nyheter",
+            "De Standaard",
+            "Der Spiegel",
+            "Der Standard",
+            "Die Presse",
+            "El Mundo",
+            "El País",
+            "NRC",
+            "NRK Sápmi",
+            "Svenska Dagbladet",
+            "The Irish Times"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Testate nordamericane riferiscono della dimissione del ministro indiano a seguito di proteste giovanili per un presunto 'leak' negli esami nazionali, con menzione del 'cockroach movement'.",
+          "testate": [
+            "CBC News",
+            "NPR",
+            "The Globe and Mail",
+            "The New York Times"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "Media italiani segnalano la vittoria del 'movimento degli scarafaggi' in India, con la dimissione del ministro dell'istruzione e la sospensione delle proteste, come riferito da fonti locali.",
+          "testate": [
+            "ANSA",
+            "Corriere della Sera",
+            "Il Sole 24 Ore"
+          ]
+        },
+        {
+          "area": "Africa",
+          "sintesi": "Il quotidiano nigeriano The Punch riporta la dimissione del ministro indiano dell'istruzione a seguito di proteste giovanili, senza specificare le cause, ma con riferimento a un contesto di mobilitazione.",
+          "testate": [
+            "The Punch"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 16,
+        "n_testate": 37,
+        "continenti": [
+          "Africa",
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Sud America"
+        ],
+        "paesi": [
+          "Argentina",
+          "Austria",
+          "Bangladesh",
+          "Belgio",
+          "Brasile",
+          "Canada",
+          "Cile",
+          "Cina",
+          "Emirati Arabi Uniti",
+          "Germania",
+          "Giappone",
+          "Indonesia",
+          "Irlanda",
+          "Italia",
+          "Nepal",
+          "Nigeria",
+          "Norvegia",
+          "Paesi Bassi",
+          "Paraguay",
+          "Perù",
+          "Qatar",
+          "Regno Unito",
+          "Spagna",
+          "Sri Lanka",
+          "Stati Uniti",
+          "Svezia",
+          "Turchia",
+          "Vietnam"
+        ],
+        "trend": {
+          "agganciato": true,
+          "delta_articoli": 48,
+          "delta_testate": 34,
+          "rispetto_a": "2026-07-24"
+        }
+      },
+      "n_articoli": 52,
+      "fonti": [
+        {
+          "testata": "Corriere della Sera",
+          "url": "https://www.corriere.it/esteri/26_luglio_25/india-il-ministro-si-dimette-vincono-gli-scarafaggi-il-leader-ce-l-abbiamo-fatta-ma-abbiamo-altre-due-richieste-0bfaa255-1eb9-4e25-b2dd-680dbeee1xlk.shtml",
+          "titolo": "India, il ministro si dimette, vincono gli «scarafaggi». Il leader: «Ce l'abbiamo fatta», mobilitazione sospesa",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Il Sole 24 Ore",
+          "url": "https://www.ilsole24ore.com/art/india-hanno-vinto-scarafaggi-ministro-dell-istruzione-si-e-dimesso-AJ9eGfV",
+          "titolo": "India, hanno vinto gli scarafaggi: il ministro dell'Istruzione si è dimesso",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/07/25/ministro-istruzione-indiano-lascia-dopo-proteste-del-partito-delle-blatte_49f80d76-3528-44e7-8a03-f217e3d649a7.html",
+          "titolo": "Ministro istruzione indiano lascia dopo proteste del partito delle blatte - Ultima ora",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cdx828gj5xko",
+          "titolo": "Dharmendra Pradhan, CJP: India's 'cockroach' protest called off after education minister quits",
+          "titolo_it": "Dharmendra Pradhan e il Consiglio giudiziario supremo dell'India: la protesta definita «scarafaggio» è stata annullata dopo le dimissioni del ministro dell'Istruzione.",
+          "paese": "Regno Unito",
+          "continente": "Europa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Aftenposten",
+          "url": "https://www.aftenposten.no/verden/i/43rEjV/india-har-faatt-ny-utdanningsminister-etter-kakerlakkprotester",
+          "titolo": "India har fått ny utdanningsminister etter «kakerlakkprotester»",
+          "titolo_it": "L'India ha nominato un nuovo ministro dell'Istruzione dopo le proteste contro i \"colleoni\".",
+          "paese": "Norvegia",
+          "continente": "Europa",
+          "lingua_originale": "norvegese",
+          "live_blog": false
+        },
+        {
+          "testata": "El País",
+          "url": "https://elpais.com/internacional/2026-07-25/las-protestas-de-los-jovenes-del-movimiento-de-las-cucarachas-fuerzan-la-dimision-del-ministro-de-educacion-de-la-india.html",
+          "titolo": "Los jóvenes del movimiento de 'las cucarachas' anuncian el fin de sus protestas tras lograr la dimisión del ministro de Educación de la India | Internacional",
+          "titolo_it": "I giovani del movimento delle «cucarachas» annunciano il termine delle loro proteste dopo aver ottenuto le dimissioni del Ministro dell'Istruzione indiano.",
+          "paese": "Spagna",
+          "continente": "Europa",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Al Jazeera",
+          "url": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out",
+          "titolo": "'We have done it': Joy as 'Cockroach' protests push India minister out | Protests",
+          "titolo_it": "Ci siamo riusciti»: gioia mentre le proteste dei «tarachini» costringono il ministro indiano alle dimissioni",
+          "paese": "Qatar",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Nikkei",
+          "url": "https://asia.nikkei.com/politics/modi-s-education-minister-quits-as-jubilant-youth-protesters-claim-victory",
+          "titolo": "Modi's education minister quits as jubilant youth protesters claim victory",
+          "titolo_it": "Il ministro dell'Istruzione del governo Modi si dimette mentre i giovani manifestanti festeggiano il successo della loro protesta.",
+          "paese": "Giappone",
+          "continente": "Asia",
+          "lingua_originale": "giapponese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Daily Star",
+          "url": "https://www.thedailystar.net/news/asia/india/news/indias-cockroach-party-says-ending-protest-after-minister-resigns-4232071",
+          "titolo": "India's 'cockroach' party says ending protest after minister resigns",
+          "titolo_it": "Il partito «scarafaggio» indiano annuncia la fine della protesta dopo le dimissioni del ministro.",
+          "paese": "Bangladesh",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "UOL",
+          "url": "https://operamundi.uol.com.br/asia/india-cede-ao-movimento-das-baratas-e-aceita-renuncia-de-ministro-da-educacao",
+          "titolo": "Índia cede ao 'Movimento das Baratas' e aceita renúncia de ministro da Educação",
+          "titolo_it": "L'India si inchina al «movimento delle blatte» ed accetta le dimissioni del ministro dell'Istruzione",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "La República",
+          "url": "https://larepublica.pe/mundo/2026/07/25/protestas-estudiantiles-en-india-logro-la-dimision-del-ministro-de-educacion-tras-irregularidades-en-examen-nacional-847575",
+          "titolo": "Protestas estudiantiles en India logró la dimisión del ministro de Educación tras irregularidades en examen nacional | Mundo",
+          "titolo_it": "Le proteste degli studenti in India hanno ottenuto le dimissioni del Ministro dell'Istruzione a seguito di irregolarità nell'esame nazionale.",
+          "paese": "Perù",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/07/25/el-movimiento-de-las-cucarachas-anuncio-el-fin-de-las-protestas-en-india-tras-la-dimision-del-ministro-de-educacion",
+          "titolo": "El Movimiento de “las cucarachas” anunció el fin de las protestas en India tras la dimisión del ministro de Educación",
+          "titolo_it": "Il movimento delle «cucaracha» annuncia il termine delle proteste in India dopo le dimissioni del ministro dell'Istruzione.",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "NPR",
+          "url": "https://www.npr.org/2026/07/25/g-s1-135483/india-cockroach-movement",
+          "titolo": "India's 'cockroach' movement ousts education minister : NPR",
+          "titolo_it": "Il movimento «scarafaggio» in India cacciato il ministro dell'Istruzione: NPR",
+          "paese": "Stati Uniti",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "CBC News",
+          "url": "https://www.cbc.ca/news/world/india-education-minister-resigns-9.7283715",
+          "titolo": "Youth protesters celebrate after India's education minister resigns following exam leak scandal",
+          "titolo_it": "I giovani manifestanti festeggiano dopo le dimissioni del ministro dell'istruzione indiano a seguito dello scandalo delle fughe d'esame",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/world/article-indias-education-minister-resigns-following-cockroach-movement",
+          "titolo": "India’s education minister resigns following Cockroach movement protests",
+          "titolo_it": "Il ministro dell'istruzione indiano si dimette dopo le proteste del movimento delle formiche",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Punch",
+          "url": "https://punchng.com/indias-education-minister-bows-to-pressure-resigns-after-youth-led-protests",
+          "titolo": "India Education Minister Resigns Amid Youth Protests",
+          "titolo_it": "Il ministro dell'Istruzione indiano si dimette a seguito delle proteste giovanili",
+          "paese": "Nigeria",
+          "continente": "Africa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 36
+    },
+    {
+      "id": 4,
+      "titolo": "Attacchi Houthi contro impianti sauditi nel Mar Rosso: escalation del conflitto",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "I Houthi hanno lanciato attacchi su impianti petroliferi sauditi nel Mar Rosso, in risposta a colpi aerei in Yemen. La coalizione guidata dall'Arabia Saudita ha risposto con operazioni militari. Il conflitto si intensifica, con rischi di una guerra rinnovata nel Golfo e nel Mar Rosso.",
+      "confronto": [
+        {
+          "area": "Africa",
+          "sintesi": "Le testate africane riferiscono attacchi Houthi su siti sauditi e l'espansione del conflitto nel Medio Oriente, con rivendicazioni di responsabilità da parte dei Houthi.",
+          "testate": [
+            "Hiiraan Online",
+            "Seneweb",
+            "The Citizen"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Le testate asiatiche segnalano attacchi missilistici e droni Houthi su Arabia Saudita, con menzione di assenza di nuovi colpi USA e risposta a bombardamenti in Yemen.",
+          "testate": [
+            "Daily Mirror",
+            "Daily Sabah",
+            "Hindustan Times",
+            "Kompas",
+            "Tempo",
+            "The Hindu",
+            "The Jerusalem Post",
+            "The National",
+            "VnExpress",
+            "Xinhua"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Le testate sudamericane riferiscono attacchi Houthi su installazioni petrolifere saudite, in risposta a bombardamenti in una città yemenita, con riferimenti a risposte militari.",
+          "testate": [
+            "Estadão",
+            "Infobae",
+            "Telesur",
+            "UOL"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Le testate nordamericane descrivono attacchi missilistici e droni Houthi su Arabia Saudita come risposta a colpi aerei in Yemen, con menzione di coalizioni militari.",
+          "testate": [
+            "CBC News",
+            "El Universal",
+            "Le Devoir",
+            "The Globe and Mail",
+            "The Washington Post"
+          ]
+        },
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee segnalano escalation del conflitto, con minacce di rappresaglia da parte dei Houthi e operazioni militari saudite in Yemen.",
+          "testate": [
+            "BBC News",
+            "Der Spiegel",
+            "Der Standard",
+            "Die Presse",
+            "El Mundo",
+            "Gazeta Wyborcza",
+            "The Guardian"
+          ]
+        },
+        {
+          "area": "Oceania",
+          "sintesi": "La testata australiana riferisce che i Houthi hanno lanciato un attacco missilistico su Arabia Saudita dopo l'annuncio di un blocco nel Mar Rosso.",
+          "testate": [
+            "ABC News (Australia)"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 14,
+        "n_testate": 30,
+        "continenti": [
+          "Africa",
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Oceania",
+          "Sud America"
+        ],
+        "paesi": [
+          "Argentina",
+          "Australia",
+          "Austria",
+          "Brasile",
+          "Canada",
+          "Cina",
+          "Emirati Arabi Uniti",
+          "Germania",
+          "India",
+          "Indonesia",
+          "Israele",
+          "Messico",
+          "Polonia",
+          "Regno Unito",
+          "Senegal",
+          "Somalia",
+          "Spagna",
+          "Sri Lanka",
+          "Stati Uniti",
+          "Tanzania",
+          "Turchia",
+          "Venezuela",
+          "Vietnam"
+        ],
+        "trend": {
+          "agganciato": true,
+          "delta_articoli": 36,
+          "delta_testate": 25,
+          "rispetto_a": "2026-07-24"
+        }
+      },
+      "n_articoli": 41,
+      "fonti": [
+        {
+          "testata": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/us-news/houthis-fire-on-saudi-oil-sites-no-us-strike-on-iran-for-first-time-in-two-weeks-101785006891818.html",
+          "titolo": "Houthis fire on two Saudi oil sites in Red Sea; no fresh US strikes for first time in two weeks",
+          "titolo_it": "Gli Houthi attaccano due siti petroliferi sauditi nel Mar Rosso; per la prima volta da due settimane non ci sono nuovi bombardamenti statunitensi.",
+          "paese": "India",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Jerusalem Post",
+          "url": "http://www.jpost.com/middle-east/article-903606",
+          "titolo": "Saudi-led coalition strikes Houthis as Yemen tensions rise",
+          "titolo_it": "Coalizione guidata dall'Arabia Saudita colpisce gli Houthi mentre crescono le tensioni in Yemen",
+          "paese": "Israele",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/houthis-fire-missiles-drones-at-saudi-arabia-in-response-to-strikes-on-yemeni-city/article71267142.ece",
+          "titolo": "Houthis fire missiles, drones at Saudi Arabia in response to strikes on Yemeni city",
+          "titolo_it": "Gli Houthi lanciano missili e droni contro l'Arabia Saudita a seguito degli attacchi alla città yemenita",
+          "paese": "India",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "El Mundo",
+          "url": "https://www.elmundo.es/internacional/2026/07/25/6a64b258e9cf4a923a8b4598.html",
+          "titolo": "Los hutíes lanzan nuevos ataques contra Riad en plena escalada regional",
+          "titolo_it": "Gli Houthi lanciano nuovi attacchi contro Riyad in piena escalation regionale",
+          "paese": "Spagna",
+          "continente": "Europa",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Die Presse",
+          "url": "https://www.diepresse.com/39681808/saudi-koalition-greift-houthi-ziele-im-jemen-an",
+          "titolo": "Saudi-Koalition greift Houthi-Ziele im Jemen an",
+          "titolo_it": "La coalizione saudita lancia un attacco contro obiettivi dei Houthis in Yemen",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o",
+          "titolo": "Saudi Arabia and Houthis trade fire as US fires on tanker in Hormuz Strait",
+          "titolo_it": "Arabia Saudita e Houthi si scambiano i colpi mentre gli Stati Uniti colpiscono un petroliere nello Stretto di Ormuz",
+          "paese": "Regno Unito",
+          "continente": "Europa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Le Devoir",
+          "url": "https://www.ledevoir.com/monde/moyen-orient/997346/houthis-revendiquent-frappe-arabie-saoudite",
+          "titolo": "Les rebelles houthis du Yémen ont revendiqué une attaque de missile en Arabie saoudite voisine en riposte à des frappes de Ryad",
+          "titolo_it": "I ribelli houthi dello Yemen rivendicano un attacco missilistico in Arabia Saudita come rappresaglia per i bombardamenti di Riad.",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "francese",
+          "live_blog": false
+        },
+        {
+          "testata": "El Universal",
+          "url": "https://www.eluniversal.com.mx/mundo/huties-reivindican-ataque-a-instalaciones-de-la-mayor-petrolera-de-arabia-saudita-es-en-respuesta-a-bombardeos-en-ciudad-de-yemen",
+          "titolo": "Hutíes reivindican ataque a instalaciones de la mayor petrolera de Arabia Saudita; es en respuesta a bombardeos en ciudad de Yemen",
+          "titolo_it": "I hutí rivendicano l'attacco alle infrastrutture della più grande compagnia petrolifera saudita, in risposta ai bombardamenti nella città yemenita.",
+          "paese": "Messico",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "CBC News",
+          "url": "https://www.cbc.ca/news/world/houthis-missiles-saudi-arabia-hodeida-9.7283754",
+          "titolo": "Yemen's Houthis fire missiles, drones at Saudi Arabia",
+          "titolo_it": "I Houthi dello Yemen lanciano missili e droni contro l'Arabia Saudita",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Telesur",
+          "url": "https://www.telesurtv.net/huties-yemen-ataque-petrolero-saudi-mar-rojo",
+          "titolo": "Hutíes de Yemen lanzan nuevo ataque contra un petrolero saudí en el mar Rojo",
+          "titolo_it": "I hutí yemeniti lanciano nuovo attacco contro petroliera saudita nel Mar Rosso",
+          "paese": "Venezuela",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/07/25/los-rebeldes-huties-de-yemen-reivindicaron-ataques-contra-instalaciones-petroleras-sauditas-en-el-mar-rojo",
+          "titolo": "Los rebeldes hutíes de Yemen reivindicaron ataques contra instalaciones petroleras sauditas en el Mar Rojo",
+          "titolo_it": "I ribelli houthi dello Yemen rivendicano attacchi contro impianti petroliferi sauditi nel Mar Rosso",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "UOL",
+          "url": "https://operamundi.uol.com.br/oriente-medio/houthis-lancam-ofensiva-contra-refinaria-da-arabia-saudita",
+          "titolo": "Houthis lançam ofensiva contra refinaria da Arábia Saudita",
+          "titolo_it": "Gli Houthi lanciano un'offensiva contro il raffineria saudita",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Citizen",
+          "url": "https://www.thecitizen.co.tz/tanzania/news/international/houthis-fire-on-saudi-red-sea-oil-sites-as-conflict-widens-5537508",
+          "titolo": "Houthis fire on Saudi Red Sea oil sites as conflict widens",
+          "titolo_it": "Gli Houthi lanciano attacchi a siti petroliferi sauditi nel Mar Rosso mentre il conflitto si estende",
+          "paese": "Tanzania",
+          "continente": "Africa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Seneweb",
+          "url": "http://seneweb.com/fr/news/International/les-houthis-revendiquent-une-frappe-en-arabie-saoudite-nouveau-front-du-conflit-au-moyen-orient_n_499356.html",
+          "titolo": "Les Houthis revendiquent une frappe en Arabie saoudite, nouveau front du conflit au Moyen-Orient",
+          "titolo_it": "I Houthi rivendicano un attacco in Arabia Saudita, nuovo fronte del conflitto nel Medio Oriente",
+          "paese": "Senegal",
+          "continente": "Africa",
+          "lingua_originale": "francese",
+          "live_blog": false
+        },
+        {
+          "testata": "Hiiraan Online",
+          "url": "https://www.hiiraan.com/world4/2026/Jul/205795/saudi_arabia_strikes_houthiheld_hodeidah_yemeni_group_says.aspx",
+          "titolo": "Saudi Arabia strikes Houthi-held Hodeidah, Yemeni group says",
+          "titolo_it": null,
+          "paese": "Somalia",
+          "continente": "Africa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-07-25/houthis-claim-missile-strike-on-saudi-arabia/106958410",
+          "titolo": "Houthis claim missile strike on Saudi Arabia after announcing Red Sea blockade",
+          "titolo_it": "Gli Houthi rivendicano un attacco missilistico all'Arabia Saudita dopo aver annunciato il blocco del Mar Rosso",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 25
+    },
+    {
+      "id": 5,
+      "titolo": "Trump torna alla cena dei corrispondenti dopo l'attentato",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Donald Trump ha partecipato alla cena dei corrispondenti della Casa Bianca, riprogrammata dopo l'attentato di marzo. Ha scherzato sul terzo mandato e criticato i media, suscitando reazioni contrastanti. L'evento è stato segnato da tensioni e commenti polemici.",
+      "confronto": [
+        {
+          "area": "Nord America",
+          "sintesi": "Le testate nordamericane riferiscono di Trump che ha scherzato sul terzo mandato e insultato i giornalisti. L'evento è stato riprogrammato dopo l'attentato, con presenza di forze di sicurezza rafforzate.",
+          "testate": [
+            "CBC News",
+            "Diario Libre",
+            "El Universal",
+            "Le Devoir",
+            "NPR",
+            "Prensa Libre",
+            "The Globe and Mail"
+          ]
+        },
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee descrivono un discorso sarcastico di Trump, con battute su un quarto mandato e critiche alle fake news. Alcuni titoli sottolineano la tensione durante l'incontro.",
+          "testate": [
+            "BBC News",
+            "Dagens Nyheter",
+            "Der Standard",
+            "El Mundo",
+            "El País",
+            "Frankfurter Allgemeine Zeitung",
+            "LRT",
+            "Politiken",
+            "The Irish Times"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "I media sudamericani segnalano la ripresa dell'evento dopo l'attentato e le battute di Trump sulla sicurezza. Alcuni articoli menzionano la sua ostilità verso la stampa.",
+          "testate": [
+            "El Universo",
+            "Infobae",
+            "La Nación (Argentina)",
+            "La Tercera"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Le testate asiatiche riferiscono di Trump che ha criticato i media e scherzato sul terzo mandato. Alcuni titoli sottolineano le sue accuse contro il New York Times.",
+          "testate": [
+            "Arab News",
+            "Asahi Shimbun",
+            "Chosun Ilbo",
+            "Daily Sabah",
+            "Kompas",
+            "Tempo",
+            "The Hindu",
+            "The Jakarta Post"
+          ]
+        },
+        {
+          "area": "Oceania",
+          "sintesi": "I media australiani descrivono l'evento come riprogrammato dopo l'attentato, con Trump che ha mescolato battute e critiche alle istituzioni.",
+          "testate": [
+            "ABC News (Australia)",
+            "NITV",
+            "Sydney Morning Herald"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "Il Corriere della Sera riferisce di Trump che ha insultato i giornalisti e scherzato sul terzo mandato, con una gag sul cappellino rosso.",
+          "testate": [
+            "Corriere della Sera"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 14,
+        "n_testate": 32,
+        "continenti": [
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Oceania",
+          "Sud America"
+        ],
+        "paesi": [
+          "Arabia Saudita",
+          "Argentina",
+          "Australia",
+          "Austria",
+          "Canada",
+          "Cile",
+          "Corea del Sud",
+          "Danimarca",
+          "Ecuador",
+          "Germania",
+          "Giappone",
+          "Guatemala",
+          "India",
+          "Indonesia",
+          "Irlanda",
+          "Italia",
+          "Lituania",
+          "Messico",
+          "Regno Unito",
+          "Repubblica Dominicana",
+          "Spagna",
+          "Stati Uniti",
+          "Svezia",
+          "Turchia"
+        ],
+        "trend": {
+          "agganciato": false,
+          "rispetto_a": "2026-07-24"
+        }
+      },
+      "n_articoli": 38,
+      "fonti": [
+        {
+          "testata": "Corriere della Sera",
+          "url": "https://www.corriere.it/esteri/26_luglio_25/trump-pensa-alle-presidenziali-del-2028-e-mia-intenzione-candidarmi-per-un-terzo-mandato-faa252d4-edd9-411f-aed1-26fbbd1cfxlk.shtml",
+          "titolo": "Trump alla cena dei corrispondenti, tra battute e insulti. Poi la gag con il cappellino rosso: «È mia intenzione candidarmi per un terzo mandato»",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "El Mundo",
+          "url": "https://www.elmundo.es/internacional/2026/07/25/6a64b5fee4d4d8c8268b4577.html",
+          "titolo": "Trump provoca a la prensa en la repetición descafeinada de la cena de corresponsales de la Casa Blanca: \"Me postulo para un cuarto mandato\"",
+          "titolo_it": "Trump sfidà La Prensa nella ripetizione disinfantizzata del cenone dei corrispondenti della Casa Bianca: «Mi candidato a un quarto mandato».",
+          "paese": "Spagna",
+          "continente": "Europa",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "BBC News",
+          "url": "https://www.bbc.com/russian/articles/cx2dgrzxpr8o",
+          "titolo": "Шутки о третьем сроке и fake news. Как прошел ужин прессы с Трампом, перенесенный с апреля после стрельбы",
+          "titolo_it": "Battute sul terzo mandato e le fake news: come si è svolto il pranzo di stampa con Trump rinviato ad aprile dopo i colpi a fuoco",
+          "paese": "Regno Unito",
+          "continente": "Europa",
+          "lingua_originale": "russo",
+          "live_blog": false
+        },
+        {
+          "testata": "The Irish Times",
+          "url": "https://www.irishtimes.com/world/us/2026/07/25/donald-trump-rounds-on-us-journalists-at-awkward-white-house-press-dinner",
+          "titolo": "‘It’s far worse than I actually thought’: Trump rounds on US journalists at awkward White House press dinner",
+          "titolo_it": "È peggio di quanto pensassi»: Trump si scaglia contro i giornalisti statunitensi durante un banchetto stampa alla Casa Bianca in una situazione imbarazzante.",
+          "paese": "Irlanda",
+          "continente": "Europa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Daily Sabah",
+          "url": "https://www.dailysabah.com/world/americas/trump-returns-to-correspondents-dinner-with-barbed-speech",
+          "titolo": "Trump returns to correspondents' dinner with barbed speech",
+          "titolo_it": "Trump torna alla cena dei corrispondenti con un discorso pungente",
+          "paese": "Turchia",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Asahi Shimbun",
+          "url": "https://www.asahi.com/articles/ASV7T24NBV7TUHBI00HM.html",
+          "titolo": "トランプ氏、記者と夕食会 個人攻撃を繰り返し、3選目指す発言も [トランプ再来]：朝日新聞",
+          "titolo_it": "Trump a cena con i giornalisti: l'attacco personale e gli annunci per una terza candidatura, secondo il titolo \"Ritorno di Trump\" del Asahi Shimbun.",
+          "paese": "Giappone",
+          "continente": "Asia",
+          "lingua_originale": "giapponese",
+          "live_blog": false
+        },
+        {
+          "testata": "Kompas",
+          "url": "https://www.kompas.com/global/read/2026/07/25/150000570/trump-sindir-media-saat-hadiri-acara-makan-malam-gedung-putih",
+          "titolo": "Trump Sindir Media Saat Hadiri Acara Makan Malam Gedung Putih",
+          "titolo_it": "Trump si è recato alla cena al Palazzo Bianco per sostenere i media",
+          "paese": "Indonesia",
+          "continente": "Asia",
+          "lingua_originale": "indonesiano",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/world/article-trump-delivers-speech-at-rescheduled-correspondents-dinner-three",
+          "titolo": "Trump insults public figures, jokes about third presidential term at rescheduled correspondents dinner",
+          "titolo_it": "Trump insulta personaggi pubblici e scherza sulla sua terza presidenza al cenone dei corrispondenti rimandato",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Le Devoir",
+          "url": "https://www.ledevoir.com/monde/etats-unis/997331/trump-livre-discours-decousu-truffe-insultes-diner-correspondants",
+          "titolo": "Trump livre un discours décousu et truffé d’insultes au dîner des correspondants",
+          "titolo_it": "Trump tiene un discorso incoerente e pieno di insulti al pranzo dei corrispondenti",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "francese",
+          "live_blog": false
+        },
+        {
+          "testata": "NPR",
+          "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
+          "titolo": "Trump returns to correspondents' dinner 3 months after shooting",
+          "titolo_it": "Trump torna al cenone dei corrispondenti tre mesi dopo l'attentato",
+          "paese": "Stati Uniti",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Infobae",
+          "url": "https://www.infobae.com/estados-unidos/2026/07/25/que-dijo-donald-trump-en-la-cena-de-corresponsales-de-la-casa-blanca",
+          "titolo": "Donald Trump brindó la Cena de Corresponsales de la Casa Blanca tres meses después del ataque que obligó a suspenderla",
+          "titolo_it": "Donald Trump ha brindato alla cena dei corrispondenti della Casa Bianca tre mesi dopo l'attacco che ne aveva imposto la sospensione.",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "La Tercera",
+          "url": "https://www.latercera.com/mundo/noticia/trump-reivindica-libertad-de-expresion-en-cena-de-corresponsales-que-habia-sido-aplazada-tras-disparos",
+          "titolo": "Trump reivindica libertad de expresión en Cena de Corresponsales que había sido aplazada tras disparos",
+          "titolo_it": "Trump rivendica libertà di espressione alla cena dei corrispondenti rinviata dopo i colpi a fuoco",
+          "paese": "Cile",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "El Universo",
+          "url": "https://www.eluniverso.com/noticias/internacional/donald-trump-vuelve-a-la-cena-de-corresponsales-tras-el-atentado-y-bromea-sobre-la-seguridad-nota",
+          "titolo": "Donald Trump vuelve a la cena de corresponsales tras el atentado y bromea sobre la seguridad",
+          "titolo_it": "Donald Trump torna al cenone dei giornalisti dopo l'attentato e scherza sulla sicurezza",
+          "paese": "Ecuador",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "NITV",
+          "url": "https://www.sbs.com.au/news/podcast-episode/trump-addresses-white-house-correspondents-dinner-evening-news-bulletin-25-july-2026/7ltf7o4bv",
+          "titolo": "Trump addresses White House correspondents' dinner| Evening News Bulletin 25 July 2026",
+          "titolo_it": "Trump interviene al cenone dei corrispondenti della Casa Bianca | Bollettino Notizie Serali del 25 luglio 2026",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-07-25/trump-white-house-correspondents-dinner-speech/106957820",
+          "titolo": "Trump mixes jokes with barbs at White House Correspondents' Association dinner",
+          "titolo_it": "Trump mescola battute e stoccatine al gala della corrispondenza del Congresso alla Casa Bianca",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Sydney Morning Herald",
+          "url": "https://www.smh.com.au/world/north-america/who-the-hell-wrote-that-trump-bombs-at-correspondents-dinner-with-unfunny-tasteless-speech-20260725-p60igu.html",
+          "titolo": "White House Correspondents' Association Dinner : Trump bombs at correspondents dinner with boring, unfunny and tasteless speech",
+          "titolo_it": "White House Correspondents' Association Dinner: Trump esplode al gala dei giornalisti con un discorso noioso, poco divertente e di cattivo gusto.",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 22
+    }
+  ],
+  "cono_ombra": {
+    "temi": [
+      {
+        "id": 90,
+        "titolo": "Ondata di calore estrema colpisce gli Stati Uniti centrali",
+        "titolo_da": null,
+        "titolo_provvisorio": false,
+        "sintesi": "Un'ampia ondata di calore, descritta come 'heat dome', sta interessando gli Stati Uniti centrali, mettendo a rischio milioni di persone. Il fenomeno, segnalato da diversi media, è stato definito il terzo episodio simile in un mese, con impatti significativi su larga scala.",
+        "confronto": [
+          {
+            "area": "Asia",
+            "sintesi": "Le testate asiatiche segnalano l'espansione del 'heat dome' negli Stati Uniti centrali, evidenziando le condizioni pericolose per milioni di persone. Non vengono forniti ulteriori dettagli specifici sull'impatto o le previsioni.",
+            "testate": [
+              "Arab News",
+              "Hindustan Times"
+            ]
+          },
+          {
+            "area": "Europa",
+            "sintesi": "Il 'Guardian' descrive l'ondata di calore come una delle più estese, coinvolgendo 70 milioni di persone e segnalandone la terza apparizione in un mese. L'articolo sottolinea l'entità e la frequenza del fenomeno.",
+            "testate": [
+              "The Guardian"
+            ]
+          }
+        ],
+        "convergenza": {
+          "percento": 2,
+          "n_testate": 3,
+          "continenti": [
+            "Asia",
+            "Europa"
+          ],
+          "trend": {
+            "agganciato": false,
+            "rispetto_a": "2026-07-24"
+          },
+          "copertura_per_continente": {
+            "Europa": {
+              "coperte": 1,
+              "totali": 50,
+              "quota": 0.02
+            },
+            "Asia": {
+              "coperte": 2,
+              "totali": 56,
+              "quota": 0.0357
+            },
+            "Africa": {
+              "coperte": 0,
+              "totali": 57,
+              "quota": 0.0
+            },
+            "Nord America": {
+              "coperte": 0,
+              "totali": 28,
+              "quota": 0.0
+            },
+            "Sud America": {
+              "coperte": 0,
+              "totali": 32,
+              "quota": 0.0
+            },
+            "Oceania": {
+              "coperte": 0,
+              "totali": 16,
+              "quota": 0.0
+            }
+          }
+        },
+        "n_articoli": 3,
+        "fonti": [
+          {
+            "testata": "Arab News",
+            "url": "https://www.arabnews.com/node/2652315/world",
+            "titolo": "Heat dome expands across the central United States, creating dangerous conditions for millions",
+            "titolo_it": "La cupola di calore si espande nel centro degli Stati Uniti, creando condizioni pericolose per milioni di persone.",
+            "paese": "Arabia Saudita",
+            "continente": "Asia",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "The Guardian",
+            "url": "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
+            "titolo": "Scorching US heat wave to hit 70 million people with third 'heat dome' in month | US weather",
+            "titolo_it": "Ondata di calore estremo negli Stati Uniti colpirà 70 milioni di persone con la terza \"cupola termica\" nel mese, secondo il meteo americano.",
+            "paese": "Regno Unito",
+            "continente": "Europa",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          }
+        ],
+        "fonti_omesse": 1,
+        "rilevanza": {
+          "popolazione_milioni": 341,
+          "quota_mondiale": 0.0431,
+          "ambito": "nazionale",
+          "portata": "generale",
+          "paesi": [
+            "Stati Uniti"
+          ]
+        },
+        "motivi": [
+          "silenzio geografico",
+          "dissolvenza temporale"
+        ],
+        "dissolvenza": {
+          "dissolvenza": true,
+          "picco_testate": 6,
+          "picco_giorno": "2026-07-24",
+          "testate_oggi": 3,
+          "andamento": [
+            {
+              "giorno": "2026-07-24",
+              "n_testate": 6,
+              "n_articoli": 8
+            }
+          ]
+        }
+      },
+      {
+        "id": 72,
+        "titolo": "Trump avverte Putin e Xi Jinping su armi per l'Iran: nessun sostegno alla guerra",
+        "titolo_da": null,
+        "titolo_provvisorio": false,
+        "sintesi": "Trump ha avvertito Putin e Xi Jinping contro l'armazione dell'Iran, escludendo il sostegno alla guerra. Le testate asiatiche riferiscono che il presidente Usa ha espresso fiducia nei due leader, nonostante sospetti Usa sull'intervento russo. I titoli evidenziano la tensione geopolitica e le relazioni tra Usa, Russia, Cina e Iran.",
+        "confronto": [
+          {
+            "area": "Asia",
+            "sintesi": "Le testate asiatiche riferiscono che Trump ha avvertito Putin e Xi Jinping di non armare l'Iran e di non sostenere la guerra. Il giornale indonesiano segnala sospetti Usa sull'intervento russo, mentre le testate indiane enfatizzano la fiducia di Trump nei due leader.",
+            "testate": [
+              "Dainik Bhaskar",
+              "Hindustan Times",
+              "Kompas"
+            ]
+          }
+        ],
+        "convergenza": {
+          "percento": 2,
+          "n_testate": 3,
+          "continenti": [
+            "Asia"
+          ],
+          "trend": {
+            "agganciato": false,
+            "rispetto_a": "2026-07-24"
+          },
+          "copertura_per_continente": {
+            "Europa": {
+              "coperte": 0,
+              "totali": 50,
+              "quota": 0.0
+            },
+            "Asia": {
+              "coperte": 3,
+              "totali": 56,
+              "quota": 0.0536
+            },
+            "Africa": {
+              "coperte": 0,
+              "totali": 57,
+              "quota": 0.0
+            },
+            "Nord America": {
+              "coperte": 0,
+              "totali": 28,
+              "quota": 0.0
+            },
+            "Sud America": {
+              "coperte": 0,
+              "totali": 32,
+              "quota": 0.0
+            },
+            "Oceania": {
+              "coperte": 0,
+              "totali": 16,
+              "quota": 0.0
+            }
+          }
+        },
+        "n_articoli": 4,
+        "fonti": [
+          {
+            "testata": "Dainik Bhaskar",
+            "url": "https://divyamarathi.bhaskar.com/international/news/trump-xi-jinping-putin-iran-weapons-war-warning-138533957.html",
+            "titolo": "Trump Warns Putin & Xi Jinping Over Iran Weapons; No War Support",
+            "titolo_it": "Trump avverte Putin e Xi Jinping sulle armi iraniane; nessun sostegno alla guerra",
+            "paese": "India",
+            "continente": "Asia",
+            "lingua_originale": "marathi",
+            "live_blog": false
+          },
+          {
+            "testata": "Hindustan Times",
+            "url": "https://www.hindustantimes.com/world-news/xi-jinping-putin-assured-they-wont-arm-iran-trump-places-trust-on-two-major-countries-china-russia-west-asia-war-101784947285028.html",
+            "titolo": "'Xi, Putin assured they won't arm Iran': Trump places trust on two 'major countries'",
+            "titolo_it": "Trump si fida dei due «grandi paesi» che assicurano non fornire armi all'Iran: Xi e Putin",
+            "paese": "India",
+            "continente": "Asia",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "Kompas",
+            "url": "https://www.kompas.com/global/read/2026/07/25/112100070/intelijen-as-curiga-rusia-bantu-iran-trump-pilih-percayai-putin-dan-xi",
+            "titolo": "Intelijen AS Curiga Rusia Bantu Iran, Trump Pilih Percayai Putin dan XI Jinping",
+            "titolo_it": "Intelligence Usa rivela che Russia e Cina aiutano l'Iran; Trump sceglie di fidarsi di Putin e Xi Jinping",
+            "paese": "Indonesia",
+            "continente": "Asia",
+            "lingua_originale": "indonesiano",
+            "live_blog": false
+          }
+        ],
+        "fonti_omesse": 1,
+        "rilevanza": {
+          "popolazione_milioni": 331,
+          "quota_mondiale": 0.0419,
+          "ambito": "nazionale",
+          "portata": "generale",
+          "paesi": [
+            "Iran",
+            "Russia",
+            "Stati Uniti"
+          ]
+        },
+        "motivi": [
+          "silenzio geografico",
+          "dissolvenza temporale"
+        ],
+        "dissolvenza": {
+          "dissolvenza": true,
+          "picco_testate": 8,
+          "picco_giorno": "2026-07-23",
+          "testate_oggi": 3,
+          "andamento": [
+            {
+              "giorno": "2026-07-23",
+              "n_testate": 8,
+              "n_articoli": 12
+            }
+          ]
+        }
+      },
+      {
+        "id": 12,
+        "titolo": "Venezuela annuncia il ritiro dalla Corte Penale Internazionale",
+        "titolo_da": null,
+        "titolo_provvisorio": false,
+        "sintesi": "La Venezuela ha annunciato il ritiro dalla Corte Penale Internazionale (ICC), accusandola di bias. L'annuncio è stato comunicato all'ONU, con diversi media internazionali che riportano la decisione e le accuse di politicizzazione.",
+        "confronto": [
+          {
+            "area": "Sud America",
+            "sintesi": "Clarín segnala il ritiro della Venezuela dall'ICC e la reazione degli Stati Uniti, che hanno espresso apprezzamento per il governo di Delcy Rodríguez.",
+            "testate": [
+              "Clarín"
+            ]
+          },
+          {
+            "area": "Asia",
+            "sintesi": "I media asiatici riferiscono che la Venezuela ha notificato l'ONU il ritiro dall'ICC, accusando l'organizzazione di bias e politicizzazione.",
+            "testate": [
+              "Kompas",
+              "Tempo",
+              "The Hindu",
+              "VnExpress",
+              "Xinhua"
+            ]
+          },
+          {
+            "area": "Nord America",
+            "sintesi": "La Jornada e Confidencial riportano il ritiro della Venezuela dall'ICC e la comunicazione all'ONU, senza menzionare specifiche accuse di bias.",
+            "testate": [
+              "Confidencial",
+              "La Jornada"
+            ]
+          },
+          {
+            "area": "Europa",
+            "sintesi": "Der Standard e Oslobođenje descrivono il ritiro della Venezuela dall'ICC, accusando il tribunale di essere politizzato e non imparziale.",
+            "testate": [
+              "Der Standard",
+              "Oslobođenje"
+            ]
+          },
+          {
+            "area": "Oceania",
+            "sintesi": "RNZ segnala il ritiro della Venezuela dall'ICC, con l'accusa di bias rivolta all'organizzazione internazionale.",
+            "testate": [
+              "RNZ"
+            ]
+          }
+        ],
+        "convergenza": {
+          "percento": 5,
+          "n_testate": 11,
+          "continenti": [
+            "Asia",
+            "Europa",
+            "Nord America",
+            "Oceania",
+            "Sud America"
+          ],
+          "trend": {
+            "agganciato": false,
+            "rispetto_a": "2026-07-24"
+          },
+          "copertura_per_continente": {
+            "Europa": {
+              "coperte": 2,
+              "totali": 50,
+              "quota": 0.04
+            },
+            "Asia": {
+              "coperte": 5,
+              "totali": 56,
+              "quota": 0.0893
+            },
+            "Africa": {
+              "coperte": 0,
+              "totali": 57,
+              "quota": 0.0
+            },
+            "Nord America": {
+              "coperte": 2,
+              "totali": 28,
+              "quota": 0.0714
+            },
+            "Sud America": {
+              "coperte": 1,
+              "totali": 32,
+              "quota": 0.0312
+            },
+            "Oceania": {
+              "coperte": 1,
+              "totali": 16,
+              "quota": 0.0625
+            }
+          }
+        },
+        "n_articoli": 11,
+        "fonti": [
+          {
+            "testata": "The Hindu",
+            "url": "https://www.thehindu.com/news/international/venezuela-notifies-un-of-withdrawal-from-icc-alleging-bias/article71267057.ece",
+            "titolo": "Venezuela notifies UN of withdrawal from ICC, alleging 'bias'",
+            "titolo_it": "Il Venezuela notifica all'ONU il suo ritiro dalla Corte penale internazionale adducendo «pregiudizio».",
+            "paese": "India",
+            "continente": "Asia",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "Kompas",
+            "url": "https://www.kompas.com/global/read/2026/07/25/160000670/venezuela-keluar-dari-icc-tuding-mahkamah-internasional-bersikap-bias",
+            "titolo": "Venezuela Keluar dari ICC, Tuding Mahkamah Internasional Bersikap Bias",
+            "titolo_it": "Venezuela esce dall'ICC e accusa la Corte Internazionale di Giustizia di parzialità",
+            "paese": "Indonesia",
+            "continente": "Asia",
+            "lingua_originale": "indonesiano",
+            "live_blog": false
+          },
+          {
+            "testata": "Tempo",
+            "url": "https://en.tempo.co/read/2115402/venezuela-to-quit-international-criminal-court",
+            "titolo": "Venezuela to Quit International Criminal Court",
+            "titolo_it": "Il Venezuela annuncia l'uscita dalla Corte penale internazionale",
+            "paese": "Indonesia",
+            "continente": "Asia",
+            "lingua_originale": "indonesiano",
+            "live_blog": false
+          },
+          {
+            "testata": "La Jornada",
+            "url": "https://www.jornada.com.mx/2026/07/25/mundo/020n1mun",
+            "titolo": "La Jornada: Venezuela anuncia ante la ONU su retiro de la Corte Penal Internacional",
+            "titolo_it": "La Jornada: il Venezuela annuncia all'ONU l'intenzione di ritirarsi dalla Corte penale internazionale",
+            "paese": "Messico",
+            "continente": "Nord America",
+            "lingua_originale": "spagnolo",
+            "live_blog": false
+          },
+          {
+            "testata": "Confidencial",
+            "url": "https://confidencial.digital/mundo/venezuela-inicia-retiro-definitivo-de-la-corte-penal-internacional",
+            "titolo": "Venezuela inicia retiro definitivo de la Corte Penal Internacional",
+            "titolo_it": "Il Venezuela avvia il ritiro definitivo dalla Corte penale internazionale",
+            "paese": "Nicaragua",
+            "continente": "Nord America",
+            "lingua_originale": "spagnolo",
+            "live_blog": false
+          },
+          {
+            "testata": "Oslobođenje",
+            "url": "https://www.oslobodjenje.ba/vijesti/svijet/venecuela-se-povlaci-iz-icc-a-medunarodni-krivicni-sud-je-politiziran",
+            "titolo": "Venecuela se povlači iz ICC-a: \"Međunarodni krivični sud je politiziran\"",
+            "titolo_it": "Il Venezuela si ritira dalla CPI: «La Corte penale internazionale è politicizzata",
+            "paese": "Bosnia ed Erzegovina",
+            "continente": "Europa",
+            "lingua_originale": "bosniaco",
+            "live_blog": false
+          },
+          {
+            "testata": "Der Standard",
+            "url": "https://www.derstandard.at/consent/tcf/story/3000000332912/venezuela-k252ndigt-austritt-aus-internationalem-strafgerichtshof-an",
+            "titolo": "Venezuela kündigt Austritt aus Internationalem Strafgerichtshof an",
+            "titolo_it": "Venezuela annuncia l'uscita dal Tribunale penale internazionale",
+            "paese": "Austria",
+            "continente": "Europa",
+            "lingua_originale": "tedesco",
+            "live_blog": false
+          },
+          {
+            "testata": "Clarín",
+            "url": "https://www.clarin.com/mundo/venezuela-anuncio-salida-corte-penal-internacional-estados-unidos-felicito-gobierno-delcy-rodriguez_0_gC2DD2B4nl.html",
+            "titolo": "Venezuela anunció su salida de la Corte Penal Internacional y Estados Unidos felicitó al gobierno de Delcy Rodríguez",
+            "titolo_it": "Il Venezuela annuncia il suo ritiro dalla Corte Penale Internazionale e gli Stati Uniti congratulano con il governo di Delcy Rodríguez",
+            "paese": "Argentina",
+            "continente": "Sud America",
+            "lingua_originale": "spagnolo",
+            "live_blog": false
+          },
+          {
+            "testata": "RNZ",
+            "url": "https://www.rnz.co.nz/news/world/792780/venezuela-notifies-un-of-withdrawal-from-international-criminal-court-alleging-bias",
+            "titolo": "Venezuela notifies UN of withdrawal from International Criminal Court, alleging 'bias'",
+            "titolo_it": "Il Venezuela notifica all'ONU il proprio ritiro dalla Corte penale internazionale adducendo «pregiudizio».",
+            "paese": "Nuova Zelanda",
+            "continente": "Oceania",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          }
+        ],
+        "fonti_omesse": 2,
+        "rilevanza": {
+          "popolazione_milioni": 261,
+          "quota_mondiale": 0.033,
+          "ambito": "nazionale",
+          "portata": "generale",
+          "paesi": [
+            "Stati Uniti",
+            "Venezuela"
+          ]
+        },
+        "motivi": [
+          "silenzio geografico"
+        ],
+        "dissolvenza": {
+          "dissolvenza": false,
+          "andamento": []
+        }
+      },
+      {
+        "id": 73,
+        "titolo": "Rassegna stampa: dimissioni del presidente del Bangladesh e successione",
+        "titolo_da": null,
+        "titolo_provvisorio": false,
+        "sintesi": "Il presidente del Bangladesh, Mohammed Shahabuddin, ha rassegnato le dimissioni, aprendo il dibattito sulla sua successione. Le testate indiane e bangladeshi analizzano i possibili candidati, mentre la stampa cinese segnala il passaggio di carica al presidente del Parlamento. Il tema è al centro di attenzione politica regionale.",
+        "confronto": [
+          {
+            "area": "Asia",
+            "sintesi": "Le testate asiatiche riferiscono sulle dimissioni del presidente bangladeshi e sulle speculazioni sulla sua successione. L'India e il Bangladesh discutono i candidati potenziali, mentre la Cina segnala il trasferimento delle funzioni presidenziali al capo del Parlamento.",
+            "testate": [
+              "The Daily Star",
+              "The Indian Express",
+              "Xinhua"
+            ]
+          }
+        ],
+        "convergenza": {
+          "percento": 2,
+          "n_testate": 3,
+          "continenti": [
+            "Asia"
+          ],
+          "trend": {
+            "agganciato": false,
+            "rispetto_a": "2026-07-24"
+          },
+          "copertura_per_continente": {
+            "Europa": {
+              "coperte": 0,
+              "totali": 50,
+              "quota": 0.0
+            },
+            "Asia": {
+              "coperte": 3,
+              "totali": 56,
+              "quota": 0.0536
+            },
+            "Africa": {
+              "coperte": 0,
+              "totali": 57,
+              "quota": 0.0
+            },
+            "Nord America": {
+              "coperte": 0,
+              "totali": 28,
+              "quota": 0.0
+            },
+            "Sud America": {
+              "coperte": 0,
+              "totali": 32,
+              "quota": 0.0
+            },
+            "Oceania": {
+              "coperte": 0,
+              "totali": 16,
+              "quota": 0.0
+            }
+          }
+        },
+        "n_articoli": 4,
+        "fonti": [
+          {
+            "testata": "The Indian Express",
+            "url": "https://indianexpress.com/article/world/bangladesh-speaker-hafiz-uddin-ahmed-acting-president-mohammed-sahabuddin-resigns-10802737",
+            "titolo": "Bangladesh President Mohammed Sahabuddin steps down; who could be his successor?",
+            "titolo_it": "Il presidente del Bangladesh Muhammad Shahab Uddin si dimette: chi potrebbe essere il suo successore?",
+            "paese": "India",
+            "continente": "Asia",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "The Daily Star",
+            "url": "https://www.thedailystar.net/news/bangladesh/news/who-will-be-the-next-president-4231706",
+            "titolo": "Who is Bangladesh's Next President? BNP Weighs Candidates | Who will be the next president?",
+            "titolo_it": "Chi sarà il prossimo presidente del Bangladesh? Il BNP valuta i candidati | Chi guiderà la nazione dopo le elezioni?",
+            "paese": "Bangladesh",
+            "continente": "Asia",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "Xinhua",
+            "url": "http://spanish.xinhuanet.com/20260725/9f4bc1e5d1044300b8ac73272fadb41b/c.html",
+            "titolo": "Presidente del Parlamento de Bangladesh asume deberes presidenciales tras dimisión de Shahabuddin",
+            "titolo_it": "Il presidente della Assemblea nazionale del Bangladesh assume le funzioni di capo dello Stato dopo la rinuncia di Shahabuddin",
+            "paese": "Cina",
+            "continente": "Asia",
+            "lingua_originale": "spagnolo",
+            "live_blog": false
+          }
+        ],
+        "fonti_omesse": 1,
+        "rilevanza": {
+          "popolazione_milioni": 173,
+          "quota_mondiale": 0.0219,
+          "ambito": "nazionale",
+          "portata": "generale",
+          "paesi": [
+            "Bangladesh"
+          ]
+        },
+        "motivi": [
+          "silenzio geografico"
+        ],
+        "dissolvenza": {
+          "dissolvenza": false,
+          "andamento": []
+        }
+      }
+    ]
+  },
+  "pagine_continentali": [
+    {
+      "continente": "Oceania",
+      "temi": [
+        {
+          "id": 224,
+          "titolo": "Top News: Australia extends fuel excise amid Middle East tensions as fuel supplies remain secure",
+          "titolo_da": "NITV",
+          "titolo_provvisorio": true,
+          "sintesi": null,
+          "confronto": [],
+          "convergenza": {
+            "percento": 1,
+            "n_testate": 3,
+            "continenti": [
+              "Oceania"
+            ],
+            "paesi": [
+              "Australia"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-07-24"
+            }
+          },
+          "n_articoli": 4,
+          "fonti": [
+            {
+              "testata": "NITV",
+              "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/top-news-australia-extends-fuel-excise-amid-middle-east-tensions-as-fuel-supplies-remain-secure/5nui01k01",
+              "titolo": "Top News: Australia extends fuel excise amid Middle East tensions as fuel supplies remain secure",
+              "titolo_it": "Top News: l'Australia proroga il prelievo sui carburanti a seguito delle tensioni nel Medio Oriente mentre le forniture restano sicure",
+              "paese": "Australia",
+              "continente": "Oceania",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Sydney Morning Herald",
+              "url": "https://www.smh.com.au/politics/federal/soaring-ev-sales-to-shield-australia-from-fuel-shortages-20260724-p60i5h.html",
+              "titolo": "Soaring EV sales to shield Australia from fuel shortages",
+              "titolo_it": "Le vendite record dei veicoli elettrici proteggono l'Australia dalla carenza di carburante",
+              "paese": "Australia",
+              "continente": "Oceania",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "ABC News (Australia)",
+              "url": "https://www.abc.net.au/news/2026-07-25/bowen-fuel-supply-solid-and-secure-as-prices-climb-again/106957876",
+              "titolo": "Federal government says Australia's fuel supply is 'solid and secure' as prices climb again",
+              "titolo_it": "Il governo federale afferma che l'approvvigionamento di carburante in Australia è \"solido e sicuro\" mentre i prezzi risalgono nuovamente.",
+              "paese": "Australia",
+              "continente": "Oceania",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 1,
+          "convergenza_interna": {
+            "continente": "Oceania",
+            "coperte": 3,
+            "totali": 16
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Sud America",
+      "temi": [
+        {
+          "id": 7,
+          "titolo": "Flavio Bolsonaro candidato alla presidenza, la destra lancia la sfida a Lula - America Latina",
+          "titolo_da": "ANSA",
+          "titolo_provvisorio": true,
+          "sintesi": null,
+          "confronto": [],
+          "convergenza": {
+            "percento": 8,
+            "n_testate": 20,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Austria",
+              "Bolivia",
+              "Brasile",
+              "Canada",
+              "Cile",
+              "Colombia",
+              "Costa Rica",
+              "Cuba",
+              "Germania",
+              "Italia",
+              "Messico",
+              "Panama",
+              "Perù",
+              "Repubblica Dominicana",
+              "Spagna",
+              "Turchia",
+              "Uruguay",
+              "Venezuela"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-07-24"
+            }
+          },
+          "n_articoli": 22,
+          "fonti": [
+            {
+              "testata": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/07/25/flavio-bolsonaro-candidato-alla-presidenza-la-destra-lancia-la-sfida-a-lula_dc55ac63-ff8f-4a3c-b421-f1b395cd8830.html",
+              "titolo": "Flavio Bolsonaro candidato alla presidenza, la destra lancia la sfida a Lula - America Latina",
+              "titolo_it": null,
+              "paese": "Italia",
+              "continente": "Europa",
+              "lingua_originale": "italiano",
+              "live_blog": false
+            },
+            {
+              "testata": "El Tiempo",
+              "url": "https://www.eltiempo.com/mundo/latinoamerica/flavio-bolsonaro-reivindica-el-legado-de-su-padre-al-lanzar-su-candidatura-a-la-presidencia-de-brasil-3573851",
+              "titolo": "Flávio Bolsonaro reivindica el legado de su padre al lanzar su candidatura a la presidencia de Brasil",
+              "titolo_it": "Flávio Bolsonaro rivendica il lascito del padre presentandosi alla corsa per la presidenza del Brasile",
+              "paese": "Colombia",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "UOL",
+              "url": "https://jc.uol.com.br/politica/2026/07/25/pl-escolhe-flavio-bolsonaro-como-pre-candidato-a-presidencia-do-partido.html",
+              "titolo": "PL escolhe Flávio Bolsonaro como pré-candidato à presidência do partido",
+              "titolo_it": "PL sceglie Flavio Bolsonaro come precandidato alla presidenza del partito",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "La República",
+              "url": "https://larepublica.pe/mundo/2026/07/25/partido-liberal-presenta-a-flavio-bolsonaro-como-candidato-oficial-a-la-presidencia-de-brasil-pese-a-las-encuestas-345225",
+              "titolo": "Partido Liberal presenta a Flavio Bolsonaro como candidato oficial a la presidencia de Brasil pese a las encuestas",
+              "titolo_it": "Il Partito liberale presenta Flávio Bolsonaro come ufficiale candidato alla presidenza del Brasile nonostante le sondaggi",
+              "paese": "Perù",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "La Prensa (Panama)",
+              "url": "https://www.prensa.com/mundo/flavio-bolsonaro-invoca-a-su-padre-y-se-apoya-en-milei-en-el-lanzamiento-de-su-candidatura",
+              "titolo": "Flávio Bolsonaro invoca a su padre y se apoya en Milei en el lanzamiento de su candidatura",
+              "titolo_it": "Flávio Bolsonaro fa appello al padre e si affida a Milei nel lancio della sua candidatura",
+              "paese": "Panama",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universal",
+              "url": "https://www.eluniversal.com.mx/mundo/flavio-bolsonaro-promete-rescatar-a-brasil-y-continuar-el-legado-de-su-padre-lanza-candidatura-presidencial",
+              "titolo": "Flávio Bolsonaro promete \"rescatar\" a Brasil y continuar el legado de su padre; lanza candidatura presidencial",
+              "titolo_it": "Flávio Bolsonaro promette di «salvare» il Brasile e continuare l'eredità del padre, annuncia la sua candidatura presidenziale.",
+              "paese": "Messico",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Le Devoir",
+              "url": "https://www.ledevoir.com/monde/ameriques/997355/flavio-bolsonaro-presente-presidentielle-bresilienne",
+              "titolo": "Flávio Bolsonaro se lance dans la course présidentielle au Brésil",
+              "titolo_it": "Flávio Bolsonaro si candida alla presidenza del Brasile",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "El País",
+              "url": "https://elpais.com/america/2026-07-25/flavio-bolsonaro-se-lanza-a-la-carrera-presidencial-de-brasil-con-pocas-alianzas-y-en-el-punto-de-mira-de-la-justicia.html",
+              "titolo": "Flávio Bolsonaro se lanza a la carrera presidencial de Brasil con pocas alianzas y en el punto de mira de la justicia",
+              "titolo_it": "Flávio Bolsonaro si lancia nella corsa presidenziale brasiliana con poche alleanze e sotto i riflettori della giustizia.",
+              "paese": "Spagna",
+              "continente": "Europa",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Die Presse",
+              "url": "https://www.diepresse.com/39719490/bolsonaros-sohn-tritt-bei-brasilianischer-praesidentenwahl-an",
+              "titolo": "Bolsonaros Sohn tritt bei brasilianischer Präsidentenwahl an",
+              "titolo_it": "Il figlio del presidente Bolsonaro si candida alle presidenziali in Brasile",
+              "paese": "Austria",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "Daily Sabah",
+              "url": "https://www.dailysabah.com/world/americas/flavio-bolsonaro-secures-brazils-presidential-bid-amid-pressure",
+              "titolo": "Flavio Bolsonaro secures Brazil's presidential bid amid pressure",
+              "titolo_it": "Flavio Bolsonaro avvia ufficialmente la sua corsa alla presidenza del Brasile sotto pressione",
+              "paese": "Turchia",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 12,
+          "convergenza_interna": {
+            "continente": "Sud America",
+            "coperte": 9,
+            "totali": 32
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Nord America",
+      "temi": [
+        {
+          "id": 15,
+          "titolo": "Canadian intern at NATO HQ in Belgium arrested on suspicion of spying for ‘third country’",
+          "titolo_da": "The Globe and Mail",
+          "titolo_provvisorio": true,
+          "sintesi": null,
+          "confronto": [],
+          "convergenza": {
+            "percento": 5,
+            "n_testate": 11,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Arabia Saudita",
+              "Brasile",
+              "Canada",
+              "Danimarca",
+              "India",
+              "Messico",
+              "Spagna"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-07-24"
+            }
+          },
+          "n_articoli": 12,
+          "fonti": [
+            {
+              "testata": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/politics/article-canadian-intern-nato-spying-for-third-country",
+              "titolo": "Canadian intern at NATO HQ in Belgium arrested on suspicion of spying for ‘third country’",
+              "titolo_it": "Un tirocinante canadese presso il quartier generale della Nato nei Paesi Bassi è stato arrestato per sospetta spionaggio a favore di un «terzo paese».",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Le Devoir",
+              "url": "https://www.ledevoir.com/actualites/997358/stagiaire-canadienne-otan-soupconnee-espionnage-arretee-belgique",
+              "titolo": "Une stagiaire canadienne de l’OTAN, soupçonnée d’espionnage, arrêtée en Belgique",
+              "titolo_it": "Una praticante canadese dell'Nato sospettata di spionaggio arrestata in Belgio",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universal",
+              "url": "https://www.eluniversal.com.mx/mundo/belgica-arresta-a-becaria-por-presunto-espionaje-en-cuartel-de-la-otan-es-miembro-de-una-organizacion-criminal-acusan-autoridades",
+              "titolo": "Bélgica arresta a becaria por presunto espionaje en cuartel de la OTAN; es miembro de una organización criminal, acusan autoridades",
+              "titolo_it": "La Belgio arresta un'impiegata per presunta spionaggio presso il quartier generale della NATO; le autorità accusano l'imputata di far parte di un'organizzazione criminale.",
+              "paese": "Messico",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El País",
+              "url": "https://elpais.com/internacional/2026-07-25/detenida-en-el-cuartel-general-militar-de-la-otan-una-becaria-acusada-de-espionaje.html",
+              "titolo": "Detenida en el cuartel general militar de la OTAN una becaria acusada de espionaje",
+              "titolo_it": "Detenuta al quartier generale militare della NATO una dottoranda accusata di spionaggio",
+              "paese": "Spagna",
+              "continente": "Europa",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Politiken",
+              "url": "https://politiken.dk/internationalt/art10927395/Praktikant-p%C3%A5-Nato-kontor-anholdt-efter-mistanke-om-spionage",
+              "titolo": "Praktikant på Nato-kontor anholdt efter mistanke om spionage",
+              "titolo_it": "Praticante presso l'ufficio NATO arrestato per sospetta attività di spionaggio",
+              "paese": "Danimarca",
+              "continente": "Europa",
+              "lingua_originale": "danese",
+              "live_blog": false
+            },
+            {
+              "testata": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/07/25/6a64677521efa04c278b457f.html",
+              "titolo": "Detienen a una becaria de la OTAN bajo sospecha de espionaje",
+              "titolo_it": "Arrestata per sospetto di spionaggio un'esperta della NATO in Spagna",
+              "paese": "Spagna",
+              "continente": "Europa",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Arab News",
+              "url": "https://www.arabnews.com/node/2652311/world",
+              "titolo": "Intern arrested in Belgium on suspicion of spying inside NATO military headquarters",
+              "titolo_it": "Un agente della NSA arrestato in Belgio per sospetto spionaggio all'interno del quartier generale militare dell'Nato",
+              "paese": "Arabia Saudita",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Hindu",
+              "url": "https://www.thehindu.com/news/international/former-nato-intern-arrested-in-belgium-on-spying-charge/article71265486.ece",
+              "titolo": "Former NATO intern arrested in Belgium on spying charge",
+              "titolo_it": "Ex-internato della Nato arrestato in Belgio per spionaggio",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Estadão",
+              "url": "https://www.estadao.com.br/internacional/estagiaria-da-otan-e-presa-sob-suspeita-de-espionagem-npr",
+              "titolo": "Estagiária da Otan é presa sob suspeita de espionagem",
+              "titolo_it": "La stagista dell'Ue è arrestata sotto sospetto di spionaggio",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 3,
+          "convergenza_interna": {
+            "continente": "Nord America",
+            "coperte": 4,
+            "totali": 28
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Europa",
+      "temi": [
+        {
+          "id": 13,
+          "titolo": "++ F1: pole di Norris in Ungheria, Hamilton secondo per 12 millesimi ++ - Notizie",
+          "titolo_da": "ANSA",
+          "titolo_provvisorio": true,
+          "sintesi": null,
+          "confronto": [],
+          "convergenza": {
+            "percento": 5,
+            "n_testate": 14,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Austria",
+              "Canada",
+              "Emirati Arabi Uniti",
+              "Finlandia",
+              "Irlanda",
+              "Italia",
+              "Lituania",
+              "Panama",
+              "Paraguay",
+              "Regno Unito",
+              "Repubblica Dominicana",
+              "Spagna",
+              "Venezuela"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-07-24"
+            }
+          },
+          "n_articoli": 19,
+          "fonti": [
+            {
+              "testata": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/flash/2026/07/25/f1-pole-di-norris-in-ungheria-hamilton-secondo-per-12-millesimi_a33592ab-a4b0-4848-82f3-ce5604aa0388.html",
+              "titolo": "++ F1: pole di Norris in Ungheria, Hamilton secondo per 12 millesimi ++ - Notizie",
+              "titolo_it": null,
+              "paese": "Italia",
+              "continente": "Europa",
+              "lingua_originale": "italiano",
+              "live_blog": false
+            },
+            {
+              "testata": "BBC News",
+              "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2gd6gd33go",
+              "titolo": "Hungarian Grand Prix: Lando Norris cautious despite pole as qualifying 'falls apart' for Lewis Hamilton",
+              "titolo_it": "Gran Premio Ungheria: Lando Norris prudente anche dopo il primo posto mentre la qualifica \"crolla\" per Lewis Hamilton",
+              "paese": "Regno Unito",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Die Presse",
+              "url": "https://www.diepresse.com/39715590/formel-1-weltmeister-norris-schnappte-hamilton-ungarn-pole-weg",
+              "titolo": "Formel 1: Weltmeister Norris schnappte Hamilton Ungarn-Pole weg",
+              "titolo_it": "Formula 1: il campione del mondo Norris ha strappato a Hamilton la pole position in Ungheria",
+              "paese": "Austria",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "El País",
+              "url": "https://elpais.com/deportes/formula-1/2026-07-25/norris-se-lleva-la-pole-en-hungria-por-un-parpadeo.html",
+              "titolo": "Norris se lleva la 'pole' en Hungría por un parpadeo | Fórmula 1 | Deportes",
+              "titolo_it": "Norris si aggiudica la pole in Ungheria per un battito d'occhio | Formula 1 | Sport",
+              "paese": "Spagna",
+              "continente": "Europa",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Diario Libre",
+              "url": "https://www.diariolibre.com/deportes/motor/2026/07/25/f1-norris-domina-a-los-ferrari-hamilton-y-antonelli-sancionados/3610588",
+              "titolo": "F1: Norris domina a los Ferrari, Hamilton y Antonelli sancionados",
+              "titolo_it": "F1: Norris domina i Ferrari; Hamilton e Antonelli sanzionati",
+              "paese": "Repubblica Dominicana",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "La Prensa (Panama)",
+              "url": "https://www.prensa.com/deportes/hamilton-y-antonelli-pierden-tres-puestos-en-parrilla-por-sancion-en-hungria",
+              "titolo": "Hamilton y Antonelli pierden tres puestos en parrilla por sanción en Hungría",
+              "titolo_it": "Hamilton e Antonelli perdono tre posizioni in griglia per sanzione in Ungheria",
+              "paese": "Panama",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/sports/article-formula-1-hungarian-grand-prix",
+              "titolo": "Norris snatches pole from Hamilton at Hungarian Grand Prix",
+              "titolo_it": "Norris si aggiudica il giro più veloce davanti a Hamilton al Gran Premio d'Ungheria",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "ABC Color",
+              "url": "https://www.abc.com.py/deportes/motor/2026/07/25/norris-domina-a-los-ferrari-hamilton-y-antonelli-sancionados-para-la-parrilla",
+              "titolo": "Norris domina a los Ferrari, Hamilton y Antonelli sancionados para la parrilla - ABC Motor",
+              "titolo_it": "Norris domina i Ferrari; Hamilton e Antonelli sanzionati per il via alla gara - ABC Motor",
+              "paese": "Paraguay",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Nacional",
+              "url": "https://www.elnacional.com/2026/07/norris-saldra-primero-en-el-gp-de-hungria",
+              "titolo": "Norris saldrá primero en el GP de Hungría",
+              "titolo_it": "Norris partirà primo nel Gran Premio d'Ungheria",
+              "paese": "Venezuela",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "The National",
+              "url": "https://www.thenationalnews.com/sport/f1/2026/07/25/lando-norris-snatches-hungarian-grand-prix-pole-from-lewis-hamilton",
+              "titolo": "Lando ⁠Norris snatches Hungarian Grand Prix pole from Lewis Hamilton",
+              "titolo_it": "Lando Norris strappa a Lewis Hamilton la pole position del Gran Premio d'Ungheria",
+              "paese": "Emirati Arabi Uniti",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 9,
+          "convergenza_interna": {
+            "continente": "Europa",
+            "coperte": 8,
+            "totali": 50
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Africa",
+      "temi": [
+        {
+          "id": 156,
+          "titolo": "Zamfara Abduction: Troops Intensify Rescue of LG Boss",
+          "titolo_da": "The Punch",
+          "titolo_provvisorio": true,
+          "sintesi": null,
+          "confronto": [],
+          "convergenza": {
+            "percento": 1,
+            "n_testate": 3,
+            "continenti": [
+              "Africa"
+            ],
+            "paesi": [
+              "Nigeria"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-07-24"
+            }
+          },
+          "n_articoli": 4,
+          "fonti": [
+            {
+              "testata": "The Punch",
+              "url": "https://punchng.com/troops-step-up-rescue-of-kidnapped-zamfara-lg-boss",
+              "titolo": "Zamfara Abduction: Troops Intensify Rescue of LG Boss",
+              "titolo_it": "Sequestro a Zamfara: le truppe intensificano il salvataggio del capo dell'LG",
+              "paese": "Nigeria",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Premium Times",
+              "url": "https://www.premiumtimesng.com/news/top-news/898054-zamfara-bandits-abduct-local-govt-chair-kill-four-securitymen.html",
+              "titolo": "Zamfara: Bandits abduct local govt chair, kill four securitymen",
+              "titolo_it": "Zamfara: i banditi rapiscono il presidente della giunta locale e uccidono quattro agenti di sicurezza",
+              "paese": "Nigeria",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Daily Trust",
+              "url": "https://dailytrust.com/breaking-bandits-abduct-lg-chairman-in-zamfara",
+              "titolo": "Bandits abduct LG Chairman in Zamfara",
+              "titolo_it": "Banditi rapiscono il presidente della LG nello stato dello Zambèza",
+              "paese": "Nigeria",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 1,
+          "convergenza_interna": {
+            "continente": "Africa",
+            "coperte": 3,
+            "totali": 57
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Asia",
+      "temi": [
+        {
+          "id": 6,
+          "titolo": "Συρία: Τουλάχιστον 35 νεκροί μετά από σύγκρουση λεωφορείων",
+          "titolo_da": "Kathimerini",
+          "titolo_provvisorio": true,
+          "sintesi": null,
+          "confronto": [],
+          "convergenza": {
+            "percento": 9,
+            "n_testate": 18,
+            "continenti": [
+              "Africa",
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Afghanistan",
+              "Arabia Saudita",
+              "Bosnia ed Erzegovina",
+              "Brasile",
+              "Cile",
+              "Cina",
+              "Emirati Arabi Uniti",
+              "Grecia",
+              "India",
+              "Israele",
+              "Lituania",
+              "Nepal",
+              "Nigeria",
+              "Qatar",
+              "Repubblica Dominicana",
+              "Spagna",
+              "Sri Lanka",
+              "Turchia"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-07-24"
+            }
+          },
+          "n_articoli": 20,
+          "fonti": [
+            {
+              "testata": "The National",
+              "url": "https://www.thenationalnews.com/news/mena/2026/07/25/at-least-35-killed-and-dozens-injured-in-syria-bus-collision",
+              "titolo": "At least 35 killed and dozens injured in Syria bus collision",
+              "titolo_it": "Almeno 35 morti e decine di feriti nell'incidente d'autobus in Siria",
+              "paese": "Emirati Arabi Uniti",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Daily Mirror",
+              "url": "https://www.dailymirror.lk/breaking-news/At-least-35-killed-in-Syria-bus-collision-health-ministry-says/108-346640",
+              "titolo": "At least 35 killed in Syria bus collision, health ministry says - International",
+              "titolo_it": "Almeno 35 morti nell'incidente stradale a Siria, secondo il ministero della Salute – Internazionale",
+              "paese": "Sri Lanka",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/7/25/two-buses-collide-in-syria-killing-at-least-35-people",
+              "titolo": "Two buses collide in Syria, killing at least 35 people",
+              "titolo_it": "Due autobus si scontrano in Siria uccidendo almeno 35 persone",
+              "paese": "Qatar",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Kathimerini",
+              "url": "https://www.kathimerini.gr/world/564367720/syria-toylachiston-35-nekroi-meta-apo-sygkroysi-leoforeion",
+              "titolo": "Συρία: Τουλάχιστον 35 νεκροί μετά από σύγκρουση λεωφορείων",
+              "titolo_it": "Siria: almeno 35 morti dopo uno scontro tra autobus",
+              "paese": "Grecia",
+              "continente": "Europa",
+              "lingua_originale": "greco",
+              "live_blog": false
+            },
+            {
+              "testata": "LRT",
+              "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3001094/sirijoje-susidurus-dviem-autobusams-zuvo-maziausiai-35-zmones",
+              "titolo": "Sirijoje susidūrus dviem autobusams žuvo mažiausiai 35 žmonės",
+              "titolo_it": "In Siria l'incidente tra due autobus ha causato almeno 35 morti.",
+              "paese": "Lituania",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Oslobođenje",
+              "url": "https://www.oslobodjenje.ba/vijesti/svijet/strasna-nesreca-u-siriji-u-sudaru-dva-autobusa-poginulo-35-ljudi",
+              "titolo": "Strašna nesreća u Siriji, u sudaru dva autobusa poginulo 35 ljudi",
+              "titolo_it": "Terribile incidente in Siria: due autobus entrati in collisione hanno causato la morte di 35 persone.",
+              "paese": "Bosnia ed Erzegovina",
+              "continente": "Europa",
+              "lingua_originale": "bosniaco",
+              "live_blog": false
+            },
+            {
+              "testata": "La Tercera",
+              "url": "https://www.latercera.com/mundo/noticia/al-menos-35-muertos-y-30-heridos-deja-choque-entre-dos-buses-en-siria",
+              "titolo": "Al menos 35 muertos y 30 heridos deja choque entre dos buses en Siria",
+              "titolo_it": "Almeno 35 morti e 30 feriti dopo lo scontro tra due autobus in Siria",
+              "paese": "Cile",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "UOL",
+              "url": "https://www1.folha.uol.com.br/mundo/2026/07/colisao-entre-dois-onibus-na-siria-mata-ao-menos-35-pessoas-e-fere-30.shtml",
+              "titolo": "Colisão entre dois ônibus na Síria mata 35 e fere 30 - 25/07/2026 - Mundo",
+              "titolo_it": "Scontro tra due autobus in Siria con 35 morti e oltre 30 feriti.",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "Diario Libre",
+              "url": "https://www.diariolibre.com/mundo/medio-oriente/2026/07/25/35-muertos-en-accidente-entre-dos-autobuses-en-siria/3610322",
+              "titolo": "35 muertos en accidente entre dos autobuses en Siria",
+              "titolo_it": "35 morti nell'incidente tra due autobus in Siria",
+              "paese": "Repubblica Dominicana",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "The Punch",
+              "url": "https://punchng.com/syria-bus-crash-death-toll-rises-to-35",
+              "titolo": "Syria Bus Crash Death Toll Rises to 35",
+              "titolo_it": "Il bilancio delle vittime dell'incidente del bus in Siria sale a 35",
+              "paese": "Nigeria",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 10,
+          "convergenza_interna": {
+            "continente": "Asia",
+            "coperte": 10,
+            "totali": 56
+          }
+        }
+      ]
+    }
+  ],
+  "degrado": [
+    "temi [1, 2, 3, 4, 5] generati col modello di ripiego (qwen3:14b): qualità ridotta",
+    "parole non italiane da rivedere nei testi generati: Antonelli, Association, Atroppo, Bolsonaro, Correspondents, Delcy, Dharmendra, Dinner, Donald, Ferrari, Flávio, Friedrichshain, Hamilton, House, Houthi, Houthis, Intelligence, Jinping, Lando, Lewis"
+  ]
+}

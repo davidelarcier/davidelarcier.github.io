@@ -1,0 +1,3942 @@
+{
+  "data": "2026-08-17",
+  "generato": "2026-08-17T15:09:56",
+  "temi": [
+    {
+      "id": 1,
+      "titolo": "Morta l'attrice Hayden Panettiere, aveva 36 anni",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "L'attrice Hayden Panettiere, nota per le serie 'Heroes' e 'Nashville', è deceduta a 36 anni. Le cause del decesso non sono state rese note. Il padre ha confermato la notizia, mentre i media internazionali sottolineano la sua carriera iniziata da bambina e le sue battaglie personali.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee sottolineano la sua carriera iniziata da bambina e i ruoli in 'Heroes' e 'Nashville'. Il padre ha confermato il decesso, mentre alcune fonti menzionano le sue battaglie con dipendenze e depressione.",
+          "testate": [
+            "Aftenposten",
+            "De Standaard",
+            "Der Spiegel",
+            "Der Standard",
+            "Die Presse",
+            "ERR",
+            "El Mundo",
+            "El País",
+            "Frankfurter Allgemeine Zeitung",
+            "Gazeta Wyborcza",
+            "Helsingin Sanomat",
+            "Koha Ditore",
+            "LRT",
+            "Le Figaro",
+            "Le Monde",
+            "Libération",
+            "Magyar Nemzet",
+            "Meduza",
+            "NRK Sápmi",
+            "Neue Zürcher Zeitung",
+            "Oslobođenje",
+            "Politiken",
+            "Público",
+            "Rzeczpospolita",
+            "Svenska Dagbladet",
+            "Telex",
+            "The Guardian",
+            "The Irish Times",
+            "de Volkskrant"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "Gli articoli italiani evidenziano la sua partecipazione a 'Heroes' e 'Nashville', la conferma del padre e l'età alla morte (36 anni). Non vengono specificate le cause del decesso.",
+          "testate": [
+            "ANSA",
+            "la Repubblica"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Le testate asiatiche confermano la morte a 36 anni e i ruoli in 'Heroes' e 'Nashville'. Alcune menzionano la conferma del rappresentante e la sua carriera iniziata da bambina.",
+          "testate": [
+            "Cumhuriyet",
+            "Daily Sabah",
+            "Hindustan Times",
+            "Iran International",
+            "South China Morning Post",
+            "The Hindu",
+            "The Jerusalem Post",
+            "The National",
+            "The Times of India",
+            "VnExpress"
+          ]
+        },
+        {
+          "area": "Africa",
+          "sintesi": "Gli articoli africani segnalano la morte a 36 anni e la conferma del padre. Alcune fonti indicano indagini in corso sulle cause del decesso.",
+          "testate": [
+            "Hespress",
+            "News24",
+            "Seneweb",
+            "The Punch"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "I media nordamericani sottolineano la sua carriera e le battaglie personali (dipendenze, depressione). Il padre ha confermato la notizia, mentre 'The New York Times' menziona il suo libro autobiografico.",
+          "testate": [
+            "El Universal",
+            "La Nación (Costa Rica)",
+            "Le Devoir",
+            "The Globe and Mail",
+            "The New York Times"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Le testate sudamericane confermano la morte a 36 anni e i ruoli in 'Heroes' e 'Nashville'. Alcune menzionano la conferma del rappresentante e la sua figlia dodicenne.",
+          "testate": [
+            "ABC Color",
+            "Clarín",
+            "El Comercio",
+            "Estadão",
+            "Folha de S.Paulo",
+            "La Nación (Argentina)",
+            "La República",
+            "O Globo"
+          ]
+        },
+        {
+          "area": "Oceania",
+          "sintesi": "Gli articoli oceanici segnalano la morte a 36 anni e i ruoli in 'Heroes' e 'Nashville'. Non vengono specificate le cause del decesso.",
+          "testate": [
+            "Stuff",
+            "Sydney Morning Herald"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 23,
+        "n_testate": 60,
+        "continenti": [
+          "Africa",
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Oceania",
+          "Sud America"
+        ],
+        "paesi": [
+          "Argentina",
+          "Australia",
+          "Austria",
+          "Belgio",
+          "Bosnia ed Erzegovina",
+          "Brasile",
+          "Canada",
+          "Cina",
+          "Costa Rica",
+          "Danimarca",
+          "Emirati Arabi Uniti",
+          "Estonia",
+          "Finlandia",
+          "Francia",
+          "Germania",
+          "India",
+          "Iran",
+          "Irlanda",
+          "Israele",
+          "Italia",
+          "Kosovo",
+          "Lituania",
+          "Marocco",
+          "Messico",
+          "Nigeria",
+          "Norvegia",
+          "Nuova Zelanda",
+          "Paesi Bassi",
+          "Paraguay",
+          "Perù",
+          "Polonia",
+          "Portogallo",
+          "Regno Unito",
+          "Russia",
+          "Senegal",
+          "Spagna",
+          "Stati Uniti",
+          "Sudafrica",
+          "Svezia",
+          "Svizzera",
+          "Turchia",
+          "Ungheria",
+          "Vietnam"
+        ],
+        "trend": null
+      },
+      "n_articoli": 67,
+      "fonti": [
+        {
+          "testata": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/cultura/2026/08/17/morta-lattrice-hayden-panettiere-aveva-36-anni_2e0132aa-a650-429e-850f-5a50d6b76625.html",
+          "titolo": "Morta l'attrice Hayden Panettiere, aveva 36 anni",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "la Repubblica",
+          "url": "https://www.repubblica.it/spettacoli/2026/08/17/news/hayden_panettiere_morta_attrice_scream_heroes_36_anni-425532235",
+          "titolo": "Hayden Panettiere, morta la star di “Heroes” e “Scream”. Aveva 36 anni",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Der Standard",
+          "url": "https://www.derstandard.at/story/3000000335801/us-schauspielerin-hayden-panettiere-mit-36-jahren-gestorben?ref=rss",
+          "titolo": "US-Schauspielerin Hayden Panettiere mit 36 Jahren gestorben",
+          "titolo_it": "L'attrice statunitense Hayden Panettiere è morta a 36 anni",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "Die Presse",
+          "url": "https://www.diepresse.com/41177864/sie-war-eine-naturgewalt-us-schauspielerin-hayden-panettiere-ist-tot",
+          "titolo": "„Sie war eine Naturgewalt“: US-Schauspielerin Hayden Panettiere ist tot",
+          "titolo_it": "Era una forza della natura: è morta l'attrice statunitense Hayden Panettiere",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "Oslobođenje",
+          "url": "https://www.oslobodjenje.ba/magazin/showbiz/iznenada-preminula-americka-glumica-hayden-panettiere-glumila-je-u-poznatoj-seriji",
+          "titolo": "Iznenada preminula američka glumica Hayden Panettiere, glumila je u poznatoj seriji",
+          "titolo_it": null,
+          "paese": "Bosnia ed Erzegovina",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364248/heroes-star-hayden-panettiere-dies-aged-36-father-confirms?utm_source=rss_feed",
+          "titolo": "‘Heroes’ star Hayden Panettiere dies aged 36, father confirms",
+          "titolo_it": "Hayden Panettiere, attrice di 'Heroes', muore a 36 anni, conferma il padre",
+          "paese": "Cina",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/hayden-panettiere-us-actor-and-star-of-heroes-nashville-dies-at-36-101786942771191.html",
+          "titolo": "Hayden Panettiere, US actor and star of 'Heroes', dies at 36",
+          "titolo_it": "Hayden Panettiere, attrice statunitense e star di 'Heroes', muore a 36 anni",
+          "paese": "India",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Hindu",
+          "url": "https://www.thehindu.com/entertainment/movies/hayden-panettiere-heroes-and-nashville-actress-dies-at-36-us-media-reports/article71355003.ece",
+          "titolo": "Hayden Panettiere, ‘Heroes’ and ‘Nashville’ actress, dies at 36, U.S. media reports",
+          "titolo_it": "Hayden Panettiere, attrice di 'Heroes' e 'Nashville', muore a 36 anni, riferiscono i media Usa",
+          "paese": "India",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Clarín",
+          "url": "https://www.clarin.com/espectaculos/murio-36-anos-hayden-panettiere-estrella-saga-scream-expareja-campeon-mundial-boxeo_0_Lmsqp3pTGp.html",
+          "titolo": "Murió a los 36 años Hayden Panettiere, estrella de la saga Scream y expareja de un campeón mundial de boxeo",
+          "titolo_it": "Hayden Panettiere, star della saga Scream e ex di un campione mondiale di boxe, è morta a 36 anni",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "La Nación (Argentina)",
+          "url": "https://www.lanacion.com.ar/el-mundo/murio-a-los-36-anos-la-actriz-hayden-panettiere-estrella-de-las-series-heroes-y-nashville-nid17082026",
+          "titolo": "Murió a los 36 años la actriz Hayden Panettiere, estrella de las series “Héroes” y “Nashville”",
+          "titolo_it": "Hayden Panettiere, attrice di \"Héroes\" e \"Nashville\", è morta a 36 anni",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Estadão",
+          "url": "https://www.estadao.com.br/cultura/cinema/hayden-panettiere-atriz-de-heroes-e-nashville-morre-aos-36-anos-npres",
+          "titolo": "Hayden Panettiere, atriz de ‘Heroes’ e ‘Nashville’, morre aos 36 anos",
+          "titolo_it": "Hayden Panettiere, attrice di ‘Heroes’ e ‘Nashville’, muore a 36 anni",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "Le Devoir",
+          "url": "https://www.ledevoir.com/culture/cinema/1002161/actrice-hayden-panettiere-est-decedee",
+          "titolo": "L’actrice Hayden Panettiere est décédée",
+          "titolo_it": "L'attrice Hayden Panettiere è morta",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "francese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/culture/film-and-tv/article-hayden-panettiere-actress-heroes-and-nashville-dies",
+          "titolo": "Hayden Panettiere, star of television series Heroes and Nashville, dies",
+          "titolo_it": "Hayden Panettiere, attrice di Heroes e Nashville, è morta",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "La Nación (Costa Rica)",
+          "url": "https://www.nacion.com/el-mundo/muere-la-actriz-hayden-panettiere-a-los-36-anos/WSWI7KB3IVDZDF7CUWL626NDV4/story",
+          "titolo": "Muere la actriz Hayden Panettiere a los 36 años",
+          "titolo_it": "Muore l'attrice Hayden Panettiere a 36 anni",
+          "paese": "Costa Rica",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "The Punch",
+          "url": "https://punchng.com/heroes-nashville-actress-hayden-panettiere-dies-at-36/?utm_source=rss.punchng.com&utm_medium=web",
+          "titolo": "Heroes, Nashville actress Hayden Panettiere dies at 36",
+          "titolo_it": "Nashville, l'attrice Hayden Panettiere muore a 36 anni",
+          "paese": "Nigeria",
+          "continente": "Africa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Seneweb",
+          "url": "https://www.seneweb.com/fr/news/Necrologie/mort-dhayden-panettiere-lactrice-de-la-serie-heroes-est-decedee-a-lage-de-36-ans_n_501544.html",
+          "titolo": "Mort d’Hayden Panettiere : l’actrice de la série «Heroes» est décédée à l’âge de 36 ans",
+          "titolo_it": "Morte di Hayden Panettiere: l'attrice di \"Heroes\" è deceduta a 36 anni",
+          "paese": "Senegal",
+          "continente": "Africa",
+          "lingua_originale": "francese",
+          "live_blog": false
+        },
+        {
+          "testata": "News24",
+          "url": "https://www.news24.com/life/arts-and-entertainment/celebrities/heroes-and-nashville-star-hayden-panettiere-dead-at-36-reports-20260817-0328",
+          "titolo": "News24 | ‘Heroes’ and ‘Nashville’ star Hayden Panettiere dead at 36, reports",
+          "titolo_it": "Hayden Panettiere, attrice di 'I eroi' e 'Nashville', morta a 36 anni",
+          "paese": "Sudafrica",
+          "continente": "Africa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Sydney Morning Herald",
+          "url": "https://www.smh.com.au/national/actress-hayden-panettiere-dies-aged-36-20260817-p60p4j.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "titolo": "Actress Hayden Panettiere dies aged 36",
+          "titolo_it": "L'attrice Hayden Panettiere muore a 36 anni",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Stuff",
+          "url": "https://www.stuff.co.nz/culture/361021409/heroes-and-nashville-star-hayden-panettiere-dies-aged-36",
+          "titolo": "‘Don't be gone. Please’: Heartbroken star leads tributes after Hayden Panettiere’s death",
+          "titolo_it": "'Don't be gone. Please': Star scossa guida i tributi dopo la morte di Hayden Panettiere",
+          "paese": "Nuova Zelanda",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 48
+    },
+    {
+      "id": 2,
+      "titolo": "Trump riduce esercitazioni Usa-Corea del Sud: buoni rapporti con Kim Jong-un",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Il presidente Usa Donald Trump ha ordinato una riduzione significativa degli esercizi militari congiunti con la Corea del Sud, motivando la decisione con i buoni rapporti con Kim Jong-un, i costi elevati e la mancata collaborazione sudcoreana nella questione iraniana. La mossa solleva critiche e preoccupazioni per la stabilità dell'alleanza.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee sottolineano i buoni rapporti di Trump con Kim Jong-un e la riduzione delle manovre come segnale di distensione. Si evidenzia anche l'insoddisfazione per il ruolo della Corea del Sud nella questione iraniana e il rischio per la sicurezza regionale.",
+          "testate": [
+            "Aftenposten",
+            "BBC News",
+            "De Standaard",
+            "Der Spiegel",
+            "Der Standard",
+            "ERR",
+            "El Mundo",
+            "El País",
+            "Financial Times",
+            "Frankfurter Allgemeine Zeitung",
+            "Gazeta Wyborcza",
+            "Helsingin Sanomat",
+            "Koha Ditore",
+            "LRT",
+            "Le Figaro",
+            "Le Monde",
+            "Libération",
+            "Meduza",
+            "Neue Zürcher Zeitung",
+            "Rzeczpospolita",
+            "Svenska Dagbladet",
+            "TASS",
+            "Telex",
+            "The Guardian",
+            "The Irish Times",
+            "de Volkskrant"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "L'ANSA evidenzia la riduzione delle esercitazioni per motivi economici e il messaggio ostile inviato alla Corea del Nord. Si nota l'accento sui costi e sull'atteggiamento diplomatico Usa verso Pyongyang.",
+          "testate": [
+            "ANSA"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Le testate asiatiche evidenziano le preoccupazioni per la stabilità dell'alleanza Usa-Corea del Sud e il rifiuto di Seul a partecipare all'azione contro l'Iran. Si sottolinea il legame tra la decisione e la relazione Trump-Kim.",
+          "testate": [
+            "Al Jazeera",
+            "Chosun Ilbo",
+            "Dawn",
+            "Hindustan Times",
+            "Rappler",
+            "South China Morning Post",
+            "The Kathmandu Post",
+            "The Korea Herald",
+            "The Times of India"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Le testate nordamericane criticano la mancata collaborazione della Corea del Sud nella denuclearizzazione dell'Iran e lodano il rapporto Trump-Kim. Si evidenzia la riduzione delle manovre come segnale di distensione con il Nord.",
+          "testate": [
+            "CBC News",
+            "El Universal",
+            "La Nación (Costa Rica)",
+            "La Prensa (Panama)",
+            "NPR",
+            "Politico",
+            "Prensa Libre",
+            "The Globe and Mail",
+            "The New York Times"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Le testate sudamericane riferiscono della riduzione delle esercitazioni per motivi di costo e per il buon rapporto con Kim Jong-un. Si sottolinea l'atteggiamento Usa percepito come ostile verso la Corea del Nord.",
+          "testate": [
+            "ABC Color",
+            "Clarín",
+            "Estadão",
+            "Folha de S.Paulo",
+            "Infobae",
+            "La Tercera",
+            "O Globo"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 21,
+        "n_testate": 52,
+        "continenti": [
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Sud America"
+        ],
+        "paesi": [
+          "Argentina",
+          "Austria",
+          "Belgio",
+          "Brasile",
+          "Canada",
+          "Cile",
+          "Cina",
+          "Corea del Sud",
+          "Costa Rica",
+          "Estonia",
+          "Filippine",
+          "Finlandia",
+          "Francia",
+          "Germania",
+          "Guatemala",
+          "India",
+          "Irlanda",
+          "Italia",
+          "Kosovo",
+          "Lituania",
+          "Messico",
+          "Nepal",
+          "Norvegia",
+          "Paesi Bassi",
+          "Pakistan",
+          "Panama",
+          "Paraguay",
+          "Polonia",
+          "Qatar",
+          "Regno Unito",
+          "Russia",
+          "Spagna",
+          "Stati Uniti",
+          "Svezia",
+          "Svizzera",
+          "Ungheria"
+        ],
+        "trend": null
+      },
+      "n_articoli": 59,
+      "fonti": [
+        {
+          "testata": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/17/in-corso-le-esercitazioni-militari-corea-del-sud-usa_e5ab3190-ad9f-4345-af5c-35d8cdf09ff6.html",
+          "titolo": "In corso le esercitazioni militari Corea del Sud-Usa",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Der Standard",
+          "url": "https://www.derstandard.at/story/3000000335798/trump-weist-reduktion-von-milit228rman246vern-mit-s252dkorea-an?ref=rss",
+          "titolo": "Wegen guter Beziehungen zu Kim Jong Un: USA reduzieren Militärmanöver mit Südkorea",
+          "titolo_it": "A causa delle buone relazioni con Kim Jong Un: gli Stati Uniti riducono gli esercizi militari con la Corea del Sud",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "De Standaard",
+          "url": "https://www.standaard.be/buitenland/trump-wil-militaire-oefeningen-met-zuid-korea-aanzienlijk-terugschroeven/35131945.html",
+          "titolo": "Trump wil militaire oefeningen met Zuid-Korea “aanzienlijk terugschroeven”",
+          "titolo_it": null,
+          "paese": "Belgio",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "ERR",
+          "url": "https://www.err.ee/1610111950/trump-kaskis-pentagonil-karpida-uhisoppusi-louna-koreaga",
+          "titolo": "Trump käskis Pentagonil kärpida ühisõppusi Lõuna-Koreaga",
+          "titolo_it": "Trump ha ordinato al Pentagono di ridurre le esercitazioni congiunte con il Sud Corea",
+          "paese": "Estonia",
+          "continente": "Europa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10843073",
+          "titolo": "Trump&apos;s order to scale back S. Korea-US drills raises alliance concerns",
+          "titolo_it": "L'ordine di Trump di ridurre gli esercizi congiunti tra Corea del Sud e Usa solleva preoccupazioni sull'alleanza",
+          "paese": "Corea del Sud",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Rappler",
+          "url": "https://www.rappler.com/world/us-canada/trump-orders-cut-back-military-exercises-south-korea",
+          "titolo": "Trump orders Pentagon to cut back military exercises with South Korea",
+          "titolo_it": "Trump ordina al Pentagono di ridurre gli esercizi militari con la Corea del Sud",
+          "paese": "Filippine",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/trump-cuts-us-south-korea-drills-day-after-sharing-throwback-pics-with-north-korean-dictator-an-iran-angle-at-play-101786940083221.html",
+          "titolo": "Trump cuts South Korea military drills after ‘GREAT’ Kim Jong Un post. An Iran angle at play",
+          "titolo_it": "Trump sospende gli esercizi militari con la Corea del Sud dopo un post \"GREAT\" di Kim Jong Un. Un ruolo dell'Iran in gioco",
+          "paese": "India",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "CBC News",
+          "url": "https://www.cbc.ca/news/world/trump-joint-military-exercises-south-korea-9.7309317?cmp=rss",
+          "titolo": "Trump orders joint military exercises with South Korea to be scaled back",
+          "titolo_it": "Trump ordina di ridurre gli esercizi militari congiunti con la Corea del Sud",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "La Prensa (Panama)",
+          "url": "https://www.prensa.com/mundo/trump-dice-que-estados-unidos-reducira-sus-ejercicios-militares-conjuntos-con-corea-del-sur",
+          "titolo": "Trump dice que Estados Unidos reducirá sus ejercicios militares conjuntos con Corea del Sur",
+          "titolo_it": "Trump dice che gli Stati Uniti ridurranno gli esercizi militari congiunti con la Corea del Sud",
+          "paese": "Panama",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
+          "titolo": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
+          "titolo_it": "Trump ordina al Pentagono di ridurre gli esercizi militari con l'alleata Corea del Sud",
+          "paese": "Stati Uniti",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Clarín",
+          "url": "https://www.clarin.com/mundo/donald-trump-ordeno-reducir-ejercicios-militares-corea-sur-contento_0_8LxYErIwxc.html",
+          "titolo": "Donald Trump ordenó reducir los ejercicios militares con Corea del Sur: “No estoy contento”",
+          "titolo_it": "Donald Trump ha ordinato di ridurre gli esercizi militari con la Corea del Sud: \"Non sono contento",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Estadão",
+          "url": "https://www.estadao.com.br/internacional/trump-pede-que-pentagono-reduza-exercicios-militares-com-a-coreia-do-sul",
+          "titolo": "Trump pede que Pentágono reduza exercícios militares com a Coreia do Sul",
+          "titolo_it": "Trump chiede al Pentagono di ridurre gli esercizi militari con la Corea del Sud",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/08/16/corea-del-sur-afirmo-que-los-ejecicios-militares-con-eeuu-se-desarrollaran-como-estaban-previstos-pese-a-los-dichos-de-trump",
+          "titolo": "Corea del Sur afirmó que los ejecicios militares con EEUU se desarrollarán como estaban previstos pese a los dichos de Trump",
+          "titolo_it": "Corea del Sud ha affermato che gli esercizi militari con gli Stati Uniti proseguiranno come previsto nonostante le dichiarazioni di Trump",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 46
+    },
+    {
+      "id": 3,
+      "titolo": "Ucraina e Russia si scambiano attacchi con droni e missili: vittime e danni",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Ucraina e Russia hanno intensificato attacchi reciproci con droni e missili, causando vittime civili e militari e danni infrastrutturali. Le operazioni coinvolgono magazzini, porti e aree urbane, con escalation di violenza su entrambi i fronti.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee riferiscono di attacchi ucraini con droni che colpiscono Mosca e Belgorod, causando morti e distruzioni. La Russia replica bombardando Odessa e infrastrutture logistico-commerciali, mentre si registrano vittime civili su entrambi i fronti.",
+          "testate": [
+            "Aftenposten",
+            "BBC News",
+            "De Standaard",
+            "Die Presse",
+            "ERR",
+            "Gazeta Wyborcza",
+            "Helsingin Sanomat",
+            "Kyiv Independent",
+            "Le Monde",
+            "Meduza",
+            "NRK Sápmi",
+            "Neue Zürcher Zeitung",
+            "Novaya Gazeta Europe",
+            "Rzeczpospolita",
+            "TASS",
+            "Telex",
+            "The Irish Times",
+            "Ukrainska Pravda"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "Articoli italiani evidenziano l'abbattimento di 205 droni ucraini da parte russa e l'attacco al mercatino di Petrivka. La Romania intercetta un drone NATO nello spazio aereo rumeno durante raid reciproci.",
+          "testate": [
+            "ANSA",
+            "la Repubblica"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Fonti asiatiche descrivono un attacco missilistico ucraino a Belgorod con 6 morti e scambi di colpi che danneggiano infrastrutture civili. Si menziona un'offensiva aerea di Kiev come una delle più grandi del conflitto.",
+          "testate": [
+            "Al Jazeera",
+            "Chosun Ilbo",
+            "Daily Sabah",
+            "Hindustan Times",
+            "The Times of Israel"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Testate sudamericane sottolineano l'escalation con oltre 800 droni ucraini che attaccano la Russia, causando 6 morti. La Russia risponde con missili su Kiev e danni a navi civili nel Mar Nero.",
+          "testate": [
+            "ABC Color",
+            "El Nacional",
+            "Estadão",
+            "Infobae",
+            "La República",
+            "La Tercera"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Articoli nordamericani segnalano uno dei maggiori attacchi aerei ucraini con 6 vittime russe. Si registra un bilancio di 16-19 morti in scambi di missili e droni, con danni a infrastrutture civili su entrambi i fronti.",
+          "testate": [
+            "El Universal",
+            "La Nación (Costa Rica)",
+            "Le Devoir",
+            "NPR",
+            "The Globe and Mail"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 14,
+        "n_testate": 36,
+        "continenti": [
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Sud America"
+        ],
+        "paesi": [
+          "Argentina",
+          "Austria",
+          "Belgio",
+          "Brasile",
+          "Canada",
+          "Cile",
+          "Corea del Sud",
+          "Costa Rica",
+          "Estonia",
+          "Finlandia",
+          "Francia",
+          "India",
+          "Irlanda",
+          "Israele",
+          "Italia",
+          "Messico",
+          "Norvegia",
+          "Paraguay",
+          "Perù",
+          "Polonia",
+          "Qatar",
+          "Regno Unito",
+          "Russia",
+          "Stati Uniti",
+          "Svizzera",
+          "Turchia",
+          "Ucraina",
+          "Ungheria",
+          "Venezuela"
+        ],
+        "trend": null
+      },
+      "n_articoli": 59,
+      "fonti": [
+        {
+          "testata": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/17/mosca-intercettati-e-abbattuti-205-droni-ucraini_5707ecd1-17fd-4aa8-b790-e0ed5c4eeebd.html",
+          "titolo": "Mosca: intercettati e abbattuti 205 droni ucraini",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "la Repubblica",
+          "url": "https://www.repubblica.it/esteri/2026/08/17/news/raid_ucraini_su_mosca_drone_russo_in_romania_abbattuto_dai_jet_nato-425532001",
+          "titolo": "Romania, sconfina drone: i jet Nato lo abbattono. Raid ucraini su Mosca",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Die Presse",
+          "url": "https://www.diepresse.com/41177837/ukraine-greift-russisches-grenzgebiet-mit-raketen-an",
+          "titolo": "Ukraine greift russisches Grenzgebiet mit Raketen an",
+          "titolo_it": "Ucraina attacca con i razzi un'area vicina al confine russo",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "De Standaard",
+          "url": "https://www.standaard.be/buitenland/oekraense-droneaanval-maakt-doden-in-moskou/35173633.html",
+          "titolo": "Oekraïense droneaanval maakt doden in Moskou",
+          "titolo_it": null,
+          "paese": "Belgio",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "ERR",
+          "url": "https://www.err.ee/1610111908/ukraina-nadalavahetuse-droonirunnakud-purustasid-senised-rekordid",
+          "titolo": "Ukraina nädalavahetuse droonirünnakud purustasid senised rekordid",
+          "titolo_it": "Ucraina, i raid con droni nel fine settimana hanno battuto ogni record",
+          "paese": "Estonia",
+          "continente": "Europa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Estadão",
+          "url": "https://www.estadao.com.br/internacional/ataque-ucraniano-com-misseis-deixa-seis-mortos-em-regiao-russa-de-belgorod-npr",
+          "titolo": "Ataque ucraniano com mísseis deixa seis mortos em região russa de Belgorod",
+          "titolo_it": "Attacco ucraino con missili lascia sei morti nella regione russa di Belgorod",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "ABC Color",
+          "url": "https://www.abc.com.py/internacionales/2026/08/17/rusia-ataca-instalaciones-portuarias-y-buques-ucranianos-en-el-mar-negro",
+          "titolo": "Rusia ataca instalaciones portuarias y buques ucranianos en el mar Negro",
+          "titolo_it": "Russia attacca installazioni portuali e navi ucraine nel Mar Nero",
+          "paese": "Paraguay",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/08/16/rusia-golpeo-barcos-y-puertos-ucranianos-tras-rechazar-una-tregua-a-los-ataques-en-el-mar-negro",
+          "titolo": "Rusia golpeó barcos y puertos ucranianos tras rechazar una tregua a los ataques en el mar Negro",
+          "titolo_it": "Russia attacca navi e porti ucraini dopo il rifiuto di una tregua nel Mar Nero",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/ukraine-launches-one-of-its-largest-aerial-attacks-yet-on-russia-killing-at-least-6",
+          "titolo": "Ukraine launches one of its largest aerial attacks yet on Russia, killing at least 6",
+          "titolo_it": "Ucraina lancia uno dei suoi attacchi aerei più grandi finora contro la Russia, uccidendo almeno 6 persone",
+          "paese": "Israele",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+          "titolo": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+          "titolo_it": "Almeno sei persone uccise nell'attacco missilistico ucraino a Belgorod in Russia",
+          "paese": "Qatar",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Chosun Ilbo",
+          "url": "https://www.chosun.com/international/international_general/2026/08/17/HFQTSNTEGZRDKOBVGM4DCMTDMI",
+          "titolo": "모스크바 겨냥해 ‘최대 공격’ 나선 우크라에 전방위 보복한 러시아… 십수명 사망",
+          "titolo_it": "Russia attacca su tutti i fronti in risposta all'offensiva ucraina verso Mosca, decine di morti",
+          "paese": "Corea del Sud",
+          "continente": "Asia",
+          "lingua_originale": "coreano",
+          "live_blog": false
+        },
+        {
+          "testata": "Le Devoir",
+          "url": "https://www.ledevoir.com/monde/europe/1002137/dix-neuf-morts-frappes-russie-ukraine",
+          "titolo": "Dix-neuf morts dans des frappes en Russie et en Ukraine",
+          "titolo_it": "Diciannove morti per colpi d'arma da fuoco in Russia e in Ucraina",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "francese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/world/article-russia-ukraine-trade-strikes-romania-drone",
+          "titolo": "Ukraine steps up drone attacks against Russia, Moscow strikes Kyiv",
+          "titolo_it": "Ucraina intensifica gli attacchi con droni contro la Russia, Mosca colpisce Kiev",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "La Nación (Costa Rica)",
+          "url": "https://www.nacion.com/el-mundo/ataques-cruzados-entre-ucrania-y-rusia-dejan-como/LHYX45AZGFBRXDSLTBP74IQVNI/story",
+          "titolo": "Ataques cruzados entre Ucrania y Rusia dejan como saldo al menos 16 muertos",
+          "titolo_it": "Attacchi reciproci tra Ucraina e Russia lasciano almeno 16 morti",
+          "paese": "Costa Rica",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 45
+    },
+    {
+      "id": 4,
+      "titolo": "Kushner incontra Hamas e Netanyahu per piano di pace a Gaza",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Jared Kushner, inviato di Trump, ha incontrato Hamas in Egitto e Netanyahu in Israele per promuovere un piano di pace a Gaza. Le trattative mirano a un cessate-il-fuoco, ma Netanyahu rifiuta l'accordo finché Hamas non sarà disarmato. Gli Stati Uniti chiedono una transizione diplomatica.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee sottolineano i colloqui di Kushner con Hamas e Netanyahu per spingere il piano di pace. Si evidenzia la pressione Usa su Israele per limitare gli attacchi e il ruolo mediatore di paesi come l'Egitto.",
+          "testate": [
+            "BBC News",
+            "De Standaard",
+            "Der Standard",
+            "Financial Times",
+            "Frankfurter Allgemeine Zeitung",
+            "Koha Ditore",
+            "LRT",
+            "Le Monde",
+            "Oslobođenje",
+            "TASS",
+            "The Guardian",
+            "The Irish Times"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Le fonti asiatiche enfatizzano la richiesta Usa di smobilizzo di Hamas e il rifiuto di Netanyahu. Si menziona l'invito a Israele di rispettare le fasi dell'accordo e il coinvolgimento di Qatar, Turchia e Iran come mediatori.",
+          "testate": [
+            "Al Jazeera",
+            "Chosun Ilbo",
+            "Daily Sabah",
+            "Hindustan Times",
+            "Iran International",
+            "The Jerusalem Post"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "I media sudamericani descrivono Kushner come intermediario per sbloccare il piano di pace. Si sottolinea la resistenza israeliana e la richiesta Usa di disarmo di Hamas per avanzare verso una tregua.",
+          "testate": [
+            "El Universo",
+            "Estadão",
+            "Infobae",
+            "La Nación (Argentina)",
+            "La Tercera",
+            "O Globo",
+            "Telesur"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "La Repubblica evidenzia l'incontro con Hamas e Netanyahu, chiedendo il disarmo di Hamas e la sospensione dei raid israeliani. Si nota la spinta Usa per una soluzione diplomatica.",
+          "testate": [
+            "la Repubblica"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "I media Usa sottolineano il ruolo di Kushner nel promuovere il piano di Trump, respinto da Netanyahu. Si richiede un disarmo di Hamas e una roadmap per il cessate-il-fuoco, con critiche alle posizioni israeliane.",
+          "testate": [
+            "La Nación (Costa Rica)",
+            "Le Devoir",
+            "NPR",
+            "The New York Times",
+            "The Washington Post"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 13,
+        "n_testate": 31,
+        "continenti": [
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Sud America"
+        ],
+        "paesi": [
+          "Argentina",
+          "Austria",
+          "Belgio",
+          "Bosnia ed Erzegovina",
+          "Brasile",
+          "Canada",
+          "Cile",
+          "Corea del Sud",
+          "Costa Rica",
+          "Ecuador",
+          "Francia",
+          "Germania",
+          "India",
+          "Iran",
+          "Irlanda",
+          "Israele",
+          "Italia",
+          "Kosovo",
+          "Lituania",
+          "Qatar",
+          "Regno Unito",
+          "Russia",
+          "Stati Uniti",
+          "Turchia",
+          "Venezuela"
+        ],
+        "trend": null
+      },
+      "n_articoli": 38,
+      "fonti": [
+        {
+          "testata": "la Repubblica",
+          "url": "https://www.repubblica.it/esteri/2026/08/17/news/gaza_kushner_vede_hamas_e_netanyahu-425531988",
+          "titolo": "Gaza, Kushner vede Hamas: “Avanti con il disarmo ma Israele cessi i raid”",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Der Standard",
+          "url": "https://www.derstandard.at/story/3000000335804/nahost-kushner-traf-hamas-und-al-sisi-zu-gespr228chen-252ber-gaza?ref=rss",
+          "titolo": "Trumps Schwiegersohn Kushner traf Hamas und al-Sisi zu Gesprächen über Gaza",
+          "titolo_it": "Il genero di Trump Kushner incontra Hamas e al-Sisi per colloqui su Gaza",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "Oslobođenje",
+          "url": "https://www.oslobodjenje.ba/vijesti/svijet/trumpov-zet-i-izaslanik-stigao-u-izrael-cilj-je-ubijediti-netanyahua-da-ne-prkosi-sad-u",
+          "titolo": "Trumpov zet i izaslanik stigao u Izrael, cilj je ubijediti Netanyahua da ne prkosi SAD-u",
+          "titolo_it": null,
+          "paese": "Bosnia ed Erzegovina",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/08/17/gaza-l-emissaire-americain-jared-kushner-en-israel-pour-rencontrer-benyamin-netanyahou-et-tenter-de-faire-avancer-le-plan-de-paix_6747971_3210.html",
+          "titolo": "Gaza : l’émissaire américain Jared Kushner attendu en Israël pour rencontrer Benyamin Nétanyahou et tenter de faire avancer le plan de paix",
+          "titolo_it": "Gaza: l'ambasciatore americano Jared Kushner atteso in Israele per incontrare Benjamin Netanyahu e cercare di spingere il piano di pace",
+          "paese": "Francia",
+          "continente": "Europa",
+          "lingua_originale": "francese",
+          "live_blog": false
+        },
+        {
+          "testata": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/08/17/jared-kushner-se-reune-con-benjamin-netanyahu-en-israel-para-destrabar-el-plan-de-paz-de-trump-para-gaza",
+          "titolo": "Jared Kushner se reúne con Benjamin Netanyahu en Israel para destrabar el plan de paz de Trump para Gaza",
+          "titolo_it": "Jared Kushner si incontra con Benjamin Netanyahu in Israele per sbloccare il piano di pace di Trump per Gaza",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Estadão",
+          "url": "https://www.estadao.com.br/internacional/genro-de-trump-se-reune-com-netanyahu-apos-discutir-plano-de-paz-para-gaza-com-hamas-npr",
+          "titolo": "Genro de Trump se reúne com Netanyahu após discutir plano de paz para Gaza com Hamas",
+          "titolo_it": "Genro di Trump si incontra con Netanyahu dopo aver discusso un piano di pace per Gaza con Hamas",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "La Nación (Argentina)",
+          "url": "https://www.lanacion.com.ar/el-mundo/kushner-se-reunio-con-lideres-de-hamas-en-egipto-para-intentar-destrabar-el-plan-de-trump-para-gaza-nid16082026",
+          "titolo": "Kushner se reunió con líderes de Hamas en Egipto para intentar destrabar el plan de Trump para Gaza",
+          "titolo_it": "Kushner si è incontrato con leader di Hamas in Egitto per cercare di sbloccare il piano di Trump per Gaza",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "The Jerusalem Post",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-905733",
+          "titolo": "US pressure ramps up as Kushner, Mladenov to meet with Netanyahu to advance Trump's Gaza plan",
+          "titolo_it": "La pressione Usa cresce mentre Kushner e Mladenov incontreranno Netanyahu per spingere il piano di Trump su Gaza",
+          "paese": "Israele",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+          "titolo": "Kushner to meet Netanyahu to push Trump Gaza plan",
+          "titolo_it": "Kushner incontra Netanyahu per sostenere il piano di Trump su Gaza",
+          "paese": "Qatar",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Chosun Ilbo",
+          "url": "https://www.chosun.com/international/international_general/2026/08/17/GM4TMZTEGM4TKNJTG4YDMYZYGE",
+          "titolo": "쿠슈너, 하마스 지도부와 이례적 회동… 가자 휴전 돌파구 모색",
+          "titolo_it": "Kushner incontra inaspettatamente i leader di Hamas alla ricerca di una svolta per la tregua a Gaza",
+          "paese": "Corea del Sud",
+          "continente": "Asia",
+          "lingua_originale": "coreano",
+          "live_blog": false
+        },
+        {
+          "testata": "Le Devoir",
+          "url": "https://www.ledevoir.com/monde/moyen-orient/1002086/emissaire-americain-jared-kushner-doit-rencontrer-hamas-egypte",
+          "titolo": "Jared Kushner a rencontré une délégation du Hamas en Égypte, avant une visite en Israël",
+          "titolo_it": "Jared Kushner ha incontrato una delegazione del Hamas in Egitto, prima di una visita in Israele",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "francese",
+          "live_blog": false
+        },
+        {
+          "testata": "La Nación (Costa Rica)",
+          "url": "https://www.nacion.com/el-mundo/estados-unidos-y-hamas-discuten-en-egipto-futuro/MHLOH27TDVCF3EIOXDM5O3IWCY/story",
+          "titolo": "Estados Unidos y Hamás discuten en Egipto futuro del alto el fuego en Gaza",
+          "titolo_it": "Stati Uniti e Hamás discutono in Egitto del futuro del cessate il fuoco a Gaza",
+          "paese": "Costa Rica",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "NPR",
+          "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+          "titolo": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+          "titolo_it": "Kushner incontra Hamas per il piano sulla Striscia di Gaza prima dei colloqui con Netanyahu",
+          "paese": "Stati Uniti",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 25
+    },
+    {
+      "id": 5,
+      "titolo": "Terremoto in Indonesia, 53 morti e migliaia di sfollati",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Un sisma di magnitudo 7,7 ha colpito l'Indonesia orientale, causando almeno 53 vittime e sfollando 12.800 persone. Scosse successive, frane e danni alle infrastrutture ostacolano gli aiuti, mentre il Paese si trova nella zona del Pacifico con alta attività sismica.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee segnalano 47-53 morti, 13mila sfollati e difficoltà nei soccorsi a causa di frane e blackout. Vengono menzionati 995 scosse successive e criticità negli aiuti umanitari.",
+          "testate": [
+            "BBC News",
+            "Helsingin Sanomat",
+            "Libération",
+            "NRC",
+            "Oslobođenje",
+            "TASS"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "Gli articoli italiani riferiscono di 12.800 persone impossibilitate a tornare alle case, 53 morti e feriti, con focus su cittadini italiani residenti nelle zone colpite.",
+          "testate": [
+            "ANSA",
+            "Il Sole 24 Ore"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Le fonti asiatiche evidenziano 53 vittime, 13mila sfollati, danni a 900 abitazioni e oltre 300 scosse di assestamento. Vengono segnalate frane e interruzioni delle comunicazioni.",
+          "testate": [
+            "Bangkok Post",
+            "Daily Sabah",
+            "Dawn",
+            "Hindustan Times",
+            "South China Morning Post",
+            "The Kathmandu Post",
+            "The Korea Herald"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Le testate nordamericane riportano 53 morti, 135 feriti e 5mila sfollati, sottolineando la posizione dell'Indonesia nella 'zona del Pacifico in fiamme' con alta attività tettonica.",
+          "testate": [
+            "El Universal",
+            "La Jornada",
+            "La Nación (Costa Rica)",
+            "La Prensa (Panama)",
+            "The Globe and Mail"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Gli articoli sudamericani descrivono 53 morti, 135 feriti e 5mila sfollati, con riferimenti a 995 scosse successive e criticità nei soccorsi a causa di infrastrutture danneggiate.",
+          "testate": [
+            "ABC Color",
+            "El Nacional",
+            "El Universo",
+            "Infobae",
+            "La República",
+            "La Tercera",
+            "O Globo",
+            "Telesur"
+          ]
+        },
+        {
+          "area": "Africa",
+          "sintesi": "La testata africana segnala 54 morti, 12.800 sfollati e sfide nel soccorso a causa di scosse successive e abitazioni danneggiate.",
+          "testate": [
+            "The Punch"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 12,
+        "n_testate": 29,
+        "continenti": [
+          "Africa",
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Sud America"
+        ],
+        "paesi": [
+          "Argentina",
+          "Bosnia ed Erzegovina",
+          "Brasile",
+          "Canada",
+          "Cile",
+          "Cina",
+          "Corea del Sud",
+          "Costa Rica",
+          "Ecuador",
+          "Finlandia",
+          "Francia",
+          "India",
+          "Italia",
+          "Messico",
+          "Nepal",
+          "Nigeria",
+          "Paesi Bassi",
+          "Pakistan",
+          "Panama",
+          "Paraguay",
+          "Perù",
+          "Regno Unito",
+          "Russia",
+          "Thailandia",
+          "Turchia",
+          "Venezuela"
+        ],
+        "trend": null
+      },
+      "n_articoli": 35,
+      "fonti": [
+        {
+          "testata": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/17/terremoto-in-indonesia-12.800-persone-non-possono-tornare-alle-loro-case_9b2e6a1b-6f4c-4ee8-b36b-6a12d530ac5a.html",
+          "titolo": "Terremoto in Indonesia, '12.800 persone non possono tornare alle loro case'",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Il Sole 24 Ore",
+          "url": "https://www.ilsole24ore.com/art/terremoto-indonesia-ecco-numeri-ed-email-avere-informazioni-AJcHpan",
+          "titolo": "Terremoto in Indonesia, almeno 53 morti. Ecco numeri ed email per avere informazioni",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "O Globo",
+          "url": "https://oglobo.globo.com/mundo/noticia/2026/08/17/indonesia-tem-quase-13-mil-desabrigados-apos-terremoto-que-deixou-53-mortos.ghtml",
+          "titolo": "Indonésia tem quase 13 mil desabrigados após terremoto que deixou 53 mortos",
+          "titolo_it": "Indonesia tem quasi 13mila sfollati dopo il terremoto che ha ucciso 53 persone",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "El Universo",
+          "url": "https://eluniverso.com/noticias/internacional/un-terremoto-de-57-sacude-la-isla-indonesia-de-flores-tras-fuerte-sismo-con-53-muertos-nota",
+          "titolo": "Un terremoto de 5,7 sacude la isla indonesia de Flores tras fuerte sismo con 53 muertos",
+          "titolo_it": "Un terremoto di 5,7 scuote l'isola indonesiana di Flores dopo un violento sisma che ha ucciso 53 persone",
+          "paese": "Ecuador",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Telesur",
+          "url": "https://www.telesurtv.net/nuevo-sismo-de-5-7-sacude-la-isla-de-flores-en-indonesia",
+          "titolo": "Nuevo sismo de 5.7 sacude la isla de Flores en Indonesia",
+          "titolo_it": "Nuovo terremoto di magnitudo 5.7 scuote l'isola di Flores in Indonesia",
+          "paese": "Venezuela",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "South China Morning Post",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364225/magnitude-59-aftershock-strikes-indonesias-flores-quake-death-toll-rises-53?utm_source=rss_feed",
+          "titolo": "Magnitude 5.9 aftershock strikes Indonesia’s Flores as quake death toll rises to 53",
+          "titolo_it": "Un terremoto di magnitudo 5,9 colpisce Flores in Indonesia, sale a 53 il bilancio delle vittime",
+          "paese": "Cina",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Korea Herald",
+          "url": "https://www.koreaherald.com/article/10843051",
+          "titolo": "Nearly 13,000 displaced after deadly Indonesian quake",
+          "titolo_it": "Quasi 13mila sfollati dopo il terremoto mortale in Indonesia",
+          "paese": "Corea del Sud",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Kathmandu Post",
+          "url": "https://kathmandupost.com/world/2026/08/16/at-least-47-dead-in-eastern-indonesia-after-magnitude-7-7-quake",
+          "titolo": "At least 47 dead in eastern Indonesia after magnitude 7.7 quake",
+          "titolo_it": "Almeno 47 morti nell'est dell'Indonesia dopo il terremoto di magnitudo 7.7",
+          "paese": "Nepal",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Oslobođenje",
+          "url": "https://www.oslobodjenje.ba/vijesti/svijet/indoneziju-nakon-razornog-potresa-od-7-7-pogodilo-jos-995-podrhtavanja-tla",
+          "titolo": "Indoneziju nakon razornog potresa od 7,7 pogodilo još 995 podrhtavanja tla",
+          "titolo_it": null,
+          "paese": "Bosnia ed Erzegovina",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "TASS",
+          "url": "https://tass.com/emergencies/2173957",
+          "titolo": "5.7-magnitude earthquake strikes Indonesia — statement",
+          "titolo_it": "Terremoto di magnitudo 5,7 colpisce l'Indonesia — comunicato",
+          "paese": "Russia",
+          "continente": "Europa",
+          "lingua_originale": "russo",
+          "live_blog": false
+        },
+        {
+          "testata": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+          "titolo": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+          "titolo_it": "Carenza di aiuti e paura della fame mentre l'Indonesia si riprende dal terremoto mortale",
+          "paese": "Regno Unito",
+          "continente": "Europa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "El Universal",
+          "url": "https://www.eluniversal.com.mx/mundo/vuelve-a-temblar-en-indonesia-sismo-de-57-sacude-la-isla-tras-terremoto-que-dejo-53-muertos",
+          "titolo": "Vuelve a temblar en Indonesia; sismo de 5.7 sacude la isla tras terremoto que dejó 53 muertos",
+          "titolo_it": "Torna a tremare in Indonesia; sisma di magnitudo 5.7 scuote l'isola dopo il terremoto che ha ucciso 53 persone",
+          "paese": "Messico",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "La Prensa (Panama)",
+          "url": "https://www.prensa.com/mundo/un-terremoto-de-57-sacude-la-isla-indonesia-de-flores-tras-fuerte-sismo-con-53-muertos",
+          "titolo": "Un terremoto de 5.7 sacude la isla indonesia de Flores tras fuerte sismo con 53 muertos",
+          "titolo_it": "Un terremoto di 5.7 scuote l'isola indonesiana di Flores dopo un violento sisma che ha causato 53 morti",
+          "paese": "Panama",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/world/article-indonesia-earthquake-death-toll-update",
+          "titolo": "Rescuers dig through rubble and landslides after a magnitude 7.7 earthquake in Indonesia kills 53",
+          "titolo_it": "Ricercatori scavano tra macerie e frane dopo un terremoto di magnitudo 7.7 in Indonesia che uccide 53 persone",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Punch",
+          "url": "https://punchng.com/earthquake-kills-54-displaces-12800-in-indonesia/?utm_source=rss.punchng.com&utm_medium=web",
+          "titolo": "Earthquake kills 54, displaces 12,800 in Indonesia",
+          "titolo_it": "Terremoto uccide 54 persone e sfollisce 12.800 in Indonesia",
+          "paese": "Nigeria",
+          "continente": "Africa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 20
+    }
+  ],
+  "cono_ombra": {
+    "temi": [
+      {
+        "id": 105,
+        "titolo": "La flessione economica cinese a luglio",
+        "titolo_da": null,
+        "titolo_provvisorio": false,
+        "sintesi": "L'economia cinese mostra segnali di rallentamento nel mese di luglio, con prezzi immobiliari stabili, vendite al dettaglio e attività manifatturiera sotto pressione. Fattori stagionali e climatici incidono sul mercato, mentre la stampa internazionale registra una crescita più lenta rispetto alle aspettative.",
+        "confronto": [
+          {
+            "area": "Asia",
+            "sintesi": "I prezzi delle nuove abitazioni nelle prime città cinesi sono rimasti stabili a luglio, interrompendo un periodo di recupero di quattro mesi. La crescita si è indebolita a causa di fattori stagionali e di un'estate piovosa, evidenziando la necessità di interventi per stabilizzare il mercato immobiliare.",
+            "testate": [
+              "South China Morning Post"
+            ]
+          },
+          {
+            "area": "Europa",
+            "sintesi": "L'economia cinese ha registrato un calo significativo a luglio, con una flessione che coinvolge diversi settori. La stampa internazionale osserva una contrazione che solleva preoccupazioni sull'andamento complessivo del sistema economico del paese.",
+            "testate": [
+              "Oslobođenje"
+            ]
+          },
+          {
+            "area": "Africa",
+            "sintesi": "Le vendite al dettaglio e l'attività manifatturiera cinese hanno registrato una crescita più lenta a luglio, scendendo sotto le previsioni. Questo trend evidenzia una persistente pressione sull'economia, con impatti che si fanno sentire anche a livello globale.",
+            "testate": [
+              "The Punch"
+            ]
+          }
+        ],
+        "convergenza": {
+          "percento": 1,
+          "n_testate": 3,
+          "continenti": [
+            "Africa",
+            "Asia",
+            "Europa"
+          ],
+          "trend": null,
+          "copertura_per_continente": {
+            "Europa": {
+              "coperte": 1,
+              "totali": 50,
+              "quota": 0.02
+            },
+            "Asia": {
+              "coperte": 1,
+              "totali": 56,
+              "quota": 0.0179
+            },
+            "Africa": {
+              "coperte": 1,
+              "totali": 57,
+              "quota": 0.0175
+            },
+            "Nord America": {
+              "coperte": 0,
+              "totali": 28,
+              "quota": 0.0
+            },
+            "Sud America": {
+              "coperte": 0,
+              "totali": 32,
+              "quota": 0.0
+            },
+            "Oceania": {
+              "coperte": 0,
+              "totali": 16,
+              "quota": 0.0
+            }
+          }
+        },
+        "n_articoli": 4,
+        "fonti": [
+          {
+            "testata": "South China Morning Post",
+            "url": "https://www.scmp.com/economy/economic-indicators/article/3364266/chinas-domestic-demand-stays-muted-july-retail-sales-miss-expectations?utm_source=rss_feed",
+            "titolo": "China’s domestic demand stays muted in July as retail sales miss expectations",
+            "titolo_it": "La domanda interna della Cina rimane bassa a luglio, con vendite al dettaglio sotto le aspettative",
+            "paese": "Cina",
+            "continente": "Asia",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "Oslobođenje",
+            "url": "https://www.oslobodjenje.ba/biznis/ekonomija/sta-se-desava-sa-kineskom-ekonomijom-znatno-je-pala-tokom-jula",
+            "titolo": "Šta se dešava sa kineskom ekonomijom? Znatno je pala tokom jula",
+            "titolo_it": null,
+            "paese": "Bosnia ed Erzegovina",
+            "continente": "Europa",
+            "lingua_originale": null,
+            "live_blog": false
+          },
+          {
+            "testata": "The Punch",
+            "url": "https://punchng.com/chinas-retail-sales-factory-activity-lagged-in-july/?utm_source=rss.punchng.com&utm_medium=web",
+            "titolo": "China’s retail sales, factory activity lagged in July",
+            "titolo_it": "Crescita del retail e dell'attività industriale cinese sotto le aspettative a luglio",
+            "paese": "Nigeria",
+            "continente": "Africa",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          }
+        ],
+        "fonti_omesse": 1,
+        "rilevanza": {
+          "popolazione_milioni": 1425,
+          "quota_mondiale": 0.18,
+          "ambito": "nazionale",
+          "portata": "generale",
+          "paesi": [
+            "Cina"
+          ]
+        },
+        "motivi": [
+          "silenzio geografico"
+        ],
+        "dissolvenza": {
+          "dissolvenza": false,
+          "andamento": []
+        }
+      },
+      {
+        "id": 14,
+        "titolo": "Accordo difensivo tra Arabia Saudita, Turchia e Pakistan: Trump ne apprezza l'unione regionale",
+        "titolo_da": null,
+        "titolo_provvisorio": false,
+        "sintesi": "Un accordo difensivo tra Arabia Saudita, Turchia e Pakistan ha ricevuto l'approvazione di Trump, visto come un passo verso una maggiore cooperazione regionale e un riassetto dell'ordine globale. Le testate sottolineano l'autodifesa e la riduzione della dipendenza dagli Stati Uniti.",
+        "confronto": [
+          {
+            "area": "Europa",
+            "sintesi": "Le testate europee evidenziano l'approvazione di Trump per l'accordo, interpretandolo come un segnale di unione regionale e un tentativo di fronteggiare le minacce iraniane, con un'accento sull'abbandono percepito dagli Stati Uniti.",
+            "testate": [
+              "Frankfurter Allgemeine Zeitung",
+              "Oslobođenje",
+              "TASS"
+            ]
+          },
+          {
+            "area": "Asia",
+            "sintesi": "Le testate asiatiche sottolineano il sostegno di Trump all'intesa, definita un passo coraggioso verso una cooperazione difensiva regionale, con riferimenti a un possibile 'NATO islamica' e a un riassetto globale riducendo la dipendenza americana.",
+            "testate": [
+              "Afghanistan International",
+              "Cumhuriyet",
+              "Daily Sabah",
+              "Dawn",
+              "South China Morning Post",
+              "The Times of India",
+              "The Times of Israel"
+            ]
+          },
+          {
+            "area": "Sud America",
+            "sintesi": "L'articolo brasiliano presenta l'accordo come una risposta ai conflitti del Golfo, mirando a rafforzare la stabilità regionale e promuovere pace e prosperità, in un contesto di incertezza sul ruolo degli Stati Uniti nel Medio Oriente.",
+            "testate": [
+              "O Globo"
+            ]
+          }
+        ],
+        "convergenza": {
+          "percento": 6,
+          "n_testate": 12,
+          "continenti": [
+            "Asia",
+            "Europa",
+            "Sud America"
+          ],
+          "trend": null,
+          "copertura_per_continente": {
+            "Europa": {
+              "coperte": 3,
+              "totali": 50,
+              "quota": 0.06
+            },
+            "Asia": {
+              "coperte": 8,
+              "totali": 56,
+              "quota": 0.1429
+            },
+            "Africa": {
+              "coperte": 0,
+              "totali": 57,
+              "quota": 0.0
+            },
+            "Nord America": {
+              "coperte": 0,
+              "totali": 28,
+              "quota": 0.0
+            },
+            "Sud America": {
+              "coperte": 1,
+              "totali": 32,
+              "quota": 0.0312
+            },
+            "Oceania": {
+              "coperte": 0,
+              "totali": 16,
+              "quota": 0.0
+            }
+          }
+        },
+        "n_articoli": 13,
+        "fonti": [
+          {
+            "testata": "Afghanistan International",
+            "url": "https://www.afintl.com/202608174938",
+            "titolo": "ترامپ از توافق دفاعی عربستان، ترکیه و پاکستان استقبال کرد",
+            "titolo_it": "Trump accoglie con favore l'accordo di difesa tra Arabia Saudita, Turchia e Pakistan",
+            "paese": "Afghanistan",
+            "continente": "Asia",
+            "lingua_originale": "farsi",
+            "live_blog": false
+          },
+          {
+            "testata": "The Hindu",
+            "url": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-donald-trump-live-updates-on-august-17-2026/article71354691.ece",
+            "titolo": "West Asia war LIVE: Trump welcomes defence pact between Saudi Arabia, Turkiye and Pakistan",
+            "titolo_it": "West Asia in guerra, diretta: Trump accoglie con favore il patto di difesa tra Arabia Saudita, Turchia e Pakistan",
+            "paese": "India",
+            "continente": "Asia",
+            "lingua_originale": "inglese",
+            "live_blog": true
+          },
+          {
+            "testata": "The Times of India",
+            "url": "https://timesofindia.indiatimes.com/world/middle-east/us-backs-islamic-nato-trump-calls-saudi-turkey-pakistan-pact-big-bold-and-important-step/articleshow/133285023.cms",
+            "titolo": "US backs 'Islamic Nato': Trump calls Saudi-Turkey-Pak pact 'big, bold step'",
+            "titolo_it": "Us sostiene la \"Nato islamica\": Trump definisce l'alleanza tra Arabia Saudita, Turchia e Pakistan \"un passo grande e audace",
+            "paese": "India",
+            "continente": "Asia",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "TASS",
+            "url": "https://tass.com/world/2173971",
+            "titolo": "Trump praises Mecca Agreement as sign of unity among Middle Eastern countries",
+            "titolo_it": "Trump elogia l'Accordo di Mecca come segnale di unità tra i Paesi del Medio Oriente",
+            "paese": "Russia",
+            "continente": "Europa",
+            "lingua_originale": "russo",
+            "live_blog": false
+          },
+          {
+            "testata": "Oslobođenje",
+            "url": "https://www.oslobodjenje.ba/vijesti/svijet/trump-prokomentarisao-formiranje-islamskog-nato-a-ovo-je-wow",
+            "titolo": "Trump prokomentarisao formiranje \"islamskog NATO-a\": \"Ovo je WOW\"",
+            "titolo_it": null,
+            "paese": "Bosnia ed Erzegovina",
+            "continente": "Europa",
+            "lingua_originale": null,
+            "live_blog": false
+          },
+          {
+            "testata": "Frankfurter Allgemeine Zeitung",
+            "url": "https://www.faz.net/aktuell/politik/ausland/warum-pakistan-saudi-arabien-und-die-tuerkei-sich-verbuenden-201112789.html",
+            "titolo": "Beistandspakt gegen Iran: Islamischer Schulterschluss in Mekka",
+            "titolo_it": "Patto di sostegno contro l'Iran: un fronte islamico a Mekka",
+            "paese": "Germania",
+            "continente": "Europa",
+            "lingua_originale": "tedesco",
+            "live_blog": false
+          },
+          {
+            "testata": "O Globo",
+            "url": "https://oglobo.globo.com/mundo/noticia/2026/08/17/incertezas-sobre-o-papel-dos-eua-no-oriente-medio-guiam-pacto-de-seguranca-entre-arabia-saudita-paquistao-e-turquia.ghtml",
+            "titolo": "Incertezas sobre o papel dos EUA no Oriente Médio guiam pacto de segurança entre Arábia Saudita, Paquistão e Turquia",
+            "titolo_it": "Incertezze sul ruolo degli Usa nel Medio Oriente guidano accordo di sicurezza tra Arabia Saudita, Pakistan e Turchia",
+            "paese": "Brasile",
+            "continente": "Sud America",
+            "lingua_originale": "portoghese",
+            "live_blog": false
+          }
+        ],
+        "fonti_omesse": 6,
+        "rilevanza": {
+          "popolazione_milioni": 354,
+          "quota_mondiale": 0.0448,
+          "ambito": "nazionale",
+          "portata": "generale",
+          "paesi": [
+            "Arabia Saudita",
+            "Pakistan",
+            "Stati Uniti",
+            "Turchia"
+          ]
+        },
+        "motivi": [
+          "silenzio geografico"
+        ],
+        "dissolvenza": {
+          "dissolvenza": false,
+          "andamento": []
+        }
+      },
+      {
+        "id": 98,
+        "titolo": "Celebrazioni dell'81° anniversario dell'indipendenza dell'Indonesia",
+        "titolo_da": null,
+        "titolo_provvisorio": false,
+        "sintesi": "L'Indonesia celebra l'81° anniversario dell'indipendenza con cerimonie in diverse regioni. A Giacarta si è svolta una parata militare e un alzabandiera, mentre a Konawe, in Sulawesi Orientale Meridionale, il governatore ha guidato una commemorazione in un villaggio dei pescatori.",
+        "confronto": [
+          {
+            "area": "Asia",
+            "sintesi": "A Giacarta si è svolta una cerimonia d'alzabandiera seguita da una parata militare per celebrare l'81° anniversario dell'indipendenza. In parallelo, a Konawe (Sulawesi Orientale Meridionale) il governatore ha guidato una commemorazione in un villaggio dei pescatori.",
+            "testate": [
+              "South China Morning Post",
+              "Tempo"
+            ]
+          }
+        ],
+        "convergenza": {
+          "percento": 1,
+          "n_testate": 2,
+          "continenti": [
+            "Asia"
+          ],
+          "trend": null,
+          "copertura_per_continente": {
+            "Europa": {
+              "coperte": 0,
+              "totali": 50,
+              "quota": 0.0
+            },
+            "Asia": {
+              "coperte": 2,
+              "totali": 56,
+              "quota": 0.0357
+            },
+            "Africa": {
+              "coperte": 0,
+              "totali": 57,
+              "quota": 0.0
+            },
+            "Nord America": {
+              "coperte": 0,
+              "totali": 28,
+              "quota": 0.0
+            },
+            "Sud America": {
+              "coperte": 0,
+              "totali": 32,
+              "quota": 0.0
+            },
+            "Oceania": {
+              "coperte": 0,
+              "totali": 16,
+              "quota": 0.0
+            }
+          }
+        },
+        "n_articoli": 4,
+        "fonti": [
+          {
+            "testata": "South China Morning Post",
+            "url": "https://www.scmp.com/news/asia/southeast-asia/article/3364233/indonesia-celebrates-national-day-parade-flag-raising-ceremony?utm_source=rss_feed",
+            "titolo": "Indonesia celebrates National Day with parade, flag-raising ceremony",
+            "titolo_it": "Indonesia celebra il Giorno Nazionale con un corteo e la cerimonia dell'alzabandiera",
+            "paese": "Cina",
+            "continente": "Asia",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "Tempo",
+            "url": "https://nasional.tempo.co/read/2117686/rayakan-hut-ke-81-ri-ptfi-serukan-semangat-bangkit-bersama-dari-timur-indonesia",
+            "titolo": "Rayakan HUT ke-81 RI, PTFI Serukan Semangat Bangkit Bersama dari Timur Indonesia",
+            "titolo_it": "PTFI invita alla rinascita unita dell'Indonesia orientale per celebrare l'81° anniversario della Repubblica",
+            "paese": "Indonesia",
+            "continente": "Asia",
+            "lingua_originale": "indonesiano",
+            "live_blog": false
+          }
+        ],
+        "fonti_omesse": 2,
+        "rilevanza": {
+          "popolazione_milioni": 279,
+          "quota_mondiale": 0.0352,
+          "ambito": "nazionale",
+          "portata": "generale",
+          "paesi": [
+            "Indonesia"
+          ]
+        },
+        "motivi": [
+          "silenzio geografico"
+        ],
+        "dissolvenza": {
+          "dissolvenza": false,
+          "andamento": []
+        }
+      }
+    ]
+  },
+  "pagine_continentali": [
+    {
+      "continente": "Sud America",
+      "temi": [
+        {
+          "id": 21,
+          "titolo": "Brasile: Lula e Bolsonaro avviano campagna elettorale",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Le testate sudamericane sottolineano gli aspetti logistici e simbolici della campagna, mentre quelle esterne enfatizzano la polarizzazione ideologica e la rilevanza storica del quarto mandato di Lula.",
+          "confronto": [
+            {
+              "area": "Sud America",
+              "sintesi": "Le testate focalizzano su eventi concreti (es. stadi, giacche antiproiettile), strategie locali (es. Minas Gerais) e dati tecnici (es. parità nelle encuestas). Mettono in primo piano la sicurezza e le dinamiche interne, con riferimenti a contesti regionali come il Messico o il Perù.",
+              "testate": [
+                "Agência Pública",
+                "El Universo",
+                "Folha de S.Paulo",
+                "La Diaria",
+                "La República",
+                "La Tercera",
+                "O Globo",
+                "Telesur"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "L'attenzione cade sul significato storico del quarto mandato di Lula, la polarizzazione ideologica con la destra e il ruolo di figure esterne (es. Trump). Si evidenzia il confronto tra 'sistema' e 'estremismo', con richiami a temi globali come i deepfake.",
+              "testate": [
+                "14ymedio",
+                "Der Spiegel",
+                "El País",
+                "El Universal",
+                "La Nación (Costa Rica)",
+                "Libération",
+                "The Guardian"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 5,
+            "n_testate": 15,
+            "continenti": [
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Brasile",
+              "Cile",
+              "Costa Rica",
+              "Cuba",
+              "Ecuador",
+              "Francia",
+              "Germania",
+              "Messico",
+              "Perù",
+              "Regno Unito",
+              "Spagna",
+              "Uruguay",
+              "Venezuela"
+            ],
+            "trend": null
+          },
+          "n_articoli": 17,
+          "fonti": [
+            {
+              "testata": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/08/na-largada-da-campanha-eleitoral-lula-lidera-atencao-nas-redes-sociais.shtml",
+              "titolo": "Na largada da campanha eleitoral, Lula lidera atenção nas redes sociais",
+              "titolo_it": "Alla vigilia della campagna elettorale, Lula domina l'attenzione sui social",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "O Globo",
+              "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/17/flavio-caiado-e-renan-usam-colete-a-prova-de-balas-em-primeiro-dia-de-campanha-lula-e-zema-dispensam-equipamento.ghtml",
+              "titolo": "Flávio, Caiado e Renan usam colete à prova de balas em primeiro dia de campanha; Lula e Zema dispensam equipamento",
+              "titolo_it": "Flávio, Caiado e Renan indossano il giubbotto antiproiettile nel primo giorno di campagna; Lula e Zema lo evitano",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universo",
+              "url": "https://eluniverso.com/opinion/foto-del-dia/lula-lanza-su-campana-nota",
+              "titolo": "Lula lanza su campaña",
+              "titolo_it": "Lula lancia la sua campagna",
+              "paese": "Ecuador",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El País",
+              "url": "https://elpais.com/expres/2026-08-17/brasil-entra-en-campana-electoral-claves-del-pulso-lula-bolsonaro.html",
+              "titolo": "Brasil entra en campaña electoral: claves del pulso Lula-Bolsonaro",
+              "titolo_it": "Brasile entra in campagna elettorale: le chiavi dello scontro Lula-Bolsonaro",
+              "paese": "Spagna",
+              "continente": "Europa",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Libération",
+              "url": "https://www.liberation.fr/international/amerique/bresil-lula-remplit-un-stade-et-brigue-un-4e-mandat-20260817_RNI2ODKOFNAQVGEUB4RCVWXEF4",
+              "titolo": "Brésil : Lula remplit un stade et brigue un quatrième mandat",
+              "titolo_it": "Brasile: Lula riempie uno stadio e punta al quarto mandato",
+              "paese": "Francia",
+              "continente": "Europa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "Der Spiegel",
+              "url": "https://www.spiegel.de/ausland/brasilien-luiz-inacio-lula-da-silva-und-flavio-bolsonaro-starten-in-den-wahlkampf-a-93851793-8c02-4920-8a59-471158262955",
+              "titolo": "Brasilien: Luiz Inácio Lula da Silva und Flávio Bolsonaro starten in den Wahlkampf",
+              "titolo_it": "Brasile: Lula e Flávio Bolsonaro lanciano la campagna elettorale",
+              "paese": "Germania",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "La Nación (Costa Rica)",
+              "url": "https://www.nacion.com/el-mundo/lula-y-flavio-bolsonaro-disputan-el-voto-femenino/7GWCAZBFMNCU5N67N7FJMDTYPA/story",
+              "titolo": "Lula y Flávio Bolsonaro disputan el voto femenino en una elección polarizada en Brasil",
+              "titolo_it": "Lula e Flávio Bolsonaro contendono il voto femminile in un'elezione polarizzata in Brasile",
+              "paese": "Costa Rica",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "14ymedio",
+              "url": "https://www.14ymedio.com/internacional/campana-presidencial-arranca-brasil-lula_1_1129850.html",
+              "titolo": "La campaña presidencial arranca en Brasil con Lula y Flávio en empate técnico",
+              "titolo_it": "La campagna presidenziale inizia in Brasile con Lula e Flávio in parità tecnica",
+              "paese": "Cuba",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universal",
+              "url": "https://www.eluniversal.com.mx/mundo/lula-y-flavio-bolsonaro-arrancan-campanas-para-elecciones-de-octubre-la-seguridad-es-la-clave",
+              "titolo": "Lula y Flávio Bolsonaro arrancan campañas para elecciones de octubre; la seguridad es la clave",
+              "titolo_it": "Lula e Flávio Bolsonaro lanciano le campagne per le elezioni di ottobre; la sicurezza è la chiave",
+              "paese": "Messico",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 8,
+          "convergenza_interna": {
+            "continente": "Sud America",
+            "coperte": 8,
+            "totali": 32
+          }
+        },
+        {
+          "id": 9,
+          "titolo": "Terremoto in Colombia: lo sguardo da dentro e da fuori",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Un terremoto di magnitudo 7,4 ha colpito la Colombia, causando centinaia di vittime e danni estesi. Le testate del Sud America evidenziano la crisi sanitaria e le criticità locali, mentre quelle esterne focalizzano su aiuti internazionali e critiche politiche, evidenziando uno scarto nel racconto.",
+          "confronto": [
+            {
+              "area": "Sud America",
+              "sintesi": "Le testate sudamericane mettono al centro il sistema sanitario colpito, l'autogestione delle comunità e la mancanza di risposta governativa. Si sottolinea la psicologia dei sopravvissuti e le controversie sui soccorsi esteri, con dati precisi sulle vittime e i feriti.",
+              "testate": [
+                "ABC Color",
+                "El Nacional",
+                "El Tiempo",
+                "El Universo",
+                "La Tercera",
+                "Primicias",
+                "Telesur"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne enfatizzano l'assistenza internazionale (es. Israele) e le critiche al presidente colombiano per l'indifferenza. Riducono il focus alle statistiche e all'indignazione per l'azione politica, trascurando le dinamiche locali e psicologiche.",
+              "testate": [
+                "Al Jazeera",
+                "Confidencial",
+                "Diario Libre",
+                "El País",
+                "El Universal",
+                "La Nación (Costa Rica)",
+                "La Prensa (Panama)",
+                "The Globe and Mail",
+                "The Jerusalem Post",
+                "The Kathmandu Post"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 8,
+            "n_testate": 17,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Canada",
+              "Cile",
+              "Colombia",
+              "Costa Rica",
+              "Ecuador",
+              "Israele",
+              "Messico",
+              "Nepal",
+              "Nicaragua",
+              "Panama",
+              "Paraguay",
+              "Qatar",
+              "Repubblica Dominicana",
+              "Spagna",
+              "Venezuela"
+            ],
+            "trend": null
+          },
+          "n_articoli": 21,
+          "fonti": [
+            {
+              "testata": "La Tercera",
+              "url": "https://www.latercera.com/mundo/noticia/colombia-rebaja-a-casi-287-los-muertos-y-eleva-a-cerca-de-4150-los-heridos-por-el-terremoto",
+              "titolo": "Colombia rebaja a casi 287 los muertos y eleva a cerca de 4.150 los heridos por el terremoto",
+              "titolo_it": "Colombia riduce a 287 i morti e sale a circa 4.150 i feriti per il terremoto",
+              "paese": "Cile",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Tiempo",
+              "url": "https://www.eltiempo.com/colombia/otras-ciudades/las-manos-del-personal-medico-que-sostienen-un-sistema-de-salud-golpeado-por-el-terremoto-3578822",
+              "titolo": "Las manos del personal médico que sostienen un sistema de salud golpeado por el terremoto",
+              "titolo_it": "Le mani del personale medico che sostiene un sistema sanitario colpito dal terremoto",
+              "paese": "Colombia",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universo",
+              "url": "https://eluniverso.com/noticias/internacional/quedan-los-recuerdos-una-campana-recupera-pertenencias-de-victimas-del-terremoto-en-colombia-nota",
+              "titolo": "“Quedan los recuerdos”: una campaña recupera pertenencias de víctimas del terremoto en Colombia",
+              "titolo_it": "Quedan los recuerdos\": una campagna recupera gli oggetti delle vittime del terremoto in Colombia",
+              "paese": "Ecuador",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universal",
+              "url": "https://www.eluniversal.com.mx/mundo/colombia-remueve-escombros-tras-terremoto-esperanzas-de-hallar-sobrevivientes-al-minimo",
+              "titolo": "Colombia remueve escombros, tras terremoto; esperanzas de hallar sobrevivientes, al mínimo",
+              "titolo_it": "Colombia rimuove gli scavi dopo il terremoto; speranze di trovare sopravvissuti al minimo",
+              "paese": "Messico",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Diario Libre",
+              "url": "https://www.diariolibre.com/videos/mundo/america-latina/2026/08/14/damnificados-la-otra-realidad-tras-el-terremoto-en-colombia/3628890",
+              "titolo": "Damnificados, la otra realidad tras el terremoto en Colombia",
+              "titolo_it": "Vittime, l'altra realtà dietro il terremoto in Colombia",
+              "paese": "Repubblica Dominicana",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/world/article-aid-effort-expands-in-colombia-nearly-a-week-after-earthquake",
+              "titolo": "Aid effort expands in Colombia nearly a week after earthquake",
+              "titolo_it": "L'efforto di aiuto si espande in Colombia quasi una settimana dopo il terremoto",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Jerusalem Post",
+              "url": "https://www.jpost.com/diaspora/article-905738",
+              "titolo": "WATCH: Israel’s 'Alliance of Brothers' delegation aids in search and rescue efforts across Colombia",
+              "titolo_it": "ISRAELE, LA \"ALLEANZA DEI FRATELLI\" AIUTA NEI RICERCHI E NELLE OPERAZIONI DI SALVATAGGIO IN COLOMBIA",
+              "paese": "Israele",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Kathmandu Post",
+              "url": "https://kathmandupost.com/world/2026/08/16/hopes-fade-in-colombia-as-more-bodies-recovered-days-after-powerful-quake",
+              "titolo": "Hopes fade in Colombia as more bodies recovered days after powerful quake",
+              "titolo_it": "Svaniscono le speranze in Colombia mentre vengono recuperati altri corpi giorni dopo il violento terremoto",
+              "paese": "Nepal",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
+              "titolo": "Outrage as Colombia’s president hands out footballs as residents await aid",
+              "titolo_it": "Sdegno mentre il presidente della Colombia distribuisce palloni mentre i residenti attendono l'aiuto",
+              "paese": "Qatar",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "El País",
+              "url": "https://elpais.com/america-colombia/2026-08-17/el-miedo-a-volver-a-casa-tras-el-terremoto-se-mueven-las-cortinas-y-uno-piensa-que-esta-temblando.html",
+              "titolo": "El miedo a volver a casa tras el terremoto: “Se mueven las cortinas y uno piensa que está temblando”",
+              "titolo_it": "Il terrore di tornare a casa dopo il terremoto: \"Si muovono le tende e uno pensa che stia tremando",
+              "paese": "Spagna",
+              "continente": "Europa",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 11,
+          "convergenza_interna": {
+            "continente": "Sud America",
+            "coperte": 7,
+            "totali": 32
+          }
+        },
+        {
+          "id": 17,
+          "titolo": "Lens batte il PSG e vince la Supercopa di Francia",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Il Lens ha sconfitto il Paris Saint-Germain 1-0 nella finale della Supercopa di Francia, interrompendo la striscia di vittorie del club parigino. Le testate sudamericane evidenziano l'aspetto tattico e i singoli protagonisti, mentre quelle esterne sottolineano la sorpresa e il significato simbolico della vittoria.",
+          "confronto": [
+            {
+              "area": "Sud America",
+              "sintesi": "Le testate sudamericane enfatizzano la vittoria del Lens in dieci, il ruolo del tecnico Toppmöller e i singoli (es. Willian Pacho). Si focalizzano sulle dinamiche tattiche e sulle prospettive future del club francese, con un'attenzione ai dettagli tecnici e ai calciatori stranieri.",
+              "testate": [
+                "El Universo",
+                "Estadão",
+                "Folha de S.Paulo",
+                "La Nación (Argentina)",
+                "La Tercera",
+                "Primicias"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne sottolineano la sorpresa della vittoria del Lens, la fine della dominazione del PSG e il significato simbolico del trofeo. Si concentrano sull'aspetto narrativo (es. 'underdog') e sull'interruzione di una serie di quattro anni, trascurando dettagli tattici o individuali.",
+              "testate": [
+                "Afghanistan International",
+                "Cumhuriyet",
+                "Frankfurter Allgemeine Zeitung",
+                "Iran International",
+                "Koha Ditore",
+                "LRT",
+                "La Nación (Costa Rica)",
+                "Seneweb",
+                "The Punch"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 6,
+            "n_testate": 15,
+            "continenti": [
+              "Africa",
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Afghanistan",
+              "Argentina",
+              "Brasile",
+              "Cile",
+              "Costa Rica",
+              "Ecuador",
+              "Germania",
+              "Iran",
+              "Kosovo",
+              "Lituania",
+              "Nigeria",
+              "Senegal",
+              "Turchia"
+            ],
+            "trend": null
+          },
+          "n_articoli": 17,
+          "fonti": [
+            {
+              "testata": "La Nación (Argentina)",
+              "url": "https://www.lanacion.com.ar/deportes/futbol/lens-campeon-de-la-supercopa-de-francia-vencio-al-imbatible-psg-jugando-mas-de-un-tiempo-con-10-nid16082026",
+              "titolo": "Lens campeón de la Supercopa de Francia: venció al imbatible PSG jugando más de un tiempo con 10 futbolistas",
+              "titolo_it": "Lens campione della Supercopa di Francia: ha battuto l'invincibile PSG giocando più di un tempo con 10 calciatori",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Estadão",
+              "url": "https://www.estadao.com.br/esportes/futebol/lens-anula-poderio-do-psg-e-conquista-a-supercopa-da-franca-pela-1-vez",
+              "titolo": "Lens anula poderio do PSG e conquista a Supercopa da França pela primeira vez",
+              "titolo_it": "Lens smonta il potere del PSG e vince la Supercoppa di Francia per la prima volta",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/esporte/2026/08/lens-se-segura-com-um-a-menos-bate-psg-e-conquista-supercopa-da-franca.shtml",
+              "titolo": "Lens se segura com um a menos, bate PSG e conquista Supercopa da França",
+              "titolo_it": "Lens si aggiudica la Supercopa di Francia con un uomo in meno, sconfigge il PSG",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "Frankfurter Allgemeine Zeitung",
+              "url": "https://www.faz.net/aktuell/sport/fussball/dino-toppmoeller-gewinnt-mit-lens-den-supercup-gegen-psg-accg-201132475.html",
+              "titolo": "Traumeinstand in Frankreich: Toppmöller schlägt mit Lens überraschend PSG und gewinnt Supercup",
+              "titolo_it": "Trionfo inaspettato in Francia: Toppmöller conduce Lens alla vittoria contro il PSG e conquista la Supercoppa",
+              "paese": "Germania",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "LRT",
+              "url": "https://www.lrt.lt/naujienos/sportas/10/3024022/netiketumas-sezono-starte-psg-iveikes-lens-klubas-iskovojo-prancuzijos-supertaure",
+              "titolo": "Netikėtumas sezono starte: PSG įveikęs „Lens“ klubas iškovojo Prancūzijos Supertaurę",
+              "titolo_it": "Sorpresa all'inizio della stagione: il PSG batte Lens e vince la Supercoppa francese",
+              "paese": "Lituania",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Koha Ditore",
+              "url": "https://www.koha.net/futboll/lensi-befason-psg-ne-e-fiton-trofeun-e-superkupes",
+              "titolo": "Lensi befason PSG-në, e fiton trofeun e Superkupës",
+              "titolo_it": null,
+              "paese": "Kosovo",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Afghanistan International",
+              "url": "https://www.afintl.com/202608163844",
+              "titolo": "لانس با شکست پاری‌سن‌ژرمن برای نخستین‌بار قهرمان سوپرجام فرانسه شد",
+              "titolo_it": "L'Nantes ha sconfitto il Paris Saint-Germain e ha vinto per la prima volta la Supercoppa di Francia",
+              "paese": "Afghanistan",
+              "continente": "Asia",
+              "lingua_originale": "farsi",
+              "live_blog": false
+            },
+            {
+              "testata": "Iran International",
+              "url": "https://www.iranintl.com/202608163093",
+              "titolo": "لانس ۱-۰ پاری‌سن‌ژرمن؛ شکستی باورنکردنی برای قهرمان اروپا در سوپرجام فرانسه",
+              "titolo_it": "Lance 1-0 PSG; sconfitta incredibile per il campione d'Europa nella Supercoppa francese",
+              "paese": "Iran",
+              "continente": "Asia",
+              "lingua_originale": "farsi",
+              "live_blog": false
+            },
+            {
+              "testata": "Cumhuriyet",
+              "url": "https://www.cumhuriyet.com.tr/spor/psg-yi-deviren-lens-fransa-super-kupasi-nin-sahibi-oldu-2529633",
+              "titolo": "PSG'yi deviren Lens Fransa Süper Kupası'nın sahibi oldu!",
+              "titolo_it": "Lens ha sconfitto il PSG e vinto la Supercoppa di Francia!",
+              "paese": "Turchia",
+              "continente": "Asia",
+              "lingua_originale": "turco",
+              "live_blog": false
+            },
+            {
+              "testata": "The Punch",
+              "url": "https://punchng.com/10-man-lens-beat-psg-1-0-to-win-french-champions-trophy/?utm_source=rss.punchng.com&utm_medium=web",
+              "titolo": "10-man Lens beat PSG 1-0 to win French Champions’ trophy",
+              "titolo_it": "Lens con 10 uomini batte il PSG 1-0 e vince lo scudetto francese",
+              "paese": "Nigeria",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Seneweb",
+              "url": "https://www.seneweb.com/fr/news/Sport/trophee-des-champions-lens-bat-le-psg_n_501522.html",
+              "titolo": "Trophée des champions : Lens bat le PSG",
+              "titolo_it": "Trophée des Champions: Lens batte il PSG",
+              "paese": "Senegal",
+              "continente": "Africa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "La Nación (Costa Rica)",
+              "url": "https://www.nacion.com/puro-deporte/no-son-invencibles-lens-sorprende-al-psg-con/GNNEPR7OCREZJEH6SKPGVBJEKI/story",
+              "titolo": "No son invencibles: Lens sorprende al PSG con victoria en el Trofeo de Campeones",
+              "titolo_it": "Non sono invincibili: Lens sorprende il PSG con la vittoria al Trofeo dei Campioni",
+              "paese": "Costa Rica",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 5,
+          "convergenza_interna": {
+            "continente": "Sud America",
+            "coperte": 6,
+            "totali": 32
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Nord America",
+      "temi": [
+        {
+          "id": 16,
+          "titolo": "Uragano Lala travolge le Hawaii: confronto tra sguardi interni e esterni",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "L'uragano Lala ha colpito le Hawaii causando danni, interruzioni di corrente e un decesso. Le testate nordamericane evidenziano la rarità dell'evento e le operazioni di soccorso, mentre quelle estere si concentrano sui numeri dei danni e sottacendono spesso la vittima.",
+          "confronto": [
+            {
+              "area": "Nord America",
+              "sintesi": "Le testate nordamericane mettono al centro la rara intensità dell'evento (primo uragano in 155 anni), le interruzioni di corrente su larga scala e le missioni di soccorso. Sottolineano la vulnerabilità locale e il contesto climatico, mentre il decesso è citato solo in un articolo.",
+              "testate": [
+                "CBC News",
+                "Le Devoir",
+                "NPR",
+                "Prensa Libre",
+                "The Globe and Mail"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate internazionali enfatizzano i danni materiali (case distrutte, blackout) e le piogge eccezionali. Il decesso è menzionato solo in due articoli (Finlandia e Guatemala). Non si focalizzano sulla rarità dell'evento né sulle operazioni di soccorso, ma su dati statistici e impatto visibile.",
+              "testate": [
+                "BBC News",
+                "Chosun Ilbo",
+                "Daily Maverick",
+                "Der Spiegel",
+                "Helsingin Sanomat",
+                "Hindustan Times",
+                "LRT",
+                "O Globo",
+                "The Korea Herald"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 6,
+            "n_testate": 14,
+            "continenti": [
+              "Africa",
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Brasile",
+              "Canada",
+              "Corea del Sud",
+              "Finlandia",
+              "Germania",
+              "Guatemala",
+              "India",
+              "Lituania",
+              "Regno Unito",
+              "Stati Uniti",
+              "Sudafrica"
+            ],
+            "trend": null
+          },
+          "n_articoli": 15,
+          "fonti": [
+            {
+              "testata": "CBC News",
+              "url": "https://www.cbc.ca/news/world/hurricane-lala-hawaii-9.7308966?cmp=rss",
+              "titolo": "Lala drenches, lashes Hawaii despite weakening to tropical storm",
+              "titolo_it": "Lala inonda e flagella le Hawaii, anche se si è indebolito a tempesta tropicale",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Le Devoir",
+              "url": "https://www.ledevoir.com/monde/etats-unis/1002143/tempete-lala-provoque-importantes-coupures-electricite",
+              "titolo": "L’ouragan Lala provoque d’importantes coupures d’électricité",
+              "titolo_it": "L’uragano Lala provoca gravi interruzioni di corrente",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/world/article-tropical-storm-hurricane-lala-hawaii",
+              "titolo": "Lala downgrades to tropical storm, sending drenching rain and winds across the Hawaiian islands",
+              "titolo_it": "Lala si degrada in tempesta tropicale, portando forti piogge e venti alle Hawaii",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Helsingin Sanomat",
+              "url": "https://www.hs.fi/maailma/art-2000012209408.html",
+              "titolo": "Hirmumyrskyt | Hurrikaani vaurioitti koteja ja tappoi ainakin yhden ihmisen Havaijilla",
+              "titolo_it": null,
+              "paese": "Finlandia",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Der Spiegel",
+              "url": "https://www.spiegel.de/panorama/tropensturm-lala-sorgt-fuer-zerstoerung-auf-hawaii-a-1111827d-bd9f-42d5-bc11-1270720d4b0b",
+              "titolo": "Tropensturm »Lala« sorgt für Zerstörung auf Hawaii",
+              "titolo_it": "Tempesta tropicale \"Lala\" provoca distruzione a Hawaii",
+              "paese": "Germania",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "LRT",
+              "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3023134/uraganas-lala-nusiaube-havajus",
+              "titolo": "Uraganas Lala nusiaubė Havajus",
+              "titolo_it": "Uragano Lala si avvicina alle Hawaii",
+              "paese": "Lituania",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Korea Herald",
+              "url": "https://www.koreaherald.com/article/10843053",
+              "titolo": "Tropical Storm Lala rakes Hawaii with high winds and rain without making landfall",
+              "titolo_it": "Tempesta tropicale Lala flagella le Hawaii con forti venti e pioggia senza toccare terra",
+              "paese": "Corea del Sud",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Chosun Ilbo",
+              "url": "https://www.chosun.com/international/international_general/2026/08/16/MYYTMYLBHFRTAOJXMZSWKNRRHA",
+              "titolo": "하와이 빅아일랜드, 155년 만에 허리케인… 대규모 정전 발생",
+              "titolo_it": "Hawaii Big Island, uragano dopo 155 anni… si registrano ampie interruzioni di corrente",
+              "paese": "Corea del Sud",
+              "continente": "Asia",
+              "lingua_originale": "coreano",
+              "live_blog": false
+            },
+            {
+              "testata": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/us-news/hawaii-power-outage-map-update-honolulu-and-maui-counties-affected-as-tropical-storm-lala-triggers-flash-flooding-101786906780107.html",
+              "titolo": "Hawaii power outage update: Honolulu and Maui counties affected as Tropical Storm Lala triggers flash flooding",
+              "titolo_it": "Aggiornamento sulla mancanza di corrente in Hawaii: colpite le contee di Honolulu e Maui a causa dell'uragano tropicale Lala che provoca alluvioni improvvise",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Daily Maverick",
+              "url": "https://www.dailymaverick.co.za/article/2026-08-17-more-than-180-000-without-power-in-hawaii-100-homes-damaged-as-lala-weakens-to-tropical-storm",
+              "titolo": "More than 180,000 without power in Hawaii, 100 homes damaged as Lala weakens to tropical storm",
+              "titolo_it": "Oltre 180mila persone senza corrente in Hawaii, 100 case danneggiate mentre Lala si indebolisce a tempesta tropicale",
+              "paese": "Sudafrica",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "O Globo",
+              "url": "https://oglobo.globo.com/mundo/noticia/2026/08/16/no-havai-ilha-grande-inicia-recuperacao-enquanto-furacao-lala-perde-forca.ghtml",
+              "titolo": "No Havaí, Ilha Grande inicia recuperação enquanto furacão Lala perde força",
+              "titolo_it": "Nell'Hawaì, l'Isola Grande inizia il recupero mentre l'uragano Lala perde forza",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 4,
+          "convergenza_interna": {
+            "continente": "Nord America",
+            "coperte": 5,
+            "totali": 28
+          }
+        },
+        {
+          "id": 31,
+          "titolo": "Il matrimonio intimo di Cristiano Ronaldo e Georgina Rodríguez: confronto tra sguardi continentali",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Cristiano Ronaldo e Georgina Rodríguez si sono sposati in una cerimonia privata in Portogallo. Le testate del Nord America sottolineano l'intimità e l'assenza di invitati, mentre quelle del Resto del mondo evidenziano dettagli di lusso e aspetti religiosi, con un focus su gioielli e abiti di marca.",
+          "confronto": [
+            {
+              "area": "Nord America",
+              "sintesi": "Le testate del Nord America mettono al centro l'intimità della cerimonia, sottolineando l'assenza di invitati esterni e la presenza esclusiva dei figli. Si anticipa una futura celebrazione più ampia, dando per scontato il carattere privato dell'unione.",
+              "testate": [
+                "Diario Libre",
+                "La Nación (Costa Rica)",
+                "La Prensa (Panama)",
+                "Prensa Libre"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate del Resto del mondo enfatizzano dettagli di lusso (gioielli da 75 milioni di dollari, abiti Gucci) e aspetti religiosi (benedizione a Fátima). Si focalizzano su scelte stilistiche non convenzionali, come l'assenza dell'abito da sposa, e su elementi simbolici del matrimonio.",
+              "testate": [
+                "La República",
+                "Público",
+                "VnExpress"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 3,
+            "n_testate": 7,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Costa Rica",
+              "Guatemala",
+              "Panama",
+              "Perù",
+              "Portogallo",
+              "Repubblica Dominicana",
+              "Vietnam"
+            ],
+            "trend": null
+          },
+          "n_articoli": 7,
+          "fonti": [
+            {
+              "testata": "Diario Libre",
+              "url": "https://www.diariolibre.com/revista/farandula/2026/08/16/cristiano-y-georgina-se-casan-en-intima-ceremonia-en-portugal/3630756",
+              "titolo": "Cristiano y Georgina se casan en íntima ceremonia en Portugal",
+              "titolo_it": "Cristiano e Georgina si sposano in una cerimonia intima in Portogallo",
+              "paese": "Repubblica Dominicana",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "La Nación (Costa Rica)",
+              "url": "https://www.nacion.com/viva/por-fin-cristiano-ronaldo-y-georgina-muestran-las/33LNFL5PYRFNFHALZY325N3FAE/story",
+              "titolo": "¡Por fin! Cristiano Ronaldo y Georgina muestran las primeras fotos de su boda",
+              "titolo_it": "Finalmente! Cristiano Ronaldo e Georgina mostrano le prime foto del loro matrimonio",
+              "paese": "Costa Rica",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Prensa Libre",
+              "url": "https://www.prensalibre.com/deportes/futbol-internacional/asi-fue-la-intima-boda-de-cristiano-ronaldo-y-georgina-sin-invitados-y-en-su-propia-casa-breaking",
+              "titolo": "Así fue la íntima boda de Cristiano Ronaldo y Georgina: sin invitados y en su propia casa",
+              "titolo_it": "Così è stata la cerimonia intima di Cristiano Ronaldo e Georgina: senza invitati e nella loro casa",
+              "paese": "Guatemala",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "VnExpress",
+              "url": "https://vnexpress.net/bo-trang-suc-cuoi-75-trieu-usd-cua-vo-ronaldo-5109990.html",
+              "titolo": "Bộ trang sức cưới 75 triệu USD của vợ Ronaldo",
+              "titolo_it": null,
+              "paese": "Vietnam",
+              "continente": "Asia",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "La República",
+              "url": "https://larepublica.pe/entretenimiento/2026/08/16/revelan-imagenes-de-la-boda-privada-de-cristiano-ronaldo-y-georgina-rodriguez-donde-ella-no-uso-vestido-de-novia-1456928",
+              "titolo": "Revelan imágenes de la boda privada de Cristiano Ronaldo y Georgina Rodríguez donde ella no usó vestido de novia",
+              "titolo_it": "Rivelate immagini del matrimonio privato di Cristiano Ronaldo e Georgina Rodríguez in cui lei non indossava l'abito da sposa",
+              "paese": "Perù",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Público",
+              "url": "https://www.publico.pt/2026/08/17/impar/noticia/bencao-fatima-noivos-gucci-ronaldo-georgina-revelam-detalhes-casamento-2185223",
+              "titolo": "Bênção em Fátima e noivos em Gucci: Ronaldo e Georgina revelam detalhes do casamento",
+              "titolo_it": "Benedizione a Fátima e sposi in Gucci: Ronaldo e Georgina svelano i dettagli del matrimonio",
+              "paese": "Portogallo",
+              "continente": "Europa",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 1,
+          "convergenza_interna": {
+            "continente": "Nord America",
+            "coperte": 4,
+            "totali": 28
+          }
+        },
+        {
+          "id": 34,
+          "titolo": "Tommy John, pioniere della chirurgia al gomito, muore a 83 anni",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Tommy John, lanciatore MLB e omonimo dell'intervento chirurgico al gomito, è morto a 83 anni. Le testate nordamericane enfatizzano il suo impatto sul baseball e la diffusione della tecnica, mentre quelle esterne si limitano a collegare la sua morte al nome dell'operazione.",
+          "confronto": [
+            {
+              "area": "Nord America",
+              "sintesi": "Le testate focalizzano su carriera sportiva (288 vittorie), l'innovazione chirurgica e il suo impatto su migliaia di atleti. Si dà per scontato la conoscenza del baseball e si sottolinea la rilevanza storica della tecnica.",
+              "testate": [
+                "CBC News",
+                "Diario Libre",
+                "NPR",
+                "The Globe and Mail"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Si limitano a collegare la morte al nome dell'operazione chirurgica, senza contestualizzare la sua carriera o l'importanza nella medicina sportiva. Chosun Ilbo lo associa a celebrità sportive coreane, ma non approfondisce.",
+              "testate": [
+                "ABC Color",
+                "Chosun Ilbo"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 3,
+            "n_testate": 6,
+            "continenti": [
+              "Asia",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Canada",
+              "Corea del Sud",
+              "Paraguay",
+              "Repubblica Dominicana",
+              "Stati Uniti"
+            ],
+            "trend": null
+          },
+          "n_articoli": 6,
+          "fonti": [
+            {
+              "testata": "Diario Libre",
+              "url": "https://www.diariolibre.com/deportes/beisbol/2026/08/16/mlb-el-lanzador-tommy-john-fallece-a-los-83-anos-de-edad/3630534",
+              "titolo": "MLB: El lanzador Tommy John fallece a los 83 años de edad",
+              "titolo_it": "MLB: Il lanciatore Tommy John muore a 83 anni",
+              "paese": "Repubblica Dominicana",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "CBC News",
+              "url": "https://www.cbc.ca/sports/baseball/tommy-john-obit-aug-16-9.7309186?cmp=rss",
+              "titolo": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dead at 83",
+              "titolo_it": "Tommy John, il cui nome è legato a un'innovativa operazione al gomito che salvò la sua carriera, è morto a 83 anni",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Chosun Ilbo",
+              "url": "https://www.chosun.com/international/international_general/2026/08/17/YFCNSV7QGJHF7G7D3CCPALSEPY",
+              "titolo": "류현진·오타니도 받은 그 수술... ‘토미 존’ 83세로 별세",
+              "titolo_it": "L'uomo dietro l'intervento subìto da Ryu e Ohtani... Tommy John, 83 anni, è morto",
+              "paese": "Corea del Sud",
+              "continente": "Asia",
+              "lingua_originale": "coreano",
+              "live_blog": false
+            },
+            {
+              "testata": "ABC Color",
+              "url": "https://www.abc.com.py/deportes/polideportivo/2026/08/16/muere-a-los-83-anos-el-exbeisbolista-tommy-john-que-dio-nombre-a-una-cirugia-de-codo",
+              "titolo": "Muere a los 83 años el exbeisbolista Tommy John, que dio nombre a una cirugía de codo",
+              "titolo_it": "Muore a 83 anni l'ex giocatore di baseball Tommy John, da cui prende il nome un'operazione al gomito",
+              "paese": "Paraguay",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 2,
+          "convergenza_interna": {
+            "continente": "Nord America",
+            "coperte": 4,
+            "totali": 28
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Europa",
+      "temi": [
+        {
+          "id": 11,
+          "titolo": "Incendio boschivo in Belgio: confronto tra Europa e resto del mondo",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Un incendio nel parco Hohes Venn ha distrutto migliaia di ettari. Le testate europee evidenziano criticità logistiche e contenimento, mentre quelle esterne enfatizzano la portata eccezionale e il rischio transfrontaliero.",
+          "confronto": [
+            {
+              "area": "Europa",
+              "sintesi": "Le testate europee focalizzano su carenze strutturali (mancanza di aerei antincendio), dinamiche locali (torfoso sotterraneo) e contenimento delle fiamme. Sottolineano l'assenza di espansione verso la Germania e il coinvolgimento di risorse congiunte.",
+              "testate": [
+                "ANSA",
+                "BBC News",
+                "Dagens Nyheter",
+                "De Standaard",
+                "Der Spiegel",
+                "Der Standard",
+                "Die Presse",
+                "Frankfurter Allgemeine Zeitung",
+                "Helsingin Sanomat",
+                "LRT",
+                "Le Figaro",
+                "Libération",
+                "NRC",
+                "NRK Sápmi",
+                "Svenska Dagbladet"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne presentano l'incendio come record storico (3000 ettari distrutti) e minaccia diretta alla Germania, enfatizzando evacuazioni e interventi internazionali. Omettono dettagli tecnici sulle cause e le risorse locali.",
+              "testate": [
+                "ABC Color",
+                "Daily Maverick",
+                "Dawn",
+                "Infobae",
+                "La Tercera",
+                "Telesur"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 7,
+            "n_testate": 22,
+            "continenti": [
+              "Africa",
+              "Asia",
+              "Europa",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Austria",
+              "Belgio",
+              "Cile",
+              "Finlandia",
+              "Francia",
+              "Germania",
+              "India",
+              "Italia",
+              "Lituania",
+              "Norvegia",
+              "Paesi Bassi",
+              "Pakistan",
+              "Paraguay",
+              "Regno Unito",
+              "Sudafrica",
+              "Svezia",
+              "Venezuela"
+            ],
+            "trend": null
+          },
+          "n_articoli": 31,
+          "fonti": [
+            {
+              "testata": "ANSA",
+              "url": "https://www.ansa.it/sito/videogallery/mondo/2026/08/17/incendio-in-belgio-in-fiamme-il-parco-naturale-delle-hautes-fagnes_39768d3a-327d-4f7d-9242-bef9065361ae.html",
+              "titolo": "Incendio in Belgio, in fiamme il parco naturale delle Hautes Fagnes",
+              "titolo_it": null,
+              "paese": "Italia",
+              "continente": "Europa",
+              "lingua_originale": "italiano",
+              "live_blog": false
+            },
+            {
+              "testata": "Der Standard",
+              "url": "https://www.derstandard.at/story/3000000335805/brandbek228mpfung-in-belgischem-naturschutzgebiet-geht-weiter?ref=rss",
+              "titolo": "Brandbekämpfung in belgischem Naturschutzgebiet geht weiter",
+              "titolo_it": "La lotta agli incendi prosegue in una riserva naturale belga",
+              "paese": "Austria",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "Die Presse",
+              "url": "https://www.diepresse.com/41177906/wir-stehen-hier-vor-einem-problem-in-belgien-brennt-der-torf-unter-der-erdoberflaeche",
+              "titolo": "„Wir stehen hier vor einem Problem“: In Belgien brennt der Torf unter der Erdoberfläche",
+              "titolo_it": "Wir stehen hier vor einem Problem\": In Belgio brucia il torba sotto la superficie terrestre",
+              "paese": "Austria",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "De Standaard",
+              "url": "https://www.standaard.be/binnenland/waarom-heeft-belgie-zelf-geen-blusvliegtuigen-ons-materiaal-voldoet-niet/160106985.html",
+              "titolo": "Waarom heeft België zelf geen blusvliegtuigen? “Ons materiaal voldoet niet”",
+              "titolo_it": null,
+              "paese": "Belgio",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "La Tercera",
+              "url": "https://www.latercera.com/mundo/noticia/alemania-ordena-evacuar-parcialmente-zona-fronteriza-con-belgica-por-gran-incendio-que-ha-destruido-3-mil-hectareas",
+              "titolo": "Alemania ordena evacuar parcialmente zona fronteriza con Bélgica por gran incendio que ha destruido 3 mil hectáreas",
+              "titolo_it": "Germania ordina evacuazione parziale della zona di confine con il Belgio a causa di un incendio che ha distrutto 3 mila ettari",
+              "paese": "Cile",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "ABC Color",
+              "url": "https://www.abc.com.py/internacionales/2026/08/17/alemania-da-por-controlado-incendio-en-el-oeste-pero-mira-con-preocupacion-al-de-belgica",
+              "titolo": "Alemania da por controlado incendio en el oeste, pero mira con preocupación al de Bélgica",
+              "titolo_it": "Germania dichiara sotto controllo l'incendio nell'ovest, ma osserva con preoccupazione quello in Belgio",
+              "paese": "Paraguay",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Infobae",
+              "url": "https://www.infobae.com/america/mundo/2026/08/16/belgica-combate-su-mayor-incendio-forestal-mientras-las-llamas-amenazan-la-frontera-con-alemania",
+              "titolo": "Bélgica combate su mayor incendio forestal mientras las llamas amenazan la frontera con Alemania",
+              "titolo_it": "Belgio combatte il più grande incendio forestale mentre le fiamme minacciano il confine con la Germania",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/us-news/sorrento-valley-fire-evacuation-map-latest-updates-as-san-diego-blaze-spreads-101786920582725.html",
+              "titolo": "Sorrento Valley fire: Evacuation map, latest updates as San Diego blaze spreads",
+              "titolo_it": "Incendio a Sorrento Valley: mappa delle evacuazioni e aggiornamenti sull'incendio a San Diego",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": true
+            },
+            {
+              "testata": "Dawn",
+              "url": "https://www.dawn.com/news/2023232/farmers-helicopters-help-battle-record-belgian-wildfire",
+              "titolo": "Farmers, helicopters help battle record Belgian wildfire",
+              "titolo_it": "Contadini e elicotteri aiutano a combattere l'incendio record in Belgio",
+              "paese": "Pakistan",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Daily Maverick",
+              "url": "https://www.dailymaverick.co.za/article/2026-08-16-belgium-s-biggest-wildfire-on-record-heads-towards-germany",
+              "titolo": "Belgium’s biggest wildfire on record heads towards Germany",
+              "titolo_it": "Il più grande incendio mai registrato in Belgio si dirige verso la Germania",
+              "paese": "Sudafrica",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 21,
+          "convergenza_interna": {
+            "continente": "Europa",
+            "coperte": 15,
+            "totali": 50
+          }
+        },
+        {
+          "id": 8,
+          "titolo": "Ebola in Congo: il focolaio più letale nella storia del paese",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "La Repubblica Democratica del Congo affronta l'epidemia di Ebola più mortale della sua storia, con 2.325 decessi. Le testate europee evidenziano la mancanza di vaccini e l'emergenza sanitaria globale, mentre quelle internazionali sottolineano la velocità di diffusione e l'appello a una risposta coordinata.",
+          "confronto": [
+            {
+              "area": "Europa",
+              "sintesi": "Le testate europee focalizzano sull'assenza di vaccini disponibili (Politiken) e sull'emergenza sanitaria dichiarata dall'OMS (Neue Zürcher Zeitung). Mettono al centro il bilancio nazionale, il tasso di mortalità e il contesto locale, dando per scontata la criticità dell'approccio interno.",
+              "testate": [
+                "BBC News",
+                "Der Standard",
+                "Die Presse",
+                "El País",
+                "Frankfurter Allgemeine Zeitung",
+                "Koha Ditore",
+                "Le Figaro",
+                "NRC",
+                "Neue Zürcher Zeitung",
+                "Politiken",
+                "Telex",
+                "The Guardian",
+                "de Volkskrant"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate internazionali sottolineano la crescita esponenziale del contagio (NRC) e l'appello all'azione globale (Al Jazeera). Riferiscono dati simili ma enfatizzano la dimensione transfrontaliera, il confronto con epidemie passate (FBC News) e il ruolo delle istituzioni regionali (News24).",
+              "testate": [
+                "ABC Color",
+                "Actualité.cd",
+                "Al Jazeera",
+                "CBC News",
+                "Daily Maverick",
+                "FBC News",
+                "News24",
+                "The Korea Herald",
+                "The Punch",
+                "Vlast.kz"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 8,
+            "n_testate": 23,
+            "continenti": [
+              "Africa",
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Oceania",
+              "Sud America"
+            ],
+            "paesi": [
+              "Austria",
+              "Canada",
+              "Corea del Sud",
+              "Danimarca",
+              "Figi",
+              "Francia",
+              "Germania",
+              "Kazakistan",
+              "Kosovo",
+              "Nigeria",
+              "Paesi Bassi",
+              "Paraguay",
+              "Qatar",
+              "Regno Unito",
+              "Repubblica Democratica del Congo",
+              "Spagna",
+              "Sudafrica",
+              "Svizzera",
+              "Ungheria"
+            ],
+            "trend": null
+          },
+          "n_articoli": 23,
+          "fonti": [
+            {
+              "testata": "Der Standard",
+              "url": "https://www.derstandard.at/story/3000000335800/ebola-t246dlichster-ausbruch-in-der-geschichte-des-kongos?ref=rss",
+              "titolo": "Bisher 2325 Tote: Tödlichster Ebola-Ausbruch in der Geschichte des Kongos",
+              "titolo_it": "Fino a 2325 morti: l'epidemia di Ebola più letale nella storia del Congo",
+              "paese": "Austria",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "Die Presse",
+              "url": "https://www.diepresse.com/41177834/toedlichster-ebola-ausbruch-in-der-geschichte-des-kongo",
+              "titolo": "Tödlichster Ebola-Ausbruch in der Geschichte des Kongo",
+              "titolo_it": "L'epidemia di Ebola più letale nella storia del Congo",
+              "paese": "Austria",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "Politiken",
+              "url": "https://politiken.dk/internationalt/art10948774/Ebolaudbrud-s%C3%A6tter-tragisk-rekord-%E2%80%93-og-denne-gang-er-der-ikke-en-vaccine",
+              "titolo": "Ebolaudbrud sætter tragisk rekord – og denne gang er der ikke en vaccine",
+              "titolo_it": null,
+              "paese": "Danimarca",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "The Punch",
+              "url": "https://punchng.com/dr-congo-ebola-outbreak-becomes-deadliest-with-over-2300-deaths/?utm_source=rss.punchng.com&utm_medium=web",
+              "titolo": "DR Congo Ebola outbreak becomes deadliest with over 2,300 deaths",
+              "titolo_it": "L'epidemia di Ebola in Congo diventa la più mortale con oltre 2.300 decessi",
+              "paese": "Nigeria",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Daily Maverick",
+              "url": "https://www.dailymaverick.co.za/article/2026-08-17-ebola-outbreak-in-democratic-republic-of-congo-becomes-deadliest-in-country-s-history",
+              "titolo": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history",
+              "titolo_it": "L'epidemia di Ebola in Repubblica del Congo diventa la più mortale della storia del Paese",
+              "paese": "Sudafrica",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "News24",
+              "url": "https://www.news24.com/politics/sadc-leaders-again-sound-alarm-over-eastern-drc-crisis-as-region-meets-in-durban-20260816-1023",
+              "titolo": "News24 | SADC leaders again sound alarm over eastern DRC crisis as region meets in Durban",
+              "titolo_it": "I leader della SADC ribadiscono l'allarme per la crisi nell'est della RDC durante un incontro a Durban",
+              "paese": "Sudafrica",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Korea Herald",
+              "url": "https://www.koreaherald.com/article/10843055",
+              "titolo": "Congo Ebola outbreak deadliest in country&apos;s history",
+              "titolo_it": "L'epidemia di Ebola in Congo è la più mortale nella storia del Paese",
+              "paese": "Corea del Sud",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Vlast.kz",
+              "url": "https://vlast.kz/novosti/70484-v-kongo-za-sutki-vyavili-bolee-100-novyh-slucaev-zabolevania-lihoradkoj-ebola.html",
+              "titolo": "В Конго за сутки выявили более 100 новых случаев заболевания лихорадкой Эбола",
+              "titolo_it": "In Congo sono stati registrati più di 100 nuovi casi di febbre emorragica Ebola in 24 ore",
+              "paese": "Kazakistan",
+              "continente": "Asia",
+              "lingua_originale": "russo",
+              "live_blog": false
+            },
+            {
+              "testata": "ABC Color",
+              "url": "https://www.abc.com.py/internacionales/2026/08/17/el-actual-brote-de-ebola-en-el-este-de-la-rdc-ya-es-el-segundo-mas-letal-de-la-historia",
+              "titolo": "El actual brote de ébola en el este de la RDC ya es el segundo más letal de la historia",
+              "titolo_it": "L'attuale focolaio di Ebola nell'est della RDC è già il secondo più letale della storia",
+              "paese": "Paraguay",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "FBC News",
+              "url": "https://www.fbcnews.com.fj/world/ebola-outbreak-in-democratic-republic-of-congo-becomes-deadliest-in-countrys-history",
+              "titolo": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history",
+              "titolo_it": "L'epidemia di Ebola in Repubblica del Congo diventa la più mortale della storia del Paese",
+              "paese": "Figi",
+              "continente": "Oceania",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "CBC News",
+              "url": "https://www.cbc.ca/news/world/drc-ebola-outbreak-deadliest-in-history-9.7309296?cmp=rss",
+              "titolo": "Democratic Republic of Congo's Ebola outbreak is now the deadliest in its history",
+              "titolo_it": "L'epidemia di Ebola in Repubblica del Congo è ora la più mortale della sua storia",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 12,
+          "convergenza_interna": {
+            "continente": "Europa",
+            "coperte": 13,
+            "totali": 50
+          }
+        },
+        {
+          "id": 19,
+          "titolo": "Incidente stradale in Ungheria: 12 morti e almeno 10 feriti in un autobus polacco",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Un autobus polacco si è ribaltato in Ungheria, causando 12 decessi e almeno 10 feriti. Le testate europee evidenziano dettagli locali (strada M3, controlli sul gestore), mentre quelle esterne focalizzano sull'aspetto internazionale (pellegrini, arresto del conducente).",
+          "confronto": [
+            {
+              "area": "Europa",
+              "sintesi": "Le testate europee sottolineano il contesto locale (strada M3, ispezioni sul gestore) e le conseguenze immediate (feriti evacuati, supporto psicologico). Si fa riferimento a criticità pregresse del trasporto e alla strada coinvolta, evidenziando una prospettiva centrata sui meccanismi interni.",
+              "testate": [
+                "ANSA",
+                "BBC News",
+                "Frankfurter Allgemeine Zeitung",
+                "Gazeta Wyborcza",
+                "Helsingin Sanomat",
+                "Libération",
+                "Magyar Nemzet",
+                "NRK Sápmi",
+                "Rzeczpospolita",
+                "Telex",
+                "The Guardian",
+                "The Irish Times"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne enfatizzano l'aspetto transnazionale (pellegrini polacchi, arresto del conducente) e il carattere eccezionale dell'evento. Omettono dettagli locali (controlli sul gestore, strada M3), focalizzandosi su dati numerici e sulla responsabilità individuale del guidatore.",
+              "testate": [
+                "CBC News",
+                "El Nacional",
+                "Infobae",
+                "La Tercera",
+                "The Kathmandu Post"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 6,
+            "n_testate": 17,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Canada",
+              "Cile",
+              "Finlandia",
+              "Francia",
+              "Germania",
+              "Irlanda",
+              "Italia",
+              "Nepal",
+              "Norvegia",
+              "Polonia",
+              "Regno Unito",
+              "Ungheria",
+              "Venezuela"
+            ],
+            "trend": null
+          },
+          "n_articoli": 20,
+          "fonti": [
+            {
+              "testata": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/16/un-autobus-si-e-ribaltato-in-ungheria-12-morti-e-almeno-10-feriti-gravi_ab2e8296-cf89-49f7-8172-e943b34d8cdd.html",
+              "titolo": "Un autobus si è ribaltato in Ungheria, 12 morti e almeno 10 feriti gravi",
+              "titolo_it": null,
+              "paese": "Italia",
+              "continente": "Europa",
+              "lingua_originale": "italiano",
+              "live_blog": false
+            },
+            {
+              "testata": "Telex",
+              "url": "https://telex.hu/belfold/2026/08/17/lengyel-buszbaleset-m3-tulelok-aldozatok-azonositasa",
+              "titolo": "A lengyel buszbaleset áldozatai közül hatot sikerült már azonosítani",
+              "titolo_it": null,
+              "paese": "Ungheria",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Rzeczpospolita",
+              "url": "https://www.rp.pl/wypadki/art45006951-wypadek-polskiego-autokaru-na-wegrzech-zidentyfikowano-siedem-ofiar",
+              "titolo": "Wypadek polskiego autokaru na Węgrzech. Zidentyfikowano siedem ofiar",
+              "titolo_it": null,
+              "paese": "Polonia",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Helsingin Sanomat",
+              "url": "https://www.hs.fi/maailma/art-2000012208499.html",
+              "titolo": "Onnettomuudet | 12 ihmistä kuoli bussin suistuttua tieltä Unkarissa",
+              "titolo_it": null,
+              "paese": "Finlandia",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Infobae",
+              "url": "https://www.infobae.com/america/mundo/2026/08/16/el-vuelco-de-un-autobus-polaco-en-hungria-dejo-12-muertos-y-al-menos-10-heridos",
+              "titolo": "El vuelco de un autobús polaco en Hungría dejó 12 muertos y al menos 10 heridos",
+              "titolo_it": "Un autobus polacco si ribalta in Ungheria: 12 morti e almeno 10 feriti",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "La Tercera",
+              "url": "https://www.latercera.com/mundo/noticia/al-menos-12-muertos-y-10-heridos-graves-tras-volcamiento-de-autobus-con-peregrinos-polacos-en-hungria",
+              "titolo": "Al menos 12 muertos y 10 heridos graves tras volcamiento de autobús con peregrinos polacos en Hungría",
+              "titolo_it": "Almeno 12 morti e 10 feriti gravi dopo ribaltamento di un pullman con pellegrini polacchi in Ungheria",
+              "paese": "Cile",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "The Kathmandu Post",
+              "url": "https://kathmandupost.com/world/2026/08/16/twelve-killed-and-at-least-10-injured-in-polish-bus-crash-in-hungary",
+              "titolo": "Twelve killed and at least 10 injured in Polish bus crash in Hungary",
+              "titolo_it": "Dodici morti e almeno dieci feriti in un incidente stradale di un autobus polacco in Ungheria",
+              "paese": "Nepal",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "CBC News",
+              "url": "https://www.cbc.ca/news/world/hungary-bus-crash-9.7309206?cmp=rss",
+              "titolo": "Driver in custody after bus in Hungary crashes into ditch, killing 12 and injuring at least 10",
+              "titolo_it": "Autista in custodia dopo che un pullman in Ungheria si è schiantato in un fosso, uccidendo 12 persone e ferendone almeno 10",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 12,
+          "convergenza_interna": {
+            "continente": "Europa",
+            "coperte": 12,
+            "totali": 50
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Africa",
+      "temi": [
+        {
+          "id": 30,
+          "titolo": "Camerun vince prima WAFCON: confronto tra sguardi africani e internazionali",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Il Camerun ha conquistato il primo titolo WAFCON battendo il Malawi 3-0. Le testate africane sottolineano la storicità del successo, mentre quelle esterne si limitano a riportare il risultato e l'evento, con minor enfasi sul significato simbolico per il calcio africano.",
+          "confronto": [
+            {
+              "area": "Africa",
+              "sintesi": "Le testate africane evidenziano la vittoria storica del Camerun, il dominio assoluto in finale, la performance decisiva della portiera e l'importanza simbolica per il calcio femminile africano. Si focalizzano sui dettagli tecnici e sull'emozione del momento, presentando il risultato come un'aspirazione lungamente perseguita.",
+              "testate": [
+                "Daily Trust",
+                "L'Infodrome",
+                "Mwananchi",
+                "MyJoyOnline",
+                "Premium Times",
+                "Seneweb"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne (Al Jazeera e The Globe and Mail) riportano il risultato 3-0 e il primo titolo del Camerun, menzionando l'evento come un fatto sportivo. The Globe aggiunge la presenza di autorità internazionali, ma entrambe trascurano il contesto storico e simbolico, focalizzandosi su dati e nomi istituzionali.",
+              "testate": [
+                "Al Jazeera",
+                "The Globe and Mail"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 3,
+            "n_testate": 8,
+            "continenti": [
+              "Africa",
+              "Asia",
+              "Nord America"
+            ],
+            "paesi": [
+              "Canada",
+              "Costa d'Avorio",
+              "Ghana",
+              "Nigeria",
+              "Qatar",
+              "Senegal",
+              "Tanzania"
+            ],
+            "trend": null
+          },
+          "n_articoli": 8,
+          "fonti": [
+            {
+              "testata": "Premium Times",
+              "url": "https://www.premiumtimesng.com/news/top-news/903488-cameroon-win-first-wafcon-title-in-grand-style.html",
+              "titolo": "Cameroon win first WAFCON title in grand style",
+              "titolo_it": "Cameroon vince per la prima volta il titolo di WAFCON in grande stile",
+              "paese": "Nigeria",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Mwananchi",
+              "url": "https://www.mwananchi.co.tz/mw/michezo/soka/cameroon-yatwaa-taji-la-kwanza-wafcon-5560606",
+              "titolo": "Cameroon yatwaa taji la Kwanza WAFCON",
+              "titolo_it": "Cameroon batte la Nigeria al via della WAFCON",
+              "paese": "Tanzania",
+              "continente": "Africa",
+              "lingua_originale": "swahili",
+              "live_blog": false
+            },
+            {
+              "testata": "Daily Trust",
+              "url": "https://dailytrust.com/cameroon-trounce-malawi-3-0-to-claim-first-wafcon-title",
+              "titolo": "Cameroon trounce Malawi 3-0 to claim first WAFCON title",
+              "titolo_it": "Cameroon batte il Malawi 3-0 e conquista il primo titolo di WAFCON",
+              "paese": "Nigeria",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss",
+              "titolo": "Cameroon dominate Malawi to win first Women’s Africa Cup of Nations title",
+              "titolo_it": "Cameroon batte il Malawi e vince per la prima volta il titolo di Women’s Africa Cup of Nations",
+              "paese": "Qatar",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/sports/soccer/article-cameroon-beats-malawi-3-0-to-win-womens-africa-cup-of-nations-for-the",
+              "titolo": "Cameroon beats Malawi 3-0 to win Women’s Africa Cup of Nations for the first time",
+              "titolo_it": "Cameroon batte il Malawi 3-0 e vince per la prima volta la Women’s Africa Cup of Nations",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 3,
+          "convergenza_interna": {
+            "continente": "Africa",
+            "coperte": 6,
+            "totali": 57
+          }
+        },
+        {
+          "id": 78,
+          "titolo": "SADC Summit in Durban: Sicurezza e Politiche Migratorie al Centro dei Dibattiti",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "La 46ª cimeira SADC a Durban ha visto i leader africani concentrarsi su sicurezza e migrazioni, mentre le testate esterne non ne parlano. Le testate continentali enfatizzano priorità regionali e tensioni interne, senza riferimenti a contesti globali.",
+          "confronto": [
+            {
+              "area": "Africa",
+              "sintesi": "Le testate africane mettono in primo piano la sicurezza regionale, le priorità della Repubblica Democratica del Congo e le proteste anti-immigrazione. Si sottolinea l'unità tra leader e l'organizzazione di eventi simbolici, senza espandere il contesto internazionale.",
+              "testate": [
+                "Actualité.cd",
+                "Carta de Moçambique",
+                "News24",
+                "O País"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 1,
+            "n_testate": 4,
+            "continenti": [
+              "Africa"
+            ],
+            "paesi": [
+              "Mozambico",
+              "Repubblica Democratica del Congo",
+              "Sudafrica"
+            ],
+            "trend": null
+          },
+          "n_articoli": 4,
+          "fonti": [
+            {
+              "testata": "Carta de Moçambique",
+              "url": "https://cartamz.com/politica/52849/cimeira-da-sadc-africa-do-sul-em-alerta-face-a-iminencia-da-marcha-anti-imigracao",
+              "titolo": "Cimeira da SADC: África do Sul em alerta face a iminência da marcha anti-imigração",
+              "titolo_it": "Cimeira della SADC: Sudafrica in allerta per l'imminente marcia anti-immigrazione",
+              "paese": "Mozambico",
+              "continente": "Africa",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "O País",
+              "url": "https://opais.co.mz/lideres-da-sadc-reforcam-uniao-em-durban",
+              "titolo": "Líderes da SADC reforçam união em Durban",
+              "titolo_it": "Leader della SADC rafforzano l'unità a Durban",
+              "paese": "Mozambico",
+              "continente": "Africa",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "Actualité.cd",
+              "url": "https://actualite.cd/2026/08/17/46-sommet-de-la-sadc-la-rdc-defend-quatre-priorites-pour-renforcer-la-reponse-regionale",
+              "titolo": "46ᵉ Sommet de la SADC: la RDC défend quatre priorités pour renforcer la réponse régionale face à la crise sécuritaire",
+              "titolo_it": "46° Vertice della SADC: la RDC promuove quattro priorità per rafforzare la risposta regionale alla crisi di sicurezza",
+              "paese": "Repubblica Democratica del Congo",
+              "continente": "Africa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 1,
+          "convergenza_interna": {
+            "continente": "Africa",
+            "coperte": 4,
+            "totali": 57
+          }
+        },
+        {
+          "id": 129,
+          "titolo": "Svolte politiche in Nigeria: alleanze e elezioni nello stato di Osun",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Le testate nigeriane evidenziano le alleanze politiche e i risultati delle elezioni nello stato di Osun, sottolineando la resilienza democratica. Il resto del mondo non ha coperto il tema, evidenziando un focus interno su sviluppi politici locali.",
+          "confronto": [
+            {
+              "area": "Africa",
+              "sintesi": "Le testate africane focalizzano su alleanze politiche (Adeleke-Kwankwaso), risultati elettorali (Osun) e la conferma della democrazia nigeriana. Mettono in primo piano le dinamiche interne, le coalizioni e l'importanza delle elezioni locali.",
+              "testate": [
+                "Daily Trust",
+                "Premium Times",
+                "The Punch"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 1,
+            "n_testate": 3,
+            "continenti": [
+              "Africa"
+            ],
+            "paesi": [
+              "Nigeria"
+            ],
+            "trend": null
+          },
+          "n_articoli": 6,
+          "fonti": [
+            {
+              "testata": "Daily Trust",
+              "url": "https://dailytrust.com/nigeria-daily-why-osun-re-elected-governor-adeleke",
+              "titolo": "NIGERIA DAILY: Why Osun Re-Elected Governor Adeleke",
+              "titolo_it": "NIGERIA DAILY: Perché Osun ha rieletto il governatore Adeleke",
+              "paese": "Nigeria",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Punch",
+              "url": "https://punchng.com/morning-recap-adeleke-extends-olive-branch-kwankwaso-explains-obi-alliance-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+              "titolo": "Morning recap: Adeleke extends olive branch, Kwankwaso explains Obi alliance, other top stories",
+              "titolo_it": "Riepilogo mattutino: Adeleke tende la mano, Kwankwaso spiega l'alleanza con Obi, gli altri principali sviluppi",
+              "paese": "Nigeria",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Premium Times",
+              "url": "https://www.premiumtimesng.com/news/top-news/903421-governors-forum-congratulates-gov-adeleke-on-re-election.html",
+              "titolo": "Governors’ forum congratulates Gov Adeleke on re-election",
+              "titolo_it": "Convegno dei governatori congratula il governatore Adeleke per la rielezione",
+              "paese": "Nigeria",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 3,
+          "convergenza_interna": {
+            "continente": "Africa",
+            "coperte": 3,
+            "totali": 57
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Asia",
+      "temi": [
+        {
+          "id": 13,
+          "titolo": "Rodri al Barcellona: il trasferimento e le diverse prospettive",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Rodri lascia il Manchester City per il Barcellona. Le testate asiatiche evidenziano dettagli economici, quelle esterne enfatizzano il ritorno in patria del giocatore spagnolo, con errori occasionali su nazionalità e età.",
+          "confronto": [
+            {
+              "area": "Asia",
+              "sintesi": "Le testate asiatiche focalizzano su cifre dell'operazione (65-75 milioni di sterline) e durata contrattuale (4 anni). Trattano Rodri come atleta internazionale, sottolineando l'importanza economica del trasferimento senza enfatizzare il suo ruolo nazionale.",
+              "testate": [
+                "Afghanistan International",
+                "Al Jazeera",
+                "Cumhuriyet",
+                "Hankyoreh",
+                "Iran International",
+                "The National"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne presentano Rodri come simbolo del calcio spagnolo, evidenziando il suo ritorno in patria dopo il successo con l'Espanya e il Pallone d'Oro. Alcuni articoli contengono errori (es. nazionalità irlandese, età errata) o dettagli non verificati.",
+              "testate": [
+                "ERR",
+                "El Mundo",
+                "El Universo",
+                "La Nación (Costa Rica)",
+                "La Tercera",
+                "Seneweb",
+                "The Guardian",
+                "The Irish Times"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 7,
+            "n_testate": 14,
+            "continenti": [
+              "Africa",
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Afghanistan",
+              "Cile",
+              "Corea del Sud",
+              "Costa Rica",
+              "Ecuador",
+              "Emirati Arabi Uniti",
+              "Estonia",
+              "Iran",
+              "Irlanda",
+              "Qatar",
+              "Regno Unito",
+              "Senegal",
+              "Spagna",
+              "Turchia"
+            ],
+            "trend": null
+          },
+          "n_articoli": 16,
+          "fonti": [
+            {
+              "testata": "Hankyoreh",
+              "url": "https://www.hani.co.kr/arti/sports/soccer/1273248.html",
+              "titolo": "BBC “맨시티 로드리, 바르샤 간다…이적료 1248억원”",
+              "titolo_it": "Man City, Rodri va al Barcellona… il prezzo dell'acquisto è 1,248 miliardi di won",
+              "paese": "Corea del Sud",
+              "continente": "Asia",
+              "lingua_originale": "coreano",
+              "live_blog": false
+            },
+            {
+              "testata": "The National",
+              "url": "https://www.thenationalnews.com/sport/2026/08/17/rodri-set-for-barcelona-move-after-man-city-accept-bid",
+              "titolo": "Rodri set for Barcelona move after Man City accept bid",
+              "titolo_it": "Rodri pronto a lasciare il Manchester City per il Barcellona",
+              "paese": "Emirati Arabi Uniti",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Iran International",
+              "url": "https://www.iranintl.com/202608177173",
+              "titolo": "بوعدی، انزو فرناندز یا اسکات؛ چه کسی جایگزین رودری در منچسترسیتی خواهد شد؟",
+              "titolo_it": "Boudeh, Enzo Fernandes o Scamacca; chi sostituirà Rodri al Manchester City?",
+              "paese": "Iran",
+              "continente": "Asia",
+              "lingua_originale": "farsi",
+              "live_blog": false
+            },
+            {
+              "testata": "ERR",
+              "url": "https://sport.err.ee/1610112142/barcelona-toob-rodri-manchesterist-kodumaale",
+              "titolo": "Barcelona toob Rodri Manchesterist kodumaale",
+              "titolo_it": "Barcellona tenta di portare Rodri in Catalogna",
+              "paese": "Estonia",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Irish Times",
+              "url": "https://www.irishtimes.com/sport/soccer/2026/08/16/west-ham-sign-celtics-arne-engels-in-22m-deal",
+              "titolo": "Transfer roundup: Barcelona to sign Rodri from Manchester City",
+              "titolo_it": "Barcellona pronto a ingaggiare Rodri dal Manchester City",
+              "paese": "Irlanda",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Guardian",
+              "url": "https://www.theguardian.com/football/2026/aug/16/rodri-set-to-complete-barcelona-move-after-manchester-city-accept-654m-bid",
+              "titolo": "Rodri set to complete Barcelona move after Manchester City accept £65.4m bid",
+              "titolo_it": "Rodri pronto a completare il trasferimento al Barcellona dopo l'accettazione da parte del Manchester City dell'offerta da 65,4 milioni",
+              "paese": "Regno Unito",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "La Tercera",
+              "url": "https://www.latercera.com/el-deportivo/noticia/bomba-al-mercado-en-espana-confirman-la-llegada-de-rodri-al-barcelona",
+              "titolo": "Bomba al mercado: en España confirman la llegada de Rodri al Barcelona",
+              "titolo_it": "Bomba in arrivo: in Spagna confermano l'ingresso di Rodri al Barcellona",
+              "paese": "Cile",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universo",
+              "url": "https://eluniverso.com/deportes/futbol/fc-barcelona-acuerda-con-manchester-city-el-fichaje-de-rodri-hasta-el-2030-nota",
+              "titolo": "FC Barcelona acuerda con Manchester City el fichaje de Rodri hasta el 2030",
+              "titolo_it": "FC Barcelona e Manchester City hanno raggiunto un accordo per il trasferimento di Rodri fino al 2030",
+              "paese": "Ecuador",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Seneweb",
+              "url": "https://www.seneweb.com/fr/news/Sport/foot-accord-entre-fc-barcelone-et-manchester-city-pour-le-transfert-de-rodri_n_501516.html",
+              "titolo": "Foot: accord entre FC Barcelone et Manchester City pour le transfert de Rodri",
+              "titolo_it": "Calcio: accordo tra Fc Barcellona e Manchester City per il trasferimento di Rodri",
+              "paese": "Senegal",
+              "continente": "Africa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "La Nación (Costa Rica)",
+              "url": "https://www.nacion.com/puro-deporte/termino-la-espera-fc-barcelona-y-manchester-city/TVFPHGVPOVH2DITZAXJ6TTYT7M/story",
+              "titolo": "Terminó la espera: FC Barcelona y Manchester City llegan a acuerdo por el fichaje de Rodri",
+              "titolo_it": "Terminata l'attesa: Barcellona e Manchester City trovano l'accordo per il trasferimento di Rodri",
+              "paese": "Costa Rica",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 6,
+          "convergenza_interna": {
+            "continente": "Asia",
+            "coperte": 6,
+            "totali": 56
+          }
+        },
+        {
+          "id": 23,
+          "titolo": "Calca mortale in un tempio indù: sette vittime",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Un incidente simile a una calca in un tempio indù nel Bihar ha causato sette morti e decine di feriti. Le testate asiatiche evidenziano contesti religiosi e locali, mentre quelle estere si concentrano sui numeri e le cause immediate, con minori dettagli culturali.",
+          "confronto": [
+            {
+              "area": "Asia",
+              "sintesi": "Le testate asiatiche mettono al centro la folla di fedeli durante il mese sacro di Shravan, il contesto religioso del tempio Ashok Dham e le cause specifiche (cavo elettrico rotto o palo caduto). Si sottolinea la sovraffollamento e la dinamica locale dell'evento.",
+              "testate": [
+                "Al Jazeera",
+                "Dawn",
+                "South China Morning Post",
+                "The Hindu",
+                "The Kathmandu Post",
+                "The Times of India"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate estere descrivono l'evento come un incidente isolato, focalizzandosi su vittime, feriti e cause immediate (panico per interruzione elettrica o palo caduto). Manca il riferimento al contesto religioso e alla specificità del luogo.",
+              "testate": [
+                "ABC Color",
+                "Der Standard",
+                "El Mundo"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 5,
+            "n_testate": 9,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Sud America"
+            ],
+            "paesi": [
+              "Austria",
+              "Cina",
+              "India",
+              "Nepal",
+              "Pakistan",
+              "Paraguay",
+              "Qatar",
+              "Spagna"
+            ],
+            "trend": null
+          },
+          "n_articoli": 9,
+          "fonti": [
+            {
+              "testata": "South China Morning Post",
+              "url": "https://www.scmp.com/news/asia/south-asia/article/3364258/7-die-indian-temple-stampede-after-electric-wire-snaps?utm_source=rss_feed",
+              "titolo": "7 die in Indian temple stampede after electric wire snaps",
+              "titolo_it": "Sette persone muoiono in un calpestamento in un tempio indiano dopo che un cavo elettrico si rompe",
+              "paese": "Cina",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Hindu",
+              "url": "https://www.thehindu.com/news/national/bihar/ashok-dham-temple-stampede-lakhisarai-august-17-2026/article71354800.ece",
+              "titolo": "Seven dead in stampede in Bihar’s Ashok Dham temple",
+              "titolo_it": "Sette morti in un calpestamento nel tempio di Ashok Dham in Bihar",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/india/6-killed-several-injured-in-stampede-like-incident-at-bihars-ashokdham-temple/articleshow/133285137.cms",
+              "titolo": "7 killed, several injured in stampede-like incident at Bihar’s Lakhisarai temple",
+              "titolo_it": "Sette morti e diversi feriti in un incidente simile a un calpestamento nel tempio di Lakhisarai in Bihar",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/08/17/6a82a5fdfdddff29548b4571.html",
+              "titolo": "Una avalancha humana deja siete mujeres muertas y 14 heridas en un templo en la India",
+              "titolo_it": "Un'avalanga umana lascia sette donne morte e 14 ferite in un tempio in India",
+              "paese": "Spagna",
+              "continente": "Europa",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Der Standard",
+              "url": "https://www.derstandard.at/story/3000000335826/mindestens-sieben-tote-bei-massenpanik-in-hindu-tempel-in-indien?ref=rss",
+              "titolo": "Mindestens sieben Tote bei Massenpanik in Hindu-Tempel in Indien",
+              "titolo_it": "Almeno sette morti in una calca in un tempio hindu in India",
+              "paese": "Austria",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "ABC Color",
+              "url": "https://www.abc.com.py/internacionales/2026/08/17/al-menos-7-muertos-deja-una-estampida-en-un-templo-en-el-norte-de-la-india",
+              "titolo": "Al menos 7 muertos deja una estampida en un templo en el norte de la India",
+              "titolo_it": "Almeno 7 morti in una calca in un tempio nel nord dell'India",
+              "paese": "Paraguay",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 3,
+          "convergenza_interna": {
+            "continente": "Asia",
+            "coperte": 6,
+            "totali": 56
+          }
+        },
+        {
+          "id": 28,
+          "titolo": "Iran accusa Qatar di detenzione piloti, Doha nega",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "L'Iran sostiene che il Qatar detenga tre suoi piloti da mesi, accusando Doha di ostacolare le indagini. Il Qatar respinge le accuse. Le testate asiatiche evidenziano il ruolo del Qatar nella guerra, mentre quelle esterne si limitano a riportare i fatti senza contestualizzare.",
+          "confronto": [
+            {
+              "area": "Asia",
+              "sintesi": "Le testate asiatiche mettono al centro il ruolo del Qatar nella guerra mediorientale, sottolineando le richieste iraniane di accesso per indagini. Si assume come dato certo la detenzione dei piloti, ignorando le negazioni qatariote e il contesto diplomatico.",
+              "testate": [
+                "Daily Sabah",
+                "Hindustan Times",
+                "Tehran Times",
+                "The National"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne si limitano a registrare le accuse reciproche senza approfondire il contesto politico. Non si assume posizione su chi abbia ragione, né si contestualizza il ruolo del Qatar nella crisi regionale.",
+              "testate": [
+                "BBC News",
+                "Infobae",
+                "la Repubblica"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 4,
+            "n_testate": 7,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Emirati Arabi Uniti",
+              "India",
+              "Iran",
+              "Italia",
+              "Regno Unito",
+              "Turchia"
+            ],
+            "trend": null
+          },
+          "n_articoli": 7,
+          "fonti": [
+            {
+              "testata": "la Repubblica",
+              "url": "https://www.repubblica.it/esteri/2026/08/17/news/iran_accusa_il_qatar_ha_catturato_tre_nostri_piloti-425532016",
+              "titolo": "Teheran accusa il Qatar: “Ha catturato tre nostri piloti”",
+              "titolo_it": null,
+              "paese": "Italia",
+              "continente": "Europa",
+              "lingua_originale": "italiano",
+              "live_blog": false
+            },
+            {
+              "testata": "The National",
+              "url": "https://www.thenationalnews.com/news/gulf/2026/08/16/qatar-denies-detaining-iranian-pilots-says-it-found-remains-of-one",
+              "titolo": "Qatar rejects Iranian claim it captured three bomber pilots alive",
+              "titolo_it": "Qatar respinge la richiesta iraniana di aver catturato vivi tre piloti bombardieri",
+              "paese": "Emirati Arabi Uniti",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/iran-accuses-middle-east-war-mediator-qatar-of-holding-its-missing-pilots-delaying-probe-doha-rejects-claims-101786883287664.html",
+              "titolo": "Iran accuses Middle East war mediator Qatar of holding its missing pilots, delaying probe; Doha rejects claims",
+              "titolo_it": "Iran accusa il Qatar, mediatore della guerra nel Medio Oriente, di detenere i suoi piloti dispersi e di ritardare l'indagine; Doha respinge le accuse",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Tehran Times",
+              "url": "https://www.tehrantimes.com/news/529123/Case-of-3-Iranian-pilots-is-a-serious-test-to-determine-Qatar-s",
+              "titolo": "Case of 3 Iranian pilots is a serious test to determine Qatar’s role in the war",
+              "titolo_it": "Il caso dei tre piloti iraniani mette a dura prova il ruolo del Qatar nella guerra",
+              "paese": "Iran",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+              "titolo": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+              "titolo_it": "Qatar nega di aver catturato tre piloti iraniani dopo l'abbattimento di caccia",
+              "paese": "Regno Unito",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Infobae",
+              "url": "https://www.infobae.com/america/mundo/2026/08/16/tension-entre-iran-y-qatar-teheran-acuso-a-doha-de-bloquear-la-investigacion-sobre-sus-tres-pilotos-presuntamente-capturados",
+              "titolo": "Tensión entre Irán y Qatar: Teherán acusó a Doha de bloquear la investigación sobre sus tres pilotos presuntamente capturados",
+              "titolo_it": "Tensione tra Iran e Qatar: Teheran accusa Doha di bloccare l'indagine sui tre piloti presuntamente catturati",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 1,
+          "convergenza_interna": {
+            "continente": "Asia",
+            "coperte": 4,
+            "totali": 56
+          }
+        }
+      ]
+    }
+  ],
+  "degrado": [
+    "parole non italiane da rivedere nei testi generati: Adeleke, Ashok, Barcelona, Belgorod, Benjamin, Big, Bihar, Bolsonaro, Boudeh, Caiado, Cameroon, Champions, Cup, Dham, Donald, Durban, Espanya, Fernandes, Flores, Flávio"
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "data": "2026-07-24",
+  "generato": "2026-07-24T16:06:44",
+  "temi": [
+    {
+      "id": 1,
+      "titolo": "Accordo nucleare Usa-Saudi Arabia: condizioni legate al riconoscimento di Israele",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "L'amministrazione Trump lega l'accordo nucleare con l'Arabia Saudita al riconoscimento di Israele, alimentando preoccupazioni per una corsa agli armamenti. Le testate sottolineano le tensioni regionali e le contraddizioni tra gli impegni di non proliferazione e le richieste politiche.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee evidenziano la condizione di riconoscimento di Israele per l'accordo nucleare e le preoccupazioni per una proliferazione nucleare, collegando il patto alle tensioni con l'Iran e al rischio di un'escalation regionale.",
+          "testate": [
+            "BBC News",
+            "El Mundo",
+            "El País",
+            "Le Figaro",
+            "The Guardian"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Le testate nordamericane sottolineano la condizione di normalizzazione con Israele e l'incertezza sull'attuazione dell'accordo, mettendo in luce le tensioni geopolitiche e le contraddizioni tra gli obiettivi strategici e le richieste di Washington.",
+          "testate": [
+            "NPR",
+            "The New York Times",
+            "The Washington Post"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "La testata italiana evidenzia il ritiro di Trump sul patto con l'Arabia Saudita, la pressione da parte di Netanyahu e l'incertezza sull'effettiva concretizzazione dell'accordo, mettendo in dubbio la sua realizzazione.",
+          "testate": [
+            "la Repubblica"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 82,
+        "n_testate": 9,
+        "continenti": [
+          "Europa",
+          "Nord America"
+        ],
+        "paesi": [
+          "Francia",
+          "Italia",
+          "Regno Unito",
+          "Spagna",
+          "Stati Uniti"
+        ],
+        "trend": {
+          "agganciato": true,
+          "delta_articoli": -3,
+          "delta_testate": 0,
+          "rispetto_a": "2026-07-23"
+        }
+      },
+      "n_articoli": 17
+    },
+    {
+      "id": 2,
+      "titolo": "Attacchi Houthi e escalation Usa-Iran: rischio conflitto globale",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Gli attacchi dei Houthi al Mar Rosso e le minacce di Trump verso l'Iran alimentano timori di un conflitto regionale che potrebbe estendersi globalmente, con impatti economici e strategici. Le tensioni si intensificano tra Arabia Saudita, Iran e Stati Uniti.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee sottolineano l'escalation tra Usa e Iran, con Trump vicino a un attacco massiccio e i Houthi che colpiscono navi saudite. Si evidenzia il rischio di un conflitto globale e l'impatto economico sui prezzi del petrolio.",
+          "testate": [
+            "BBC News",
+            "El País",
+            "Le Figaro",
+            "The Guardian"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "In Italia si enfatizza la minaccia di un'offensiva Usa contro l'Iran, con l'invio di truppe e il Congresso che tenta di bloccare Trump. I missili Houthi sulle navi nel Mar Rosso rafforzano la tensione tra Washington e Teheran.",
+          "testate": [
+            "ANSA",
+            "la Repubblica"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "The New York Times descrive i Houthi come un nuovo fronte nel conflitto Usa-Iran, con attacchi a navi e minacce di blocco su rotte strategiche. Si sottolinea il ruolo iraniano nel sostegno ai ribelli yemeniti.",
+          "testate": [
+            "The New York Times"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 77,
+        "n_testate": 8,
+        "continenti": [
+          "Europa",
+          "Nord America"
+        ],
+        "paesi": [
+          "Francia",
+          "Italia",
+          "Regno Unito",
+          "Spagna",
+          "Stati Uniti"
+        ],
+        "trend": {
+          "agganciato": true,
+          "delta_articoli": 10,
+          "delta_testate": 5,
+          "rispetto_a": "2026-07-23"
+        }
+      },
+      "n_articoli": 15
+    },
+    {
+      "id": 3,
+      "titolo": "Prezzi del petrolio a 100 dollari per escalation conflitto mediorientale",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "I mercati globali reagiscono all'escalation del conflitto in Medio Oriente con un balzo del petrolio a 100 dollari al barile e del gas ai massimi del 2023. Gli attacchi nel golfo di Bab el-Mandeb, attribuiti ai Houthi, hanno spinto il Brent a nuovi picchi, alimentando preoccupazioni per un inverno energeticamente complicato in Europa.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee sottolineano il legame tra l'escalation nel Medio Oriente e il rialzo del petrolio a 100 dollari, con il gas ai massimi del 2023. Si evidenzia il rischio di un inverno difficile per l'Europa e la ripresa di tensioni inflattive globali.",
+          "testate": [
+            "BBC News",
+            "El Mundo",
+            "El País",
+            "The Guardian"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Il Washington Post collega il balzo del petrolio agli attacchi nel Mar Rosso, con i Houthi che rivendicano colpi contro navi saudite. Si registra un aumento del 40% nel prezzo del Brent in un mese.",
+          "testate": [
+            "The Washington Post"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 59,
+        "n_testate": 5,
+        "continenti": [
+          "Europa",
+          "Nord America"
+        ],
+        "paesi": [
+          "Regno Unito",
+          "Spagna",
+          "Stati Uniti"
+        ],
+        "trend": {
+          "agganciato": true,
+          "delta_articoli": -1,
+          "delta_testate": -2,
+          "rispetto_a": "2026-07-23"
+        }
+      },
+      "n_articoli": 6
+    },
+    {
+      "id": 4,
+      "titolo": "Trump impone nuove tariffe su UK, UE e 80 paesi",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Trump ha introdotto nuove tariffe su oltre 80 paesi, inclusi Regno Unito e Unione Europea, sostituendo un dazio globale revocato dalla Corte Suprema. Le tariffe, motivate da presunti abusi del lavoro forzato, prevedono esenzioni differenziate e suscitano critiche internazionali.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee sottolineano la sostituzione del dazio globale revocato dalla Corte Suprema e l'adozione di un sistema commerciale complesso con esenzioni. I partner UE e il Regno Unito sono tra i principali bersagli delle nuove tariffe.",
+          "testate": [
+            "BBC News",
+            "El País",
+            "The Guardian"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "La testata nordamericana evidenzia l'imposizione di dazi tra il 10% e il 12,5% su 60 paesi, motivati da carenze nell'applicazione dei divieti sui beni prodotti con lavoro forzato.",
+          "testate": [
+            "NPR"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 53,
+        "n_testate": 4,
+        "continenti": [
+          "Europa",
+          "Nord America"
+        ],
+        "paesi": [
+          "Regno Unito",
+          "Spagna",
+          "Stati Uniti"
+        ],
+        "trend": {
+          "agganciato": true,
+          "delta_articoli": 1,
+          "delta_testate": 1,
+          "rispetto_a": "2026-07-23"
+        }
+      },
+      "n_articoli": 5
+    },
+    {
+      "id": 5,
+      "titolo": "India: fine sciopero della fame di Wangchuk, proseguono le proteste",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "L'attivista Sonam Wangchuk ha interrotto uno sciopero della fame durato 26 giorni, mentre le proteste in India si intensificano per denunciare violenze della polizia e uno scandalo su un documento d'esame. Le autorità hanno annunciato colloqui con i manifestanti, definiti 'cockroach', per sbloccare la situazione.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee sottolineano la fine dello sciopero di Wangchuk e le trattative tra governo e manifestanti, con riferimento alle proteste diffuse e all'epiteto 'cockroach' usato per i dimostranti.",
+          "testate": [
+            "BBC News",
+            "The Guardian"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Le testate nordamericane evidenziano la fine dello sciopero di Wangchuk e la richiesta dei manifestanti per le dimissioni del ministro dell'Istruzione, insieme alle trattative con le autorità per risolvere il conflitto.",
+          "testate": [
+            "NPR",
+            "The New York Times"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 53,
+        "n_testate": 4,
+        "continenti": [
+          "Europa",
+          "Nord America"
+        ],
+        "paesi": [
+          "Regno Unito",
+          "Stati Uniti"
+        ],
+        "trend": {
+          "agganciato": true,
+          "delta_articoli": -1,
+          "delta_testate": 1,
+          "rispetto_a": "2026-07-23"
+        }
+      },
+      "n_articoli": 5
+    }
+  ],
+  "degrado": []
+}

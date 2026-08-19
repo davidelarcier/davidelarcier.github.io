@@ -1,0 +1,12 @@
+# Dipendenze e build: rigenerati da GitHub Actions, mai committati.
+app/node_modules/
+app/dist/
+node_modules/
+
+# Cache TypeScript / build info
+app/node_modules/.tmp/
+*.tsbuildinfo
+
+# OS / editor
+.DS_Store
+*.swp

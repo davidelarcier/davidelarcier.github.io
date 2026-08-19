@@ -1,0 +1,248 @@
+{
+  "data": "2026-07-23",
+  "generato": "2026-07-24T01:45:11",
+  "temi": [
+    {
+      "id": 1,
+      "titolo": "Accordo Usa-Arabia Saudita sul nucleare",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "L'amministrazione Trump ha siglato un accordo nucleare con l'Arabia Saudita, subordinandolo al riconoscimento di Israele e alla partecipazione agli Accordi di Abraham. La mossa solleva preoccupazioni per una corsa agli armamenti nel Medio Oriente e una contraddizione con le politiche precedenti.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee evidenziano il contrasto tra l'accordo e le politiche precedenti, sottolineando la condizione del riconoscimento di Israele e i rischi di una corsa nucleare regionale.",
+          "testate": [
+            "The Guardian",
+            "BBC News",
+            "Le Figaro",
+            "El País",
+            "El Mundo"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "I media statunitensi focalizzano sull'incertezza del patto, le critiche interne e la paura di un doppio standard nella politica nucleare, collegando l'accordo alla normalizzazione con Israele.",
+          "testate": [
+            "The New York Times",
+            "The Washington Post",
+            "NPR"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "L'ANSA riferisce della condizione impostata da Trump per l'adesione agli Accordi di Abraham come prerequisito per l'accordo nucleare.",
+          "testate": [
+            "ANSA"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 82,
+        "n_testate": 9,
+        "continenti": [
+          "Europa",
+          "Nord America"
+        ],
+        "paesi": [
+          "Francia",
+          "Italia",
+          "Regno Unito",
+          "Spagna",
+          "Stati Uniti"
+        ],
+        "trend": {
+          "agganciato": false,
+          "rispetto_a": "2026-07-22"
+        }
+      },
+      "n_articoli": 20
+    },
+    {
+      "id": 2,
+      "titolo": "Petrolio a $100 per barile, tensioni nel Medio Oriente spingono i prezzi",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Il prezzo del petrolio Brent ha superato i 100 dollari al barile a causa delle tensioni in Medio Oriente, con attacchi nel Mar Rosso e escalation dei conflitti. L'aumento spinge le quotazioni e genera preoccupazioni sui mercati finanziari, mentre le borse europee registrano flessioni.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee collegano l'aumento del petrolio a conflitti in Medio Oriente e al blocco del traffico nel Mar Rosso, evidenziando un rialzo del 6-7% e l'impatto sui mercati finanziari con vendite e timori di nuovi shock inflattivi.",
+          "testate": [
+            "BBC News",
+            "El País",
+            "El Mundo",
+            "The Guardian"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "I media statunitensi attribuiscono il rialzo a attacchi nel Mar Rosso, con il Brent che guadagna circa il 40% in un mese a causa di minacce alla navigazione e tensioni regionali.",
+          "testate": [
+            "The New York Times",
+            "The Washington Post"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "L'ANSA segnala che il Brent sfiora i 99 dollari, anticipando un'ulteriore ascesa legata alle instabilità internazionali.",
+          "testate": [
+            "ANSA"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 71,
+        "n_testate": 7,
+        "continenti": [
+          "Europa",
+          "Nord America"
+        ],
+        "paesi": [
+          "Italia",
+          "Regno Unito",
+          "Spagna",
+          "Stati Uniti"
+        ],
+        "trend": {
+          "agganciato": false,
+          "rispetto_a": "2026-07-22"
+        }
+      },
+      "n_articoli": 7
+    },
+    {
+      "id": 3,
+      "titolo": "Sconvolgimenti politico-militari in Ucraina",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Il presidente ucraino Volodymyr Zelensky ha destituito il generale Oleksandr Syrskyi e il ministro della Difesa Mykhailo Fedorov, scatenando tensioni interne. Fedorov chiede la reintegra, mentre le testate internazionali evidenziano conflitti tra strategie militari e riforme, con dibattiti sulla leadership e i risultati del conflitto.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee sottolineano il rifiuto di Fedorov di accettare un ruolo alternativo e la sua richiesta di reintegrazione, evidenziando il conflitto tra il ministro deposto e il presidente Zelensky.",
+          "testate": [
+            "BBC News",
+            "Le Figaro"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Le testate nordamericane focalizzano sull'instabilità del governo ucraino, con la rimozione di Syrskyi e Fedorov, e interrogano le motivazioni di Zelensky nel rimpiazzare leader popolari mentre i progressi militari si registrano.",
+          "testate": [
+            "The New York Times",
+            "The Washington Post",
+            "NPR"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 59,
+        "n_testate": 5,
+        "continenti": [
+          "Europa",
+          "Nord America"
+        ],
+        "paesi": [
+          "Francia",
+          "Regno Unito",
+          "Stati Uniti"
+        ],
+        "trend": {
+          "agganciato": true,
+          "delta_articoli": 3,
+          "delta_testate": 2,
+          "rispetto_a": "2026-07-22"
+        }
+      },
+      "n_articoli": 9
+    },
+    {
+      "id": 4,
+      "titolo": "Camera Usa limita Trump sull'Iran, Senato in stallo",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "La Camera Usa ha approvato una risoluzione per limitare le azioni di Trump verso l'Iran, con il supporto bipartisan, mentre il Senato non ha avanzato misure simili. Le testate segnalano sforzi per porre fine al conflitto e aumentare il finanziamento militare.",
+      "confronto": [
+        {
+          "area": "Nord America",
+          "sintesi": "Le testate statunitensi sottolineano la divisione tra Camera e Senato: la Camera ha approvato una risoluzione bipartisan per frenare le azioni di Trump verso l'Iran, mentre il Senato non ha avanzato misure simili.",
+          "testate": [
+            "The Washington Post",
+            "NPR"
+          ]
+        },
+        {
+          "area": "Europa",
+          "sintesi": "Il Guardian evidenzia la decisione della Camera Usa di richiedere il ritiro delle truppe Usa dall'Iran, mettendo in luce l'opposizione al ruolo del presidente.",
+          "testate": [
+            "The Guardian"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 53,
+        "n_testate": 4,
+        "continenti": [
+          "Europa",
+          "Nord America"
+        ],
+        "paesi": [
+          "Italia",
+          "Regno Unito",
+          "Stati Uniti"
+        ],
+        "trend": {
+          "agganciato": false,
+          "rispetto_a": "2026-07-22"
+        }
+      },
+      "n_articoli": 5
+    },
+    {
+      "id": 5,
+      "titolo": "Attacchi ucraini ai magazzini di e-commerce russi: pressione economica e guerra aerea",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Le forze ucraine colpiscono ripetutamente i magazzini della piattaforma russa Wildberries, esercitando pressione economica e allargando il conflitto alle strutture commerciali. Gli attacchi mirano a indebolire il sistema logistico e a colpire la vita quotidiana dei cittadini russi, mentre Mosca risponde con bombardamenti su infrastrutture energetiche.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee evidenziano l'impatto economico degli attacchi ucraini su Wildberries e la guerra aerea che coinvolge infrastrutture civili e militari. Si sottolinea il ruolo dei droni e l'escalation del conflitto su territorio russo.",
+          "testate": [
+            "BBC News",
+            "Le Monde",
+            "El Mundo"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "La prospettiva statunitense focalizza su come Kiev abbia esteso la strategia offensiva colpendo un'azienda russa simile ad Amazon, con l'obiettivo di avvicinare il conflitto alla quotidianità dei cittadini nemici.",
+          "testate": [
+            "The New York Times"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 53,
+        "n_testate": 4,
+        "continenti": [
+          "Europa",
+          "Nord America"
+        ],
+        "paesi": [
+          "Francia",
+          "Regno Unito",
+          "Spagna",
+          "Stati Uniti"
+        ],
+        "trend": {
+          "agganciato": false,
+          "rispetto_a": "2026-07-22"
+        }
+      },
+      "n_articoli": 4
+    }
+  ],
+  "degrado": []
+}

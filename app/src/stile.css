@@ -1,0 +1,633 @@
+/* Identità visiva ripresa dal prototipo (prototype/giornale-dei-giornali.html):
+   stessa palette, stessi font, barra di convergenza rossa, Italia in blu. */
+
+:root {
+  --ink: #181a1f;
+  --paper: #faf8f2;
+  --stamp: #b3231a; /* convergenza (rosso) */
+  --blu: #24409e; /* Italia (blu) — RISERVATO, mai scambiato col rosso */
+  --muted: #8a8880;
+  --line: #e3e0d5;
+  --serif: "Fraunces Variable", Georgia, "Times New Roman", serif;
+  --sans: "Archivo", system-ui, -apple-system, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+html,
+body,
+#root {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+}
+
+.app {
+  max-width: 44rem;
+  margin: 0 auto;
+  /* Il margine in fondo tiene il contenuto sopra la nav fissa; +l'inset della
+     gesture bar (Android/iOS) perché la nav ora è più alta di altrettanto. */
+  padding: 0 1rem calc(5rem + env(safe-area-inset-bottom, 0px));
+}
+
+/* Testata */
+.masthead {
+  text-align: center;
+  border-bottom: 3px double var(--ink);
+  padding: 1.2rem 0 0.5rem;
+  margin-bottom: 0.2rem;
+}
+.masthead h1 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: clamp(1.9rem, 6vw, 2.8rem);
+  margin: 0;
+  letter-spacing: 0.5px;
+}
+.masthead .sub {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.data-riga {
+  text-align: center;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--muted);
+  margin: 0.4rem 0 1.4rem;
+}
+
+/* Scheda tema (prima pagina) */
+.tema-card {
+  border: none;
+  border-top: 1px solid var(--line);
+  padding: 1.2rem 0 0.3rem;
+  cursor: pointer;
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: transparent;
+}
+.tema-card:hover .tema-titolo {
+  color: var(--stamp);
+}
+.tema-titolo {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.35rem;
+  line-height: 1.15;
+  margin: 0 0 0.4rem;
+  transition: color 0.15s;
+}
+.tema-sintesi {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0.4rem 0 0.2rem;
+}
+.tema-card .apri {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Barra di convergenza */
+.conv {
+  margin: 0.4rem 0 0.6rem;
+}
+.conv-barra {
+  background: var(--line);
+  border-radius: 3px;
+  height: 7px;
+  overflow: hidden;
+}
+.conv-barra > div {
+  background: var(--stamp);
+  height: 100%;
+}
+.conv-lbl {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  color: #555;
+  margin-top: 0.25rem;
+  line-height: 1.4;
+}
+.conv-lbl .pct {
+  color: var(--stamp);
+  font-weight: 600;
+}
+.conv-lbl .trend-su {
+  color: var(--stamp);
+}
+.conv-lbl .trend-giu {
+  color: var(--muted);
+}
+
+/* Dettaglio tema */
+.dettaglio-head {
+  position: sticky;
+  top: 0;
+  background: var(--paper);
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--line);
+  z-index: 2;
+}
+.indietro {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  background: none;
+  border: none;
+  color: var(--ink);
+  cursor: pointer;
+  padding: 0.2rem 0;
+  letter-spacing: 1px;
+}
+.dettaglio-titolo {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.7rem;
+  line-height: 1.15;
+  margin: 0.8rem 0 0.3rem;
+}
+.sintesi-generale {
+  font-size: 1.05rem;
+  line-height: 1.55;
+  margin: 0.6rem 0 1.2rem;
+}
+
+/* Confronto per aree */
+.confronto {
+  display: grid;
+  gap: 0.7rem;
+}
+@media (min-width: 34rem) {
+  .confronto {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.scheda {
+  border: 1px solid var(--line);
+  border-left: 3px solid #bbb;
+  border-radius: 5px;
+  padding: 0.7rem 0.8rem;
+}
+.scheda.italia {
+  border-left-color: var(--blu);
+  background: #f4f6fd;
+}
+.scheda .area {
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+}
+.scheda.italia .area {
+  color: var(--blu);
+}
+.scheda .scheda-sint {
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+.scheda .scheda-testate {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  color: var(--muted);
+  margin-top: 0.4rem;
+}
+
+/* Fonti */
+.fonti {
+  margin: 1.4rem 0 0;
+}
+.fonti-lbl {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin-bottom: 0.4rem;
+}
+.fonte {
+  border-left: 2px solid var(--line);
+  padding: 0.3rem 0 0.3rem 0.7rem;
+  margin: 0.5rem 0;
+}
+.fonte.italia {
+  border-left-color: var(--blu);
+}
+.fonte .testata {
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+.fonte .tag {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  color: var(--muted);
+}
+.fonte a {
+  color: var(--ink);
+  text-decoration: none;
+  display: block;
+  font-size: 0.95rem;
+  line-height: 1.35;
+  margin-top: 0.1rem;
+}
+.fonte a:hover {
+  text-decoration: underline;
+  color: var(--stamp);
+}
+.fonti-altre {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  color: var(--muted);
+  font-style: italic;
+  margin-top: 0.3rem;
+}
+
+/* Stati */
+.stato {
+  text-align: center;
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.85rem;
+  padding: 3rem 1rem;
+}
+.stato.errore {
+  color: var(--stamp);
+}
+
+/* ── Cono d'ombra ─────────────────────────────────────────────── */
+
+.sez-header,
+.dettaglio-head + .motivi + .dettaglio-titolo {
+  /* header sezione */
+}
+.sez-header {
+  border-top: 3px double var(--ink);
+  border-bottom: 1px solid var(--ink);
+  padding: 0.9rem 0 0.6rem;
+  margin: 0.6rem 0 0.4rem;
+}
+.sez-header h1 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 1.9rem;
+  margin: 0;
+}
+.sez-header p {
+  font-style: italic;
+  color: #555;
+  font-size: 0.95rem;
+  margin: 0.15rem 0 0;
+}
+.motivi {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--stamp);
+  margin: 0.2rem 0 0.1rem;
+}
+
+/* Barre contrapposte Attenzione / Impatto */
+.ai {
+  margin: 0.5rem 0 0.7rem;
+}
+.ai-riga {
+  display: grid;
+  grid-template-columns: 4.6rem 1fr;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0.25rem 0;
+}
+.ai-et {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--muted);
+}
+.ai-barra {
+  grid-column: 2;
+  background: var(--line);
+  border-radius: 3px;
+  height: 9px;
+  overflow: hidden;
+}
+.ai-fill {
+  height: 100%;
+}
+.ai-fill.rosso {
+  background: var(--stamp);
+}
+.ai-fill.ink {
+  background: var(--ink);
+}
+.ai-val {
+  grid-column: 2;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: #444;
+  margin-top: -0.05rem;
+}
+.ai-val b {
+  color: var(--ink);
+}
+.ai-riga:first-child .ai-val b {
+  color: var(--stamp);
+}
+.ai-portata {
+  grid-column: 1 / -1;
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  color: var(--muted);
+  margin-top: 0.2rem;
+}
+.ai-sconto {
+  color: #a49; /* discreto, trasparenza dello sconto */
+  color: var(--muted);
+}
+
+/* Mappa schematica della copertura per continente */
+.mappa-wrap {
+  margin: 1rem 0;
+}
+.mappa-lbl {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin-bottom: 0.4rem;
+}
+.mappa {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-areas: "na eu as" ".  af as" "sa .  oc";
+  gap: 0.4rem;
+}
+.mappa-tess {
+  text-align: center;
+}
+.mappa-tess-blocco {
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 0.55rem 0.2rem;
+  border-radius: 5px;
+  background: #efece2;
+  color: var(--ink);
+}
+.mappa-tess.silenzio .mappa-tess-blocco {
+  background: repeating-linear-gradient(
+    45deg,
+    #efece2,
+    #efece2 4px,
+    #e6e2d6 4px,
+    #e6e2d6 8px
+  );
+  color: var(--muted);
+}
+.mappa-tess-nome {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  color: #555;
+  margin-top: 0.15rem;
+}
+.mappa-tess-sil {
+  font-family: var(--mono);
+  font-size: 0.56rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.mappa-legenda {
+  font-family: var(--mono);
+  font-size: 0.64rem;
+  color: var(--muted);
+  margin-top: 0.4rem;
+}
+.pallino {
+  display: inline-block;
+  width: 0.65rem;
+  height: 0.65rem;
+  border-radius: 2px;
+  vertical-align: -1px;
+}
+.pallino.rosso {
+  background: var(--stamp);
+}
+.pallino.grigio {
+  background: #d8d3c6;
+}
+
+/* Sparkline della dissolvenza */
+.spark-wrap {
+  margin: 1rem 0;
+}
+.spark-lbl {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--stamp);
+  margin-bottom: 0.2rem;
+}
+.spark {
+  display: block;
+}
+.spark-area {
+  fill: rgba(179, 35, 26, 0.1);
+}
+.spark-linea {
+  fill: none;
+  stroke: var(--stamp);
+  stroke-width: 1.6;
+  stroke-linejoin: round;
+}
+.spark-picco {
+  fill: var(--muted);
+}
+.spark-oggi {
+  fill: var(--stamp);
+}
+.spark-assi {
+  display: flex;
+  justify-content: space-between;
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  color: var(--muted);
+  width: 220px;
+}
+
+/* Banner "nuova versione disponibile" (update PWA, modello prompt) */
+.agg-banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: calc(0.6rem + env(safe-area-inset-top, 0px)) 1rem 0.6rem;
+  background: var(--ink);
+  color: var(--paper);
+  font-family: var(--mono);
+  font-size: 0.8rem;
+}
+.agg-testo {
+  flex: 1;
+}
+.agg-azione {
+  background: var(--stamp);
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 0.35rem 0.8rem;
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+.agg-chiudi {
+  background: none;
+  border: none;
+  color: var(--paper);
+  font-size: 1.1rem;
+  line-height: 1;
+  padding: 0 0.2rem;
+  cursor: pointer;
+}
+
+/* Navigazione */
+.nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  background: var(--paper);
+  border-top: 1px solid var(--ink);
+  /* Safe-area insets: i bottoni restano sopra la gesture bar Android/iOS e non
+     finiscono nell'area dei gesti. Lo sfondo arriva fino al bordo, il padding
+     spinge su i bottoni. Vale identico in LAN, PWA e futura APK. */
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+  padding-left: env(safe-area-inset-left, 0px);
+  padding-right: env(safe-area-inset-right, 0px);
+}
+.nav button {
+  flex: 1;
+  background: none;
+  border: none;
+  padding: 0.8rem 0.4rem;
+  font-family: var(--mono);
+  font-size: 0.74rem;
+  letter-spacing: 0.5px;
+  color: var(--muted);
+  cursor: pointer;
+}
+.nav button.attivo {
+  color: var(--stamp);
+  font-weight: 600;
+  box-shadow: inset 0 2px 0 var(--stamp);
+}
+
+/* ── Pagine continentali ──────────────────────────────────────────── */
+
+.cont-sez {
+  margin-top: 0.4rem;
+}
+.cont-nome {
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--ink);
+  border-bottom: 1px solid var(--ink);
+  padding: 0.9rem 0 0.3rem;
+  margin: 0.6rem 0 0;
+}
+.cont-occhiello {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--muted);
+  margin-top: 0.4rem;
+}
+
+/* Copertura interna al continente — barra NEUTRA (ink), non la rossa mondiale */
+.cop-int {
+  margin: 0.4rem 0 0.6rem;
+}
+.cop-int-barra {
+  background: var(--line);
+  border-radius: 3px;
+  height: 7px;
+  overflow: hidden;
+}
+.cop-int-barra > div {
+  background: var(--ink);
+  height: 100%;
+}
+.cop-int-lbl {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  color: #555;
+  margin-top: 0.25rem;
+}
+.cop-int-lbl b {
+  color: var(--ink);
+}
+
+/* Scheda "di casa" del continente: accento neutro, MAI il blu dell'Italia */
+.scheda.casa {
+  border-left-color: var(--ink);
+  background: #f1eee4;
+}
+.scheda.casa .area {
+  color: var(--ink);
+}
+
+/* ── Archivio ─────────────────────────────────────────────────────── */
+
+.arch-voce {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  width: 100%;
+  text-align: left;
+  background: transparent;
+  border: none;
+  border-top: 1px solid var(--line);
+  padding: 0.9rem 0.2rem;
+  cursor: pointer;
+  font-family: var(--serif);
+}
+.arch-voce:hover .arch-data {
+  color: var(--stamp);
+}
+.arch-voce.attiva {
+  background: #f4f6fd;
+}
+.arch-pallino {
+  color: var(--stamp);
+  font-size: 0.7rem;
+}
+.arch-data {
+  font-size: 1.05rem;
+  flex: 1;
+}
+.arch-tag {
+  font-family: var(--mono);
+  font-size: 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--muted);
+}
