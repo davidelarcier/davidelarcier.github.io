@@ -1,0 +1,3928 @@
+{
+  "data": "2026-08-19",
+  "generato": "2026-08-19T21:42:58",
+  "temi": [
+    {
+      "id": 1,
+      "titolo": "Israele apre indagini per morte di Hind Rajab e sanitari a Gaza",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "L'esercito israeliano ha avviato indagini penali per la morte di Hind Rajab, una bambina palestinese, e di 15 sanitari a Gaza. Le inchieste, avviate dopo anni, seguono condanne internazionali. Alcuni casi non vedranno indagini, sollevando critiche.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee riferiscono che Israele ha aperto indagini penali per la morte di Hind Rajab e dei sanitari, sottolineando il ritardo e la mancanza di indagini in altri casi. Si evidenzia l'ammissione israeliana di fuoco su veicoli civili e le polemiche internazionali.",
+          "testate": [
+            "Aftenposten",
+            "BBC News",
+            "De Standaard",
+            "Der Spiegel",
+            "Der Standard",
+            "ERR",
+            "El País",
+            "Koha Ditore",
+            "LRT",
+            "Libération",
+            "Neue Zürcher Zeitung",
+            "Telex",
+            "The Irish Times"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "L'ANSA segnala che l'Istituto israeliano per la difesa ha richiesto un'inchiesta penale per la morte di Hind Rajab e cinque casi simili, evidenziando la richiesta di giustizia per le vittime civili.",
+          "testate": [
+            "ANSA"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Le testate asiatiche descrivono le indagini interne israeliane come un primo passo dopo anni, con focus sull'ammissione del ruolo militare e le condanne internazionali. Si menziona l'indagine su cinque casi, tra cui il decesso di Hind Rajab.",
+          "testate": [
+            "Al Jazeera",
+            "Daily Sabah",
+            "Dawn",
+            "Hindustan Times",
+            "South China Morning Post",
+            "The Jerusalem Post",
+            "The National"
+          ]
+        },
+        {
+          "area": "Africa",
+          "sintesi": "MyJoyOnline riporta che l'esercito israeliano ha ordinato un'inchiesta per la morte di Hind Rajab, legata alla sua richiesta di aiuto diffusa a livello internazionale, e sottolinea le critiche globali.",
+          "testate": [
+            "MyJoyOnline"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Le testate nordamericane evidenziano le indagini interne israeliane, trasferite alla polizia militare, e la scarsa efficacia storica di tali inchieste. Si menziona la morte di Hind Rajab e dei sanitari come casi ad alta visibilità.",
+          "testate": [
+            "CBC News",
+            "La Nación (Costa Rica)",
+            "Le Devoir",
+            "The Globe and Mail",
+            "The New York Times"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Le testate sudamericane riferiscono che Israele ha ammesso di aver aperto fuoco su veicoli civili, avviando indagini penali per la morte di Hind Rajab e dei soccorritori, con riferimenti a film premiati sull'evento.",
+          "testate": [
+            "ABC Color",
+            "El Espectador",
+            "Folha de S.Paulo",
+            "Infobae",
+            "O Globo"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 13,
+        "n_testate": 33,
+        "continenti": [
+          "Africa",
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Sud America"
+        ],
+        "paesi": [
+          "Argentina",
+          "Austria",
+          "Belgio",
+          "Brasile",
+          "Canada",
+          "Cina",
+          "Colombia",
+          "Costa Rica",
+          "Emirati Arabi Uniti",
+          "Estonia",
+          "Francia",
+          "Germania",
+          "Ghana",
+          "India",
+          "Irlanda",
+          "Israele",
+          "Italia",
+          "Kosovo",
+          "Lituania",
+          "Norvegia",
+          "Pakistan",
+          "Paraguay",
+          "Qatar",
+          "Regno Unito",
+          "Spagna",
+          "Stati Uniti",
+          "Svizzera",
+          "Turchia",
+          "Ungheria"
+        ],
+        "trend": {
+          "agganciato": false,
+          "rispetto_a": "2026-08-17"
+        }
+      },
+      "n_articoli": 33,
+      "fonti": [
+        {
+          "testata": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/19/lidf-chiede-uninchiesta-penale-sulluccisione-della-piccola-hind-rajab-a-gaza_b42e656a-ac6e-4106-a938-3fc2bee6ad95.html",
+          "titolo": "L'Idf chiede un'inchiesta penale sull'uccisione della piccola Hind Rajab a Gaza",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "la Repubblica",
+          "url": "https://www.repubblica.it/esteri/2026/08/19/diretta/guerra_iran_usa_israele_news_oggi-425535312",
+          "titolo": "Guerra in Medio Oriente, le news. Idf apre inchiesta sull’uccisione di Hind Rajab a Gaza",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": true
+        },
+        {
+          "testata": "Der Standard",
+          "url": "https://www.derstandard.at/story/3000000336244/israels-armee-leitet-strafrechtliche-ermittlungen-zu-toetung-von-hind-rajab-und-sanitaetern-in-gaza-ein?ref=rss",
+          "titolo": "Israels Armee leitet strafrechtliche Ermittlungen zu Tötung von Hind Rajab und Sanitätern in Gaza ein",
+          "titolo_it": "L'esercito israeliano avvia indagini penali per la morte di Hind Rajab e di altri sanitari a Gaza",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "De Standaard",
+          "url": "https://www.standaard.be/buitenland/israelisch-leger-opent-na-ruim-tweeenhalf-jaar-strafrechtelijk-onderzoek-naar-dood-vijfjarige-hind-rajab/35173881.html",
+          "titolo": "Israëlisch leger opent na ruim tweeënhalf jaar strafrechtelijk onderzoek naar dood vijfjarige Hind Rajab",
+          "titolo_it": null,
+          "paese": "Belgio",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "ERR",
+          "url": "https://www.err.ee/1610114455/iisrael-hakkab-uurima-viieaastase-palestiina-tudruku-ja-paastetootajate-tapmist",
+          "titolo": "Iisrael hakkab uurima viieaastase Palestiina tüdruku ja päästetöötajate tapmist",
+          "titolo_it": "Israele accusa Hamas di aver ucciso una bambina palestinese e soccorritori",
+          "paese": "Estonia",
+          "continente": "Europa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3364595/israel-opens-criminal-probes-over-killings-palestinian-girl-hind-rajab-aid-workers?utm_source=rss_feed",
+          "titolo": "Israel opens criminal probes over killings of Palestinian girl Hind Rajab, aid workers",
+          "titolo_it": "Israele apre indagini penali per le uccisioni della ragazza palestinese Hind Rajab e di operatori umanitari",
+          "paese": "Cina",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/08/19/israeli-army-opens-criminal-case-over-hind-rajab-killing",
+          "titolo": "Israeli army opens criminal case over Hind Rajab killing",
+          "titolo_it": "Esercito israeliano apre un'indagine penale per la morte di Hind Rajab",
+          "paese": "Emirati Arabi Uniti",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/israel-admits-for-first-time-idf-role-in-hind-rajabs-killing-opens-criminal-probe-101787148093457.html",
+          "titolo": "Israel admits, for first time, IDF role in Hind Rajab's killing, opens criminal probe",
+          "titolo_it": "Israele ammette per la prima volta il ruolo dell'esercito nella morte di Hind Rajab e apre un'indagine penale",
+          "paese": "India",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "CBC News",
+          "url": "https://www.cbc.ca/news/world/israel-criminal-probe-palestinian-girl-killed-hind-rajab-9.7312142?cmp=rss",
+          "titolo": "Israel opens criminal probes over killings of 6-year-old Palestinian girl Hind Rajab, Gaza rescue workers",
+          "titolo_it": "Israele apre indagini penali per le uccisioni della bambina palestinese Hind Rajab e di soccorritori a Gaza",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Le Devoir",
+          "url": "https://www.ledevoir.com/monde/moyen-orient/1002626/armee-israelienne-ouvre-enquete-mort-hind-rajab",
+          "titolo": "L’armée israélienne ouvre une enquête sur la mort de Hind Rajab",
+          "titolo_it": "L’esercito israeliano apre un’indagine sulla morte di Hind Rajab",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "francese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/world/article-israeli-military-criminal-probes-killings-hind-rajab-paramedics",
+          "titolo": "Israel opens criminal probes into killings of five year-old Hind Rajab and Palestinian paramedics",
+          "titolo_it": "Israele apre indagini penali per le uccisioni della cinqueenne Hind Rajab e di paramedici palestinesi",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/08/19/israel-ordeno-una-investigacion-penal-por-la-muerte-de-la-nina-hind-rajab-en-gaza",
+          "titolo": "Israel ordenó una investigación penal por la muerte de la niña Hind Rajab en Gaza",
+          "titolo_it": "Israele ha ordinato un'indagine penale per la morte della bambina Hind Rajab a Gaza",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/exercito-de-israel-investigara-morte-da-menina-hind-rajab-e-de-socorristas-em-gaza.shtml",
+          "titolo": "Exército de Israel investigará morte da menina Hind Rajab e de socorristas em Gaza",
+          "titolo_it": "L'esercito israeliano indagherà sulla morte della bambina Hind Rajab e di soccorritori a Gaza",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "O Globo",
+          "url": "https://oglobo.globo.com/mundo/noticia/2026/08/19/exercito-de-israel-abre-investigacao-sobre-morte-de-menina-palestina-hind-rajab-e-de-paramedicos-durante-guerra-em-gaza.ghtml",
+          "titolo": "Israel abre investigação sobre morte e admite disparos contra carro onde estava menina palestina Hind Rajab, retratada em filme premiado",
+          "titolo_it": "Israele apre un'indagine sulla morte e ammette di aver sparato al veicolo in cui si trovava la bambina palestinese Hind Rajab, protagonista di un film premiato",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/israeli-army-orders-criminal-investigation-into-killing-of-palestinian-girl-hind-rajab-in-gaza",
+          "titolo": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+          "titolo_it": "Esercito israeliano ordina un'indagine penale per l'uccisione della ragazza palestinese Hind Rajab a Gaza",
+          "paese": "Ghana",
+          "continente": "Africa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 18
+    },
+    {
+      "id": 2,
+      "titolo": "Vaccino contro il melanoma: Moderna e Merck registrano successi",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Moderna e Merck hanno annunciato risultati positivi da uno studio clinico avanzato su un vaccino a mRNA contro il melanoma, che ha ridotto le recidive. Le azioni delle due aziende hanno registrato forti rialzi, con aumenti fino al 150%.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee sottolineano il successo del vaccino a mRNA di Moderna e Merck nella prevenzione delle recidive del melanoma, con rialzi delle azioni fino al 150%. Si evidenzia la collaborazione tra le aziende e l'approccio personalizzato basato su mutazioni tumorali.",
+          "testate": [
+            "ERR",
+            "El Mundo",
+            "El País",
+            "Financial Times",
+            "G4Media",
+            "Meduza",
+            "Oslobođenje",
+            "Politiken",
+            "Rzeczpospolita",
+            "The Irish Times"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "L'ANSA segnala un aumento delle azioni di Moderna del 102% dopo l'annuncio di risultati promettenti per il vaccino contro il melanoma, sviluppato in collaborazione con Merck e testato in uno studio avanzato.",
+          "testate": [
+            "ANSA"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Le testate asiatiche evidenziano i risultati incoraggianti del vaccino a mRNA di Merck e Moderna, combinato con Keytruda, e i rialzi delle azioni (fino al 120%). Si sottolinea la potenziale approvazione del trattamento.",
+          "testate": [
+            "Cumhuriyet",
+            "Daily Sabah",
+            "Hindustan Times",
+            "South China Morning Post"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Articoli nordamericani riferiscono del successo del vaccino a mRNA di Moderna e Merck nella fase 3, con rialzi delle azioni fino al 150%. Si menziona la prevenzione delle recidive e l'assenza di dati completi pubblicati.",
+          "testate": [
+            "CBC News",
+            "El Universal",
+            "Le Devoir",
+            "The Globe and Mail",
+            "The New York Times"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Le testate sudamericane evidenziano i rialzi delle azioni di Moderna (fino al 79,5%) e Merck (14,2%) dopo l'annuncio di risultati positivi per il vaccino a mRNA contro il melanoma avanzato, con approccio personalizzato.",
+          "testate": [
+            "ABC Color",
+            "El Comercio",
+            "El País (Uruguay)",
+            "El Universo",
+            "Estadão",
+            "Folha de S.Paulo",
+            "La Tercera",
+            "O Globo"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 11,
+        "n_testate": 28,
+        "continenti": [
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Sud America"
+        ],
+        "paesi": [
+          "Bosnia ed Erzegovina",
+          "Brasile",
+          "Canada",
+          "Cile",
+          "Cina",
+          "Danimarca",
+          "Ecuador",
+          "Estonia",
+          "India",
+          "Irlanda",
+          "Italia",
+          "Messico",
+          "Paraguay",
+          "Perù",
+          "Polonia",
+          "Regno Unito",
+          "Romania",
+          "Russia",
+          "Spagna",
+          "Stati Uniti",
+          "Turchia",
+          "Uruguay"
+        ],
+        "trend": {
+          "agganciato": false,
+          "rispetto_a": "2026-08-17"
+        }
+      },
+      "n_articoli": 29,
+      "fonti": [
+        {
+          "testata": "ANSA",
+          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/19/il-vaccino-contro-il-melanoma-mostra-risultati-promettenti-moderna-vola-in-borsa-a-102_8e586860-450d-4404-af85-c9827c648c24.html",
+          "titolo": "Il vaccino contro il melanoma mostra risultati promettenti, Moderna vola in Borsa a +102%",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Oslobođenje",
+          "url": "https://www.oslobodjenje.ba/vijesti/svijet/personalizovana-vakcina-protiv-raka-pokazala-obecavajuce-rezultate",
+          "titolo": "Personalizovana vakcina protiv raka pokazala obećavajuće rezultate",
+          "titolo_it": null,
+          "paese": "Bosnia ed Erzegovina",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "Politiken",
+          "url": "https://politiken.dk/danmark/sundhed/art10952684/Medicinalaktie-skyder-i-vejret-efter-nyt-om-kr%C3%A6ftvaccine",
+          "titolo": "Medicinalaktie skyder i vejret efter nyt om kræftvaccine",
+          "titolo_it": null,
+          "paese": "Danimarca",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "ERR",
+          "url": "https://www.err.ee/1610114575/moderna-aktsia-hind-kahekordistus-vahivaktsiini-eduka-katsetuse-jarel",
+          "titolo": "Moderna aktsia hind kahekordistus vähivaktsiini eduka katsetuse järel",
+          "titolo_it": "Il prezzo delle azioni di Moderna raddoppia dopo il successo del trial del vaccino contro il cancro",
+          "paese": "Estonia",
+          "continente": "Europa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Estadão",
+          "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/acao-da-moderna-sobe-mais-de-150-em-ny-apos-anuncio-de-vacina-contra-o-cancer",
+          "titolo": "Ação da Moderna sobe mais de 150% em NY após anúncio de vacina contra o câncer",
+          "titolo_it": "L'azione di Moderna sale di oltre il 150% a New York dopo l'annuncio del vaccino contro il cancro",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/moderna-e-merck-anunciam-resultados-promissores-de-vacina-contra-o-cancer-de-pele.shtml",
+          "titolo": "Moderna e MSD anunciam resultados promissores de vacina contra o câncer de pele",
+          "titolo_it": "Moderna e MSD annunciano risultati promettenti per una vaccino contro il cancro alla pelle",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "La Tercera",
+          "url": "https://www.latercera.com/pulso/noticia/acciones-de-farmaceuticas-moderna-y-merck-se-disparan-ante-avances-en-vacuna-contra-el-cancer-de-piel",
+          "titolo": "Acciones de Moderna y Merck se disparan ante avances en vacuna contra el cáncer de piel",
+          "titolo_it": "Le azioni di Moderna e Merck schizzano in alto per progressi nella vaccino contro il cancro alla pelle",
+          "paese": "Cile",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "CBC News",
+          "url": "https://www.cbc.ca/news/health/mrna-melanoma-cancer-vaccine-trial-9.7312277?cmp=rss",
+          "titolo": "Merck and Moderna say mRNA melanoma vaccine hits goals in late-stage trial",
+          "titolo_it": "Merck e Moderna annunciano che il vaccino a mRNA per il melanoma ha raggiunto gli obiettivi nel trial di fase avanzata",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Le Devoir",
+          "url": "https://www.ledevoir.com/actualites/sante/1002635/moderna-merck-annoncent-resultats-encourageants-vaccin-contre-cancer-peau",
+          "titolo": "Moderna et Merck annoncent des résultats encourageants pour un vaccin contre le cancer de la peau",
+          "titolo_it": "Moderna e Merck annunciano risultati incoraggianti per un vaccino contro il cancro alla pelle",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "francese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/investing/article-merck-moderna-skin-cancer-vaccine-trial-results",
+          "titolo": "Moderna shares surge as melanoma vaccine with Merck succeeds in large trial",
+          "titolo_it": "Le azioni di Moderna balzano dopo il successo di un vaccino contro il melanoma in collaborazione con Merck in un grande trial",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3364603/merck-moderna-claim-encouraging-melanoma-vaccine-trial-results?utm_source=rss_feed",
+          "titolo": "Merck, Moderna claim encouraging melanoma vaccine trial results",
+          "titolo_it": "Merck e Moderna annunciano risultati incoraggianti dal trial del vaccino per il melanoma",
+          "paese": "Cina",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/us-news/moderna-stock-jumps-120-after-cancer-vaccine-trial-win-what-investors-need-to-know-101787151687750.html",
+          "titolo": "Moderna stock jumps 120% after cancer vaccine trial win: What investors need to know",
+          "titolo_it": "Azioni Moderna salgono del 120% dopo successo nel trial del vaccino contro il cancro: ciò che gli investitori devono sapere",
+          "paese": "India",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/moderna-nin-kanser-asisi-sonuclari-olumlu-geldi-hisseleri-ikiye-katlandi-2530551",
+          "titolo": "Moderna'nın kanser aşısı sonuçları olumlu geldi: Hisseleri ikiye katlandı!",
+          "titolo_it": "Moderna: i risultati positivi del vaccino contro il cancro spingono le azioni a raddoppiare",
+          "paese": "Turchia",
+          "continente": "Asia",
+          "lingua_originale": "turco",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 16
+    },
+    {
+      "id": 3,
+      "titolo": "Ex Ministro Ucraino Fedorov Chiede Elezioni e Sfida Zelensky",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "L'ex ministro della Difesa ucraino Mykhailo Fedorov, dopo essere stato rimosso da Volodymyr Zelensky, chiede elezioni anticipate nonostante la guerra con la Russia. La sua richiesta alimenta una crisi politica interna, con critiche alla corruzione e dibattiti sulla tenuta democratica del paese in tempo di conflitto.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee sottolineano la crisi politica generata da Fedorov, che sfida Zelensky chiedendo elezioni. Si evidenzia il contrasto tra il richiamo alla democrazia e le restrizioni legali per il voto in tempo di guerra, con critiche alla corruzione e alla leadership del presidente.",
+          "testate": [
+            "BBC News",
+            "De Standaard",
+            "Der Spiegel",
+            "Der Standard",
+            "ERR",
+            "El País",
+            "Financial Times",
+            "Frankfurter Allgemeine Zeitung",
+            "Gazeta Wyborcza",
+            "Helsingin Sanomat",
+            "Kyiv Independent",
+            "LRT",
+            "Libération",
+            "Magyar Nemzet",
+            "Meduza",
+            "Neue Zürcher Zeitung",
+            "Novaya Gazeta Europe",
+            "Politiken",
+            "Svenska Dagbladet",
+            "Süddeutsche Zeitung",
+            "The Guardian",
+            "de Volkskrant"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "L'articolo afghano presenta Fedorov come fautore di elezioni per preservare la democrazia ucraina, sostenendo che la guerra miri a mantenere uno stato europeo libero, nonostante le restrizioni legali vigenti.",
+          "testate": [
+            "Afghanistan International"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "I media nordamericani mettono in discussione la fattibilità delle elezioni in Ucraina in stato d'assedio, richiamando le restrizioni legali. Si osserva che la richiesta di Fedorov mette a rischio l'unità nazionale e la leadership di Zelensky.",
+          "testate": [
+            "Le Devoir",
+            "The Globe and Mail",
+            "The Washington Post"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Le testate sudamericane evidenziano la sfida diretta di Fedorov a Zelensky, richiedendo elezioni urgenti per contrastare la corruzione e rafforzare lo sforzo bellico, nonostante le leggi marziali in vigore.",
+          "testate": [
+            "ABC Color",
+            "Infobae",
+            "La Nación (Argentina)",
+            "O Globo"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 10,
+        "n_testate": 30,
+        "continenti": [
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Sud America"
+        ],
+        "paesi": [
+          "Afghanistan",
+          "Argentina",
+          "Austria",
+          "Belgio",
+          "Brasile",
+          "Canada",
+          "Danimarca",
+          "Estonia",
+          "Finlandia",
+          "Francia",
+          "Germania",
+          "Lituania",
+          "Paesi Bassi",
+          "Paraguay",
+          "Polonia",
+          "Regno Unito",
+          "Russia",
+          "Spagna",
+          "Stati Uniti",
+          "Svezia",
+          "Svizzera",
+          "Ucraina",
+          "Ungheria"
+        ],
+        "trend": {
+          "agganciato": true,
+          "delta_articoli": 32,
+          "delta_testate": 26,
+          "rispetto_a": "2026-08-17"
+        }
+      },
+      "n_articoli": 36,
+      "fonti": [
+        {
+          "testata": "Der Standard",
+          "url": "https://www.derstandard.at/jetzt/livebericht/3000000336109/ukraine-soll-britische-drohnen-eingesetzt-haben-russland-reagiert-mit-drohung?ref=rss",
+          "titolo": "Abgesetzter Verteidigungsminister Federow fordert Wahlen in der Ukraine",
+          "titolo_it": "L'ex ministro della Difesa Federov chiede elezioni in Ucraina",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "De Standaard",
+          "url": "https://www.standaard.be/buitenland/ontslagen-minister-van-defensie-fedorov-duwt-kiev-dieper-in-politieke-crisis-met-oproep-tot-verkiezingen/160221883.html",
+          "titolo": "Ontslagen minister van Defensie Fedorov duwt Kiev dieper in politieke crisis met oproep tot verkiezingen",
+          "titolo_it": null,
+          "paese": "Belgio",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "Politiken",
+          "url": "https://politiken.dk/internationalt/art10951407/Fyret-forsvarsminister-udfordrer-Zelenskyj-Vi-kan-ikke-vinde-krigen-med-dit-korrupte-system",
+          "titolo": "Fyret forsvarsminister udfordrer Zelenskyj: Vi kan ikke vinde krigen med dit korrupte system",
+          "titolo_it": null,
+          "paese": "Danimarca",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/08/19/el-ex-ministro-de-defensa-de-ucrania-pidio-elecciones-presidenciales-pese-a-la-guerra-con-rusia-y-desafio-a-zelensky",
+          "titolo": "El ex ministro de Defensa de Ucrania pidió elecciones presidenciales pese a la guerra con Rusia y desafió a Zelensky",
+          "titolo_it": "L'ex ministro della Difesa dell'Ucraina chiede elezioni presidenziali nonostante la guerra con la Russia e sfida Zelensky",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "La Nación (Argentina)",
+          "url": "https://www.lanacion.com.ar/el-mundo/el-exministro-de-defensa-de-ucrania-desafia-a-zelensky-y-exige-elecciones-urgentes-nid19082026",
+          "titolo": "El exministro de Defensa de Ucrania desafía a Zelensky y exige elecciones urgentes",
+          "titolo_it": "L'exministro della Difesa dell'Ucraina sfida Zelensky e chiede elezioni urgenti",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "O Globo",
+          "url": "https://oglobo.globo.com/mundo/noticia/2026/08/19/ex-ministro-da-defesa-da-ucrania-defende-realizacao-de-eleicoes-em-meio-a-guerra-em-desafio-a-zelensky.ghtml",
+          "titolo": "Ex-ministro da Defesa da Ucrânia defende realização de eleições em meio à guerra, em desafio a Zelensky",
+          "titolo_it": "Ex-ministro della Difesa dell'Ucraina difende le elezioni in mezzo alla guerra, in sfida a Zelensky",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "Le Devoir",
+          "url": "https://www.ledevoir.com/monde/europe/1002638/proches-volodymyr-zelensky-font-objet-enquete-corruption",
+          "titolo": "Des proches de Volodymyr Zelensky font l’objet d’une enquête pour corruption",
+          "titolo_it": "Parenti di Volodymyr Zelensky indagati per corruzione",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "francese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/world/article-can-ukraine-hold-elections-while-at-war",
+          "titolo": "Can Ukraine hold elections while at war?",
+          "titolo_it": "Ucraina, è possibile tenere elezioni in tempo di guerra?",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/08/19/mykhailo-fedorov-dismissed-by-zelensky-demands-elections-ukraine",
+          "titolo": "Defense minister dismissed by Zelensky demands elections in Ukraine",
+          "titolo_it": "Ministro della Difesa licenziato da Zelensky chiede elezioni in Ucraina",
+          "paese": "Stati Uniti",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Afghanistan International",
+          "url": "https://www.afintl.com/202608195108",
+          "titolo": "وزیر دفاع برکنارشده اوکراین خواستار برگزاری انتخابات ریاست‌جمهوری شد",
+          "titolo_it": "Ministro della Difesa dell'Ucraina, rimosso, chiede elezioni presidenziali",
+          "paese": "Afghanistan",
+          "continente": "Asia",
+          "lingua_originale": "farsi",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 26
+    },
+    {
+      "id": 4,
+      "titolo": "Kyrgios positivo alla cocaina, rischia fine carriera",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Il tennista australiano Nick Kyrgios è risultato positivo alla cocaina, ammettendo un grave errore. La sospensione potrebbe segnare la fine della sua carriera, già compromessa da problemi di salute mentale e comportamenti controversi.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee sottolineano il test positivo alla cocaina, la sospensione e la fine non onorevole di un talento. Vengono evidenziati i problemi di salute mentale e il contesto di consumo di sostanze nel tennis.",
+          "testate": [
+            "Dagens Nyheter",
+            "Der Standard",
+            "Die Presse",
+            "El Mundo",
+            "El País",
+            "Frankfurter Allgemeine Zeitung",
+            "Helsingin Sanomat",
+            "Libération",
+            "Magyar Nemzet",
+            "NRC",
+            "Telex",
+            "The Guardian",
+            "The Irish Times"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "L'articolo italiano collega la vicenda al passato polemico di Kyrgios, evidenziando il suo pentimento e l'impatto della fine della carriera.",
+          "testate": [
+            "la Repubblica"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Le testate asiatiche riferiscono della sospensione e dell'ammissione dell'errore, con focus sulla sua carriera compromessa.",
+          "testate": [
+            "Daily Sabah",
+            "Iran International",
+            "South China Morning Post"
+          ]
+        },
+        {
+          "area": "Africa",
+          "sintesi": "L'articolo africano menziona la sospensione e le scuse pubbliche per l'episodio.",
+          "testate": [
+            "Daily Maverick"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Le testate nordamericane sottolineano la sospensione e l'assunzione di responsabilità da parte di Kyrgios.",
+          "testate": [
+            "CBC News",
+            "The Globe and Mail"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Le testate sudamericane evidenziano la sospensione, l'ammissione dell'errore e i problemi di salute mentale del tennista.",
+          "testate": [
+            "El Nacional",
+            "Folha de S.Paulo",
+            "La Nación (Argentina)",
+            "La República",
+            "La Tercera"
+          ]
+        },
+        {
+          "area": "Oceania",
+          "sintesi": "L'articolo australiano menziona le scuse a chi lo segue e il rischio di un lungo stop dal tennis.",
+          "testate": [
+            "Sydney Morning Herald"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 9,
+        "n_testate": 26,
+        "continenti": [
+          "Africa",
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Oceania",
+          "Sud America"
+        ],
+        "paesi": [
+          "Argentina",
+          "Australia",
+          "Austria",
+          "Brasile",
+          "Canada",
+          "Cile",
+          "Cina",
+          "Finlandia",
+          "Francia",
+          "Germania",
+          "Iran",
+          "Irlanda",
+          "Italia",
+          "Paesi Bassi",
+          "Perù",
+          "Regno Unito",
+          "Spagna",
+          "Sudafrica",
+          "Svezia",
+          "Turchia",
+          "Ungheria",
+          "Venezuela"
+        ],
+        "trend": {
+          "agganciato": false,
+          "rispetto_a": "2026-08-17"
+        }
+      },
+      "n_articoli": 27,
+      "fonti": [
+        {
+          "testata": "la Repubblica",
+          "url": "https://www.repubblica.it/sport/tennis/2026/08/19/news/kyrgios_positivo_cocaina_sinner-425535871",
+          "titolo": "Kyrgios, l’accusatore di Sinner, positivo alla cocaina: “Errore gravissimo, mi sentivo impotente”",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Der Standard",
+          "url": "https://www.derstandard.at/story/3000000336189/australier-kyrgios-positiv-auf-kokain-getestet?ref=rss",
+          "titolo": "Australier Kyrgios positiv auf Kokain getestet",
+          "titolo_it": "Kyrgios positivo a cocaina",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "Die Presse",
+          "url": "https://www.diepresse.com/41186354/nick-kyrgios-das-unruehmliche-ende-eines-verschwendeten-talents",
+          "titolo": "Nick Kyrgios: Das unrühmliche Ende eines verschwendeten Talents [premium]",
+          "titolo_it": "Nick Kyrgios: La fine poco gloriosa di un talento sprecato",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/urheilu/art-2000012215663.html",
+          "titolo": "Tennis | Nick Kyrgios kärysi kokaiinista Mallorcalla",
+          "titolo_it": null,
+          "paese": "Finlandia",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "La Nación (Argentina)",
+          "url": "https://www.lanacion.com.ar/deportes/el-tenista-nick-kyrgios-exfinalista-en-wimbledon-dio-positivo-por-cocaina-y-quedo-suspendido-nid19082026",
+          "titolo": "El tenista Nick Kyrgios, exfinalista en Wimbledon, dio positivo por cocaína y quedó suspendido",
+          "titolo_it": "Il tennista Nick Kyrgios, ex finalista a Wimbledon, ha dato positivo alla cocaina e è stato sospeso",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/08/tenista-australiano-nick-kyrgios-e-suspenso-por-uso-de-cocaina.shtml",
+          "titolo": "Tenista australiano Nick Kyrgios é suspenso por uso de cocaína",
+          "titolo_it": "Il tenista australiano Nick Kyrgios sospeso per uso di cocaina",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "La Tercera",
+          "url": "https://www.latercera.com/el-deportivo/noticia/golpe-en-el-tenis-mundial-nick-kyrgios-da-positivo-por-cocaina-y-es-suspendido",
+          "titolo": "Golpe en el tenis mundial: Nick Kyrgios es suspendido tras dar positivo por cocaína",
+          "titolo_it": "Scandalo nel tennis mondiale: Nick Kyrgios sospeso dopo un test positivo alla cocaina",
+          "paese": "Cile",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "South China Morning Post",
+          "url": "https://www.scmp.com/sport/tennis/article/3364578/australian-tennis-player-nick-kyrgios-admits-huge-mistake-after-failing-test-cocaine?utm_source=rss_feed",
+          "titolo": "Australian tennis player Nick Kyrgios admits ‘huge mistake’ after failing test for cocaine",
+          "titolo_it": "Tennista australiano Nick Kyrgios ammette un \"errore enorme\" dopo un test positivo alla cocaina",
+          "paese": "Cina",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Iran International",
+          "url": "https://www.iranintl.com/202608193150",
+          "titolo": "رسوایی جدید برای تنیسور استرالیایی؛ تست کوکائین نیک کیریوس مثبت شد",
+          "titolo_it": "Nuovo scandalo per il tennista australiano: il test per la cocaina di Nick Kyrgios è risultato positivo",
+          "paese": "Iran",
+          "continente": "Asia",
+          "lingua_originale": "farsi",
+          "live_blog": false
+        },
+        {
+          "testata": "Daily Sabah",
+          "url": "https://www.dailysabah.com/sports/tennis/kyrgios-suspended-as-former-wimbledon-finalist-admits-cocaine-use",
+          "titolo": "Kyrgios suspended as former Wimbledon finalist admits cocaine use",
+          "titolo_it": "Kyrgios sospeso mentre un ex finalista di Wimbledon ammette l'uso di cocaina",
+          "paese": "Turchia",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "CBC News",
+          "url": "https://www.cbc.ca/sports/tennis/kyrgios-doping-infraction-9.7312067?cmp=rss",
+          "titolo": "Nick Kyrgios provisionally suspended from tennis after testing positive for cocaine",
+          "titolo_it": "Nick Kyrgios sospeso provvisoriamente dal tennis dopo test positivo alla cocaina",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/sports/tennis/article-kyrgios-suspended-testing-positive-cocaine",
+          "titolo": "Former Wimbledon finalist Nick Kyrgios suspended after testing positive for cocaine",
+          "titolo_it": "Nick Kyrgios, ex finalista di Wimbledon, sospeso dopo test positivo alla cocaina",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Daily Maverick",
+          "url": "https://www.dailymaverick.co.za/article/2026-08-19-kyrgios-provisionally-suspended-after-testing-positive-for-cocaine",
+          "titolo": "Kyrgios provisionally suspended after testing positive for cocaine",
+          "titolo_it": "Kyrgios sospeso in via provvisoria dopo test positivo alla cocaina",
+          "paese": "Sudafrica",
+          "continente": "Africa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Sydney Morning Herald",
+          "url": "https://www.smh.com.au/sport/tennis/kyrgios-tests-positive-to-cocaine-faces-lengthy-ban-from-tennis-20260819-p60pvb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "titolo": "‘I’m sorry to the kids who follow me’: Kyrgios tests positive for cocaine, faces lengthy ban from tennis",
+          "titolo_it": "Sono spiacente per i ragazzi che mi seguono\": Kyrgios positivo a cocaina, rischia un lungo stop dal tennis",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 13
+    },
+    {
+      "id": 5,
+      "titolo": "Trump sospende per tre giorni i dazi del 50% sul Canada",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Il presidente statunitense Donald Trump ha sospeso per tre giorni l'applicazione dei dazi del 50% sulle merci canadesi, annunciando un accordo commerciale in fase di conclusione tra Stati Uniti e Canada. La misura, destinata a colpire 20 miliardi di dollari di esportazioni canadesi, è stata rimandata dopo intensi negoziati.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee sottolineano la sospensione temporanea dei dazi e l'accordo commerciale in via di definizione, con riferimenti a colloqui tra Trump e il premier canadese. Si evidenzia l'impatto sui settori industriali e l'evitazione di tensioni commerciali immediate.",
+          "testate": [
+            "BBC News",
+            "Helsingin Sanomat",
+            "NRC",
+            "Telex",
+            "The Guardian",
+            "The Irish Times"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Gli articoli asiatici enfatizzano la sospensione dei dazi del 50% per tre giorni e la prospettiva di un accordo commerciale più ampio. Si menziona l'importanza economica delle esportazioni canadesi e l'incertezza sui dettagli finali dell'intesa.",
+          "testate": [
+            "Chosun Ilbo",
+            "Dawn",
+            "Hindustan Times",
+            "VnExpress"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Le testate nordamericane descrivono il rinvio dei dazi come un sollievo per le imprese canadesi. Si segnala la dichiarazione di Trump sull'avvicinamento a un accordo, mentre si sottolinea che i dettagli rimangono non definiti. Un articolo erroneamente attribuisce l'iniziativa all'Unione Europea.",
+          "testate": [
+            "Diario Libre",
+            "El Universal",
+            "La Jornada",
+            "Le Devoir",
+            "The Globe and Mail",
+            "The New York Times"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Gli articoli sudamericani evidenziano la sospensione dei dazi e i progressi nelle trattative, pur riconoscendo che l'accordo non è concluso. Si menziona l'annuncio di Trump sull'oleodotto Keystone XL, mentre un titolo errato attribuisce l'iniziativa all'Unione Europea.",
+          "testate": [
+            "El Universo",
+            "Folha de S.Paulo",
+            "Infobae",
+            "La República",
+            "La Tercera",
+            "Telesur"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 9,
+        "n_testate": 22,
+        "continenti": [
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Sud America"
+        ],
+        "paesi": [
+          "Argentina",
+          "Brasile",
+          "Canada",
+          "Cile",
+          "Corea del Sud",
+          "Ecuador",
+          "Finlandia",
+          "India",
+          "Irlanda",
+          "Messico",
+          "Paesi Bassi",
+          "Pakistan",
+          "Perù",
+          "Regno Unito",
+          "Repubblica Dominicana",
+          "Stati Uniti",
+          "Ungheria",
+          "Venezuela",
+          "Vietnam"
+        ],
+        "trend": {
+          "agganciato": true,
+          "delta_articoli": 27,
+          "delta_testate": 20,
+          "rispetto_a": "2026-08-17"
+        }
+      },
+      "n_articoli": 32,
+      "fonti": [
+        {
+          "testata": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/maailma/art-2000012214711.html",
+          "titolo": "Kauppasota | Trump lykkää Kanadan tuontitullien voimaantuloa kolmella päivällä",
+          "titolo_it": null,
+          "paese": "Finlandia",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "The Irish Times",
+          "url": "https://www.irishtimes.com/business/2026/08/19/donald-trump-says-deal-reached-with-canada-and-pauses-tariffs",
+          "titolo": "Donald Trump pauses Canada tariffs as he announces new deal",
+          "titolo_it": "Donald Trump sospende le tariffe sul Canada annunciando un nuovo accordo",
+          "paese": "Irlanda",
+          "continente": "Europa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "NRC",
+          "url": "https://www.nrc.nl/nieuws/2026/08/19/trump-stelt-forse-heffingen-op-canadese-importen-op-laatste-moment-uit-wegens-handelsakkoord-a4934743",
+          "titolo": "Trump stelt forse heffingen op Canadese importen op laatste moment uit wegens handelsakkoord",
+          "titolo_it": null,
+          "paese": "Paesi Bassi",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "Le Devoir",
+          "url": "https://www.ledevoir.com/economie/1002611/firmes-canadiennes-soulagees-sursis-imposition-tarifs-douaniers-americains",
+          "titolo": "Les firmes canadiennes soulagées par le sursis sur l’imposition de tarifs douaniers américains",
+          "titolo_it": "Le aziende canadesi sollevate dal rinvio dell'applicazione delle tariffe doganali statunitensi",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "francese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/world/article-canada-us-resume-talks-as-parties-remain-quiet-on-details-of-tentative",
+          "titolo": "Canada, U.S. resume talks as parties remain quiet on details of tentative trade deal",
+          "titolo_it": "Canada, Usa riprendono i colloqui mentre le parti mantengono il riserbo sui dettagli dell'accordo commerciale provvisorio",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "El Universal",
+          "url": "https://www.eluniversal.com.mx/mundo/eu-suspende-aranceles-del-50-a-canada-sera-por-un-periodo-de-3-dias",
+          "titolo": "EU suspende aranceles del 50% a Canadá; será por un periodo de 3 días",
+          "titolo_it": "UE sospende l'arancel del 50% sul Canada; sarà per un periodo di 3 giorni",
+          "paese": "Messico",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/08/19/tras-el-aplazamiento-de-los-aranceles-canada-afirmo-que-logro-progresos-sustanciales-en-las-negociaciones-comerciales-con-eeuu",
+          "titolo": "Tras el aplazamiento de los aranceles, Canadá afirmó que logró “progresos sustanciales” en las negociaciones comerciales con EEUU",
+          "titolo_it": "Dopo l'annullamento delle tariffe, il Canada afferma di aver ottenuto \"progressi sostanziali\" nelle trattative commerciali con gli Usa",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/eua-chegam-a-acordo-com-canada-e-suspendem-tarifa-de-50-por-tres-dias.shtml",
+          "titolo": "EUA suspendem tarifa de 50% sobre o Canadá e dizem ter chegado a acordo",
+          "titolo_it": "Gli USA sospendono la tariffa del 50% sul Canada e annunciano un accordo",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "La Tercera",
+          "url": "https://www.latercera.com/mundo/noticia/los-motivos-de-trump-para-aplazar-por-tres-dias-los-aranceles-a-canada",
+          "titolo": "Los motivos de Trump para aplazar por tres días los aranceles contra Canadá",
+          "titolo_it": "I motivi di Trump per posticipare di tre giorni i dazi su Canadà",
+          "paese": "Cile",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Chosun Ilbo",
+          "url": "https://www.chosun.com/international/us/2026/08/19/XZKCSH22XJDPLFYDWHDKU3HAYQ",
+          "titolo": "트럼프 “캐나다에 부과하려던 50% 관세 사흘간 중단”",
+          "titolo_it": "Trump sospende per tre giorni l'applicazione delle tariffe del 50% sul Canada",
+          "paese": "Corea del Sud",
+          "continente": "Asia",
+          "lingua_originale": "coreano",
+          "live_blog": false
+        },
+        {
+          "testata": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/trump-announces-temporary-halt-in-50-percent-tariffs-on-canada-says-reached-last-minute-deal-101787107768834.html",
+          "titolo": "Trump announces temporary halt in 50 percent tariffs on Canada, says reached ‘last-minute’ deal",
+          "titolo_it": "Trump annuncia una sospensione temporanea del 50 percento delle tariffe su Canada, dice di aver raggiunto un accordo all'ultimo momento",
+          "paese": "India",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Dawn",
+          "url": "https://www.dawn.com/news/2023853/trump-pauses-50pc-tariffs-on-canadian-goods-for-three-days-as-both-sides-signal-broader-trade-agreement",
+          "titolo": "Trump pauses 50pc tariffs on Canadian goods for three days as both sides signal broader trade agreement",
+          "titolo_it": "Trump sospende per tre giorni il 50% delle tariffe su merci canadesi, mentre entrambe le parti indicano un accordo commerciale più ampio",
+          "paese": "Pakistan",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 20
+    }
+  ],
+  "cono_ombra": {
+    "temi": [
+      {
+        "id": 8,
+        "titolo": "Trump cerca dialogo con Kim Jong-un, esercitazioni Usa-Corea del Sud ridotte",
+        "titolo_da": null,
+        "titolo_provvisorio": false,
+        "sintesi": "Il presidente Usa Donald Trump ha ridotto le esercitazioni militari congiunte con la Corea del Sud per avvicinarsi a Kim Jong-un, suscitando critiche da Seul e alimentando dibattiti sull'efficacia di questa strategia. Le manovre sono state accorciate di una settimana, mentre Pyongyang rafforza legami con Russia e Cina.",
+        "confronto": [
+          {
+            "area": "Europa",
+            "sintesi": "Le testate europee sottolineano la riduzione delle esercitazioni Usa-Corea del Sud per compiacere Pyongyang, le critiche della sorella di Kim Jong-un verso la politica Usa e l'analisi di Trump come mossa di reciproco interesse tra Usa e Corea del Nord.",
+            "testate": [
+              "BBC News",
+              "Dagens Nyheter",
+              "Der Spiegel",
+              "Die Presse",
+              "El País",
+              "LRT",
+              "NRK Sápmi"
+            ]
+          },
+          {
+            "area": "Italia",
+            "sintesi": "L'Italia evidenzia le dichiarazioni di Trump sull'arsenale nucleare nordcoreano e il piano di incontro con Kim Jong-un, insieme alla riduzione delle esercitazioni congiunte con Seul, mentre Pyongyang riceve sostegno da Russia e Cina.",
+            "testate": [
+              "la Repubblica"
+            ]
+          },
+          {
+            "area": "Asia",
+            "sintesi": "Le testate asiatiche collegano la riduzione delle esercitazioni alla pressione Usa per investimenti sudcoreani e alla strategia di Trump per rafforzare i rapporti con Pyongyang, con il governo sudcoreano che vede un 'punto di svolta' per la pace.",
+            "testate": [
+              "Al Jazeera",
+              "Dawn",
+              "Philippine Daily Inquirer",
+              "The Korea Herald",
+              "VnExpress"
+            ]
+          },
+          {
+            "area": "Nord America",
+            "sintesi": "Le fonti nordamericane riferiscono della decisione Usa di anticipare la fine delle manovre congiunte con la Corea del Sud, in contesto di richieste economiche Usa e di tensioni con l'Iran, con reazioni miste da Seul.",
+            "testate": [
+              "14ymedio",
+              "El Universal",
+              "La Nación (Costa Rica)"
+            ]
+          },
+          {
+            "area": "Sud America",
+            "sintesi": "Le testate sudamericane descrivono la riduzione delle esercitazioni Usa-Corea del Sud come un segnale di debolezza Usa e un vantaggio strategico per Pyongyang, con Trump che punta a liberare risorse per il conflitto iraniano e a pressare economicamente Seul.",
+            "testate": [
+              "El Comercio",
+              "Infobae",
+              "La Tercera"
+            ]
+          }
+        ],
+        "convergenza": {
+          "percento": 8,
+          "n_testate": 19,
+          "continenti": [
+            "Asia",
+            "Europa",
+            "Nord America",
+            "Sud America"
+          ],
+          "trend": {
+            "agganciato": true,
+            "delta_articoli": -38,
+            "delta_testate": -33,
+            "rispetto_a": "2026-08-17"
+          },
+          "copertura_per_continente": {
+            "Europa": {
+              "coperte": 8,
+              "totali": 50,
+              "quota": 0.16
+            },
+            "Asia": {
+              "coperte": 5,
+              "totali": 56,
+              "quota": 0.0893
+            },
+            "Africa": {
+              "coperte": 0,
+              "totali": 57,
+              "quota": 0.0
+            },
+            "Nord America": {
+              "coperte": 3,
+              "totali": 28,
+              "quota": 0.1071
+            },
+            "Sud America": {
+              "coperte": 3,
+              "totali": 32,
+              "quota": 0.0938
+            },
+            "Oceania": {
+              "coperte": 0,
+              "totali": 16,
+              "quota": 0.0
+            }
+          }
+        },
+        "n_articoli": 21,
+        "fonti": [
+          {
+            "testata": "la Repubblica",
+            "url": "https://www.repubblica.it/esteri/2026/08/19/news/trump_accorcia_esercitazioni_corea_del_sud_vuole_incontrare_kim_jong_un_leader_corea_del_nord_autunno-425536130",
+            "titolo": "Trump: “Kim possiede 57 armi nucleari molto potenti”. E dichiara che lo incontrerà entro l’anno",
+            "titolo_it": null,
+            "paese": "Italia",
+            "continente": "Europa",
+            "lingua_originale": "italiano",
+            "live_blog": false
+          },
+          {
+            "testata": "Die Presse",
+            "url": "https://www.diepresse.com/41185315/der-us-praesident-und-der-diktator-warum-trump-die-naehe-zu-kim-jong-un-sucht",
+            "titolo": "Der US-Präsident und der Diktator: Warum Trump die Nähe zu Kim Jong-un sucht [premium]",
+            "titolo_it": "Il presidente Usa e il dittatore: perché Trump cerca la vicinanza con Kim Jong-un",
+            "paese": "Austria",
+            "continente": "Europa",
+            "lingua_originale": "tedesco",
+            "live_blog": false
+          },
+          {
+            "testata": "Der Spiegel",
+            "url": "https://www.spiegel.de/ausland/nordkorea-donald-trump-schwester-von-kim-jong-un-beschwert-sich-ueber-feindselige-us-politik-a-7363e4bb-0350-4129-9c7a-a7bd57807f39",
+            "titolo": "Nordkorea – Donald Trump: Schwester von Kim Jong Un beschwert sich über feindselige US-Politik",
+            "titolo_it": "Nordcorea – Donald Trump: la sorella di Kim Jong Un si lamenta della politica ostile degli Stati Uniti",
+            "paese": "Germania",
+            "continente": "Europa",
+            "lingua_originale": "tedesco",
+            "live_blog": false
+          },
+          {
+            "testata": "LRT",
+            "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3026162/pietu-koreja-trumpas-karines-pratybas-naudoja-kaip-spaudimo-priemone",
+            "titolo": "Pietų Korėja: Trumpas karines pratybas naudoja kaip spaudimo priemonę",
+            "titolo_it": "Corea del Sud: Trump utilizza esercitazioni militari come mezzo di pressione",
+            "paese": "Lituania",
+            "continente": "Europa",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "The Korea Herald",
+            "url": "https://www.koreaherald.com/article/10845578",
+            "titolo": "Trump&apos;s overtures to Kim Jong-un a &apos;turning point&apos; for peace: foreign minister",
+            "titolo_it": "Le avances di Trump verso Kim Jong-un un \"punto di svolta\" per la pace: il ministro degli Esteri",
+            "paese": "Corea del Sud",
+            "continente": "Asia",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "Dawn",
+            "url": "https://www.dawn.com/news/2023859/us-south-korea-cut-annual-war-games-short-after-trump-criticism",
+            "titolo": "US, South Korea cut annual war games short after Trump criticism",
+            "titolo_it": "Usa e Corea del Sud abbreviano gli esercizi annuali di guerra dopo le critiche di Trump",
+            "paese": "Pakistan",
+            "continente": "Asia",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
+            "titolo": "‘Tit for tat’: Why is Trump cosying up to North Korea’s Kim Jong Un again?",
+            "titolo_it": "‘Occhio per occhio’: perché Trump si avvicina di nuovo a Kim Jong Un del Nord Corea?",
+            "paese": "Qatar",
+            "continente": "Asia",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "La Nación (Costa Rica)",
+            "url": "https://www.nacion.com/el-mundo/corea-del-sur-acorta-maniobras-militares-con/GE5QZZQHEFHYRHLFPG4FWPQS6Q/story",
+            "titolo": "Corea del Sur acorta maniobras militares con Estados Unidos tras crítica de Trump",
+            "titolo_it": "Corea del Sud riduce esercitazioni militari con gli Stati Uniti dopo la critica di Trump",
+            "paese": "Costa Rica",
+            "continente": "Nord America",
+            "lingua_originale": "spagnolo",
+            "live_blog": false
+          },
+          {
+            "testata": "El Universal",
+            "url": "https://www.eluniversal.com.mx/mundo/confirma-corea-del-sur-recorte-de-maniobras-militares-conjuntas-con-eu-concluiran-antes-del-plazo-original",
+            "titolo": "Confirma Corea del Sur \"recorte\" de maniobras militares conjuntas con EU; concluirán antes del plazo original",
+            "titolo_it": "Corea del Sud conferma l'annullamento delle esercitazioni militari congiunte con gli Stati Uniti; si concluderanno prima della scadenza originale",
+            "paese": "Messico",
+            "continente": "Nord America",
+            "lingua_originale": "spagnolo",
+            "live_blog": false
+          },
+          {
+            "testata": "14ymedio",
+            "url": "https://www.14ymedio.com/internacional/alianza-rusia-da-pyongyang-dinero_1_1129908.html",
+            "titolo": "La alianza con Rusia da a Pyongyang dinero, poder militar y cartas para presionar a EE UU",
+            "titolo_it": "L'alleanza con la Russia dà a Pyongyang denaro, potere militare e carte per pressare gli Stati Uniti",
+            "paese": "Cuba",
+            "continente": "Nord America",
+            "lingua_originale": "spagnolo",
+            "live_blog": false
+          },
+          {
+            "testata": "Infobae",
+            "url": "https://www.infobae.com/america/mundo/2026/08/19/eeuu-y-corea-del-sur-acordaron-reducir-la-duracion-de-sus-ejercicios-militares-tras-las-declaraciones-de-trump-sobre-kim-jong-un-e-iran",
+            "titolo": "EEUU y Corea del Sur acordaron reducir la duración de sus ejercicios militares tras las declaraciones de Trump sobre Kim Jong-un e Irán",
+            "titolo_it": "Stati Uniti e Corea del Sud hanno concordato di ridurre la durata degli esercizi militari dopo le dichiarazioni di Trump su Kim Jong-un e l'Iran",
+            "paese": "Argentina",
+            "continente": "Sud America",
+            "lingua_originale": "spagnolo",
+            "live_blog": false
+          },
+          {
+            "testata": "La Tercera",
+            "url": "https://www.latercera.com/mundo/noticia/eeuu-y-corea-del-sur-reducen-a-la-mitad-ejercicios-militares-tras-peticion-de-trump",
+            "titolo": "EE.UU. y Corea del Sur reducen a la mitad ejercicios militares tras petición de Trump",
+            "titolo_it": "Usa e Corea del Sud dimezzano gli esercizi militari su richiesta di Trump",
+            "paese": "Cile",
+            "continente": "Sud America",
+            "lingua_originale": "spagnolo",
+            "live_blog": false
+          },
+          {
+            "testata": "El Comercio",
+            "url": "https://elcomercio.pe/mundo/asia/donald-trump-reduce-los-ejercicios-militares-con-corea-del-sur-por-que-tomo-esta-decision-que-tienen-que-ver-iran-y-corea-del-norte-kim-jong-un-china-noticia",
+            "titolo": "Trump reduce ejercicios militares con Corea del Sur mientras presiona por US$350.000 millones de inversiones",
+            "titolo_it": "Trump partecipa a esercizi militari con la Corea del Sud mentre insiste per 350 miliardi di dollari di investimenti",
+            "paese": "Perù",
+            "continente": "Sud America",
+            "lingua_originale": "spagnolo",
+            "live_blog": false
+          }
+        ],
+        "fonti_omesse": 8,
+        "rilevanza": {
+          "popolazione_milioni": 848,
+          "quota_mondiale": 0.1071,
+          "ambito": "nazionale",
+          "portata": "generale",
+          "paesi": [
+            "Cina",
+            "Corea del Nord",
+            "Corea del Sud",
+            "Iran",
+            "Russia",
+            "Stati Uniti"
+          ]
+        },
+        "motivi": [
+          "dissolvenza temporale"
+        ],
+        "dissolvenza": {
+          "dissolvenza": true,
+          "picco_testate": 52,
+          "picco_giorno": "2026-08-17",
+          "testate_oggi": 19,
+          "andamento": [
+            {
+              "giorno": "2026-08-17",
+              "n_testate": 52,
+              "n_articoli": 59
+            }
+          ]
+        }
+      },
+      {
+        "id": 40,
+        "titolo": "Epidemia di Ebola in Congo: casi e criticità",
+        "titolo_da": null,
+        "titolo_provvisorio": false,
+        "sintesi": "L'epidemia di Ebola in Repubblica Democratica del Congo ha superato i 5.000 casi con oltre 2.300 decessi. Mentre le autorità confermano un caso sospetto a Kinshasa come colera, l'OMS avverte che il focolaio non è sotto controllo. Conflitti e ritardi nella risposta sanitaria complicano il contenimento.",
+        "confronto": [
+          {
+            "area": "Africa",
+            "sintesi": "Le testate africane segnalano un caso sospetto di Ebola a Kinshasa risultato colera, ma evidenziano una crisi sanitaria complessiva con Ebola, morbillo e colera. I conflitti locali e la diffusione del virus nelle regioni settentrionali ed orientali dal maggio 2026 aggravano la situazione.",
+            "testate": [
+              "Actualité.cd",
+              "Lefaso.net"
+            ]
+          },
+          {
+            "area": "Nord America",
+            "sintesi": "Le testate nordamericane sottolineano la velocità senza precedenti dell'epidemia, con oltre 5.000 casi e 2.300 morti. Esperti indicano conflitti armati, mancanza di vaccini e ritardi nella risposta come fattori che ostacolano il contenimento dell'outbreak.",
+            "testate": [
+              "CBC News",
+              "El Universal",
+              "NPR"
+            ]
+          },
+          {
+            "area": "Sud America",
+            "sintesi": "Le testate sudamericane evidenziano una mortalità del 46,8%, con oltre 2.000 decessi e 5.000 contagi. L'OMS avverte che il focolaio non è sotto controllo, con il 70% dei pazienti che muore nelle comunità anziché in strutture sanitarie designate.",
+            "testate": [
+              "Infobae",
+              "La República"
+            ]
+          }
+        ],
+        "convergenza": {
+          "percento": 3,
+          "n_testate": 7,
+          "continenti": [
+            "Africa",
+            "Nord America",
+            "Sud America"
+          ],
+          "trend": {
+            "agganciato": true,
+            "delta_articoli": -16,
+            "delta_testate": -16,
+            "rispetto_a": "2026-08-17"
+          },
+          "copertura_per_continente": {
+            "Europa": {
+              "coperte": 0,
+              "totali": 50,
+              "quota": 0.0
+            },
+            "Asia": {
+              "coperte": 0,
+              "totali": 56,
+              "quota": 0.0
+            },
+            "Africa": {
+              "coperte": 2,
+              "totali": 57,
+              "quota": 0.0351
+            },
+            "Nord America": {
+              "coperte": 3,
+              "totali": 28,
+              "quota": 0.1071
+            },
+            "Sud America": {
+              "coperte": 2,
+              "totali": 32,
+              "quota": 0.0625
+            },
+            "Oceania": {
+              "coperte": 0,
+              "totali": 16,
+              "quota": 0.0
+            }
+          }
+        },
+        "n_articoli": 7,
+        "fonti": [
+          {
+            "testata": "CBC News",
+            "url": "https://www.cbc.ca/news/world/ebola-drc-explainer-9.7310743?cmp=rss",
+            "titolo": "Ebola in the Democratic Republic of Congo: What's going on and why is the outbreak so alarming?",
+            "titolo_it": "Ebola in Repubblica del Congo: cos'è successo e perché l'epidemia preoccupa tanto?",
+            "paese": "Canada",
+            "continente": "Nord America",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "El Universal",
+            "url": "https://www.eluniversal.com.mx/mundo/republica-del-congo-supera-los-5-mil-casos-de-ebola-confirmados-van-mas-de-2-mil-muertos",
+            "titolo": "República del Congo supera los 5 mil casos de ébola confirmados; van más de 2 mil muertos",
+            "titolo_it": "Repubblica del Congo supera i 5mila casi di Ebola confermati; oltre 2mila morti",
+            "paese": "Messico",
+            "continente": "Nord America",
+            "lingua_originale": "spagnolo",
+            "live_blog": false
+          },
+          {
+            "testata": "NPR",
+            "url": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
+            "titolo": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
+            "titolo_it": "L'epidemia di Ebola in Congo raggiunge i 5.000 casi e supera gli sforzi di risposta",
+            "paese": "Stati Uniti",
+            "continente": "Nord America",
+            "lingua_originale": "inglese",
+            "live_blog": false
+          },
+          {
+            "testata": "Actualité.cd",
+            "url": "https://actualite.cd/2026/08/19/rdc-le-cas-suspect-debola-kinshasa-etait-tres-probablement-un-cas-de-cholera-roger-kamba",
+            "titolo": "RDC : le cas suspect d’Ebola à Kinshasa était « très probablement » un cas de choléra (Roger Kamba)",
+            "titolo_it": "RDC: il caso sospetto di Ebola a Kinshasa era «probabilmente» un caso di colera (Roger Kamba)",
+            "paese": "Repubblica Democratica del Congo",
+            "continente": "Africa",
+            "lingua_originale": "francese",
+            "live_blog": false
+          },
+          {
+            "testata": "Lefaso.net",
+            "url": "https://lefaso.net/spip.php?article148675",
+            "titolo": "Ebola, rougeole, choléra, paludisme et conflits en RDC : Haro sur un drame quasi-silencieux",
+            "titolo_it": "Ebola, morbillo, colera, malaria e conflitti in RDC: si alza il sipario su un dramma quasi silenzioso",
+            "paese": "Burkina Faso",
+            "continente": "Africa",
+            "lingua_originale": "francese",
+            "live_blog": false
+          },
+          {
+            "testata": "Infobae",
+            "url": "https://www.infobae.com/america/ciencia-america/2026/08/18/el-brote-de-ebola-es-el-mas-letal-de-la-historia-del-congo-la-tasa-de-mortalidad-llega-al-468",
+            "titolo": "El brote de ébola es el más letal de la historia del Congo: la tasa de mortalidad llega al 46,8%",
+            "titolo_it": "L'epidemia di Ebola è la più letale della storia del Congo: la mortalità arriva al 46,8%",
+            "paese": "Argentina",
+            "continente": "Sud America",
+            "lingua_originale": "spagnolo",
+            "live_blog": false
+          },
+          {
+            "testata": "La República",
+            "url": "https://larepublica.pe/mundo/2026/08/18/la-oms-alerta-que-el-brote-de-ebola-en-la-rdc-con-casi-5000-infectados-dista-de-estar-bajo-control-799128",
+            "titolo": "La OMS alerta que el brote de ébola en la RDC con casi 5.000 infectados dista de estar bajo control",
+            "titolo_it": "L'OMS avverte che l'epidemia di Ebola in RDC, con oltre 5.000 contagi, è ancora lontana dall'essere sotto controllo",
+            "paese": "Perù",
+            "continente": "Sud America",
+            "lingua_originale": "spagnolo",
+            "live_blog": false
+          }
+        ],
+        "fonti_omesse": 0,
+        "rilevanza": {
+          "popolazione_milioni": 105,
+          "quota_mondiale": 0.0133,
+          "ambito": "nazionale",
+          "portata": "generale",
+          "paesi": [
+            "Repubblica Democratica del Congo"
+          ]
+        },
+        "motivi": [
+          "silenzio geografico",
+          "dissolvenza temporale"
+        ],
+        "dissolvenza": {
+          "dissolvenza": true,
+          "picco_testate": 23,
+          "picco_giorno": "2026-08-17",
+          "testate_oggi": 7,
+          "andamento": [
+            {
+              "giorno": "2026-08-17",
+              "n_testate": 23,
+              "n_articoli": 23
+            }
+          ]
+        }
+      },
+      {
+        "id": 159,
+        "titolo": "Record di ondate di calore in Francia nel 2026",
+        "titolo_da": null,
+        "titolo_provvisorio": false,
+        "sintesi": "La Francia ha registrato 52 giorni di ondate di calore nel 2026, un record storico che supera i precedenti massimi del 2022 e del 2003. L'estate 2026 è stata definita la più calda mai registrata, con impatti sanitari legati all'espansione di infezioni virali, batteriche e fungine.",
+        "confronto": [
+          {
+            "area": "Europa",
+            "sintesi": "La Francia ha battuto il record di ondate di calore con 52 giorni totali, con l'episodio in corso che diventa il secondo più lungo. L'estate 2026 è stata la più calda mai registrata, con conseguenze sanitarie legate al riscaldamento globale.",
+            "testate": [
+              "Libération",
+              "Novaya Gazeta Europe"
+            ]
+          },
+          {
+            "area": "Africa",
+            "sintesi": "Le ondate di calore in Francia nel 2026 hanno superato i record storici, con 52 giorni totali e tre crisi termiche consecutive da metà giugno, un dato senza precedenti rispetto ai periodi del 2022 e del 2003.",
+            "testate": [
+              "Hespress"
+            ]
+          }
+        ],
+        "convergenza": {
+          "percento": 1,
+          "n_testate": 3,
+          "continenti": [
+            "Africa",
+            "Europa"
+          ],
+          "trend": {
+            "agganciato": true,
+            "delta_articoli": -6,
+            "delta_testate": -5,
+            "rispetto_a": "2026-08-17"
+          },
+          "copertura_per_continente": {
+            "Europa": {
+              "coperte": 2,
+              "totali": 50,
+              "quota": 0.04
+            },
+            "Asia": {
+              "coperte": 0,
+              "totali": 56,
+              "quota": 0.0
+            },
+            "Africa": {
+              "coperte": 1,
+              "totali": 57,
+              "quota": 0.0175
+            },
+            "Nord America": {
+              "coperte": 0,
+              "totali": 28,
+              "quota": 0.0
+            },
+            "Sud America": {
+              "coperte": 0,
+              "totali": 32,
+              "quota": 0.0
+            },
+            "Oceania": {
+              "coperte": 0,
+              "totali": 16,
+              "quota": 0.0
+            }
+          }
+        },
+        "n_articoli": 3,
+        "fonti": [
+          {
+            "testata": "Libération",
+            "url": "https://www.liberation.fr/environnement/climat/malgre-des-temperatures-en-baisse-il-va-falloir-attendre-jeudi-pour-sortir-de-la-vague-de-chaleur-commencee-le-28-juillet-20260818_G3B5VVZCJ5HVVIBPETJIZF43VI",
+            "titolo": "La France a enregistré un record de plus de 50 jours de vagues de chaleur cet été, l’épisode en cours devient le 2e plus long",
+            "titolo_it": "La Francia ha registrato un record di oltre 50 giorni di ondate di calore quest’estate, l’episodio in corso diventa il secondo più lungo",
+            "paese": "Francia",
+            "continente": "Europa",
+            "lingua_originale": "francese",
+            "live_blog": false
+          },
+          {
+            "testata": "Novaya Gazeta Europe",
+            "url": "https://novayagazeta.eu/articles/2026/08/18/slishkom-zharko",
+            "titolo": "Слишком жарко",
+            "titolo_it": "Troppo caldo",
+            "paese": "Russia",
+            "continente": "Europa",
+            "lingua_originale": "russo",
+            "live_blog": false
+          },
+          {
+            "testata": "Hespress",
+            "url": "https://www.hespress.com/%d9%85%d9%88%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1-%d8%aa%d8%ad%d8%b7%d9%85-%d8%a7%d9%84%d8%a3%d8%b1%d9%82%d8%a7%d9%85-%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%b3%d9%8a%d8%a9-%d9%81%d9%8a-%d9%81%d8%b1-1794174.html",
+            "titolo": "موجات الحر تحطم الأرقام القياسية في فرنسا خلال صيف 2026",
+            "titolo_it": "Onde di calore che rompono i record in Francia durante l'estate 2026",
+            "paese": "Marocco",
+            "continente": "Africa",
+            "lingua_originale": "arabo",
+            "live_blog": false
+          }
+        ],
+        "fonti_omesse": 0,
+        "rilevanza": {
+          "popolazione_milioni": 66,
+          "quota_mondiale": 0.0083,
+          "ambito": "nazionale",
+          "portata": "generale",
+          "paesi": [
+            "Francia"
+          ]
+        },
+        "motivi": [
+          "silenzio geografico",
+          "dissolvenza temporale"
+        ],
+        "dissolvenza": {
+          "dissolvenza": true,
+          "picco_testate": 8,
+          "picco_giorno": "2026-08-17",
+          "testate_oggi": 3,
+          "andamento": [
+            {
+              "giorno": "2026-08-17",
+              "n_testate": 8,
+              "n_articoli": 9
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "pagine_continentali": [
+    {
+      "continente": "Sud America",
+      "temi": [
+        {
+          "id": 23,
+          "titolo": "Grave incidente in Brasile: scontro tra autobus e camion causa almeno 23 morti",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Un violento scontro frontale tra un autobus e un camion in Paraná, Brasile, ha ucciso almeno 23 persone. Le testate sudamericane evidenziano dettagli locali (come il trasporto di pazienti e la composizione demografica delle vittime), mentre quelle esterne si concentrano sull'evento in sé, con minori specifiche sul contesto interno.",
+          "confronto": [
+            {
+              "area": "Sud America",
+              "sintesi": "Le testate sudamericane mettono al centro il ruolo dell'autobus come mezzo sanitario, la composizione demografica delle vittime e le reazioni ufficiali (es. lutto decretato dal Paraná). Si sottolinea la gravità del bilancio e il contesto locale, con riferimenti a enti come la Polizia Rodoviaria Federal.",
+              "testate": [
+                "El Comercio",
+                "El Espectador",
+                "El Universo",
+                "Estadão",
+                "Folha de S.Paulo",
+                "La Nación (Argentina)",
+                "O Globo"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne descrivono l'incidente come un evento isolato, focalizzandosi sul numero delle vittime e sull'impatto generale. Non si menziona il carattere sanitario dell'autobus né le reazioni locali specifiche, privilegiando una narrazione più generale e meno contestualizzata.",
+              "testate": [
+                "BBC News",
+                "El País",
+                "El Universal"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 4,
+            "n_testate": 10,
+            "continenti": [
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Brasile",
+              "Colombia",
+              "Ecuador",
+              "Messico",
+              "Perù",
+              "Regno Unito",
+              "Spagna"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 16,
+          "fonti": [
+            {
+              "testata": "La Nación (Argentina)",
+              "url": "https://www.lanacion.com.ar/el-mundo/accidente-en-brasil-al-menos-23-personas-murieron-tras-un-choque-frontal-entre-un-micro-y-un-camion-nid19082026",
+              "titolo": "Accidente en Brasil: al menos 23 personas murieron tras un choque frontal entre un micro y un camión",
+              "titolo_it": "Incidente in Brasile: almeno 23 persone muoiono in un frontale tra un pullman e un camioncista",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Estadão",
+              "url": "https://www.estadao.com.br/brasil/acidente-entre-onibus-e-carreta-deixa-mortos-e-feridos-no-parana-npr",
+              "titolo": "Acidente entre micro-ônibus e carreta deixa 23 mortos e cinco feridos no Paraná",
+              "titolo_it": "Incidente tra minibus e camion fa 23 morti e cinque feriti nel Paranà",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/mortos-em-acidente-no-parana-sao-13-mulheres-8-homens-e-2-criancas.shtml",
+              "titolo": "Mortos em acidente no Paraná são 13 mulheres, 8 homens e 2 crianças",
+              "titolo_it": "Morti nell'incidente in Paraná sono 13 donne, 8 uomini e 2 bambini",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
+              "titolo": "Head-on collision between bus and lorry in Brazil kills more than 20",
+              "titolo_it": "Frontale tra bus e camion in Brasile, più di 20 morti",
+              "paese": "Regno Unito",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "El País",
+              "url": "https://elpais.com/america/2026-08-19/al-menos-23-muertos-al-chocar-un-camion-contra-un-autobus-con-pacientes-rumbo-al-hospital-en-brasil.html",
+              "titolo": "Al menos 23 muertos al chocar un camión contra un autobús con pacientes rumbo al hospital en Brasil",
+              "titolo_it": "Almeno 23 morti in un incidente stradale tra un camion e un autobus con pazienti in Brasile",
+              "paese": "Spagna",
+              "continente": "Europa",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universal",
+              "url": "https://www.eluniversal.com.mx/mundo/fallecen-al-menos-23-personas-tras-choque-de-autobus-y-un-camion-en-brasil-parana-decreta-luto-oficial",
+              "titolo": "Fallecen al menos 23 personas tras choque de autobús y un camión en Brasil; Paraná decreta luto oficial",
+              "titolo_it": "Muoiono almeno 23 persone dopo l'incidente tra un autobus e un camion in Brasile; Paraná dichiara il lutto ufficiale",
+              "paese": "Messico",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 10,
+          "convergenza_interna": {
+            "continente": "Sud America",
+            "coperte": 7,
+            "totali": 32
+          }
+        },
+        {
+          "id": 38,
+          "titolo": "Fernando Cerimedo, arresto in Bolivia per femminicidio e legami con destra",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "L'ex consigliere di Javier Milei è stato arrestato in Bolivia per l'aggressione alla sua ex compagna. Le testate sudamericane evidenziano i suoi legami con leader di destra, mentre quelle esterne focalizzano sull'aspetto criminale e le implicazioni internazionali.",
+          "confronto": [
+            {
+              "area": "Sud America",
+              "sintesi": "Le testate sudamericane mettono al centro i legami di Cerimedo con leader di destra (Milei, Bolsonaro, Paz) e il ruolo nella strategia politica regionale. Sottolineano l'accusa di femminicidio e il contesto legale boliviano, dando per scontato il contesto ideologico e regionale.",
+              "testate": [
+                "El País (Uruguay)",
+                "Estadão",
+                "La Diaria",
+                "La Nación (Argentina)",
+                "La República",
+                "Telesur"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne focalizzano sull'aspetto criminale (tentato omicidio) e sull'immagine di Cerimedo come consulente transnazionale della destra. La Jornada aggiunge un'ipotesi di coinvolgimento esterno (CIA), mentre The Guardian evidenzia la dimensione internazionale del caso.",
+              "testate": [
+                "La Jornada",
+                "The Guardian"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 3,
+            "n_testate": 8,
+            "continenti": [
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Brasile",
+              "Messico",
+              "Perù",
+              "Regno Unito",
+              "Uruguay",
+              "Venezuela"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 12,
+          "fonti": [
+            {
+              "testata": "La Nación (Argentina)",
+              "url": "https://www.lanacion.com.ar/politica/caso-cerimedo-en-vivo-que-se-sabe-de-la-investigacion-al-exasesor-de-milei-que-esta-detenido-en-nid19082026",
+              "titolo": "Caso Cerimedo, EN VIVO: qué se sabe de la investigación al exasesor de Milei que está detenido en Bolivia",
+              "titolo_it": "Caso Cerimedo, IN DIRETTA: cosa si sa sull'indagine sull'ex consigliere di Milei arrestato in Bolivia",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Estadão",
+              "url": "https://www.estadao.com.br/politica/quem-e-fernando-cerimedo-antigo-estrategista-de-milei-e-aliado-de-eduardo-bolsonaro-preso-na-terca-npr",
+              "titolo": "Quem é Fernando Cerimedo, antigo estrategista de Milei e aliado de Eduardo Bolsonaro, preso na terça",
+              "titolo_it": "Chi è Fernando Cerimedo, ex stratega di Milei e alleato di Eduardo Bolsonaro, arrestato martedì",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "La República",
+              "url": "https://larepublica.pe/mundo/2026/08/18/fernando-cerimedo-asesor-del-presidente-rodrigo-paz-es-detenido-en-bolivia-tras-denuncia-de-su-expareja-por-un-presunto-intento-de-feminicidio-680328",
+              "titolo": "Asesor del presidente Rodrigo Paz es detenido en Bolivia tras denuncia de su expareja por un presunto intento de feminicidio",
+              "titolo_it": "L'assistente del presidente Rodrigo Paz arrestato in Bolivia dopo la denuncia della sua ex per un presunto tentativo di femminicidio",
+              "paese": "Perù",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
+              "titolo": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
+              "titolo_it": "Consigliere di leader di destra in America Latina arrestato per aver presunto pianificato l'omicidio della fidanzata",
+              "paese": "Regno Unito",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "La Jornada",
+              "url": "https://www.jornada.com.mx/2026/08/19/opinion/002a1edi?partner=rss",
+              "titolo": "Editorial: Detrás de la derecha, la CIA",
+              "titolo_it": "Editoriale: Dietro la destra c'è la CIA",
+              "paese": "Messico",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 7,
+          "convergenza_interna": {
+            "continente": "Sud America",
+            "coperte": 6,
+            "totali": 32
+          }
+        },
+        {
+          "id": 7,
+          "titolo": "Sanzioni Usa alla Corte Penale Internazionale: critiche e reazioni globali",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Gli Stati Uniti hanno imposto sanzioni alla presidente della Corte Penale Internazionale Tomoko Akane e ad altri funzionari, in risposta alle indagini sul conflitto in Medio Oriente. Le testate sudamericane evidenziano il rischio per il diritto internazionale, mentre quelle esterne sottolineano l'attacco alla sovranità giudiziaria e la campagna politica Usa.",
+          "confronto": [
+            {
+              "area": "Sud America",
+              "sintesi": "Le testate sudamericane mettono al centro il pericolo per l'ordine giuridico globale, sostenendo che le sanzioni Usa minacciano la credibilità della Corte Penale Internazionale. Si evidenzia il sostegno dell'Unione Europea e di paesi come il Giappone, mentre si dà per scontata la posizione Usa di rifiuto del tribunale.",
+              "testate": [
+                "El Espectador",
+                "El Nacional",
+                "El Universo",
+                "La Tercera",
+                "O Globo"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne enfatizzano l'indipendenza della Corte Penale Internazionale e le motivazioni politiche delle sanzioni Usa, legate all'indagine su Israele. Si sottolinea la violazione della sovranità giudiziaria e si tace sulle reazioni di altri blocchi regionali, focalizzandosi sul conflitto tra Washington e il tribunale.",
+              "testate": [
+                "Al Jazeera",
+                "Chosun Ilbo",
+                "Daily Maverick",
+                "Daily Sabah",
+                "Hindustan Times",
+                "La Jornada",
+                "La Nación (Costa Rica)",
+                "La Prensa (Panama)",
+                "Libération",
+                "Seneweb",
+                "The Citizen",
+                "The Globe and Mail",
+                "The National"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 8,
+            "n_testate": 18,
+            "continenti": [
+              "Africa",
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Brasile",
+              "Canada",
+              "Cile",
+              "Colombia",
+              "Corea del Sud",
+              "Costa Rica",
+              "Ecuador",
+              "Emirati Arabi Uniti",
+              "Francia",
+              "India",
+              "Messico",
+              "Panama",
+              "Qatar",
+              "Senegal",
+              "Sudafrica",
+              "Tanzania",
+              "Turchia",
+              "Venezuela"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 19,
+          "fonti": [
+            {
+              "testata": "Chosun Ilbo",
+              "url": "https://www.chosun.com/international/international_general/2026/08/19/MQYGCY3BHEZDAYZXMIYGCNLCHE",
+              "titolo": "美, ‘전쟁범죄 심판’ 국제형사재판소장 제재… 네타냐후 영장 뒤 해체 공세",
+              "titolo_it": "Usa, sanzioni contro il procuratore generale dell'Aia per \"giudizio dei crimini di guerra\"… offensiva israeliana dopo il mandato per Netanyahu",
+              "paese": "Corea del Sud",
+              "continente": "Asia",
+              "lingua_originale": "coreano",
+              "live_blog": false
+            },
+            {
+              "testata": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence?traffic_source=rss",
+              "titolo": "ICC condemns US sanctions as ‘flagrant attack’ on court’s independence",
+              "titolo_it": "Corte penale internazionale condanna le sanzioni Usa come \"attacco grave all'indipendenza della Corte",
+              "paese": "Qatar",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Daily Sabah",
+              "url": "https://www.dailysabah.com/world/icc-lashes-out-at-flagrant-attack-after-us-sanctions-president-akane/news",
+              "titolo": "ICC lashes out at 'flagrant attack' after US sanctions President Akane",
+              "titolo_it": "Corte penale internazionale condanna l'«attacco grave» dopo le sanzioni Usa contro il presidente Akane",
+              "paese": "Turchia",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "O Globo",
+              "url": "https://oglobo.globo.com/mundo/noticia/2026/08/19/tribunal-penal-internacional-considera-sancoes-dos-eua-um-ataque-flagrante-a-sua-independencia.ghtml",
+              "titolo": "Tribunal Penal Internacional considera sanções dos EUA um 'ataque flagrante' à sua independência",
+              "titolo_it": "Tribunale Penale Internazionale considera le sanzioni Usa un \"attacco flagrante\" alla sua indipendenza",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "La Tercera",
+              "url": "https://www.latercera.com/mundo/noticia/japon-considera-muy-lamentables-las-sanciones-de-eeuu-contra-la-presidenta-del-tribunal-penal-internacional",
+              "titolo": "Japón considera “muy lamentables” las sanciones  de EE.UU. contra la presidenta del Tribunal Penal Internacional",
+              "titolo_it": "Giappone considera \"molto deplorevoli\" le sanzioni Usa contro la presidente della Corte penale internazionale",
+              "paese": "Cile",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Espectador",
+              "url": "https://www.elespectador.com/mundo/mas-paises/ue-y-paises-de-la-cpi-desafian-a-trump-y-respaldan-a-la-corte-penal-internacional",
+              "titolo": "UE y países de la CPI desafían a Trump y respaldan a la Corte Penal Internacional",
+              "titolo_it": "UE e Paesi della CPI sfidano Trump e sostengono la Corte Penale Internazionale",
+              "paese": "Colombia",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/world/article-icc-us-sanctions-president-senior-lawyer",
+              "titolo": "ICC criticizes latest U.S. sanctions on court’s president and senior prosecution lawyer",
+              "titolo_it": "Corte penale internazionale critica le nuove sanzioni Usa contro il suo presidente e un procuratore senior",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "La Nación (Costa Rica)",
+              "url": "https://www.nacion.com/el-mundo/corte-penal-internacional-tacha-de-ataque/CSY5UWEDQ5AHVCI2MYAIQFNDVQ/story",
+              "titolo": "Corte Penal Internacional tacha de ‘ataque flagrante’ las sanciones de Estados Unidos a su presidenta",
+              "titolo_it": "Corte penale internazionale definisce le sanzioni Usa contro la sua presidente un \"attacco flagrante",
+              "paese": "Costa Rica",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "La Jornada",
+              "url": "https://www.jornada.com.mx/2026/08/19/mundo/022n1mun?partner=rss",
+              "titolo": "Sanciona EU a presidenta de CPI; en riesgo, el orden jurídico mundial: la corte",
+              "titolo_it": "UE condanna la presidente della Corte pene l'ordine giuridico mondiale è in pericolo: la corte",
+              "paese": "Messico",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Seneweb",
+              "url": "https://www.seneweb.com/fr/news/International/washington-accentue-sa-pression-sur-la-cour-penale-internationale-colere-du-japon_n_501844.html",
+              "titolo": "Washington accentue sa pression sur la Cour pénale internationale, colère du Japon",
+              "titolo_it": "Washington intensifica la pressione sulla Corte penale internazionale, la Giappone si irrita",
+              "paese": "Senegal",
+              "continente": "Africa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Citizen",
+              "url": "https://www.thecitizen.co.tz/tanzania/news/international/us-sanctions-icc-president-senior-lawyer-5563134",
+              "titolo": "US sanctions ICC president, senior lawyer",
+              "titolo_it": "Gli Stati Uniti sanzionano la presidente della Corte penale internazionale e un avvocato senior",
+              "paese": "Tanzania",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Daily Maverick",
+              "url": "https://www.dailymaverick.co.za/article/2026-08-18-us-sanctions-international-criminal-court-president-senior-lawyer",
+              "titolo": "US sanctions International Criminal Court president, senior lawyer",
+              "titolo_it": "Gli Stati Uniti sanzionano la presidente della Corte penale internazionale e un avvocato senior",
+              "paese": "Sudafrica",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Libération",
+              "url": "https://www.liberation.fr/international/asie-pacifique/sanctions-des-etats-unis-tomoko-akane-presidente-de-la-cour-penale-internationale-dans-le-viseur-de-washington-20260819_LHLE4G35XJEVPB72LYNA2RV7II",
+              "titolo": "Sanctions des Etats-Unis : Tomoko Akane, présidente de la Cour pénale internationale dans le viseur de Washington",
+              "titolo_it": "Sanzioni Usa: Tomoko Akane, presidente della Corte penale internazionale, nel mirino di Washington",
+              "paese": "Francia",
+              "continente": "Europa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 6,
+          "convergenza_interna": {
+            "continente": "Sud America",
+            "coperte": 5,
+            "totali": 32
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Nord America",
+      "temi": [
+        {
+          "id": 16,
+          "titolo": "Primarie in Florida: vittoria inaspettata per la socialista Nixon",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Angie Nixon, socialista, ha vinto le primarie democratiche in Florida, sfidando la repubblicana Ashley Moody a novembre. Le testate nordamericane evidenziano il rifiuto dell'establishment e di Trump, mentre quelle esterne sottolineano l'onda anti-establishment e il ruolo dei movimenti progressisti.",
+          "confronto": [
+            {
+              "area": "Nord America",
+              "sintesi": "Le testate focalizzano sul rifiuto dell'establishment democratico e sulla distanza da Trump, evidenziando il successo di Nixon come segnale di un cambio interno al partito e la fragilità dei candidati legati al presidente.",
+              "testate": [
+                "Le Devoir",
+                "Politico",
+                "Prensa Libre",
+                "The Globe and Mail",
+                "The New York Times"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "L'attenzione cade sull'inaspettata vittoria di un candidato socialista e sull'onda anti-establishment globale, con riferimenti a temi come antisemitismo e pro-Israele, interpretando l'evento come parte di un movimento progressista transnazionale.",
+              "testate": [
+                "Clarín",
+                "Estadão",
+                "Financial Times",
+                "Gazeta Wyborcza",
+                "La Nación (Argentina)",
+                "MyJoyOnline",
+                "The Guardian",
+                "The Jerusalem Post",
+                "la Repubblica"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 6,
+            "n_testate": 14,
+            "continenti": [
+              "Africa",
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Brasile",
+              "Canada",
+              "Ghana",
+              "Guatemala",
+              "Israele",
+              "Italia",
+              "Polonia",
+              "Regno Unito",
+              "Stati Uniti"
+            ],
+            "trend": {
+              "agganciato": true,
+              "delta_articoli": 13,
+              "delta_testate": 9,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 18,
+          "fonti": [
+            {
+              "testata": "la Repubblica",
+              "url": "https://www.repubblica.it/esteri/2026/08/19/news/primarie_usa_democratici_socialista_angie_nixon_florida-425535676",
+              "titolo": "L’onda anti-establishment dei dem Usa non si ferma: la socialista Nixon vince le primarie in Florida",
+              "titolo_it": null,
+              "paese": "Italia",
+              "continente": "Europa",
+              "lingua_originale": "italiano",
+              "live_blog": false
+            },
+            {
+              "testata": "Le Devoir",
+              "url": "https://www.ledevoir.com/monde/etats-unis/1002662/floride-aile-progressiste-parti-democrate-cree-nouveau-surprise-lors-primaires",
+              "titolo": "En Floride, l’aile progressiste du Parti démocrate crée à nouveau la surprise lors de primaires",
+              "titolo_it": "In Florida, l'ala progressista del Partito Democratico sorprende di nuovo alle primarie",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "Politico",
+              "url": "https://www.politico.com/news/2026/08/18/florida-angie-nixon-trump-democratic-republican-primary-2026-01041405",
+              "titolo": "Florida rejects Democratic establishment — and even snubs Trump",
+              "titolo_it": "Florida respinge l'establishment democratico — e addirittura snobba Trump",
+              "paese": "Stati Uniti",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html",
+              "titolo": "Angie Nixon Notches Another Win for the Left Through Old-Fashioned Organizing",
+              "titolo_it": "Angie Nixon aggiunge un'altra vittoria per la sinistra grazie all'organizzazione tradizionale",
+              "paese": "Stati Uniti",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Gazeta Wyborcza",
+              "url": "https://wyborcza.pl/7,75399,32975516,zaskakujace-zwyciestwo-w-prawyborach-na-florydzie-kim-jest.html",
+              "titolo": "Zaskakujące zwycięstwo w prawyborach na Florydzie. Kim jest Angie Nixon?",
+              "titolo_it": null,
+              "paese": "Polonia",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Financial Times",
+              "url": "https://www.ft.com/content/115fc315-66f3-4eee-b717-4105f13f4d9a?syn-25a6b1a6=1",
+              "titolo": "Democratic socialist unexpectedly wins Florida primary",
+              "titolo_it": "Socialista democratico vince inaspettatamente le primarie in Florida",
+              "paese": "Regno Unito",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/aug/19/key-takeaways-primaries-florida-alaska-wyoming",
+              "titolo": "A democratic socialist win and losses for Trump allies: takeaways from primaries in three key states",
+              "titolo_it": "Una vittoria del socialismo democratico e sconfitte per gli alleati di Trump: i risultati delle primarie in tre stati chiave",
+              "paese": "Regno Unito",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Clarín",
+              "url": "https://www.clarin.com/estados-unidos/conclusiones-de-las-primarias-de-eeuu-que-pueden-ser-presagio-a-las-elecciones-de-noviembre_0_Sb2kI1KiSk.html",
+              "titolo": "Conclusiones de las primarias de EEUU, que pueden ser presagio a las elecciones de noviembre",
+              "titolo_it": "Risultati delle primarie Usa, che potrebbero essere un presagio per le elezioni di novembre",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "La Nación (Argentina)",
+              "url": "https://www.lanacion.com.ar/estados-unidos/florida/resultados-de-las-elecciones-en-florida-hoy-quien-gano-las-primarias-y-los-candidatos-en-miami-nid18082026",
+              "titolo": "Resultados de las elecciones en Florida: quién ganó las primarias y los candidatos oficiales en Miami y Orlando",
+              "titolo_it": "Risultati delle elezioni in Florida: chi ha vinto le primarie e i candidati ufficiali a Miami e Orlando",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Estadão",
+              "url": "https://www.estadao.com.br/internacional/esquerda-democrata-surpreende-na-florida-e-vence-primarias-para-o-senado",
+              "titolo": "Esquerda democrata surpreende na Flórida e vence primárias para o Senado",
+              "titolo_it": "Sinistra democratica sorprende in Florida e vince le primarie per il Senato",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Jerusalem Post",
+              "url": "https://www.jpost.com/us-elections/article-905941",
+              "titolo": "Florida democratic socialist Nixon wins Democratic Senate primary in upset",
+              "titolo_it": "Socialista democratico Nixon vince le primarie democratiche al Senato in Florida in sorpresa",
+              "paese": "Israele",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "MyJoyOnline",
+              "url": "https://www.myjoyonline.com/florida-picks-nominees-for-governor-and-other-takeaways-from-us-primaries",
+              "titolo": "Florida picks nominees for governor, and other takeaways from US primaries",
+              "titolo_it": "Florida sceglie i candidati alla governatrice, e altre conclusioni dalle primarie Usa",
+              "paese": "Ghana",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 6,
+          "convergenza_interna": {
+            "continente": "Nord America",
+            "coperte": 5,
+            "totali": 28
+          }
+        },
+        {
+          "id": 28,
+          "titolo": "Hayden Panettiere: l'ex partner presente al momento della morte",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "L'attrice Hayden Panettiere è morta mentre il suo ex partner, Brian Hickerson, era presente. Le testate nordamericane focalizzano sul contesto investigativo, mentre quelle estere sottolineano la storia di violenza domestica e le accuse della madre.",
+          "confronto": [
+            {
+              "area": "Nord America",
+              "sintesi": "Le testate nordamericane mettono al centro la presenza dell'ex partner e il ruolo della polizia. Si sottolinea il rapporto intermittente e l'indagine in corso, dando per scontata la connessione tra violenza domestica e la morte, senza approfondire la dinamica familiare.",
+              "testate": [
+                "CBC News",
+                "El Universal",
+                "Prensa Libre",
+                "The New York Times"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate estere enfatizzano la storia di abusi e le accuse della madre, contestualizzando la morte nel quadro di una relazione tossica. Si evidenzia il percorso di liberazione dell'attrice e il ruolo familiare, con un'attenzione alla dimensione emotiva e sociale.",
+              "testate": [
+                "Der Spiegel",
+                "Frankfurter Allgemeine Zeitung",
+                "O Globo",
+                "The Guardian",
+                "la Repubblica"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 3,
+            "n_testate": 9,
+            "continenti": [
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Brasile",
+              "Canada",
+              "Germania",
+              "Guatemala",
+              "Italia",
+              "Messico",
+              "Regno Unito",
+              "Stati Uniti"
+            ],
+            "trend": {
+              "agganciato": true,
+              "delta_articoli": -56,
+              "delta_testate": -51,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 11,
+          "fonti": [
+            {
+              "testata": "la Repubblica",
+              "url": "https://www.repubblica.it/spettacoli/2026/08/19/news/hayden_panettiere_morta_fidanzato_appartamento_indagini_polizia-425535335",
+              "titolo": "Hayden Panettiere, l’ex fidanzato dell’attrice era nell’appartamento con lei quando è morta",
+              "titolo_it": null,
+              "paese": "Italia",
+              "continente": "Europa",
+              "lingua_originale": "italiano",
+              "live_blog": false
+            },
+            {
+              "testata": "Prensa Libre",
+              "url": "https://www.prensalibre.com/vida/escenario/muerte-de-hayden-panettiere-informe-policial-revela-que-su-exnovio-estuvo-presente-durante-su-deceso-mientras-lesley-vogel-lo-senala",
+              "titolo": "Muerte de Hayden Panettiere: informe policial revela que su exnovio estuvo presente durante su deceso",
+              "titolo_it": "Morte di Hayden Panettiere: il rapporto della polizia rivela che il suo ex fidanzato era presente al momento della sua morte",
+              "paese": "Guatemala",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universal",
+              "url": "https://www.eluniversal.com.mx/espectaculos/en-la-mira-el-novio-de-hayden-panettiere-la-policia-visita-su-casa-tras-la-muerte-de-la-actriz",
+              "titolo": "En la mira, el novio de Hayden Panettiere: la policía visita su casa tras la muerte de la actriz",
+              "titolo_it": "Nel mirino il fidanzato di Hayden Panettiere: la polizia visita la sua casa dopo la morte dell'attrice",
+              "paese": "Messico",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html",
+              "titolo": "Boyfriend Who Abused Hayden Panettiere Had Returned to Her Life",
+              "titolo_it": "L'ex fidanzato che aveva maltrattato Hayden Panettiere era tornato nella sua vita",
+              "paese": "Stati Uniti",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Der Spiegel",
+              "url": "https://www.spiegel.de/panorama/leute/hayden-panettiere-ex-freund-war-wohl-am-todesort-was-wir-ueber-den-fall-wissen-a-44f23045-0fcf-4355-ac51-97011a82ba40",
+              "titolo": "Hayden Panettiere: Ex-Freund Brian Hickerson war wohl am Todesort – was bekannt ist",
+              "titolo_it": "Hayden Panettiere: l'ex fidanzato Brian Hickerson probabilmente si trovava sul luogo del decesso – quanto si sa",
+              "paese": "Germania",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "Frankfurter Allgemeine Zeitung",
+              "url": "https://www.faz.net/aktuell/gesellschaft/menschen/hayden-panettiere-mutter-erhebt-vorwuerfe-gegen-brian-hickerson-201140695.html",
+              "titolo": "Gegen Lebensgefährten: Mutter von Hayden Panettiere erhebt Vorwürfe",
+              "titolo_it": "Madre di Hayden Panettiere accusa il compagno della figlia",
+              "paese": "Germania",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "The Guardian",
+              "url": "https://www.theguardian.com/tv-and-radio/2026/aug/18/hayden-panettiere-death-boyfriend",
+              "titolo": "Boyfriend of Hayden Panettiere was at apartment when actor died",
+              "titolo_it": "L'ex fidanzato di Hayden Panettiere era nell'appartamento al momento della sua morte",
+              "paese": "Regno Unito",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "O Globo",
+              "url": "https://oglobo.globo.com/cultura/noticia/2026/08/19/hayden-panettiere-ex-namorado-condenado-por-abuso-estava-com-ela-na-hora-da-morte.ghtml",
+              "titolo": "Hayden Panettiere: ex-namorado condenado por abuso estava com ela na hora da morte",
+              "titolo_it": "Hayden Panettiere: l'ex fidanzato condannato per abusi era con lei al momento della morte",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 3,
+          "convergenza_interna": {
+            "continente": "Nord America",
+            "coperte": 4,
+            "totali": 28
+          }
+        },
+        {
+          "id": 64,
+          "titolo": "Ondata di calore negli Stati Uniti: record a Miami e confronto globale",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Miami ha registrato temperature record a causa di un'ondata di calore. Le testate nordamericane focalizzano su dati locali e storici, mentre quelle esterne sottolineano l'ampiezza dell'evento e le sue implicazioni a livello continentale.",
+          "confronto": [
+            {
+              "area": "Nord America",
+              "sintesi": "Le testate concentrano l'attenzione su Miami e i record storici locali, evidenziando dati specifici come temperature esatte e anni precedenti. Il focus è su eventi climatici isolati senza contestualizzarli in un quadro globale.",
+              "testate": [
+                "14ymedio",
+                "La Prensa (Panama)",
+                "Prensa Libre"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate enfatizzano l'entità dell'ondata di calore (72 milioni di persone in allerta) e la sua portata continentale, collegandola a fenomeni climatici estremi. Menzionano dati storici ma non specificano città al di fuori di Miami.",
+              "testate": [
+                "El Nacional",
+                "La Nación (Argentina)"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 2,
+            "n_testate": 5,
+            "continenti": [
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Cuba",
+              "Guatemala",
+              "Panama",
+              "Venezuela"
+            ],
+            "trend": {
+              "agganciato": true,
+              "delta_articoli": -4,
+              "delta_testate": -3,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 5,
+          "fonti": [
+            {
+              "testata": "14ymedio",
+              "url": "https://www.14ymedio.com/internacional/miami-alcanza-record-maxima-temperatura_1_1129941.html",
+              "titolo": "Miami alcanza el récord de la máxima temperatura en su historia ante una ola de calor",
+              "titolo_it": "Miami raggiunge il record della temperatura più alta nella sua storia a causa di un'onda di calore",
+              "paese": "Cuba",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Prensa Libre",
+              "url": "https://www.prensalibre.com/internacional/ola-de-calor-en-ee-uu-que-estado-alcanzo-el-record-de-mayor-temperatura-en-toda-su-historia",
+              "titolo": "Ola de calor en EE. UU.: qué estado alcanzó el récord de mayor temperatura en toda su historia",
+              "titolo_it": "Ondata di calore negli Usa: quale stato ha battuto il record di temperatura più alta della sua storia",
+              "paese": "Guatemala",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "La Prensa (Panama)",
+              "url": "https://www.prensa.com/mundo/miami-alcanza-record-de-temperatura-en-medio-de-ola-de-calor-en-estados-unidos",
+              "titolo": "Miami alcanza récord de temperatura en medio de ola de calor en Estados Unidos",
+              "titolo_it": "Miami raggiunge record di temperatura nel mezzo di un'ondata di calore negli Stati Uniti",
+              "paese": "Panama",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "La Nación (Argentina)",
+              "url": "https://www.lanacion.com.ar/estados-unidos/noticias-de-la-ola-de-calor-en-estados-unidos-72-millones-de-personas-en-alerta-por-temperaturas-nid19082026",
+              "titolo": "Noticias de la ola de calor en Estados Unidos: 72 millones de personas en alerta por temperaturas récord esta semana",
+              "titolo_it": "Notizie sull'onda di calore negli Stati Uniti: 72 milioni di persone in allerta per temperature record questa settimana",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Nacional",
+              "url": "https://www.elnacional.com/2026/08/miami-alcanza-el-record-de-la-maxima-temperatura-en-su-historia-ante-ola-de-calor-en-ee-uu",
+              "titolo": "Ola de calor en EE UU: Miami iguala récord de la máxima temperatura en su historia",
+              "titolo_it": "Ondata di calore negli Usa: Miami uguaglia il record storico di temperatura massima",
+              "paese": "Venezuela",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 0,
+          "convergenza_interna": {
+            "continente": "Nord America",
+            "coperte": 3,
+            "totali": 28
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Europa",
+      "temi": [
+        {
+          "id": 15,
+          "titolo": "Arresto in Croazia di sospetto sabotatore Nord Stream",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Un cittadino ucraino è stato arrestato in Croazia per l'attentato ai gasdotti Nord Stream del 2022. Le testate europee evidenziano il ruolo di subacqueo, mentre quelle esterne si concentrano sull'arresto e le implicazioni legali, con minori dettagli tecnici.",
+          "confronto": [
+            {
+              "area": "Europa",
+              "sintesi": "Le testate europee mettono al centro il ruolo di subacqueo del sospetto, l'addestramento specifico e la collaborazione internazionale per l'arresto. Si sottolinea la connessione con le indagini tedesche e la sua estradizione in Germania, con dettagli tecnici sull'attentato.",
+              "testate": [
+                "BBC News",
+                "Frankfurter Allgemeine Zeitung",
+                "Gazeta Wyborcza",
+                "Helsingin Sanomat",
+                "Kyiv Independent",
+                "LRT",
+                "Meduza",
+                "TASS",
+                "Telex",
+                "The Guardian"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne si concentrano sull'arresto e il contesto geopolitico, menzionando il secondo sospetto senza approfondire il ruolo specifico. Si evidenzia l'importanza del caso per la sicurezza energetica, con riferimenti alle conseguenze legali ma meno dettagli sull'azione criminale.",
+              "testate": [
+                "Al Jazeera",
+                "CBC News",
+                "Daily Sabah",
+                "Le Devoir",
+                "VnExpress"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 6,
+            "n_testate": 15,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Nord America"
+            ],
+            "paesi": [
+              "Canada",
+              "Finlandia",
+              "Germania",
+              "Lituania",
+              "Polonia",
+              "Qatar",
+              "Regno Unito",
+              "Russia",
+              "Turchia",
+              "Ucraina",
+              "Ungheria",
+              "Vietnam"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 15,
+          "fonti": [
+            {
+              "testata": "Helsingin Sanomat",
+              "url": "https://www.hs.fi/maailma/art-2000012215747.html",
+              "titolo": "Saksa | Toinen ukrainalais­mies pidätettiin epäiltynä Nord Stream -räjäytyksistä",
+              "titolo_it": null,
+              "paese": "Finlandia",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Frankfurter Allgemeine Zeitung",
+              "url": "https://www.faz.net/video/bundesanwaltschaft-zweiter-nord-stream-verdaechtiger-gefasst-201141587.html",
+              "titolo": "In Kroatien festgenommen: Bundesanwaltschaft: Zweiter Nord-Stream-Verdächtiger gefasst",
+              "titolo_it": "Secondo indagato per Nord Stream arrestato in Croazia: Procura federale tedesca",
+              "paese": "Germania",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "LRT",
+              "url": "https://www.lrt.lt/naujienos/pasaulyje/6/3026186/vokietijos-prokurorai-kroatijoje-del-nord-stream-sabotazo-sulaikytas-ukrainietis",
+              "titolo": "Vokietijos prokurorai: Kroatijoje dėl „Nord Stream“ sabotažo sulaikytas ukrainietis",
+              "titolo_it": "Procuratori della Lituania: in Croazia arrestato un ucraino per il sabotaggio di \"Nord Stream",
+              "paese": "Lituania",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss",
+              "titolo": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
+              "titolo_it": "Secondo ucraino arrestato per l'esplosione del 2022 al gasdotto Nord Stream",
+              "paese": "Qatar",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Daily Sabah",
+              "url": "https://www.dailysabah.com/business/economy/2nd-nord-stream-suspect-arrested-in-croatia-german-prosecutors-say",
+              "titolo": "2nd Nord Stream suspect arrested in Croatia, German prosecutors say",
+              "titolo_it": "Secondo sospetto per gli attentati a Nord Stream arrestato in Croazia, dicono i procuratori tedeschi",
+              "paese": "Turchia",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "VnExpress",
+              "url": "https://vnexpress.net/tho-lan-bi-bat-voi-cao-buoc-gay-no-duong-ong-nord-stream-5111011.html",
+              "titolo": "Thợ lặn bị bắt với cáo buộc gây nổ đường ống Nord Stream",
+              "titolo_it": null,
+              "paese": "Vietnam",
+              "continente": "Asia",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "CBC News",
+              "url": "https://www.cbc.ca/news/world/nord-stream-pipeline-damage-arrest-9.7312068?cmp=rss",
+              "titolo": "Germany says 2nd suspect in Nord Stream pipeline sabotage arrested in Croatia",
+              "titolo_it": "Germania: arrestato in Croazia il secondo indagato per l'attentato ai gasdotti Nord Stream",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Le Devoir",
+              "url": "https://www.ledevoir.com/monde/europe/1002623/deuxieme-ukrainien-soupconne-avoir-sabote-gazoduc-nord-stream-est-arrete",
+              "titolo": "Un deuxième Ukrainien soupçonné d’avoir saboté le gazoduc Nord Stream est arrêté",
+              "titolo_it": "Un secondo ucraino sospettato di aver sabotato il gasdotto Nord Stream arrestato",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "francese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 7,
+          "convergenza_interna": {
+            "continente": "Europa",
+            "coperte": 10,
+            "totali": 50
+          }
+        },
+        {
+          "id": 14,
+          "titolo": "Unitree, il boom borsistico dei robot umanoidi cinesi",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "L'azienda cinese Unitree ha registrato un aumento delle azioni tra il 460% e il 600% al debutto in borsa. Le testate europee sottolineano la tecnologia e la commercializzazione, mentre quelle esterne evidenziano il ruolo degli investimenti esteri e la competizione globale.",
+          "confronto": [
+            {
+              "area": "Europa",
+              "sintesi": "Le testate europee enfatizzano l'innovazione tecnologica di Unitree e la sua posizione dominante nel settore robotico. Alcune esprimono cautela sulla sostenibilità commerciale, mentre altre celebrano il successo finanziario e il ruolo del fondatore come 'star' emergente.",
+              "testate": [
+                "De Standaard",
+                "Der Spiegel",
+                "Der Standard",
+                "El País",
+                "Le Figaro",
+                "Libération",
+                "Svenska Dagbladet",
+                "The Guardian",
+                "la Repubblica"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne focalizzano sull'entità del rialzo borsistico e sulle radici internazionali della tecnologia (es. finanziamenti Usa). Alcune collegano il successo di Unitree alla leadership cinese nella produzione di massa e alla sfida al dominio globale.",
+              "testate": [
+                "Al Jazeera",
+                "Chosun Ilbo",
+                "El Comercio",
+                "Folha de S.Paulo",
+                "NZ Herald",
+                "O Globo",
+                "The Kathmandu Post"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 6,
+            "n_testate": 16,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Oceania",
+              "Sud America"
+            ],
+            "paesi": [
+              "Austria",
+              "Belgio",
+              "Brasile",
+              "Corea del Sud",
+              "Francia",
+              "Germania",
+              "Italia",
+              "Nepal",
+              "Nuova Zelanda",
+              "Perù",
+              "Qatar",
+              "Regno Unito",
+              "Spagna",
+              "Svezia"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 16,
+          "fonti": [
+            {
+              "testata": "la Repubblica",
+              "url": "https://www.repubblica.it/economia/2026/08/19/news/in_cina_tutti_pazzi_per_i_robot_umanoidi_debutto_spettacolare_per_unitree_in_borsa-425535744",
+              "titolo": "In Cina tutti pazzi per i robot umanoidi: debutto spettacolare per Unitree in Borsa",
+              "titolo_it": null,
+              "paese": "Italia",
+              "continente": "Europa",
+              "lingua_originale": "italiano",
+              "live_blog": false
+            },
+            {
+              "testata": "Der Standard",
+              "url": "https://www.derstandard.at/story/3000000336129/roboterbauer-unitree-startet-mit-ueber-600-prozent-plus-an-der-boerse?ref=rss",
+              "titolo": "Roboterbauer Unitree startet mit über 600 Prozent Plus an der Börse",
+              "titolo_it": "Unitree, costruttore di robot, esordisce in Borsa con un rialzo superiore al 600%",
+              "paese": "Austria",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "De Standaard",
+              "url": "https://www.standaard.be/economie/robotbouwer-unitree-vervijfvoudigt-op-eerste-beursdag.-maar-breken-robots-ook-commercieel-door/160210846.html",
+              "titolo": "Robotbouwer Unitree vervijfvoudigt op eerste beursdag. Maar breken robots ook commercieel door?",
+              "titolo_it": null,
+              "paese": "Belgio",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/kung-fu-danse-et-sprint-a-45-km-h-qui-est-unitree-l-etoile-montante-chinoise-des-robots-humanoides-20260819",
+              "titolo": "Kung-fu, danse et sprint à 45 km/h : qui est Unitree, l’étoile montante chinoise des robots humanoïdes ?",
+              "titolo_it": "Kung-fu, danze e sprint a 45 km/h: chi è Unitree, la stella nascente cinese dei robot umanoidi?",
+              "paese": "Francia",
+              "continente": "Europa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "Chosun Ilbo",
+              "url": "https://www.chosun.com/international/international_general/2026/08/19/MVRDMMJXMI2DAYZTMMZDKZBUMQ",
+              "titolo": "‘中 휴머노이드 대표’ 유니트리 상장… 주가 최대 629% 급등",
+              "titolo_it": "Unitree, rappresentante dei robot umanoidi in Cina, quotata in Borsa: rialzo massimo del 629%",
+              "paese": "Corea del Sud",
+              "continente": "Asia",
+              "lingua_originale": "coreano",
+              "live_blog": false
+            },
+            {
+              "testata": "The Kathmandu Post",
+              "url": "https://kathmandupost.com/world/2026/08/19/how-us-military-funding-propelled-china-s-robot-dogs",
+              "titolo": "How US military funding propelled China’s robot dogs",
+              "titolo_it": "Come il finanziamento militare Usa ha spinto in avanti i cani robot della Cina",
+              "paese": "Nepal",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/8/19/chinas-unitree-soars-in-market-debut-as-investors-bet-on-humanoid-robots?traffic_source=rss",
+              "titolo": "China’s Unitree soars in market debut as investors bet on humanoid robots",
+              "titolo_it": "Unitree della Cina vola nel debutto in borsa mentre gli investitori scommettono sui robot umanoidi",
+              "paese": "Qatar",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/mercado/2026/08/acoes-da-unitree-disparam-460-na-estreia-em-xangai-e-animam-setor-de-robotica.shtml",
+              "titolo": "Ações da Unitree disparam 460% na estreia em Xangai e animam setor de robótica",
+              "titolo_it": "Le azioni di Unitree schizzano del 460% alla Borsa di Shanghai e rinvigoriscono il settore robotica",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "O Globo",
+              "url": "https://oglobo.globo.com/economia/financas/noticia/2026/08/19/chinesa-unitree-robotics-dispara-460percent-apos-ipo-de-us-904-milhoes-em-xangai.ghtml",
+              "titolo": "Chinesa Unitree, de robôs humanoides, dispara quase 500% em sua estreia na Bolsa",
+              "titolo_it": "Unitree, azienda cinese di robot umanoidi, balza quasi del 500% nel debutto in Borsa",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "El Comercio",
+              "url": "https://elcomercio.pe/tecnologia/robotica/china-acelera-su-industria-de-robots-humanoides-unitree-se-dispara-600-en-su-debut-bursatil-noticia",
+              "titolo": "China acelera su industria de robots humanoides: Unitree se dispara 600% en su debut bursátil",
+              "titolo_it": "Cina accelera sull'industria dei robot umanoidi: Unitree schizza al 600% nel suo debutto in Borsa",
+              "paese": "Perù",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "NZ Herald",
+              "url": "https://www.nzherald.co.nz/business/chinas-humanoid-maker-unitree-surges-more-than-600-on-shanghai-debut/2ERDHVB2RJC4BDCM4S7XH47M44",
+              "titolo": "China’s humanoid-maker Unitree surges more than 600% on Shanghai debut",
+              "titolo_it": "Unitree, produttore cinese di umanoidi, schizza del 600% al debutto a Shanghai",
+              "paese": "Nuova Zelanda",
+              "continente": "Oceania",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 5,
+          "convergenza_interna": {
+            "continente": "Europa",
+            "coperte": 9,
+            "totali": 50
+          }
+        },
+        {
+          "id": 17,
+          "titolo": "Iran valuta attacchi a basi Usa in Europa, la Nato si prepara",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Le testate europee evidenziano la prontezza della Nato a difendere le basi Usa in Europa, mentre quelle esterne focalizzano su piani iraniani di estendere il conflitto. Lo sguardo interno sottolinea la minaccia concreta, l'esterno anticipa scenari di escalation.",
+          "confronto": [
+            {
+              "area": "Europa",
+              "sintesi": "Le testate europee mettono al centro la prontezza della Nato a fronteggiare minacce, con focus su basi Usa in Europa meridionale. Sottolineano la prospettiva immediata di un conflitto che coinvolgerebbe direttamente il continente, senza contestualizzare le tensioni irano-americane.",
+              "testate": [
+                "ANSA",
+                "Dagens Nyheter",
+                "Financial Times",
+                "Helsingin Sanomat",
+                "LRT",
+                "Le Figaro",
+                "TASS",
+                "The Irish Times",
+                "Ukrainska Pravda"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne evidenziano piani iraniani di estendere il conflitto a livello globale, con attacchi a asset Usa al di fuori del Medio Oriente. Sottolineano la strategia di escalation e il ruolo di Trump, senza enfatizzare la risposta concreta della Nato.",
+              "testate": [
+                "Cumhuriyet",
+                "Folha de S.Paulo",
+                "Infobae",
+                "Iran International",
+                "VnExpress"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 5,
+            "n_testate": 14,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Brasile",
+              "Finlandia",
+              "Francia",
+              "Iran",
+              "Irlanda",
+              "Italia",
+              "Lituania",
+              "Regno Unito",
+              "Russia",
+              "Svezia",
+              "Turchia",
+              "Ucraina",
+              "Vietnam"
+            ],
+            "trend": {
+              "agganciato": true,
+              "delta_articoli": 11,
+              "delta_testate": 10,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 15,
+          "fonti": [
+            {
+              "testata": "ANSA",
+              "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/19/ft-iran-valuta-obiettivi-militari-usa-in-europa-in-caso-di-escalation_be131cad-dada-4264-89aa-ca0cd0c7d6ad.html",
+              "titolo": "La risposta della Nato: 'Iran? Pronti ad affrontare qualsiasi minaccia'",
+              "titolo_it": null,
+              "paese": "Italia",
+              "continente": "Europa",
+              "lingua_originale": "italiano",
+              "live_blog": false
+            },
+            {
+              "testata": "Helsingin Sanomat",
+              "url": "https://www.hs.fi/maailma/art-2000012214777.html",
+              "titolo": "Iranin sota | FT: Iran harkitsee ohjus­iskuja Eurooppaan, kertovat lähteet",
+              "titolo_it": null,
+              "paese": "Finlandia",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Le Figaro",
+              "url": "https://www.lefigaro.fr/international/menace-de-l-iran-contre-l-europe-l-otan-se-tient-pret-a-defendre-l-ensemble-de-ses-allies-20260819",
+              "titolo": "Les Gardiens de la Révolution seraient prêts à frapper l’Europe si Donald Trump choisissait «l’escalade» face à l’Iran",
+              "titolo_it": "I Guardiani della Rivoluzione sarebbero pronti a colpire l'Europa se Donald Trump decidesse l'escalation contro l'Iran",
+              "paese": "Francia",
+              "continente": "Europa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Irish Times",
+              "url": "https://www.irishtimes.com/world/middle-east/2026/08/19/iran-eyes-military-targets-in-europe-if-donald-trump-escalates-war-insiders-say",
+              "titolo": "Iran eyes military targets in Europe if Donald Trump escalates war, insiders say",
+              "titolo_it": "Iran pronto a colpire obiettivi militari in Europa se Trump aggraverà il conflitto, dicono fonti interne",
+              "paese": "Irlanda",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Iran International",
+              "url": "https://www.iranintl.com/202608198515",
+              "titolo": "فایننشال‌تایمز از طرح تهران برای کشاندن دامنه جنگ به اروپا در صورت تشدید تنش‌ها خبر داد",
+              "titolo_it": "Financial Times ha riferito del piano di Teheran per estendere il conflitto in Europa in caso di escalation delle tensioni",
+              "paese": "Iran",
+              "continente": "Asia",
+              "lingua_originale": "farsi",
+              "live_blog": false
+            },
+            {
+              "testata": "Cumhuriyet",
+              "url": "https://www.cumhuriyet.com.tr/dunya/nato-dan-iran-tehdidine-yanit-avrupa-daki-abd-usleri-gundemde-2530567",
+              "titolo": "NATO’dan İran tehdidine yanıt: Avrupa’daki ABD üsleri gündemde",
+              "titolo_it": "NATO risponde alla minaccia iraniana: in discussione le basi Usa in Europa",
+              "paese": "Turchia",
+              "continente": "Asia",
+              "lingua_originale": "turco",
+              "live_blog": false
+            },
+            {
+              "testata": "VnExpress",
+              "url": "https://vnexpress.net/can-cu-my-o-chau-au-co-the-lot-tam-ngam-cua-iran-5110955.html",
+              "titolo": "Căn cứ Mỹ ở châu Âu có thể lọt tầm ngắm của Iran",
+              "titolo_it": null,
+              "paese": "Vietnam",
+              "continente": "Asia",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Infobae",
+              "url": "https://www.infobae.com/america/mundo/2026/08/19/el-regimen-de-iran-planea-atacar-objetivos-militares-de-estados-unidos-en-europa-si-la-guerra-vuelve-a-escalar",
+              "titolo": "El régimen de Irán planea atacar objetivos militares de Estados Unidos en Europa si la guerra vuelve a escalar",
+              "titolo_it": "Il regime iraniano pianifica di attaccare obiettivi militari Usa in Europa se la guerra dovesse risalire",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/mundo/2026/08/ira-avalia-atacar-bases-dos-eua-na-europa-se-trump-ampliar-guerra-diz-jornal.shtml",
+              "titolo": "Irã avalia atacar bases dos EUA na Europa se Trump ampliar guerra, diz jornal",
+              "titolo_it": "Iran valuta attacco alle basi Usa in Europa se Trump espanderà la guerra, dice il giornale",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 6,
+          "convergenza_interna": {
+            "continente": "Europa",
+            "coperte": 9,
+            "totali": 50
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Africa",
+      "temi": [
+        {
+          "id": 55,
+          "titolo": "Liberia accoglie 1.200 deportati Usa",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "La Liberia accetta 1.200 deportati Usa. Le testate africane evidenziano accordi regionali, quelle esterne sottolineano aspetti umanitari e legali.",
+          "confronto": [
+            {
+              "area": "Africa",
+              "sintesi": "Le testate africane presentano l'accordo come parte di una politica migratoria continentale, evidenziando che altri paesi africani hanno accordi simili. Non menzionano compensi economici né criticità legali.",
+              "testate": [
+                "O País",
+                "Premium Times",
+                "Seneweb"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne enfatizzano l'aspetto umanitario e la mancanza di compenso per la Liberia. BBC e Hindustan Times si limitano a confermare il numero, mentre Telesur segnala un vuoto legale per spingere il rimpatrio.",
+              "testate": [
+                "BBC News",
+                "Hindustan Times",
+                "Telesur"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 2,
+            "n_testate": 6,
+            "continenti": [
+              "Africa",
+              "Asia",
+              "Europa",
+              "Sud America"
+            ],
+            "paesi": [
+              "India",
+              "Mozambico",
+              "Nigeria",
+              "Regno Unito",
+              "Senegal",
+              "Venezuela"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 6,
+          "fonti": [
+            {
+              "testata": "O País",
+              "url": "https://opais.co.mz/liberia-aceita-receber-ate-1-200-deportados-dos-estados-unidos",
+              "titolo": "Libéria aceita receber até 1.200 deportados dos Estados Unidos",
+              "titolo_it": "Libéria accetta di accogliere fino a 1.200 deportati dagli Stati Uniti",
+              "paese": "Mozambico",
+              "continente": "Africa",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "Premium Times",
+              "url": "https://www.premiumtimesng.com/foreign/904028-liberia-to-accept-1200-deportees-from-us.html",
+              "titolo": "Liberia to accept 1,200 deportees from US",
+              "titolo_it": "Liberia accetta 1.200 deportati dagli Stati Uniti",
+              "paese": "Nigeria",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Seneweb",
+              "url": "https://www.seneweb.com/fr/news/Afrique/le-liberia-va-accueillir-jusqua-1200-personnes-expulsees-des-etats-unis_n_501852.html",
+              "titolo": "Le Libéria va accueillir jusqu'à 1200 personnes expulsées des Etats Unis",
+              "titolo_it": "La Liberia si appresta ad accogliere fino a 1200 persone espulse dagli Stati Uniti",
+              "paese": "Senegal",
+              "continente": "Africa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+              "titolo": "Liberia agrees to accept 1,200 foreign deportees from the US",
+              "titolo_it": "Liberia accetta di ospitare 1.200 espulsi dagli Stati Uniti",
+              "paese": "Regno Unito",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Telesur",
+              "url": "https://www.telesurtv.net/liberia-1200-deportados-terceros-paises-eeuu",
+              "titolo": "Liberia acepta recibir a 1.200 deportados de terceros países desde Estados Unidos",
+              "titolo_it": "Liberia accetta di ricevere 1.200 deportati di Paesi terzi dagli Stati Uniti",
+              "paese": "Venezuela",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/us-news/liberia-agrees-to-take-1-200-deportees-from-the-united-states-101787082060516.html",
+              "titolo": "Liberia agrees to take 1,200 deportees from the United States",
+              "titolo_it": "Liberia accetta di accogliere 1.200 espulsi dagli Stati Uniti",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 0,
+          "convergenza_interna": {
+            "continente": "Africa",
+            "coperte": 3,
+            "totali": 57
+          }
+        },
+        {
+          "id": 70,
+          "titolo": "Zambia: Rielezione di Hichilema tra critiche e tensioni",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Il presidente zambiano Hakainde Hichilema è stato rieletto con il 60,49% dei voti, ma le elezioni sono state contestate per irregolarità. Le testate africane sottolineano tensioni interne e fragilità istituzionali, mentre quelle esterne evidenziano la posizione strategica del paese tra Usa e Cina e criticano le condizioni dei diritti umani.",
+          "confronto": [
+            {
+              "area": "Africa",
+              "sintesi": "Le testate africane focalizzano sulle tensioni politiche interne, l'arresto di oppositori e la fragilità delle istituzioni elettorali. Si richiede un'indagine indipendente per verificare la validità del risultato, dando per scontata la centralità del contesto regionale.",
+              "testate": [
+                "Jeune Afrique",
+                "Mail & Guardian",
+                "The Africa Report"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne mettono in primo piano la posizione strategica del Zambia nella competizione Usa-Cina per le risorse minerarie e le accuse di violazioni dei diritti umani. Si sottolinea il ruolo del governo nella gestione delle pressioni esterne, con minor attenzione alle dinamiche interne.",
+              "testate": [
+                "Cumhuriyet",
+                "NRC"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 2,
+            "n_testate": 5,
+            "continenti": [
+              "Africa",
+              "Asia",
+              "Europa"
+            ],
+            "paesi": [
+              "Francia",
+              "Paesi Bassi",
+              "Sudafrica",
+              "Turchia"
+            ],
+            "trend": {
+              "agganciato": true,
+              "delta_articoli": 3,
+              "delta_testate": 2,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 6,
+          "fonti": [
+            {
+              "testata": "The Africa Report",
+              "url": "https://www.theafricareport.com/428069/response-to-zambias-election-was-flawed-and-may-need-to-be-rerun",
+              "titolo": "Response to: ‘Zambia’s election was flawed and may need to be rerun’",
+              "titolo_it": "Risposta a: \"Le elezioni in Zambia sono state irregolari e potrebbero dover essere rimosse",
+              "paese": "Francia",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Jeune Afrique",
+              "url": "https://www.jeuneafrique.com/1835715/politique/zambie-hakainde-hichilema-reelu-president-avec-60-des-voix-malgre-des-tensions-inedites",
+              "titolo": "Zambie : Hakainde Hichilema réélu président avec 60 % des voix malgré des tensions inédites",
+              "titolo_it": "Zambia: Hakainde Hichilema rieletto presidente con il 60% delle preferenze nonostante tensioni senza precedenti",
+              "paese": "Francia",
+              "continente": "Africa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "Mail & Guardian",
+              "url": "https://mg.co.za/thought-leader/2026-08-18-how-zambia-lost-the-plot-inside-a-troubled-election",
+              "titolo": "How Zambia lost the plot: Inside a troubled election",
+              "titolo_it": "Come la Zambia ha perso il controllo: dentro le elezioni turbolente",
+              "paese": "Sudafrica",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Cumhuriyet",
+              "url": "https://www.cumhuriyet.com.tr/dunya/zambiya-da-secim-sonrasi-siyasi-baski-hichilema-ikinci-donemine-tartismalarla-basladi-2530537",
+              "titolo": "Zambiya’da seçim sonrası siyasi baskı: Hichilema ikinci dönemine tartışmalarla başladı",
+              "titolo_it": "Pressione politica in Zambia dopo le elezioni: Hichilema inizia il secondo mandato tra polemiche",
+              "paese": "Turchia",
+              "continente": "Asia",
+              "lingua_originale": "turco",
+              "live_blog": false
+            },
+            {
+              "testata": "NRC",
+              "url": "https://www.nrc.nl/nieuws/2026/08/18/met-zijn-herverkiezing-krijgt-de-president-van-zambia-nog-vijf-jaar-om-tussen-washington-en-beijing-te-manoeuvreren-a4934691",
+              "titolo": "Met zijn herverkiezing krijgt de president van Zambia nog vijf jaar om tussen Washington en Beijing te manoeuvreren",
+              "titolo_it": null,
+              "paese": "Paesi Bassi",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 1,
+          "convergenza_interna": {
+            "continente": "Africa",
+            "coperte": 3,
+            "totali": 57
+          }
+        },
+        {
+          "id": 139,
+          "titolo": "Porti africani in corsa: crescita e competizione",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "I porti di Tema (Ghana) e Tanga (Tanzania) registrano miglioramenti infrastrutturali e aumento del traffico container. Le testate africane focalizzano su strategie competitive, mentre il resto del mondo non sembra trattare il tema con rilevanza.",
+          "confronto": [
+            {
+              "area": "Africa",
+              "sintesi": "Le testate africane evidenziano la crescita dei porti di Tema e Tanga, sottolineando la competizione con Abidjan e Lomé, l'efficienza operativa e l'espansione dei servizi. Il focus è su sviluppo interno e posizionamento strategico.",
+              "testate": [
+                "Jeune Afrique",
+                "The Africa Report",
+                "The Citizen"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 1,
+            "n_testate": 3,
+            "continenti": [
+              "Africa"
+            ],
+            "paesi": [
+              "Francia",
+              "Tanzania"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 3,
+          "fonti": [
+            {
+              "testata": "The Africa Report",
+              "url": "https://www.theafricareport.com/427862/ghana-tema-port-sharpens-its-edge-against-abidjan-and-lome",
+              "titolo": "Ghana: Tema Port sharpens its edge against Abidjan and Lomé",
+              "titolo_it": "Ghana: il porto di Tema si rafforza per competere con Abidjan e Lomé",
+              "paese": "Francia",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Jeune Afrique",
+              "url": "https://www.jeuneafrique.com/1834997/economie-entreprises/le-port-de-tema-fourbit-ses-armes-face-a-abidjan-et-lome",
+              "titolo": "Le port de Tema fourbit ses armes face à Abidjan et Lomé",
+              "titolo_it": "Il porto di Tema si rafforza di fronte ad Abidjan e Lomé",
+              "paese": "Francia",
+              "continente": "Africa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Citizen",
+              "url": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-tanga-port-upgrades-trigger-capacity-boom-dry-port-push-5562218",
+              "titolo": "Tanzania’s Tanga Port upgrades trigger capacity boom, dry port push",
+              "titolo_it": "L’espansione del porto di Tanga in Tanzania spinge il boom della capacità e la costruzione di un dry port",
+              "paese": "Tanzania",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 0,
+          "convergenza_interna": {
+            "continente": "Africa",
+            "coperte": 3,
+            "totali": 57
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Asia",
+      "temi": [
+        {
+          "id": 10,
+          "titolo": "Emirati e Iran: sospesa la collaborazione commerciale a causa delle tensioni regionali",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Gli Emirati Arabi Uniti hanno sospeso il commercio con l'Iran dopo attacchi missilistici, mentre le testate asiatiche enfatizzano le minacce dirette e le dinamiche regionali. La stampa internazionale collega la mossa a pressioni statunitensi e all'isolamento economico di Teheran.",
+          "confronto": [
+            {
+              "area": "Asia",
+              "sintesi": "Le testate asiatiche focalizzano su minacce missilistiche dirette agli Emirati, avvertimenti all'assistenza Usa e escalation regionale. Si sottolinea il legame tra sicurezza nazionale e decisioni economiche, con un'attenzione a dinamiche locali e a ruoli dei paesi del Golfo.",
+              "testate": [
+                "Afghanistan International",
+                "Al Jazeera",
+                "Chosun Ilbo",
+                "Daily Sabah",
+                "Hindustan Times",
+                "South China Morning Post",
+                "The National"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "La stampa esterna collega la sospensione commerciale alle pressioni Usa per isolare l'Iran, menzionando Trump e sanzioni internazionali. Si minimizza il ruolo delle minacce dirette, enfatizzando l'aspetto economico e geopolitico globale.",
+              "testate": [
+                "El País",
+                "Infobae",
+                "La Nación (Argentina)",
+                "Le Devoir",
+                "O Globo",
+                "The Globe and Mail",
+                "The New York Times",
+                "The Washington Post"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 8,
+            "n_testate": 15,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Afghanistan",
+              "Argentina",
+              "Brasile",
+              "Canada",
+              "Cina",
+              "Corea del Sud",
+              "Emirati Arabi Uniti",
+              "India",
+              "Qatar",
+              "Spagna",
+              "Stati Uniti",
+              "Turchia"
+            ],
+            "trend": {
+              "agganciato": true,
+              "delta_articoli": 17,
+              "delta_testate": 11,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 21,
+          "fonti": [
+            {
+              "testata": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/middle-east/article/3364576/iran-warns-gulf-nations-against-helping-us-uae-halts-trade-ties?utm_source=rss_feed",
+              "titolo": "Iran warns Gulf nations against helping US as UAE halts trade ties",
+              "titolo_it": "Iran avverte i Paesi del Golfo di non aiutare gli Usa mentre gli Emirati sospendono i rapporti commerciali",
+              "paese": "Cina",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The National",
+              "url": "https://www.thenationalnews.com/business/markets/2026/08/19/manus-on-markets-uae-halts-trade-and-financial-transactions-with-iran",
+              "titolo": "Manus on Markets: UAE halts trade and financial transactions with Iran",
+              "titolo_it": "Manus sui Mercati: gli Emirati Arabi Uniti sospendono commercio e transazioni finanziarie con l'Iran",
+              "paese": "Emirati Arabi Uniti",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-uae-dubai-abu-dhabi-news-missile-alert-threat-donald-trump-oman-strait-of-hormuz-deal-101787104323572.html",
+              "titolo": "US-Iran war LIVE: Iran warns Gulf nations against helping US military after UAE halts trade with Tehran",
+              "titolo_it": "Guerra Usa-Iran in diretta: l'Iran avverte i Paesi del Golfo di non aiutare la milizia Usa dopo che gli Emirati hanno sospeso il commercio con Teheran",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": true
+            },
+            {
+              "testata": "Le Devoir",
+              "url": "https://www.ledevoir.com/monde/moyen-orient/1002620/iran-met-garde-pays-golfe-contre-toute-aide-etats-unis",
+              "titolo": "L’Iran met en garde les pays du Golfe contre toute aide aux États-Unis",
+              "titolo_it": "L’Iran met in guardia i Paesi del Golfo contro ogni aiuto agli Stati Uniti",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/world/article-us-iran-strikes-uae-trade",
+              "titolo": "UAE suspends trade with Iran after coming under renewed fire, adding economic pressure",
+              "titolo_it": "Emirati Arabi sospendono il commercio con l'Iran dopo nuove tensioni, aggiungendo pressione economica",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The New York Times",
+              "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+              "titolo": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
+              "titolo_it": "Emirati Arabi annunciano la sospensione del commercio con l'Iran nel pieno dello sforzo di Trump per isolare Teheran",
+              "paese": "Stati Uniti",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Infobae",
+              "url": "https://www.infobae.com/america/mundo/2026/08/19/el-embargo-de-emiratos-arabes-unidos-podria-cerrarle-a-iran-la-principal-via-de-escape-para-su-economia",
+              "titolo": "El embargo de Emiratos Árabes Unidos podría cerrarle a Irán la principal vía de escape para su economía",
+              "titolo_it": "L'embargo degli Emirati Arabi Uniti potrebbe chiudere a Iran la principale via di uscita per la sua economia",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "La Nación (Argentina)",
+              "url": "https://www.lanacion.com.ar/el-mundo/emiratos-arabes-unidos-suspende-sus-vinculos-comerciales-con-iran-y-teheran-amenaza-a-los-aliados-nid19082026",
+              "titolo": "Emiratos Árabes Unidos suspende sus vínculos comerciales con Irán y Teherán amenaza a los aliados norteamericanos del Golfo",
+              "titolo_it": "Emirati Arabi Uniti sospendono i rapporti commerciali con l'Iran e Teheran minaccia gli alleati nordamericani del Golfo",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "O Globo",
+              "url": "https://oglobo.globo.com/mundo/noticia/2026/08/19/emirados-arabes-unidos-suspendem-comercio-com-o-ira-que-ameaca-paises-do-golfo-que-ajudarem-os-eua.ghtml",
+              "titolo": "Emirados Árabes Unidos suspendem comércio com o Irã, que ameaça países do Golfo que ajudarem os EUA",
+              "titolo_it": "Emirati Arabi Uniti sospendono commercio con l'Iran, che minaccia Paesi del Golfo che aiuteranno gli Usa",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "El País",
+              "url": "https://elpais.com/internacional/2026-08-19/el-embargo-financiero-de-emiratos-a-iran-vuelve-a-tensar-la-relacion-entre-ambos-paises.html",
+              "titolo": "El embargo financiero de Emiratos a Irán vuelve a tensar la relación entre ambos países",
+              "titolo_it": "L'embargo finanziario degli Emirati sull'Iran rinvigorisce la tensione tra i due paesi",
+              "paese": "Spagna",
+              "continente": "Europa",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 11,
+          "convergenza_interna": {
+            "continente": "Asia",
+            "coperte": 7,
+            "totali": 56
+          }
+        },
+        {
+          "id": 13,
+          "titolo": "Israele colpisce base siriana: tensioni con Turchia e condanne internazionali",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Israele ha bombardato una base aerea in Siria per contrastare la presenza turca, scatenando condanne internazionali. Le testate asiatiche enfatizzano l'avvertimento a Ankara, mentre quelle esterne sottolineano l'escalation e i rischi regionali.",
+          "confronto": [
+            {
+              "area": "Asia",
+              "sintesi": "Le testate asiatiche mettono al centro l'intento israeliano di bloccare la Turchia in Siria, con un focus su minacce regionali e dinamiche interne. Si sottolinea il ruolo preventivo di Israele e si evita enfatizzare le condanne esterne, privilegiando la prospettiva di stabilità regionale.",
+              "testate": [
+                "Cumhuriyet",
+                "Daily Sabah",
+                "Dawn",
+                "Tehran Times",
+                "The Jerusalem Post",
+                "The National"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le testate esterne sottolineano l'escalation inutile e i rischi di conflitto diretto, con un focus su condanne internazionali e critiche alla mancanza di giustificazioni ufficiali. Si trascura il contesto regionale specifico, privilegiando l'analisi geopolitica a distanza.",
+              "testate": [
+                "BBC News",
+                "Dagens Nyheter",
+                "Deník N",
+                "Frankfurter Allgemeine Zeitung",
+                "Infobae",
+                "O Globo",
+                "TASS",
+                "Telesur"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 6,
+            "n_testate": 14,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Brasile",
+              "Emirati Arabi Uniti",
+              "Germania",
+              "Iran",
+              "Israele",
+              "Pakistan",
+              "Regno Unito",
+              "Repubblica Ceca",
+              "Russia",
+              "Svezia",
+              "Turchia",
+              "Venezuela"
+            ],
+            "trend": {
+              "agganciato": true,
+              "delta_articoli": 17,
+              "delta_testate": 12,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 20,
+          "fonti": [
+            {
+              "testata": "The Jerusalem Post",
+              "url": "https://www.jpost.com/israel-news/defense-news/article-906018",
+              "titolo": "Israel struck Syria to prevent Turkey from establishing in the country, fmr. IDF Navy chief says",
+              "titolo_it": "Israele ha colpito la Siria per impedire alla Turchia di stabilirsi nel paese, dice ex comandante della Marina dell'IDF",
+              "paese": "Israele",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Dawn",
+              "url": "https://www.dawn.com/news/2023864/pakistan-condemns-unprovoked-israeli-attack-on-syria-air-base",
+              "titolo": "Pakistan condemns ‘unprovoked’ Israeli attack on Syria air base",
+              "titolo_it": "Pakistan condanna l'attacco israeliano \"non provocato\" sulla base aerea siriana",
+              "paese": "Pakistan",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Cumhuriyet",
+              "url": "https://www.cumhuriyet.com.tr/dunya/tom-barrack-turkiye-israil-arasinda-catisma-riski-var-2530524",
+              "titolo": "Tom Barrack: Türkiye-İsrail arasında çatışma riski var",
+              "titolo_it": "Tom Barrack: c'è rischio di conflitto tra Turchia e Israele",
+              "paese": "Turchia",
+              "continente": "Asia",
+              "lingua_originale": "turco",
+              "live_blog": false
+            },
+            {
+              "testata": "Frankfurter Allgemeine Zeitung",
+              "url": "https://www.faz.net/aktuell/politik/ausland/angriffe-israels-in-syrien-als-botschaft-an-die-tuerkei-accg-201139613.html",
+              "titolo": "Israelische Luftangriffe: Eine Botschaft, die weit über Syrien hinausgeht",
+              "titolo_it": "Colpi aerei israeliani: un messaggio che va ben oltre la Siria",
+              "paese": "Germania",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "Deník N",
+              "url": "https://denikn.cz/2159258/staronovy-stret-na-blizkem-vychode-bubla-proc-izrael-bombarduje-zakladnu-v-syrii",
+              "titolo": "Staronový střet na Blízkém východě bublá. Proč Izrael bombarduje základnu v Sýrii?",
+              "titolo_it": null,
+              "paese": "Repubblica Ceca",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "TASS",
+              "url": "https://tass.com/world/2175221",
+              "titolo": "Strike on Abu-Duhur could provoke military clash between Israel, Turkey, Syria — US envoy",
+              "titolo_it": "Colpo su Abu-Duhur potrebbe provocare un confronto militare tra Israele, Turchia e Siria — inviato Usa",
+              "paese": "Russia",
+              "continente": "Europa",
+              "lingua_originale": "russo",
+              "live_blog": false
+            },
+            {
+              "testata": "O Globo",
+              "url": "https://oglobo.globo.com/blogs/guga-chacra/post/2026/08/israel-bombardeia-a-siria-para-ameacar-a-turquia.ghtml",
+              "titolo": "Israel bombardeia a Síria para ameaçar a Turquia?",
+              "titolo_it": "Israele bombardezia la Siria per minacciare la Turchia?",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "Telesur",
+              "url": "https://www.telesurtv.net/israel-bombardea-siria-violacion-territorial",
+              "titolo": "Israel bombardea zonas de Siria mientras Damasco denuncia violación territorial y escalada regional",
+              "titolo_it": "Israele bombardea zone della Siria mentre Damasco denuncia violazione del territorio e escalation regionale",
+              "paese": "Venezuela",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Infobae",
+              "url": "https://www.infobae.com/america/mundo/2026/08/19/israel-acuso-a-siria-de-poner-en-riesgo-su-seguridad-al-permitir-la-presencia-militar-de-turquia-en-una-base-cerca-de-alepo",
+              "titolo": "Israel acusó a Siria de poner en riesgo su seguridad al permitir la presencia militar de Turquía en una base cerca de Alepo",
+              "titolo_it": "Israele accusa la Siria di mettere a rischio la sua sicurezza permettendo la presenza militare della Turchia in una base vicino ad Aleppo",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 11,
+          "convergenza_interna": {
+            "continente": "Asia",
+            "coperte": 6,
+            "totali": 56
+          }
+        },
+        {
+          "id": 19,
+          "titolo": "Pakistan sfida la Corte Suprema su Imran Khan",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Il governo pakistano contesta un ordine giudiziario per il trasferimento dell'ex premier Imran Khan in un ospedale privato. Le testate asiatiche evidenziano la tensione politica interna, mentre il resto del mondo non ne parla, limitandosi a titoli neutri.",
+          "confronto": [
+            {
+              "area": "Asia",
+              "sintesi": "Le testate asiatiche focalizzano sul conflitto tra governo e giudicatura, sottolineando la natura politica della detenzione di Khan e le implicazioni sociali. Si evidenzia la discriminazione percepita nel trasferimento in una struttura privata, ignorando contesti legali specifici.",
+              "testate": [
+                "Al Jazeera",
+                "Dawn",
+                "Hindustan Times",
+                "South China Morning Post",
+                "The Kathmandu Post",
+                "The National"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 4,
+            "n_testate": 6,
+            "continenti": [
+              "Asia"
+            ],
+            "paesi": [
+              "Cina",
+              "Emirati Arabi Uniti",
+              "India",
+              "Nepal",
+              "Pakistan",
+              "Qatar"
+            ],
+            "trend": {
+              "agganciato": false,
+              "rispetto_a": "2026-08-17"
+            }
+          },
+          "n_articoli": 9,
+          "fonti": [
+            {
+              "testata": "South China Morning Post",
+              "url": "https://www.scmp.com/news/asia/south-asia/article/3364588/pakistans-government-challenges-court-order-imran-khan-hospital-move?utm_source=rss_feed",
+              "titolo": "Pakistan’s government challenges court order on Imran Khan hospital move",
+              "titolo_it": "Il governo del Pakistan contesta l'ordinanza della corte sull'ospedale di Imran Khan",
+              "paese": "Cina",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/pakistani-govt-to-challenge-sc-order-on-jailed-ex-pm-imran-khans-private-hospital-move-101787147232549.html",
+              "titolo": "Pakistani govt to challenge SC order on jailed ex-PM Imran Khan's private hospital move",
+              "titolo_it": "Il governo pakistano sfiderà l'ordine della Corte suprema sul trasferimento in un ospedale privato dell'ex premier Imran Khan detenuto in carcere",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Kathmandu Post",
+              "url": "https://kathmandupost.com/world/2026/08/18/pakistan-top-court-orders-ex-pm-imran-khan-be-moved-to-hospital-from-jail-his-party-says",
+              "titolo": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail, his party says",
+              "titolo_it": "Corte suprema del Pakistan ordina di trasferire il'ex premier Imran Khan dall'ufficio di detenzione all'ospedale, lo dice il suo partito.",
+              "paese": "Nepal",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 6,
+          "convergenza_interna": {
+            "continente": "Asia",
+            "coperte": 6,
+            "totali": 56
+          }
+        }
+      ]
+    }
+  ],
+  "degrado": [
+    "parole non italiane da rivedere nei testi generati: Abidjan, Abu, Akane, Angie, Ashley, Barrack, Bolsonaro, Brian, Canadà, Cerimedo, Donald, Duhur, Federal, Federov, Fedorov, Hakainde, Hamas, Hayden, Hichilema, Hickerson"
+  ]
+}
