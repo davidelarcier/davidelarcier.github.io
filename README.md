@@ -1,6 +1,6 @@
 # Il Giornale dei Giornali — lettore
 
-La stampa mondiale certificata, condensata in un'edizione quotidiana in italiano.
+La stampa "mondiale", condensata in un'edizione quotidiana in italiano.
 Il valore non è l'aggregazione ma il **confronto**: come lo stesso tema viene
 raccontato in Italia, in Europa e negli altri continenti.
 
@@ -27,3 +27,6 @@ npm run preview  # serve il build
 
 Vincolo legale per costruzione: si mostra sempre e solo **titolo + nostra
 sintesi + link alla fonte**, mai il testo integrale degli articoli.
+
+Per i termini d'uso completi, i limiti di responsabilità e le informazioni su
+fonti/diritto d'autore, vedi [NOTE-LEGALI.md](./NOTE-LEGALI.md).
