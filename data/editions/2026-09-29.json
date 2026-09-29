@@ -1,0 +1,2918 @@
+{
+  "data": "2026-09-29",
+  "generato": "2026-09-29T02:47:34",
+  "temi": [
+    {
+      "id": 1,
+      "titolo": "Presunto attentato a base aerea britannica: cinque sospettati rilasciati su cauzione",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Cinque cittadini britannici ventenni di Londra sono stati arrestati e poi rilasciati su cauzione dopo essere stati fermati nei pressi della base aerea RAF Fairford, utilizzata dagli Stati Uniti per attacchi contro l'Iran. La segnalazione di una contadina ha portato alla scoperta di tre furgoni con materiale sospetto. Le indagini proseguono per accertare eventuali collegamenti con l'Iran, che nega ogni coinvolgimento. Il presidente Trump si è detto sorpreso dal rilascio.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Copertura centrata sul rilascio su cauzione e sul ruolo della contadina che ha allertato la polizia. Si segnala la convocazione di un vertice d'emergenza da parte del premier britannico e la reazione di sorpresa di Trump. Alcune testate menzionano l'ipotesi di un collegamento con uno Stato straniero e l'avvertimento del ministro della difesa su possibili minacce iraniane.",
+          "testate": [
+            "Dagens Nyheter",
+            "De Standaard",
+            "Der Spiegel",
+            "Der Standard",
+            "Die Presse",
+            "El País",
+            "Helsingin Sanomat",
+            "LRT",
+            "Le Monde",
+            "NRC",
+            "Neue Zürcher Zeitung",
+            "Politiken",
+            "Svenska Dagbladet",
+            "Telex",
+            "The Guardian",
+            "The Irish Times"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "L'attenzione si concentra sull'ipotesi di un collegamento con l'Iran, che nega categoricamente ogni coinvolgimento. La base è descritta come utilizzata dai bombardieri americani durante il conflitto con Teheran. Si evidenzia il rilascio su cauzione e le severe restrizioni imposte ai sospettati, mentre il caso solleva interrogativi sulla sicurezza britannica.",
+          "testate": [
+            "Al Jazeera",
+            "Chosun Ilbo",
+            "Daily Sabah",
+            "Dawn",
+            "Hindustan Times",
+            "Iran International",
+            "South China Morning Post",
+            "The National",
+            "The Times of Israel"
+          ]
+        },
+        {
+          "area": "Africa",
+          "sintesi": "Copertura essenziale: cinque uomini interrogati dalla polizia britannica per reati legati a esplosivi e terrorismo dopo il fermo vicino a una base aerea utilizzata dagli Stati Uniti per colpire l'Iran.",
+          "testate": [
+            "Daily Maverick"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Si indaga su un possibile coinvolgimento di Iran o Russia. Il rilascio su cauzione viene interpretato come segno che i sospettati non fossero considerati una minaccia imminente. Si descrive l'impatto sui villaggi circostanti la base e si riporta la negazione categorica di Teheran.",
+          "testate": [
+            "El Universal",
+            "La Jornada",
+            "La Nación (Costa Rica)",
+            "NPR",
+            "The Globe and Mail",
+            "The New York Times",
+            "The Washington Post"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Si sottolinea la negazione di Teheran, che aveva indicato l'installazione come obiettivo legittimo ma respinge le accuse tramite la propria ambasciata. I sospettati sono identificati come cittadini britannici di età compresa tra i 23 e i 25 anni, residenti a Londra.",
+          "testate": [
+            "El Nacional",
+            "Infobae",
+            "La Diaria"
+          ]
+        },
+        {
+          "area": "Oceania",
+          "sintesi": "Copertura sintetica: cinque sospettati accusati di aver pianificato un attentato terroristico contro una base aerea britannica sono stati rilasciati su cauzione. Si menziona l'esame del possibile coinvolgimento di uno Stato straniero.",
+          "testate": [
+            "FBC News",
+            "Sydney Morning Herald"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 16,
+        "n_testate": 38,
+        "continenti": [
+          "Africa",
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Oceania",
+          "Sud America"
+        ],
+        "paesi": [
+          "Argentina",
+          "Australia",
+          "Austria",
+          "Belgio",
+          "Canada",
+          "Cina",
+          "Corea del Sud",
+          "Costa Rica",
+          "Danimarca",
+          "Emirati Arabi Uniti",
+          "Figi",
+          "Finlandia",
+          "Francia",
+          "Germania",
+          "India",
+          "Iran",
+          "Irlanda",
+          "Israele",
+          "Lituania",
+          "Messico",
+          "Paesi Bassi",
+          "Pakistan",
+          "Qatar",
+          "Regno Unito",
+          "Spagna",
+          "Stati Uniti",
+          "Sudafrica",
+          "Svezia",
+          "Svizzera",
+          "Turchia",
+          "Ungheria",
+          "Uruguay",
+          "Venezuela"
+        ],
+        "trend": null
+      },
+      "n_articoli": 51,
+      "fonti": [
+        {
+          "testata": "Der Standard",
+          "url": "https://www.derstandard.at/story/3000000341676/nach-vorfall-bei-milit228rbasis-britische-polizei-befragt-f252nf-m228nner?ref=rss",
+          "titolo": "Terrorverdächtige nach Vorfall bei Militärbasis in Großbritannien wieder freigelassen",
+          "titolo_it": "Sospettato di terrorismo rilasciato dopo incidente presso base militare in Gran Bretagna",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "Die Presse",
+          "url": "https://www.diepresse.com/41302942/fuenf-verdaechtige-kommen-aus-london-was-geschah-auf-dem-britischen-luftwaffenstuetzpunkt-raf-fairford",
+          "titolo": "Fünf Verdächtige kommen aus London: Was geschah auf dem britischen Luftwaffenstützpunkt RAF Fairford? [premium]",
+          "titolo_it": "Cinque sospettati da Londra: cosa è successo alla base aerea britannica RAF Fairford?",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "De Standaard",
+          "url": "https://www.standaard.be/buitenland/vijf-verdachten-van-verijdelde-terreurdaad-bij-legerbasis-fairford-vrij-op-borgtocht/162263355.html",
+          "titolo": "Vijf verdachten van verijdelde terreurdaad bij legerbasis Fairford  vrij op borgtocht",
+          "titolo_it": null,
+          "paese": "Belgio",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/europe/article/3369082/uk-investigates-if-arrests-near-us-run-base-prevented-iran-linked-attack?utm_source=rss_feed",
+          "titolo": "5 men arrested near US-run airbase released on bail as UK police investigate link to Iran",
+          "titolo_it": "Cinque uomini arrestati vicino a una base aerea statunitense rilasciati su cauzione mentre la polizia britannica indaga su un possibile legame con l'Iran",
+          "paese": "Cina",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Chosun Ilbo",
+          "url": "https://www.chosun.com/international/europe/2026/09/28/AQLWW5GPDZEC5BSXPV63EWZUUI",
+          "titolo": "美 B-1B 뜨는 英 공군기지... 인근서 테러 준비하던 5명 체포",
+          "titolo_it": "B-1B americano in volo sulla base aerea britannica: arrestati cinque uomini in preparazione di un attentato nelle vicinanze",
+          "paese": "Corea del Sud",
+          "continente": "Asia",
+          "lingua_originale": "coreano",
+          "live_blog": false
+        },
+        {
+          "testata": "The National",
+          "url": "https://www.thenationalnews.com/news/uk/2026/09/28/farmer-who-raised-alarm-at-fairford-airbase-says-civilian-staff-had-been-withdrawn",
+          "titolo": "Five arrests at airbase used by US military raises questions over UK security",
+          "titolo_it": "Cinque arresti nella base aerea usata dall'esercito USA sollevano interrogativi sulla sicurezza del Regno Unito",
+          "paese": "Emirati Arabi Uniti",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/world/article-uk-military-base-men-arrested-british-nationals",
+          "titolo": "Men suspected of carrying explosives near U.K. military base released on bail",
+          "titolo_it": "Uomo sospettato di trasportare esplosivi vicino a una base militare britannica rilasciato con cauzione",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "La Nación (Costa Rica)",
+          "url": "https://www.nacion.com/el-mundo/iran-rechaza-categoricamente-estar-implicado-en-un/64OHURYT5RFO5BX2CJSQSB2DEE/story",
+          "titolo": "Irán rechaza ‘categóricamente’ estar implicado en un plan de ataque terrorista a base militar en Inglaterra",
+          "titolo_it": "L'Iran respinge \"categoricamente\" l'accusa di essere implicato in un piano di attacco terroristico alla base militare in Inghilterra",
+          "paese": "Costa Rica",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "El Universal",
+          "url": "https://www.eluniversal.com.mx/mundo/liberan-bajo-fianza-a-5-detenidos-por-plan-de-ataque-contra-base-militar-britanica-iran-niega-estar-implicado",
+          "titolo": "Liberan bajo fianza a 5 detenidos por plan de ataque contra base militar británica; Irán niega estar implicado",
+          "titolo_it": "Cinque arrestati per un piano di attacco alla base militare britannica rilasciati su cauzione; l'Iran nega ogni coinvolgimento",
+          "paese": "Messico",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/09/28/liberaron-bajo-fianza-a-los-cinco-detenidos-cerca-de-la-base-aerea-raf-fairford-pero-la-investigacion-sigue-abierta",
+          "titolo": "El Reino Unido liberó bajo fianza a los cinco detenidos con explosivos cerca de la base aérea RAF Fairford",
+          "titolo_it": "Regno Unito, cinque arrestati con esplosivi vicino alla base aerea di RAF Fairford rilasciati su cauzione",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "La Diaria",
+          "url": "https://ladiaria.com.uy/mundo/articulo/2026/9/autoridades-britanicas-investigan-un-supuesto-atentado-fallido-contra-una-base-aerea-utilizada-por-washington",
+          "titolo": "Autoridades británicas investigan un supuesto atentado fallido contra una base aérea utilizada por Washington",
+          "titolo_it": "Autorità britanniche indagano su un presunto attentato fallito contro una base aerea usata da Washington",
+          "paese": "Uruguay",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "El Nacional",
+          "url": "https://www.elnacional.com/2026/09/iran-niega-relacion-con-plan-terrorista-contra-base-de-inglaterra-los-detenidos-son-britanicos",
+          "titolo": "Irán niega relación con plan terrorista contra base de Inglaterra: los detenidos son británicos",
+          "titolo_it": "L'Iran nega ogni legame con il piano terroristico contro la base britannica: gli arrestati sono cittadini britannici",
+          "paese": "Venezuela",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Sydney Morning Herald",
+          "url": "https://www.smh.com.au/national/uk-terror-suspects-released-on-bail-20260929-p6118s.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "titolo": "UK terror suspects released on bail",
+          "titolo_it": "Sospettati di terrorismo nel Regno Unito rilasciati su cauzione",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "FBC News",
+          "url": "https://www.fbcnews.com.fj/world/uk-examines-foreign-state-involvement-in-suspected-airbase-plot-releases-suspects",
+          "titolo": "UK examines foreign state involvement in suspected airbase plot, releases suspects",
+          "titolo_it": "Regno Unito indaga su presunta trama contro base aerea con coinvolgimento di stati esteri, rilascia gli indagati",
+          "paese": "Figi",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Daily Maverick",
+          "url": "https://www.dailymaverick.co.za/article/2026-09-28-uk-counter-terror-police-question-five-men-held-at-airbase-used-by-us-to-attack-iran",
+          "titolo": "UK counter-terror police question five men held at airbase used by US to attack Iran",
+          "titolo_it": "Polizia antiterrorismo britannica interroga cinque uomini trattenuti nella base aerea usata dagli Usa per colpire l'Iran",
+          "paese": "Sudafrica",
+          "continente": "Africa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 36
+    },
+    {
+      "id": 2,
+      "titolo": "Starship raggiunge per la prima volta l'orbita terrestre",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "La Starship di SpaceX ha completato il primo volo orbitale durante il quattordicesimo test, lanciato dal Texas. Il veicolo ha dispiegato 26 satelliti Starlink V3, il suo primo carico operativo. La missione è stata accorciata a causa di un malfunzionamento del motore, con il velivolo che ha concluso il volo nell'Oceano Pacifico dopo circa tre ore anziché le dieci previste. Il traguardo è considerato fondamentale per le future missioni verso la Luna e Marte.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Le testate europee sottolineano il carattere storico del primo volo orbitale e il malfunzionamento del motore che ha costretto al rientro anticipato. Alcuni giornali evidenziano le implicazioni commerciali per Starlink e il rischio di dipendenza da Falcon 9, altri il legame con i programmi lunari e marziani. La copertura è prevalentemente positiva ma cauta sulle capacità ancora da dimostrare.",
+          "testate": [
+            "BBC News",
+            "De Standaard",
+            "Der Spiegel",
+            "Der Standard",
+            "ERR",
+            "El País",
+            "Frankfurter Allgemeine Zeitung",
+            "Gazeta Wyborcza",
+            "LRT",
+            "Le Monde",
+            "Meduza",
+            "NRC",
+            "Neue Zürcher Zeitung",
+            "Telex",
+            "The Guardian",
+            "The Irish Times"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "La copertura italiana si concentra sul rientro anticipato del vettore dopo il rilascio dei 26 satelliti Starlink, definendo l'evento il primo test orbitale del sistema. Il tono è sobrio e fattuale, senza particolari enfasi editoriali.",
+          "testate": [
+            "ANSA"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Le testate asiatiche mettono in risalto il superamento del guasto ai motori Raptor e il successo dell'inserimento orbitale nonostante l'imprevisto. Vengono citati i dettagli tecnici del dispiegamento dei satelliti e il collegamento con il programma Artemis della Nasa. Il tono è di riconoscimento del traguardo tecnologico.",
+          "testate": [
+            "Chosun Ilbo",
+            "Cumhuriyet",
+            "Daily Sabah",
+            "Dawn",
+            "Hindustan Times",
+            "South China Morning Post"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "La stampa nordamericana inquadra il volo come passaggio cruciale per la certificazione del veicolo e per i piani della Nasa di portare esseri umani sulla Luna. Vengono menzionati i parametri della missione, tra cui l'altitudine di circa 275 chilometri e il rientro anticipato nell'Oceano Pacifico.",
+          "testate": [
+            "14ymedio",
+            "El Universal",
+            "NPR",
+            "The Globe and Mail"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Le testate sudamericane enfatizzano il carattere storico del traguardo e il ruolo della Starship nel programma Artemis. Una testate venezuelana riporta l'evento in chiave di anticipazione, descrivendo l'obiettivo del dispiegamento dei satelliti Starlink una volta raggiunta l'orbita.",
+          "testate": [
+            "El Comercio",
+            "El Nacional",
+            "La República"
+          ]
+        },
+        {
+          "area": "Oceania",
+          "sintesi": "La copertura australiana è sintetica e si limita a segnalare il raggiungimento dell'orbita nonostante i problemi ai motori durante il lancio, senza approfondimenti aggiuntivi.",
+          "testate": [
+            "Sydney Morning Herald"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 12,
+        "n_testate": 31,
+        "continenti": [
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Oceania",
+          "Sud America"
+        ],
+        "paesi": [
+          "Australia",
+          "Austria",
+          "Belgio",
+          "Canada",
+          "Cina",
+          "Corea del Sud",
+          "Cuba",
+          "Estonia",
+          "Francia",
+          "Germania",
+          "India",
+          "Irlanda",
+          "Italia",
+          "Lituania",
+          "Messico",
+          "Paesi Bassi",
+          "Pakistan",
+          "Perù",
+          "Polonia",
+          "Regno Unito",
+          "Russia",
+          "Spagna",
+          "Stati Uniti",
+          "Svizzera",
+          "Turchia",
+          "Ungheria",
+          "Venezuela"
+        ],
+        "trend": null
+      },
+      "n_articoli": 32,
+      "fonti": [
+        {
+          "testata": "ANSA",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/09/28/lanciato-starship-primo-test-in-orbita-_59b5d2c0-d231-47e1-b65e-883c15ed375b.html",
+          "titolo": "Per Starship primo test in orbita con rientro anticipato",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "Der Standard",
+          "url": "https://www.derstandard.at/story/3000000341634/starship-die-weltgroesste-rakete-soll-heute-erstmals-den-orbit-erreichen?ref=rss",
+          "titolo": "Starship erreichte nach Triebwerksproblem erstmals Erdorbit",
+          "titolo_it": "Starship raggiunge per la prima volta l'orbita terrestre nonostante un problema al motore",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "De Standaard",
+          "url": "https://www.standaard.be/natuur-en-wetenschap/vuurdoop-van-megaraket-starship-van-spacex-aanzienlijk-ingekort/162268983.html",
+          "titolo": "Vuurdoop van megaraket Starship van SpaceX aanzienlijk ingekort",
+          "titolo_it": null,
+          "paese": "Belgio",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "ERR",
+          "url": "https://www.err.ee/1610150764/spacex-saatis-oma-raketi-starship-esmakordselt-orbiidile",
+          "titolo": "SpaceX saatis oma raketi Starship esmakordselt orbiidile",
+          "titolo_it": "SpaceX porta per la prima volta il proprio razzo Starship in orbita",
+          "paese": "Estonia",
+          "continente": "Europa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3369106/spacexs-starship-rocket-reaches-orbit-first-time?utm_source=rss_feed",
+          "titolo": "SpaceX’s supersized Starship launches into orbit for first time but flight ends early",
+          "titolo_it": "La Starship superdimensionata di SpaceX raggiunge l'orbita per la prima volta, ma il volo si conclude in anticipo",
+          "paese": "Cina",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Chosun Ilbo",
+          "url": "https://www.chosun.com/international/international_general/2026/09/29/GI3GEOBTMVRDGMBVGJQWGYJTHA",
+          "titolo": "스페이스X 우주선 ‘스타십’, 엔진 결함에도 첫 지구 궤도 진입 성공",
+          "titolo_it": "SpaceX: la Starship raggiunge per la prima volta l'orbita terrestre nonostante un guasto al motore",
+          "paese": "Corea del Sud",
+          "continente": "Asia",
+          "lingua_originale": "coreano",
+          "live_blog": false
+        },
+        {
+          "testata": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/us-news/spacexs-starship-reaches-orbit-after-engine-issue-to-deploy-26-starlink-satellites-101790602088522.html",
+          "titolo": "SpaceX's Starship reaches orbit after engine issue, to deploy 26 Starlink satellites",
+          "titolo_it": "Starship di SpaceX raggiunge l'orbita nonostante un problema ai motori, pronta a rilasciare 26 satelliti Starlink",
+          "paese": "India",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/world/article-spacex-starship-launch-orbit-first-time",
+          "titolo": "SpaceX’s supersized Starship launches into orbit for the first time",
+          "titolo_it": "La Starship ingrandita di SpaceX raggiunge per la prima volta l'orbita",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "14ymedio",
+          "url": "https://www.14ymedio.com/cienciaytecnologia/spacex-logra-hito-poner-orbita_1_1131298.html",
+          "titolo": "SpaceX logra el hito de poner en la órbita terrestre su enorme Starship",
+          "titolo_it": "SpaceX raggiunge il traguardo: la Starship, il suo enorme razzo, entra in orbita terrestre",
+          "paese": "Cuba",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "El Universal",
+          "url": "https://www.eluniversal.com.mx/mundo/videos-spacex-coloca-starship-en-orbita-por-primera-vez-inicia-despliegue-de-satelites-de-internet",
+          "titolo": "VIDEOS: SpaceX coloca Starship en órbita por primera vez; inicia despliegue de satélites de internet",
+          "titolo_it": "Video: SpaceX porta Starship in orbita per la prima volta e avvia il dispiegamento dei satelliti per l'Internet",
+          "paese": "Messico",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "El Comercio",
+          "url": "https://elcomercio.pe/videos/global/spacex-logra-historico-vuelo-de-prueba-con-starship-hacia-la-luna-y-marte-nnav-agafp-video-noticia",
+          "titolo": "Starship de Elon Musk alcanza la órbita terrestre por primera vez",
+          "titolo_it": "Lo Starship di Elon Musk raggiunge per la prima volta l'orbita terrestre",
+          "paese": "Perù",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "El Nacional",
+          "url": "https://www.elnacional.com/2026/09/spacex-suena-con-llegar-a-la-orbita-terrestre-con-starship",
+          "titolo": "SpaceX sueña con llegar a la órbita terrestre con Starship",
+          "titolo_it": "SpaceX sogna di raggiungere l'orbita terrestre con Starship",
+          "paese": "Venezuela",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Sydney Morning Herald",
+          "url": "https://www.smh.com.au/world/spacex-rocket-reaches-orbit-despite-engine-trouble-20260929-p6118w.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+          "titolo": "SpaceX rocket reaches orbit despite engine trouble",
+          "titolo_it": "Razzo SpaceX raggiunge l'orbita nonostante i problemi al motore",
+          "paese": "Australia",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 19
+    },
+    {
+      "id": 3,
+      "titolo": "Droni russi colpiscono l'Accademia delle Scienze di Kiev",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "La Russia ha lanciato un'intensa ondata di attacchi con droni su Kiev, colpendo a giorno l'Accademia Nazionale delle Scienze nel centro storico della capitale. L'edificio è preso dalle fiamme e gli occupanti fuggono dalle finestre. Il bilancio delle vittime varia tra le fonti, da un morto ad almeno cinque. Sono stati colpiti anche un centro medico e altre zone della città. Il Ministero degli Esteri tedesco ha condannato l'attacco.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "Il racconto europeo si concentra sull'attacco diurno con droni all'Accademia Nazionale delle Scienze nel cuore di Kiev, con persone che fuggono dalle finestre dell'edificio in fiamme. Il bilancio varia da un morto ad almeno cinque in attacchi separati. Il Ministero degli Esteri tedesco condanna l'azione. Un centro medico è stato anch'esso colpito.",
+          "testate": [
+            "Aftenposten",
+            "BBC News",
+            "Dagens Nyheter",
+            "Der Spiegel",
+            "ERR",
+            "Helsingin Sanomat",
+            "Kyiv Independent",
+            "Meduza",
+            "Svenska Dagbladet",
+            "Süddeutsche Zeitung",
+            "Telex",
+            "The Guardian",
+            "The Irish Times",
+            "de Volkskrant"
+          ]
+        },
+        {
+          "area": "Italia",
+          "sintesi": "La stampa italiana riporta l'attacco con un drone all'Accademia delle Scienze di Kiev, nel cuore storico della città, con fiamme e danni. È stata colpita anche una clinica.",
+          "testate": [
+            "ANSA"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Il racconto asiatico offre una prospettiva più ampia: oltre a Kiev, gli attacchi colpiscono Kharkiv con una bomba guidata su un complesso residenziale. Il bilancio complessivo è di almeno otto morti. In risposta, l'Ucraina colpisce siti petroliferi e militari russi.",
+          "testate": [
+            "Afghanistan International",
+            "Al Jazeera",
+            "The Times of India"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "Il racconto nordamericano evidenzia la portata dell'attacco: un drone a propulsione a getto ha colpito l'Accademia, principale centro di ricerca del Paese, causando un incendio nel centro della città. Il bilancio è di almeno due morti. L'Ucraina si prepara a un inverno difficile mentre la Russia intensifica gli attacchi.",
+          "testate": [
+            "14ymedio",
+            "CBC News",
+            "Le Devoir",
+            "The Globe and Mail",
+            "The New York Times"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "Il racconto sudamericano si sofferma sull'aspetto visivo e umano dell'attacco: fiamme, fumo e disperazione, con il personale costretto a fuggire dalle finestre. L'attacco è avvenuto a giorno nel cuore di Kiev. Sono state colpite anche Dnipro e Kharkiv.",
+          "testate": [
+            "Folha de S.Paulo",
+            "Infobae",
+            "O Globo"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 10,
+        "n_testate": 27,
+        "continenti": [
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Sud America"
+        ],
+        "paesi": [
+          "Afghanistan",
+          "Argentina",
+          "Brasile",
+          "Canada",
+          "Cuba",
+          "Estonia",
+          "Finlandia",
+          "Francia",
+          "Germania",
+          "India",
+          "Irlanda",
+          "Italia",
+          "Norvegia",
+          "Paesi Bassi",
+          "Qatar",
+          "Regno Unito",
+          "Russia",
+          "Stati Uniti",
+          "Svezia",
+          "Ucraina",
+          "Ungheria"
+        ],
+        "trend": null
+      },
+      "n_articoli": 29,
+      "fonti": [
+        {
+          "testata": "ANSA",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/28/media-piu-raid-con-droni-in-centro-a-kiev-colpito-anche-il-ministero_289b314b-ae1f-4c11-85dd-effb3509de01.html",
+          "titolo": "Drone e fiamme sull'Accademia delle Scienze, colpito il cuore storico di Kiev",
+          "titolo_it": null,
+          "paese": "Italia",
+          "continente": "Europa",
+          "lingua_originale": "italiano",
+          "live_blog": false
+        },
+        {
+          "testata": "ERR",
+          "url": "https://www.err.ee/1610150083/vene-droon-tabas-kiievi-teaduste-akadeemia-hoonet",
+          "titolo": "Vene droon tabas Kiievi teaduste akadeemia hoonet",
+          "titolo_it": "Il fuoco ha distrutto l'edificio dell'Accademia delle Scienze di Kiev",
+          "paese": "Estonia",
+          "continente": "Europa",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Helsingin Sanomat",
+          "url": "https://www.hs.fi/maailma/art-2000012305424.html",
+          "titolo": "Ukrainan sota | Venäjä moukaroi Kiovaa drooneilla: tiede­akatemian rakennus syttyi tuleen",
+          "titolo_it": null,
+          "paese": "Finlandia",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "Le Monde",
+          "url": "https://www.lemonde.fr/international/live/2026/09/29/en-direct-guerre-en-ukraine-fortes-explosions-entendues-a-kiev-visee-par-des-missiles-balistiques-selon-l-armee-de-l-air-ukrainienne_6783795_3210.html",
+          "titolo": "EN DIRECT, guerre en Ukraine : fortes explosions entendues à Kiev visée par des missiles balistiques, selon l’armée de l’air ukrainienne",
+          "titolo_it": "Diretta, guerra in Ucraina: forti esplosioni a Kiev, colpita da missili balistici secondo l'aeronautica ucraina",
+          "paese": "Francia",
+          "continente": "Europa",
+          "lingua_originale": "francese",
+          "live_blog": true
+        },
+        {
+          "testata": "CBC News",
+          "url": "https://www.cbc.ca/news/world/ukraine-russian-deadly-drone-strikes-9.7361449?cmp=rss",
+          "titolo": "Ukraine hit with deadly wave of Russian drone strikes in Kyiv and across the country",
+          "titolo_it": "Ucraina colpita da ondata letale di droni russi su Kiev e in tutto il Paese",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Le Devoir",
+          "url": "https://www.ledevoir.com/monde/europe/1012529/nouveaux-bombardements-meurtriers-russes-kiev",
+          "titolo": "Nouveaux bombardements meurtriers russes sur Kiev",
+          "titolo_it": "Nuovi bombardamenti mortali russi su Kiev",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "francese",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/world/article-russia-drones-ukraine-war",
+          "titolo": "At least two dead as Russian drones hit Kyiv Science Academy",
+          "titolo_it": "Almeno due morti dopo l'attacco di droni russi all'Accademia delle Scienze di Kiev",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Afghanistan International",
+          "url": "https://www.afintl.com/202609287841",
+          "titolo": "موج تازه حملات روسیه به اوکراین دست‌کم هشت کشته بر جای گذاشت",
+          "titolo_it": "Nuova ondata di attacchi russi in Ucraina: almeno otto morti",
+          "paese": "Afghanistan",
+          "continente": "Asia",
+          "lingua_originale": "farsi",
+          "live_blog": false
+        },
+        {
+          "testata": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/europe/russian-strikes-on-kyiv-kills-3-as-ukraine-targets-oil-military-sites/articleshow/134544592.cms",
+          "titolo": "Russian strikes on Kyiv kills 3 as Ukraine targets oil, military sites",
+          "titolo_it": "Colpi russi su Kiev: 3 morti, l'Ucraina colpisce raffinerie e basi militari",
+          "paese": "India",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv?traffic_source=rss",
+          "titolo": "Photos: Russian drone strikes pound civilian targets across Kyiv",
+          "titolo_it": "Foto: Colpi di droni russi su obiettivi civili in tutta Kiev",
+          "paese": "Qatar",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/09/28/rusia-ataco-a-plena-luz-del-dia-el-corazon-de-kiev-arde-la-academia-de-ciencias-de-ucrania",
+          "titolo": "Rusia atacó a plena luz del día el corazón de Kiev: arde la Academia de Ciencias de Ucrania",
+          "titolo_it": "La Russia attacca a giorno fatto il cuore di Kiev: in fiamme l'Accademia delle Scienze ucraina",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/09/ataque-contra-academia-nacional-de-ciencias-da-ucrania-mata-ao-menos-2.shtml",
+          "titolo": "Ataque contra Academia Nacional de Ciências da Ucrânia mata ao menos 2",
+          "titolo_it": "Attacco all'Accademia Nazionale delle Scienze dell'Ucraina: almeno 2 morti",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "O Globo",
+          "url": "https://oglobo.globo.com/mundo/noticia/2026/09/28/fogo-fumaca-e-desespero-drone-russo-atinge-academia-de-ciencias-em-kiev-e-obriga-funcionarios-a-sair-pelas-janelas.ghtml",
+          "titolo": "Fogo, fumaça e desespero: Drone russo atinge Academia de Ciências em Kiev e obriga funcionários a sair pelas janelas",
+          "titolo_it": "Fuoco, fumo e disperazione: un drone russo colpisce l'Accademia delle Scienze di Kiev e costringe i dipendenti a fuggire dalle finestre",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 16
+    },
+    {
+      "id": 4,
+      "titolo": "Guerra Iran-USA: Trump respinge la proposta, mediatori al lavoro",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Trump ha respinto la proposta di tregua di Teheran, che prevedeva la cessazione delle ostilità e la riapertura dello Stretto di Ormuz. Il presidente ha dichiarato che la guerra è già vinta, ma ha lasciato aperta la via diplomatica. Il Qatar e altri mediatori conducono colloqui separati con entrambe le parti. Secondo Axios, Trump sarebbe favorevole a un allentamento delle sanzioni in cambio di progressi sul nucleare, ma lo stesso presidente lo ha negato. Le trattative restano incerte.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "L'attenzione si concentra sul ruolo mediatore del Qatar e sul rischio di una nuova escalation militare. La stampa scandinava segnala il pessimismo dei leader iraniani e il timore di bombardamenti da parte di Trump. Due testate riportano la notizia di Axios secondo cui il presidente statunitense sarebbe pronto a allentare le sanzioni in cambio di progressi sul dossier nucleare.",
+          "testate": [
+            "Aftenposten",
+            "Svenska Dagbladet",
+            "TASS",
+            "Ukrainska Pravda"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "Le testate asiatiche riportano i colloqui separati con i mediatori e la disputa sullo Stretto di Ormuz. Una testata israeliana sottolinea che Trump ha negato di aver offerto un allentamento delle sanzioni, smentendo Axios. Un quotidiano qatariota giudica corretta la decisione di respingere la proposta iraniana. Il ministro degli Esteri iraniano incontra i mediatori.",
+          "testate": [
+            "Al Jazeera",
+            "Chosun Ilbo",
+            "Daily Sabah",
+            "Dawn",
+            "Hindustan Times",
+            "The Hindu",
+            "The Jerusalem Post",
+            "The National"
+          ]
+        },
+        {
+          "area": "Nord America",
+          "sintesi": "La stampa nordamericana adotta un tono più scettico: Trump dichiara la guerra già vinta e si aspetta la ripresa delle trattative entro pochi giorni, ma una fonte vicina alla delegazione iraniana smentisce. Le due parti si scambiano accuse sulle rispettive posizioni. Il presidente valuta anche la possibilità di riattivare i bombardamenti.",
+          "testate": [
+            "Diario Libre",
+            "La Jornada",
+            "Politico",
+            "The Globe and Mail"
+          ]
+        },
+        {
+          "area": "Oceania",
+          "sintesi": "L'unica testata dell'area ribadisce la posizione iraniana: dopo il rifiuto di Trump, Teheran insiste per una soluzione diplomatica e subordina la riapertura dello Stretto di Ormuz al rispetto delle proprie condizioni.",
+          "testate": [
+            "FBC News"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 9,
+        "n_testate": 18,
+        "continenti": [
+          "Asia",
+          "Europa",
+          "Nord America",
+          "Oceania"
+        ],
+        "paesi": [
+          "Canada",
+          "Corea del Sud",
+          "Emirati Arabi Uniti",
+          "Figi",
+          "India",
+          "Israele",
+          "Messico",
+          "Norvegia",
+          "Pakistan",
+          "Qatar",
+          "Regno Unito",
+          "Repubblica Dominicana",
+          "Russia",
+          "Stati Uniti",
+          "Svezia",
+          "Turchia",
+          "Ucraina"
+        ],
+        "trend": null
+      },
+      "n_articoli": 26,
+      "fonti": [
+        {
+          "testata": "Chosun Ilbo",
+          "url": "https://www.chosun.com/international/international_general/2026/09/29/HA3WMYLDMFSGKMRWGI4DCM3CGM",
+          "titolo": "“트럼프, 이란이 핵 관련 구체적 조치 내놓으면 제재 완화 의향”",
+          "titolo_it": "Trump: pronti ad allentare le sanzioni se l'Iran adotterà misure concrete sul nucleare",
+          "paese": "Corea del Sud",
+          "continente": "Asia",
+          "lingua_originale": "coreano",
+          "live_blog": false
+        },
+        {
+          "testata": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/09/28/live-us-iran-war-saudi-arabia-riyadh",
+          "titolo": "Iran war latest: US and Iran to hold 'separate talks' with mediators",
+          "titolo_it": "Ultim'ora guerra in Iran: Usa e Iran terranno colloqui separati con i mediatori",
+          "paese": "Emirati Arabi Uniti",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/whose-hormuz-mojtaba-says-painful-blows-forced-enemies-out-of-west-asia-us-replies-with-no-iran-navy-101790616048215.html",
+          "titolo": "Whose Hormuz? Mojtaba says ‘painful blows’ forced ‘enemies’ out of West Asia; US replies with 'no Iran navy'",
+          "titolo_it": "Chi controlla lo Stretto di Hormuz? Mojtaba: i \"colpi dolorosi\" hanno cacciato i \"nemici\" dal Medio Oriente; Washington risponde: \"Niente marina iraniana",
+          "paese": "India",
+          "continente": "Asia",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "Aftenposten",
+          "url": "https://www.aftenposten.no/verden/i/9pPx0l/reuters-meglere-fra-qatar-skal-trolig-ha-samtaler-med-baade-iran-og-usa?utm_medium=rss",
+          "titolo": "Reuters: Meglere fra Qatar skal trolig ha samtaler med både Iran og USA",
+          "titolo_it": null,
+          "paese": "Norvegia",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
+          "titolo": "Trump doubles down on claims US will win war with Iran ‘one way or another’ as talks are in doubt – US politics live",
+          "titolo_it": "Trump raddoppia le scommesse: gli Usa vinceranno la guerra con l'Iran \"in un modo o nell'altro\", mentre i negoziati sono in bilico",
+          "paese": "Regno Unito",
+          "continente": "Europa",
+          "lingua_originale": "inglese",
+          "live_blog": true
+        },
+        {
+          "testata": "TASS",
+          "url": "https://tass.com/world/2194233",
+          "titolo": "Trump ready to ease Iranian sanctions if progress on nuclear dossier is reached — Axios",
+          "titolo_it": "Trump pronto ad allentare le sanzioni sull'Iran in caso di progressi sul dossier nucleare, secondo Axios",
+          "paese": "Russia",
+          "continente": "Europa",
+          "lingua_originale": "russo",
+          "live_blog": false
+        },
+        {
+          "testata": "The Globe and Mail",
+          "url": "https://www.theglobeandmail.com/world/article-us-iran-mediators-deal-strait-of-hormuz",
+          "titolo": "U.S., Iran resume indirect talks with mediators on deal to end fighting",
+          "titolo_it": "Usa e Iran riprendono i colloqui indiretti con i mediatori per un accordo che metta fine ai combattimenti",
+          "paese": "Canada",
+          "continente": "Nord America",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        },
+        {
+          "testata": "La Jornada",
+          "url": "https://www.jornada.com.mx/2026/09/28/mundo/021n1mun?partner=rss",
+          "titolo": "Vía diplomática EU-Irán, abierta; ya se gana la guerra, afirma Trump",
+          "titolo_it": "Trump: la via diplomatica con l'Iran è aperta, la guerra è già vinta",
+          "paese": "Messico",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Diario Libre",
+          "url": "https://www.diariolibre.com/videos/mundo/estados-unidos/2026/09/28/trump-confia-en-retomar-negociaciones-con-iran-en-los-proximos-dias/3672151",
+          "titolo": "Trump confía en retomar negociaciones con Irán en los próximos días",
+          "titolo_it": "Trump confida nel riprendere le trattative con l'Iran nei prossimi giorni",
+          "paese": "Repubblica Dominicana",
+          "continente": "Nord America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "FBC News",
+          "url": "https://www.fbcnews.com.fj/world/iran-insists-on-diplomatic-solution-after-trump-rejects-peace-plan",
+          "titolo": "Iran insists on diplomatic solution after Trump rejects peace plan",
+          "titolo_it": "L'Iran insiste per una soluzione diplomatica dopo il rifiuto di Trump del piano di pace",
+          "paese": "Figi",
+          "continente": "Oceania",
+          "lingua_originale": "inglese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 16
+    },
+    {
+      "id": 5,
+      "titolo": "Italia-Turchia 4-1: la prima vittoria di Mancini in Nations League",
+      "titolo_da": null,
+      "titolo_provvisorio": false,
+      "sintesi": "Nella seconda giornata della UEFA Nations League, l'Italia ha battuto la Turchia 4-1 a Bursa, conquistando la prima vittoria di Roberto Mancini dal suo ritorno sulla panchina azzurra. Nel frattempo, la Francia ha superato il Belgio 1-0 grazie a Michael Olise. La stampa europea sottolinea il riscatto degli azzurri dopo la sconfitta iniziale, mentre i media turchi registrano le proteste dei tifosi contro l'allenatore Vincenzo Montella.",
+      "confronto": [
+        {
+          "area": "Europa",
+          "sintesi": "La stampa europea evidenzia la goleada azzurra come riscatto dopo la sconfitta iniziale e come prima vittoria di Mancini dal ritorno in panchina. La Francia è protagonista con il gol di Olise contro il Belgio. Il focus balcanico si sposta sulle proteste dei tifosi turchi che chiedono le dimissioni di Montella.",
+          "testate": [
+            "Der Standard",
+            "Frankfurter Allgemeine Zeitung",
+            "Koha Ditore",
+            "LRT",
+            "Neue Zürcher Zeitung",
+            "Oslobođenje",
+            "The Guardian"
+          ]
+        },
+        {
+          "area": "Asia",
+          "sintesi": "I media turchi descrivono la sconfitta come un bagno freddo per la nazionale, disputata sotto la pioggia a Bursa. La stampa iraniana sottolinea la rivincita di Mancini su Montella per la precedente sconfitta contro il Belgio. La copertura afghana celebra la vittoria azzurra con quattro gol.",
+          "testate": [
+            "Afghanistan International",
+            "Cumhuriyet",
+            "Daily Sabah",
+            "Iran International"
+          ]
+        },
+        {
+          "area": "Africa",
+          "sintesi": "La stampa senegalese inquadra la vittoria italiana come un ritrovato sorriso dopo la sconfitta iniziale e mette in evidenza la prestazione di Olise, decisivo nella sfida contro il Belgio.",
+          "testate": [
+            "Seneweb"
+          ]
+        },
+        {
+          "area": "Sud America",
+          "sintesi": "I media sudamericani sottolineano la goleada e la qualità del gioco azzurro, parlando di riscatto dopo la sconfitta iniziale. Viene evidenziata la prima vittoria di Mancini e il buon calcio mostrato, con la prossima sfida contro la Francia già in vista.",
+          "testate": [
+            "ABC Color",
+            "El Comercio",
+            "El Nacional",
+            "El Universo",
+            "Estadão",
+            "La Nación (Argentina)"
+          ]
+        }
+      ],
+      "convergenza": {
+        "percento": 7,
+        "n_testate": 18,
+        "continenti": [
+          "Africa",
+          "Asia",
+          "Europa",
+          "Sud America"
+        ],
+        "paesi": [
+          "Afghanistan",
+          "Argentina",
+          "Austria",
+          "Bosnia ed Erzegovina",
+          "Brasile",
+          "Ecuador",
+          "Germania",
+          "Iran",
+          "Kosovo",
+          "Lituania",
+          "Paraguay",
+          "Perù",
+          "Regno Unito",
+          "Senegal",
+          "Svizzera",
+          "Turchia",
+          "Venezuela"
+        ],
+        "trend": null
+      },
+      "n_articoli": 19,
+      "fonti": [
+        {
+          "testata": "Der Standard",
+          "url": "https://www.derstandard.at/story/3000000341754/italien-betrieb-frustbewaeltigung-in-tuerkei?ref=rss",
+          "titolo": "Italien betrieb Frustbewältigung in Türkei",
+          "titolo_it": "Italia in modalità gestione della frustrazione in Turchia",
+          "paese": "Austria",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "Oslobođenje",
+          "url": "https://www.oslobodjenje.ba/sport/fudbal/ino-fudbal/evropska-takmicenja/italija-se-konacno-razbudila-i-udarila-samar-turcima-minimalac-francuske",
+          "titolo": "Italija se konačno razbudila i udarila šamar Turcima, minimalac Francuske",
+          "titolo_it": null,
+          "paese": "Bosnia ed Erzegovina",
+          "continente": "Europa",
+          "lingua_originale": null,
+          "live_blog": false
+        },
+        {
+          "testata": "Frankfurter Allgemeine Zeitung",
+          "url": "https://www.faz.net/aktuell/sport/fussball/nations-league-frankreich-siegt-in-belgien-italien-gewinnt-in-der-tuerkei-201271019.html",
+          "titolo": "Nations League: Italien überrollt die Türkei, Olise rettet Frankreich gegen Belgien",
+          "titolo_it": "Nations League: l'Italia travolge la Turchia, Olise salva la Francia contro il Belgio",
+          "paese": "Germania",
+          "continente": "Europa",
+          "lingua_originale": "tedesco",
+          "live_blog": false
+        },
+        {
+          "testata": "La Nación (Argentina)",
+          "url": "https://www.lanacion.com.ar/deportes/futbol/italia-goleo-4-a-1-a-turquia-por-la-uefa-nations-league-con-varios-toques-y-buen-futbol-nid28092026",
+          "titolo": "Italia goleó 4 a 1 a Turquía por la UEFA Nations League con varios toques y buen fútbol",
+          "titolo_it": "Italia travolge la Turchia 4-1 in Nations League con un calcio di qualità",
+          "paese": "Argentina",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Estadão",
+          "url": "https://www.estadao.com.br/esportes/futebol/franca-sofre-sem-mbappe-mas-bate-a-belgica-pela-liga-das-nacoes-italia-goleia-turquia",
+          "titolo": "França sofre sem Mbappé, mas bate a Bélgica pela Liga das Nações; Itália goleia Turquia",
+          "titolo_it": "Francia soffre senza Mbappé ma batte il Belgio nella Nations League; l'Italia travolge la Turchia",
+          "paese": "Brasile",
+          "continente": "Sud America",
+          "lingua_originale": "portoghese",
+          "live_blog": false
+        },
+        {
+          "testata": "El Universo",
+          "url": "https://eluniverso.com/deportes/futbol/italia-golea-4-1-a-turquia-y-consigue-el-primer-triunfo-bajo-la-direccion-de-roberto-mancini-nota",
+          "titolo": "Italia golea 4-1 a Turquía y consigue el primer triunfo bajo la dirección de Roberto Mancini",
+          "titolo_it": "Italia travolge 4-1 la Turchia e ottiene la prima vittoria sotto la guida di Roberto Mancini",
+          "paese": "Ecuador",
+          "continente": "Sud America",
+          "lingua_originale": "spagnolo",
+          "live_blog": false
+        },
+        {
+          "testata": "Afghanistan International",
+          "url": "https://www.afintl.com/202609283376",
+          "titolo": "ایتالیا ترکیه را در خانه‌اش با چهار گل شکست داد",
+          "titolo_it": "L'Italia batte la Turchia in casa con un netto 4-0",
+          "paese": "Afghanistan",
+          "continente": "Asia",
+          "lingua_originale": "farsi",
+          "live_blog": false
+        },
+        {
+          "testata": "Iran International",
+          "url": "https://www.iranintl.com/202609284070",
+          "titolo": "ترکیه ۱-۴ ایتالیا؛ مانچینی انتقام باخت به بلژیک را از مونتلا گرفت",
+          "titolo_it": "Turchia 1-4 Italia: Mancini si vendica della sconfitta contro il Belgio ai danni di Montella",
+          "paese": "Iran",
+          "continente": "Asia",
+          "lingua_originale": "farsi",
+          "live_blog": false
+        },
+        {
+          "testata": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/spor/milli-takima-bursa-da-soguk-dus-turkiye-1-4-italya-2541848",
+          "titolo": "Milli takıma Bursa'da soğuk duş: Türkiye 1-4 İtalya",
+          "titolo_it": "Doccia fredda per la nazionale a Bursa: Turchia-Italia 1-4",
+          "paese": "Turchia",
+          "continente": "Asia",
+          "lingua_originale": "turco",
+          "live_blog": false
+        },
+        {
+          "testata": "Seneweb",
+          "url": "https://www.seneweb.com/fr/news/Sport/ligue-des-nations-litalie-retrouve-le-sourire-olise-crucifie-la-belgique_n_505515.html",
+          "titolo": "Ligue des nations : L’Italie retrouve le sourire, Olise crucifie la Belgique",
+          "titolo_it": "Nations League: l'Italia torna a sorridere, Olise umilia il Belgio",
+          "paese": "Senegal",
+          "continente": "Africa",
+          "lingua_originale": "francese",
+          "live_blog": false
+        }
+      ],
+      "fonti_omesse": 9
+    }
+  ],
+  "cono_ombra": {
+    "temi": []
+  },
+  "pagine_continentali": [
+    {
+      "continente": "Sud America",
+      "temi": [
+        {
+          "id": 12,
+          "titolo": "Washington revoca i visti a giudici e funzionari di quattro paesi sudamericani",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Gli Stati Uniti hanno revocato i visti a giudici, alti funzionari e imprenditori di Bolivia, Colombia, Ecuador e Perù, accusandoli di corruzione e legami con il narcotraffico. La stampa sudamericana si concentra su nomi specifici e sull'ansia di un contagio regionale, mentre la copertura esterna resta più distaccata e fattuale.",
+          "confronto": [
+            {
+              "area": "Sud America",
+              "sintesi": "Al centro i nomi specifici: il giudice peruviano, i due ecuadoriani. L'ansia di un contagio regionale emerge nel titolo paraguaiano. Il Brasile si nota per l'assenza. Un quotidiano peruviano collega la misura a una sentenza a favore di un'azienda cinese operatrice del porto di Chancay. L'alleanza Scudo delle Americhe è il quadro istituzionale di riferimento.",
+              "testate": [
+                "ABC Color",
+                "El Comercio",
+                "El Nacional",
+                "El Universo",
+                "Estadão",
+                "La República",
+                "La Tercera",
+                "O Globo",
+                "Primicias"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "La copertura esterna è più distaccata: si nomina la categoria (giudici, funzionari, imprenditori) e i quattro paesi, senza scendere nei nomi individuali. Il quadro è quello della lotta alla corruzione e al narcotraffico. Non emerge l'ansia di un contagio né il collegamento geopolitico con la Cina che la stampa peruviana evidenzia.",
+              "testate": [
+                "Diario Libre",
+                "El Universal",
+                "La Nación (Costa Rica)",
+                "South China Morning Post"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 5,
+            "n_testate": 13,
+            "continenti": [
+              "Asia",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Brasile",
+              "Cile",
+              "Cina",
+              "Costa Rica",
+              "Ecuador",
+              "Messico",
+              "Paraguay",
+              "Perù",
+              "Repubblica Dominicana",
+              "Venezuela"
+            ],
+            "trend": null
+          },
+          "n_articoli": 14,
+          "fonti": [
+            {
+              "testata": "Estadão",
+              "url": "https://www.estadao.com.br/internacional/eua-cancelam-vistos-autoridades-bolivia-colombia-equador-peru-npr",
+              "titolo": "EUA cancelam vistos de autoridades da Bolívia, Colômbia, Equador e Peru; Brasil não foi afetado",
+              "titolo_it": "Usa cancella i visti a funzionari di Bolivia, Colombia, Ecuador e Perù; il Brasile non è stato toccato",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "O Globo",
+              "url": "https://oglobo.globo.com/mundo/noticia/2026/09/28/eua-cancelam-vistos-de-juizes-e-autoridades-da-bolivia-colombia-equador-e-peru-membros-do-escudo-das-americas.ghtml",
+              "titolo": "EUA cancelam vistos de juízes e autoridades da Bolívia, Colômbia, Equador e Peru, membros do ‘Escudo das Américas’",
+              "titolo_it": "Usa cancella i visti a giudici e autorità di Bolivia, Colombia, Ecuador e Perù, membri dello “Scudo delle Americhe”",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "La Tercera",
+              "url": "https://www.latercera.com/mundo/noticia/eeuu-cancela-visas-a-jueces-funcionarios-y-empresarios-de-bolivia-colombia-ecuador-y-peru",
+              "titolo": "EE.UU. cancela visas a jueces, funcionarios y empresarios de Bolivia, Colombia, Ecuador y Perú",
+              "titolo_it": "Usa cancella i visti a giudici, funzionari e imprenditori di Bolivia, Colombia, Ecuador e Perù",
+              "paese": "Cile",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "La Nación (Costa Rica)",
+              "url": "https://www.nacion.com/el-mundo/estados-unidos-cancela-visas-a-jueces-y/SEBKDICHSNFXDGJAOW3IHGL73U/story",
+              "titolo": "Estados Unidos cancela visas a jueces y empresarios de cuatro países",
+              "titolo_it": "Stati Uniti revoca i visti a giudici e imprenditori di quattro paesi",
+              "paese": "Costa Rica",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universal",
+              "url": "https://www.eluniversal.com.mx/mundo/eu-revoca-visas-de-jueces-altos-funcionarios-y-empresarios-de-4-paises-de-al-los-acusa-de-corrupcion-y-vinculos-con-el-narco",
+              "titolo": "EU revoca visas de jueces, altos funcionarios y empresarios de 4 países de AL; los acusa de corrupción y vínculos con el narco",
+              "titolo_it": "L'UE revoca i visti a giudici, alti funzionari e imprenditori di quattro paesi dell'America Latina, accusandoli di corruzione e legami con il narcotraffico",
+              "paese": "Messico",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Diario Libre",
+              "url": "https://www.diariolibre.com/mundo/estados-unidos/2026/09/28/eeuu-cancela-visas-en-bolivia-colombia-ecuador-y-peru/3672643",
+              "titolo": "EE.UU. cancela visas en  Bolivia, Colombia, Ecuador y Perú",
+              "titolo_it": "Stati Uniti revoca i visti in Bolivia, Colombia, Ecuador e Perù",
+              "paese": "Repubblica Dominicana",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3369114/us-revokes-visas-latin-american-officials-and-families-over-accusations-corruption?utm_source=rss_feed",
+              "titolo": "US revokes visas from Latin American officials and families over accusations of corruption",
+              "titolo_it": "Usa revoca i visti a funzionari latinoamericani e alle loro famiglie per accuse di corruzione",
+              "paese": "Cina",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 7,
+          "convergenza_interna": {
+            "continente": "Sud America",
+            "coperte": 9,
+            "totali": 32
+          }
+        },
+        {
+          "id": 34,
+          "titolo": "Brasile, elezioni: Lula e Flávio Bolsonaro a sei giorni dal voto",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "A sei giorni dalle elezioni, i sondaggi danno Lula in vantaggio di circa cinque punti su Flávio Bolsonaro in una corsa ravvicinata. Lo sguardo sudamericano si concentra sui numeri, sull'incertezza e sulle implicazioni per l'Amazzonia e il clima. Lo sguardo esterno, da Centroamerica, inquadra il voto come crocevia per il posizionamento geopolitico della regione rispetto agli Stati Uniti.",
+          "confronto": [
+            {
+              "area": "Sud America",
+              "sintesi": "Al centro i dati dei sondaggi e la stretta tra i due candidati, con enfasi sull'incertezza dell'esito. Si dà per scontato l'interesse del lettore per le ricadute regionali: il destino dell'Amazzonia, il clima, le politiche interne come la proibizione delle scommesse elettroniche. Si tace la dimensione geopolitica più ampia del rapporto con Washington.",
+              "testate": [
+                "El Espectador",
+                "El Nacional",
+                "La Diaria",
+                "La Nación (Argentina)",
+                "Telesur"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Due registri: uno riporta i dati dei sondaggi con distacco, l'altro inquadra il voto come determinante per il futuro politico della regione intera rispetto agli Stati Uniti, su piani economico, diplomatico e ambientale. Lo sguardo è quello di chi valuta le conseguenze per il proprio contesto, non per il Brasile.",
+              "testate": [
+                "El Universal",
+                "La Nación (Costa Rica)"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 3,
+            "n_testate": 7,
+            "continenti": [
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Colombia",
+              "Costa Rica",
+              "Messico",
+              "Uruguay",
+              "Venezuela"
+            ],
+            "trend": null
+          },
+          "n_articoli": 10,
+          "fonti": [
+            {
+              "testata": "La Nación (Argentina)",
+              "url": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-las-ultimas-noticias-sobre-los-comicios-hoy-nid28092026",
+              "titolo": "Elecciones Brasil 2026, EN VIVO: las últimas noticias sobre los comicios hoy",
+              "titolo_it": "Elezioni Brasile 2026, in diretta: le ultime notizie sulle elezioni di oggi",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Espectador",
+              "url": "https://www.elespectador.com/mundo/america/elecciones-en-brasil-lo-que-esta-en-juego-el-4-de-octubre-entre-lula-y-bolsonaro",
+              "titolo": "Elecciones en Brasil: lo que está en juego el 4 de octubre entre Lula y Bolsonaro",
+              "titolo_it": "Elezioni in Brasile: cosa è in gioco il 4 ottobre tra Lula e Bolsonaro",
+              "paese": "Colombia",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "La Diaria",
+              "url": "https://ladiaria.com.uy/articulo/2026/9/brasil-en-mitades",
+              "titolo": "Brasil en mitades",
+              "titolo_it": "Il Brasile diviso a metà",
+              "paese": "Uruguay",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "La Nación (Costa Rica)",
+              "url": "https://www.nacion.com/el-mundo/elecciones-en-brasil-marcan-el-futuro-politico-de/REESO2SXV5GKBJKZ3SWFTDJX6A/story",
+              "titolo": "Elecciones en Brasil marcan el futuro político de la región frente a Estados Unidos: Esto es lo que está en juego",
+              "titolo_it": "Le elezioni in Brasile segnano il futuro politico della regione di fronte agli Stati Uniti: ecco cosa è in gioco",
+              "paese": "Costa Rica",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universal",
+              "url": "https://www.eluniversal.com.mx/mundo/lula-presenta-ventaja-de-5-puntos-frente-a-flavio-bolsonaro-faltan-6-dias-para-elecciones-en-brasil",
+              "titolo": "Lula presenta ventaja de 5 puntos frente a Flávio Bolsonaro; faltan 6 días para elecciones en Brasil",
+              "titolo_it": "Lula in vantaggio di 5 punti su Flávio Bolsonaro a sei giorni dalle elezioni in Brasile",
+              "paese": "Messico",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 5,
+          "convergenza_interna": {
+            "continente": "Sud America",
+            "coperte": 5,
+            "totali": 32
+          }
+        },
+        {
+          "id": 67,
+          "titolo": "Argentina avvia arbitrato contro il Regno Unito sul petrolio nelle Falkland",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Il governo argentino ha avviato un arbitrato internazionale contro il Regno Unito per l'estrazione petrolifera nelle Falkland e denunciato voli non autorizzati tra Punta Arenas e le isole. La copertura è interamente sudamericana; l'assenza di testate extracontinentali segnala un tema ancora percepito come regionale.",
+          "confronto": [
+            {
+              "area": "Sud America",
+              "sintesi": "La stampa argentina mette al centro la sovranità e l'azione diplomatica, con un'edizione che inquadra la mossa nel contesto del deterioramento economico interno. La stampa cilena riporta il fatto da vicino, essendo Punta Arenas l'altro capo delle rotte denunciate. Brasile e Paraguay trattano la notizia come sviluppo diplomatico da seguire. La natura contesa del territorio è data per scontata.",
+              "testate": [
+                "ABC Color",
+                "Estadão",
+                "La Nación (Argentina)",
+                "La Tercera",
+                "Página/12"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 2,
+            "n_testate": 5,
+            "continenti": [
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Brasile",
+              "Cile",
+              "Paraguay"
+            ],
+            "trend": null
+          },
+          "n_articoli": 6,
+          "fonti": [
+            {
+              "testata": "La Nación (Argentina)",
+              "url": "https://www.lanacion.com.ar/politica/el-gobierno-pedira-un-arbitraje-con-el-reino-unido-para-detener-la-explotacion-petrolera-en-malvinas-nid28092026",
+              "titolo": "El Gobierno denunció vuelos ilegales de una empresa británica entre Malvinas y Punta Arenas",
+              "titolo_it": "Il governo denuncia voli illegali di una compagnia britannica tra le Falkland e Punta Arenas",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Página/12",
+              "url": "https://www.pagina12.com.ar/2026/09/28/milei-vuelve-a-agitar-la-agenda-de-malvinas-en-medio-del-malestar-economico",
+              "titolo": "Milei vuelve a agitar la agenda de Malvinas en medio del malestar económico",
+              "titolo_it": "Milei torna a scuotere l'agenda delle Falkland in un contesto di malcontento economico",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Estadão",
+              "url": "https://www.estadao.com.br/internacional/argentina-processo-judicial-contra-reino-unido-exploracao-petroleo-malvinas-npr",
+              "titolo": "Argentina pode iniciar processo judicial contra Reino Unido pela exploração de petróleo nas Malvinas",
+              "titolo_it": "Argentina può avviare un procedimento giudiziario contro il Regno Unito per l'estrazione di petrolio nelle Falkland",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 3,
+          "convergenza_interna": {
+            "continente": "Sud America",
+            "coperte": 5,
+            "totali": 32
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Nord America",
+      "temi": [
+        {
+          "id": 9,
+          "titolo": "L'uragano Polo minaccia la costa pacifica del Messico",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "L'uragano Polo di categoria 3 si avvicina alla Bassa California del Sud con approdo atteso nelle prossime ore. Le testate nordamericane lo seguono in tempo reale con dettagli operativi e preparazioni locali; la stampa internazionale lo inquadra come minaccia a distanza, con linguaggio più cauto e meno dettaglio sul terreno.",
+          "confronto": [
+            {
+              "area": "Nord America",
+              "sintesi": "Il dettaglio operativo domina: variazioni di categoria, tracciamento in diretta, preparazioni concrete come blindare le abitazioni e rinforzare gli argini. Il Messico segue simultaneamente più sistemi (Polo, Rachel, Nolo) come questione domestica. Il tono è di prossimità: l'approdo è atteso nelle ore immediate e l'informazione serve a chi è sul posto.",
+              "testate": [
+                "CBC News",
+                "El Universal",
+                "La Jornada",
+                "Le Devoir",
+                "Prensa Libre",
+                "The Globe and Mail"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Lo sguardo è quello dell'osservatore a distanza: il lessico è più cauto (potrebbe causare, minaccia danni gravi) e il dettaglio sulle preparazioni locali è ridotto. Alcuni aggiungono l'uragano Nolo sulle Hawaii come nota secondaria. Si misura la portata del fenomeno più che la risposta concreta sul terreno.",
+              "testate": [
+                "BBC News",
+                "El Comercio",
+                "El País",
+                "El Universo",
+                "Hindustan Times",
+                "South China Morning Post",
+                "Telesur"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 6,
+            "n_testate": 13,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Canada",
+              "Cina",
+              "Ecuador",
+              "Guatemala",
+              "India",
+              "Messico",
+              "Perù",
+              "Regno Unito",
+              "Spagna",
+              "Venezuela"
+            ],
+            "trend": null
+          },
+          "n_articoli": 15,
+          "fonti": [
+            {
+              "testata": "CBC News",
+              "url": "https://www.cbc.ca/news/world/hurricane-mexico-baja-hawaii-9.7360555?cmp=rss",
+              "titolo": "Hurricane Polo threatens Mexico's Pacific coast with landfall expected today",
+              "titolo_it": "L'uragano Polo minaccia la costa pacifica del Messico, con approdo previsto oggi",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Le Devoir",
+              "url": "https://www.ledevoir.com/actualites/environnement/1012505/ouragan-polo-touchera-terre-lundi-mexique",
+              "titolo": "L’ouragan «Polo» touchera terre lundi au Mexique",
+              "titolo_it": "L'uragano Polo toccherà terra lunedì in Messico",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/world/article-hurricane-polo-mexico-baja-california-hurricane-nolo-hawaii",
+              "titolo": "Mexico’s Baja California braces for Hurricane Polo, while Hurricane Nolo threatens Hawaii",
+              "titolo_it": "Baja California in allerta per l'uragano Polo, mentre Nolo minaccia le Hawaii",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universo",
+              "url": "https://eluniverso.com/noticias/internacional/huracan-polo-se-aproxima-a-mexico-con-la-amenaza-de-producir-danos-severos-nota",
+              "titolo": "Huracán Polo se aproxima a México con la amenaza de producir daños severos",
+              "titolo_it": "L'uragano Polo si avvicina al Messico con la minaccia di danni gravi",
+              "paese": "Ecuador",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Comercio",
+              "url": "https://elcomercio.pe/mundo/mexico/huracan-polo-en-vivo-trayectoria-y-ultimas-noticias-del-ciclon-que-se-aproxima-a-mexico-y-amenaza-con-danos-severos-baja-california-sur-noticia",
+              "titolo": "Huracán Polo EN VIVO | Trayectoria y últimas noticias del ciclón que amenaza a México con daños severos",
+              "titolo_it": "Uragano Polo in diretta | Traiettoria e ultime notizie del ciclone che minaccia il Messico con danni gravi",
+              "paese": "Perù",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Telesur",
+              "url": "https://www.telesurtv.net/huracan-polo-categoria-3-amenaza-pacifico",
+              "titolo": "Huracán Polo de categoría 3 amenaza las costas del Pacífico mexicano",
+              "titolo_it": "Uragano Polo di categoria 3 minaccia le coste del Pacifico messicano",
+              "paese": "Venezuela",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+              "titolo": "Mexico's Pacific coast braces for Hurricane Polo",
+              "titolo_it": "La costa pacifica del Messico si prepara all'uragano Polo",
+              "paese": "Regno Unito",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "El País",
+              "url": "https://elpais.com/mexico/2026-09-28/el-huracan-polo-se-aproxima-a-baja-california-sur-donde-se-encuentra-estados-en-alerta-y-recomendaciones.html",
+              "titolo": "El huracán ‘Polo’ se aproxima a Baja California Sur: dónde se encuentra, Estados en alerta y recomendaciones",
+              "titolo_it": "L'uragano Polo si avvicina alla Bassa California del Sud: dove si trova, gli stati in allerta e le raccomandazioni",
+              "paese": "Spagna",
+              "continente": "Europa",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/americas/article/3369107/mexico-could-see-life-threatening-floods-due-hurricane-polo?utm_source=rss_feed",
+              "titolo": "Mexico could see life-threatening floods due to Hurricane Polo",
+              "titolo_it": "Messico a rischio alluvioni mortali per l'uragano Polo",
+              "paese": "Cina",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/us-news/hurricane-polo-approaches-mexico-threatens-severe-damage-101790620499282.html",
+              "titolo": "Hurricane Polo approaches Mexico, threatens 'severe' damage",
+              "titolo_it": "Uragano Polo si avvicina al Messico, minaccia danni \"gravi",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 5,
+          "convergenza_interna": {
+            "continente": "Nord America",
+            "coperte": 6,
+            "totali": 28
+          }
+        },
+        {
+          "id": 8,
+          "titolo": "Tregua commerciale Cina-Stati Uniti: proroga e riduzione dei dazi",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Stati Uniti e Cina hanno prorogato la tregua commerciale fino a gennaio 2027 e concordato una riduzione reciproca dei dazi su merci per circa sessanta miliardi di dollari, che include prodotti agricoli, carbone e beni di consumo. Le testate nordamericane insistono sul meccanismo istituzionale e sulle sue limitazioni, mentre la stampa internazionale privilegia la cornice geopolitica della proroga e i dettagli sui singoli prodotti.",
+          "confronto": [
+            {
+              "area": "Nord America",
+              "sintesi": "Al centro il meccanismo: la commissione commerciale bilaterale proposta da Trump, le liste reciproche di prodotti e le aspettative moderate. L'esclusione della soia e l'offerta di armi americane a Pechino emergono come dettagli significativi. Lo sguardo è quello di chi valuta l'impatto concreto sul commercio regionale.",
+              "testate": [
+                "14ymedio",
+                "Diario Libre",
+                "El Universal",
+                "Prensa Libre",
+                "The Globe and Mail"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "La cornice è geopolitica: la proroga della tregua fino al 2027 domina i titoli. Spiccano i dettagli sui singoli prodotti — il carbone in Corea del Sud, i beni agricoli in Norvegia — e la voce dei produttori di soia esclusi dall'accordo. L'offerta di armi compare come elemento di tensione.",
+              "testate": [
+                "Aftenposten",
+                "Chosun Ilbo",
+                "Dawn",
+                "Meduza",
+                "Página/12",
+                "South China Morning Post",
+                "Telesur",
+                "VnExpress"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 6,
+            "n_testate": 13,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Canada",
+              "Cina",
+              "Corea del Sud",
+              "Cuba",
+              "Guatemala",
+              "Messico",
+              "Norvegia",
+              "Pakistan",
+              "Repubblica Dominicana",
+              "Russia",
+              "Venezuela",
+              "Vietnam"
+            ],
+            "trend": null
+          },
+          "n_articoli": 14,
+          "fonti": [
+            {
+              "testata": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/business/article-us-china-tariff-reduction-product-lists-trump-xi-meeting",
+              "titolo": "U.S., China each cut tariffs on $30-billion of goods after Trump-Xi meeting",
+              "titolo_it": "Usa e Cina riducono i dazi su beni per 30 miliardi di dollari dopo l'incontro Trump-Xi",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "14ymedio",
+              "url": "https://www.14ymedio.com/internacional/embajador-ee-uu-china-afirma_1_1131280.html",
+              "titolo": "El embajador de EE UU en China afirma que Trump ofreció a Xi armas estadounidenses",
+              "titolo_it": "L'ambasciatore USA in Cina: Trump ha offerto a Xi armi americane",
+              "paese": "Cuba",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Prensa Libre",
+              "url": "https://www.prensalibre.com/internacional/desde-carbon-hasta-juguetes-ee-uu-y-china-recortaran-us60-mil-millones-de-aranceles-a-varios-productos",
+              "titolo": "Desde carbón hasta juguetes: EE. UU. y China recortarán US$60 mil millones de aranceles a varios productos",
+              "titolo_it": "Dal carbone ai giocattoli: Stati Uniti e Cina ridurranno di 60 miliardi di dollari i dazi su diversi prodotti",
+              "paese": "Guatemala",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "South China Morning Post",
+              "url": "https://www.scmp.com/news/us/diplomacy/article/3369119/missed-opportunity-us-soybean-farmers-question-exclusion-china-tariff-cuts?utm_source=rss_feed",
+              "titolo": "‘Missed opportunity’: US soybean farmers question exclusion from China tariff cuts",
+              "titolo_it": "Opportunità persa: i produttori di soia americani contestano l'esclusione dai tagli tariffari cinesi",
+              "paese": "Cina",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Chosun Ilbo",
+              "url": "https://www.chosun.com/international/international_general/2026/09/28/GM4WMMRTHA3TAZBUMM2GMNJTHA",
+              "titolo": "中, 관세 인하 대상에 미국산 석탄 포함… 수입 확대 추진",
+              "titolo_it": "Cina: il carbone americano tra i prodotti esclusi dai dazi, si punta a espandere le importazioni",
+              "paese": "Corea del Sud",
+              "continente": "Asia",
+              "lingua_originale": "coreano",
+              "live_blog": false
+            },
+            {
+              "testata": "Dawn",
+              "url": "https://www.dawn.com/news/2033263/china-to-cut-tariffs-on-us-farm-goods-but-list-excludes-soya-beans",
+              "titolo": "China to cut tariffs on US farm goods, but list excludes soya beans",
+              "titolo_it": "La Cina ridurrà i dazi sui prodotti agricoli Usa, ma la lista non include la soia",
+              "paese": "Pakistan",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Aftenposten",
+              "url": "https://www.aftenposten.no/okonomi/i/oEX1Wj/kina-kutter-toll-paa-amerikanske-landbruksvarer?utm_medium=rss",
+              "titolo": "Kina kutter toll på amerikanske landbruksvarer",
+              "titolo_it": null,
+              "paese": "Norvegia",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Meduza",
+              "url": "https://meduza.io/news/2026/09/28/kitay-i-ssha-prodlili-torgovoe-peremirie-tramp-predlozhil-si-tszinpinu-zakupit-amerikanskoe-oruzhie",
+              "titolo": "Китай и США продлили торговое перемирие. Трамп предложил Си Цзиньпину закупить американское оружие",
+              "titolo_it": "Cina e Stati Uniti prorogano la tregua commerciale: Trump propone a Xi Jinping l'acquisto di armi americane",
+              "paese": "Russia",
+              "continente": "Europa",
+              "lingua_originale": "russo",
+              "live_blog": false
+            },
+            {
+              "testata": "Página/12",
+              "url": "https://www.pagina12.com.ar/2026/09/28/china-y-eeuu-bajaran-los-aranceles-mutuos-por-60-mil-millones-de-dolares",
+              "titolo": "China y EE.UU. bajarán los aranceles mutuos por 60 mil millones de dólares",
+              "titolo_it": "Cina e Usa ridurranno i dazi reciproci per 60 miliardi di dollari",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Telesur",
+              "url": "https://www.telesurtv.net/china-eeuu-prorroga-tregua-comercial-2027",
+              "titolo": "China y EE.UU. prorrogan tregua comercial hasta enero de 2027",
+              "titolo_it": "Cina e Stati Uniti prorogano la tregua commerciale fino a gennaio 2027",
+              "paese": "Venezuela",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 4,
+          "convergenza_interna": {
+            "continente": "Nord America",
+            "coperte": 5,
+            "totali": 28
+          }
+        },
+        {
+          "id": 13,
+          "titolo": "Cornell, riaperta l'indagine per lo stupro di gruppo in una fraternità",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "I pubblici ministeri statunitensi riaprono l'indagine sul presunto stupro di gruppo avvenuto nel 2024 in una casa di fraternità della Cornell University, dopo una causa civile intentata dalla presunta vittima. La copertura nordamericana si concentra sul meccanismo giuridico e sull'etichetta dei sette imputati; quella del resto del mondo introduce angoli più critici sulla risposta istituzionale e sulla posizione della vittima.",
+          "confronto": [
+            {
+              "area": "Nord America",
+              "sintesi": "La copertura si muove sul piano procedurale: la riapertura dell'indagine, il riconsideramento della decisione di non procedere, il formato di spiegazione del caso. I sette membri della confraternita vengono etichettati come Cornell 7. L'attenzione è sul meccanismo legale e sull'istituzione che rivede la propria decisione, più che sulla vicenda in sé.",
+              "testate": [
+                "CBC News",
+                "NPR",
+                "Prensa Libre",
+                "The Globe and Mail",
+                "The New York Times"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Lo sguardo esterno è più frammentato e critico: si insiste sulla posizione della vittima, sulle accuse di averla definita irresponsabile, sullo scandalo che colpisce un ateneo di prestigio e sull'indignazione pubblica che ha spinto alla riapertura. Meno attenzione al meccanismo giuridico, più al fallimento istituzionale e alla narrazione della vittima.",
+              "testate": [
+                "BBC News",
+                "El Comercio",
+                "El País",
+                "Hindustan Times",
+                "Oslobođenje",
+                "The Hindu"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 5,
+            "n_testate": 11,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Bosnia ed Erzegovina",
+              "Canada",
+              "Guatemala",
+              "India",
+              "Perù",
+              "Regno Unito",
+              "Spagna",
+              "Stati Uniti"
+            ],
+            "trend": null
+          },
+          "n_articoli": 14,
+          "fonti": [
+            {
+              "testata": "CBC News",
+              "url": "https://www.cbc.ca/news/world/cornell-sexual-assault-case-9.7360733?cmp=rss",
+              "titolo": "What to know about Cornell's alleged frat house gang-rape case and the 'Cornell 7'",
+              "titolo_it": "Cosa sapere sul caso di stupro di gruppo nella casa dei fratelli di Cornell e sui \"Cornell 7",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/world/article-cornell-university-gang-rape-lawsuit",
+              "titolo": "U.S. prosecutor reopens investigation into gang rape allegations at Cornell University",
+              "titolo_it": "Procuratore USA riapre indagine su presunta violenza sessuale di gruppo alla Cornell University",
+              "paese": "Canada",
+              "continente": "Nord America",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Prensa Libre",
+              "url": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-presunto-caso-de-violacion-multiple-en-una-fraternidad-que-sacude-a-la-prestigiosa-universidad-de-cornell",
+              "titolo": "El presunto caso de violación múltiple en una fraternidad que sacude a la prestigiosa Universidad de Cornell",
+              "titolo_it": "Il presunto caso di stupro di gruppo in una confraternita scuote la prestigiosa università di Cornell",
+              "paese": "Guatemala",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Oslobođenje",
+              "url": "https://www.oslobodjenje.ba/vijesti/svijet/skandal-na-poznatom-univerzitetu-pljuste-optuzbe-za-grupno-silovanje-studentice",
+              "titolo": "Skandal na poznatom univerzitetu, pljušte optužbe za grupno silovanje studentice",
+              "titolo_it": null,
+              "paese": "Bosnia ed Erzegovina",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+              "titolo": "US prosecutors reopen case of alleged gang rape at Cornell University",
+              "titolo_it": "Procuratori USA riaprono il caso della presunta stupro di gruppo alla Cornell University",
+              "paese": "Regno Unito",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "El País",
+              "url": "https://elpais.com/us/2026-09-28/una-estudiante-de-la-universidad-de-cornell-denuncia-a-siete-miembros-de-una-fraternidad-por-drogarla-y-violarla-durante-horas.html",
+              "titolo": "Una estudiante de la Universidad de Cornell denuncia a siete miembros de una fraternidad por drogarla y violarla durante horas",
+              "titolo_it": "Studentessa di Cornell denuncia sette membri di una confraternita per averla drogata e violentata per ore",
+              "paese": "Spagna",
+              "continente": "Europa",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/us-news/why-is-cornell-university-calling-alleged-gang-rape-victim-irresponsible-all-on-essays-claim-in-2024-chi-phi-case-101790620304014.html",
+              "titolo": "Why is Cornell University calling alleged gang rape victim ‘irresponsible’? All on 'essays' claim in 2024 Chi Phi case",
+              "titolo_it": "Perché l'Università di Cornell definisce \"irresponsabile\" la presunta vittima di stupro di gruppo? Tutto sul caso Chi Phi del 2024 e la presunta frode negli esami",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Hindu",
+              "url": "https://www.thehindu.com/news/international/us-prosecutors-reopen-cornell-gang-rape-case-after-outcry/article71521578.ece",
+              "titolo": "U.S. prosecutors reopen Cornell gang rape case after outcry",
+              "titolo_it": "Procura USA riapre il caso di stupro di gruppo a Cornell dopo le proteste",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "El Comercio",
+              "url": "https://elcomercio.pe/mundo/eeuu/fiscales-de-estados-unidos-reabren-investigacion-por-presunta-violacion-grupal-en-universidad-de-cornell-ultimas-noticia",
+              "titolo": "Fiscales de EE.UU. reabren investigación por presunta violación grupal en Universidad de Cornell",
+              "titolo_it": "Fisco USA riapre indagine su presunta violenza di gruppo all'Università di Cornell",
+              "paese": "Perù",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 5,
+          "convergenza_interna": {
+            "continente": "Nord America",
+            "coperte": 5,
+            "totali": 28
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Europa",
+      "temi": [
+        {
+          "id": 21,
+          "titolo": "Svezia, il vincitore delle elezioni non forma il governo",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Magdalena Andersson, leader dei socialdemocratici vincitori delle elezioni svedesi, ha dichiarato fallite le consultazioni per la formazione del governo. La stampa europea, in particolare nordica, si concentra sulle dinamiche interne tra partiti e sui prossimi passi del processo. La stampa extraeuropea riporta il fatto in modo più sintetico, evidenziando il paradosso di un vincitore incapace di governare, senza approfondire le meccaniche partitiche.",
+          "confronto": [
+            {
+              "area": "Europa",
+              "sintesi": "La stampa europea, in particolare nordica, si concentra sulle dinamiche partitiche specifiche: le tensioni tra rosso e verde, il dissenso interno alla sinistra, la proposta concreta di un governo con il Partito della Sinistra e i Moderati. La stampa svedese è procedurale e orientata ai prossimi passi. Il lettore è dato per informato sul sistema partitico svedese.",
+              "testate": [
+                "Aftenposten",
+                "Dagens Nyheter",
+                "De Standaard",
+                "Der Spiegel",
+                "Der Standard",
+                "Helsingin Sanomat",
+                "Politiken",
+                "Svenska Dagbladet",
+                "The Irish Times"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "La stampa extraeuropea riporta il fatto in modo sintetico: la socialdemocratica vincitrice delle elezioni non riesce a formare il governo. Il focus è sul paradosso di un vincitore incapace di governare e sulla divisione generale tra i partiti, senza entrare nelle dinamiche specifiche tra formazioni politiche né nei prossimi passi procedurali.",
+              "testate": [
+                "Folha de S.Paulo",
+                "South China Morning Post"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 4,
+            "n_testate": 11,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Sud America"
+            ],
+            "paesi": [
+              "Austria",
+              "Belgio",
+              "Brasile",
+              "Cina",
+              "Danimarca",
+              "Finlandia",
+              "Germania",
+              "Irlanda",
+              "Norvegia",
+              "Svezia"
+            ],
+            "trend": null
+          },
+          "n_articoli": 12,
+          "fonti": [
+            {
+              "testata": "Der Standard",
+              "url": "https://www.derstandard.at/story/3000000341675/schwedens-sozialdemokraten-regierungsbildung-gescheitert?ref=rss",
+              "titolo": "Schwedens Sozialdemokraten mit Regierungsbildung gescheitert",
+              "titolo_it": "Sconfitta per i socialdemocratici svedesi: fallito il tentativo di formare il governo",
+              "paese": "Austria",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "De Standaard",
+              "url": "https://www.standaard.be/buitenland/ze-won-de-verkiezingen-maar-zweedse-sociaaldemocrate-andersson-is-er-niet-in-geslaagd-een-regering-te-vormen/162251922.html",
+              "titolo": "Ze won de verkiezingen, maar Zweedse sociaaldemocrate Andersson is er niet in geslaagd een regering te vormen",
+              "titolo_it": null,
+              "paese": "Belgio",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Politiken",
+              "url": "https://politiken.dk/internationalt/art10999786/R%C3%B8d-gr%C3%B8n-guerillakrig-udl%C3%B8ser-konservativ-delsejr-i-svensk-regeringsdrama",
+              "titolo": "Rød-grøn guerillakrig udløser konservativ delsejr i svensk regeringsdrama",
+              "titolo_it": null,
+              "paese": "Danimarca",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/europe/article/3369077/swedens-magdalena-andersson-ends-government-formation-talks-no-result?utm_source=rss_feed",
+              "titolo": "Sweden’s Magdalena Andersson ends government-formation talks with no result",
+              "titolo_it": "Svezia, Magdalena Andersson chiude i colloqui per la formazione del governo senza esito",
+              "paese": "Cina",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/mundo/2026/09/partidos-nao-se-entendem-na-suecia-e-social-democrata-fracassa-em-formar-governo.shtml",
+              "titolo": "Partidos não se entendem na Suécia, e social-democrata fracassa em formar governo",
+              "titolo_it": "Svezia, i partiti non si capiscono e i socialdemocratici falliscono nella formazione del governo",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 7,
+          "convergenza_interna": {
+            "continente": "Europa",
+            "coperte": 9,
+            "totali": 50
+          }
+        },
+        {
+          "id": 22,
+          "titolo": "La Russia pone gli asset di Metro AG sotto amministrazione temporanea",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "La Russia ha posto sotto amministrazione temporanea gli asset della catena tedesca Metro AG, rimasta nel Paese dopo l'invasione dell'Ucraina. La stampa europea lo inquadra nella campagna di confisca delle imprese occidentali e nelle tensioni con Berlino; i media russi di opposizione sottolineano la continuità gestionale, affidando la gestione allo stesso direttore della filiale. Le testate extraeuropee riportano il fatto in modo asciutto, senza approfondimento politico.",
+          "confronto": [
+            {
+              "area": "Europa",
+              "sintesi": "Le testate occidentali europee lo inquadrono come confisca nel contesto della guerra e delle tensioni con Berlino; la stampa ucraina usa il linguaggio più duro di sequestro. I media russi di opposizione mettono in luce la continuità: la gestione temporanea va allo stesso direttore della filiale. TASS riporta la risposta aziendale, Metro che analizza le implicazioni.",
+              "testate": [
+                "Der Spiegel",
+                "G4Media",
+                "Kyiv Independent",
+                "LRT",
+                "Meduza",
+                "Novaya Gazeta Europe",
+                "TASS",
+                "Telex"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Le due testate riportano il fatto in modo asciutto: Mosca o Putin assumono il controllo degli asset russi di Metro. Non c'è inquadramento politico né riferimento al contesto della guerra o alla campagna più ampia di confische. Il fatto viene trattato come evento isolato, senza approfondimento.",
+              "testate": [
+                "Daily Sabah",
+                "Infobae"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 4,
+            "n_testate": 11,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Germania",
+              "Lituania",
+              "Romania",
+              "Russia",
+              "Svizzera",
+              "Turchia",
+              "Ucraina",
+              "Ungheria"
+            ],
+            "trend": null
+          },
+          "n_articoli": 12,
+          "fonti": [
+            {
+              "testata": "Der Spiegel",
+              "url": "https://www.spiegel.de/wirtschaft/unternehmen/russland-stellt-deutschen-grosshaendler-metro-unter-zwangsverwaltung-a-f7cd037d-243c-4c78-83f6-d8d196bb280d",
+              "titolo": "Russland stellt deutschen Großhändler Metro unter Zwangsverwaltung",
+              "titolo_it": "La Russia sottopone a amministrazione controllata il grande distributore tedesco Metro",
+              "paese": "Germania",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "LRT",
+              "url": "https://www.lrt.lt/naujienos/verslas/4/3066405/maskva-konfiskavo-vokietijos-prekybos-tinklo-metro-turta-rusijoje",
+              "titolo": "Maskva konfiskavo Vokietijos prekybos tinklo „Metro“ turtą Rusijoje",
+              "titolo_it": "Mosca sequestra i beni della catena tedesca Metro in Russia",
+              "paese": "Lituania",
+              "continente": "Europa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "G4Media",
+              "url": "https://www.g4media.ro/rusia-a-pus-activele-locale-ale-metro-ag-sub-administrare-temporara.html",
+              "titolo": "Rusia a pus activele locale ale Metro AG sub administrare temporară",
+              "titolo_it": null,
+              "paese": "Romania",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Daily Sabah",
+              "url": "https://www.dailysabah.com/business/economy/moscow-seizes-control-of-german-retailer-metros-russian-assets",
+              "titolo": "Moscow seizes control of German retailer Metro's Russian assets",
+              "titolo_it": "Mosca si impadronisce degli asset russi del retailer tedesco Metro",
+              "paese": "Turchia",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Infobae",
+              "url": "https://www.infobae.com/america/mundo/2026/09/28/putin-intervino-metro-cash-and-carry-y-puso-bajo-gestion-temporal-las-operaciones-de-la-cadena-alemana-en-rusia",
+              "titolo": "Putin intervino Metro Cash and Carry y puso bajo gestión temporal las operaciones de la cadena alemana en Rusia",
+              "titolo_it": "Putin interviene su Metro Cash and Carry e affida a gestione temporale le operazioni della catena tedesca in Russia",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 7,
+          "convergenza_interna": {
+            "continente": "Europa",
+            "coperte": 9,
+            "totali": 50
+          }
+        },
+        {
+          "id": 7,
+          "titolo": "Sfratto di un'ottantasettenne a Madrid e crisi abitativa in Spagna",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "L'espulsione di una pensionata di 87 anni dal suo appartamento a Madrid ha innescato proteste di massa in Spagna. Dopo ore di trattative è stato raggiunto un accordo che le consente di tornare a casa. La stampa europea si concentra sulla risoluzione del caso e sulla mediazione politica, mentre la stampa del resto del mondo ne sottolinea il peso simbolico e lo inserisce in una crisi abitativa strutturale.",
+          "confronto": [
+            {
+              "area": "Europa",
+              "sintesi": "Al centro la risoluzione: l'accordo raggiunto, il ritorno a casa, la mediazione politica. La crisi abitativa è dato di contesto, non oggetto principale. Le proteste compaiono come sfondo, non come fenomeno da analizzare. Il caso è trattato come episodio specifico di un dibattito di politica abitativa già noto al lettore.",
+              "testate": [
+                "Aftenposten",
+                "Dagens Nyheter",
+                "Der Spiegel",
+                "El Mundo",
+                "Frankfurter Allgemeine Zeitung",
+                "NRC",
+                "NRK Sápmi",
+                "Público"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Lo sguardo esterno mette in primo piano la portata della crisi e il suo peso simbolico. Il caso diventa lente per spiegare un problema strutturale: si parla di sconvolgimento politico, di movimento dei indignados rianimato, di simbolo della crisi abitativa. Il tono è più esplicativo e analitico, rivolto a un lettore che non conosce il contesto interno.",
+              "testate": [
+                "ABC Color",
+                "Diario Libre",
+                "El Comercio",
+                "El Universal",
+                "Estadão",
+                "Folha de S.Paulo",
+                "La Nación (Costa Rica)",
+                "O Globo",
+                "Página/12",
+                "VnExpress"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 7,
+            "n_testate": 18,
+            "continenti": [
+              "Asia",
+              "Europa",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Argentina",
+              "Brasile",
+              "Costa Rica",
+              "Germania",
+              "Messico",
+              "Norvegia",
+              "Paesi Bassi",
+              "Paraguay",
+              "Perù",
+              "Portogallo",
+              "Repubblica Dominicana",
+              "Spagna",
+              "Svezia",
+              "Vietnam"
+            ],
+            "trend": null
+          },
+          "n_articoli": 20,
+          "fonti": [
+            {
+              "testata": "Der Spiegel",
+              "url": "https://www.spiegel.de/ausland/wohnungsnot-in-spanien-zwangsgeraeumte-87-jaehrige-soll-zurueck-in-ihre-wohnung-a-a58d6993-0d19-4f68-bcc5-4cc9a4ca2477",
+              "titolo": "Wohnungsnot in Spanien: Zwangsgeräumte 87-Jährige soll zurück in ihre Wohnung",
+              "titolo_it": "Crisi abitativa in Spagna: l'anziana di 87 anni sfrattata dovrebbe tornare nel suo appartamento",
+              "paese": "Germania",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "Frankfurter Allgemeine Zeitung",
+              "url": "https://www.faz.net/aktuell/politik/ausland/maricarmen-abascal-darf-nach-zwangsraeumung-heimkehren-201271023.html",
+              "titolo": "Fall Maricarmen: Rentnerin darf in ihre Wohnung zurückkehren",
+              "titolo_it": "Caso Maricarmen: la pensionata può tornare nel suo appartamento",
+              "paese": "Germania",
+              "continente": "Europa",
+              "lingua_originale": "tedesco",
+              "live_blog": false
+            },
+            {
+              "testata": "Aftenposten",
+              "url": "https://www.aftenposten.no/verden/i/M7zLBo/87-aar-gamle-maricarmen-faar-flytte-hjem?utm_medium=rss",
+              "titolo": "87 år gamle Maricarmen får flytte hjem",
+              "titolo_it": null,
+              "paese": "Norvegia",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            },
+            {
+              "testata": "Página/12",
+              "url": "https://www.pagina12.com.ar/2026/09/28/la-crisis-de-la-vivienda-en-espana-resucita-al-movimiento-de-los-indignados",
+              "titolo": "La crisis de la vivienda en España resucita al movimiento de los indignados",
+              "titolo_it": "La crisi abitativa in Spagna rianima il movimento degli indignados",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Estadão",
+              "url": "https://www.estadao.com.br/internacional/como-despejo-idosa-87-anos-gerou-onda-protestos-moradia-espanha-npr",
+              "titolo": "Como o despejo de uma idosa de 87 anos gerou onda de protestos por moradia na Espanha",
+              "titolo_it": "In Spagna, lo sfratto di una nonna di 87 anni scatena una ondata di proteste per il diritto all'abitare",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "Folha de S.Paulo",
+              "url": "https://www1.folha.uol.com.br/mercado/2026/09/acordo-permite-que-idosa-despejada-volte-para-casa-em-madri.shtml",
+              "titolo": "Acordo permite que idosa despejada volte para casa em Madri",
+              "titolo_it": "Accordo consente a anziana sfrattata di tornare a casa a Madrid",
+              "paese": "Brasile",
+              "continente": "Sud America",
+              "lingua_originale": "portoghese",
+              "live_blog": false
+            },
+            {
+              "testata": "La Nación (Costa Rica)",
+              "url": "https://www.nacion.com/el-mundo/acuerdan-devolverle-la-vivienda-a-jubilada-de/V7Y3XTPKBBC3JHEDSYVREMRNTA/story",
+              "titolo": "Acuerdan devolverle la vivienda a jubilada de Madrid cuyo desahucio desató protestas en España",
+              "titolo_it": "A Madrid, restituita la casa a una pensionista il cui sfratto aveva scatenato proteste in Spagna",
+              "paese": "Costa Rica",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universal",
+              "url": "https://www.eluniversal.com.mx/mundo/maricarmen-de-87-anos-podra-volver-a-su-casa-en-madrid-tras-ser-desalojada-alcanza-acuerdo-con-empresa-propietaria-del-inmueble",
+              "titolo": "Maricarmen, de 87 años, podrá volver a su casa en Madrid tras ser desalojada; alcanza acuerdo con empresa propietaria del inmueble",
+              "titolo_it": "Maricarmen, 87 anni, potrà tornare a casa a Madrid dopo lo sfratto: raggiunto l'accordo con la società proprietaria dell'immobile",
+              "paese": "Messico",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "Diario Libre",
+              "url": "https://www.diariolibre.com/videos/mundo/europa/2026/09/28/cientos-protestan-en-madrid-por-crisis-de-vivienda/3672173",
+              "titolo": "Cientos protestan en Madrid por crisis de vivienda",
+              "titolo_it": "Centinaia di persone protestano a Madrid per la crisi abitativa",
+              "paese": "Repubblica Dominicana",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "VnExpress",
+              "url": "https://vnexpress.net/tay-ban-nha-day-song-sau-vu-cuong-che-cu-ba-87-tuoi-khoi-nha-thue-70-nam-5125685.html",
+              "titolo": "Tây Ban Nha 'dậy sóng' sau vụ cưỡng chế cụ bà 87 tuổi khỏi nhà thuê 70 năm",
+              "titolo_it": null,
+              "paese": "Vietnam",
+              "continente": "Asia",
+              "lingua_originale": null,
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 10,
+          "convergenza_interna": {
+            "continente": "Europa",
+            "coperte": 8,
+            "totali": 50
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Africa",
+      "temi": [
+        {
+          "id": 86,
+          "titolo": "Swiftair condannata per il crash del volo Air Algérie in Mali",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Il tribunale di Parigi ha condannato la compagnia spagnola Swiftair a una multa di 225.000 euro per omicidi colposi relativi al crash del 2014 di un volo Air Algérie in Mali. La stampa africana segue la vicenda con l'attenzione delle famiglie delle vittime, che dopo dodici anni chiedono piena chiarezza. Nessuna testata extracontinentale riporta la sentenza.",
+          "confronto": [
+            {
+              "area": "Africa",
+              "sintesi": "Le testate africane mettono al centro le famiglie delle vittime e la lunga attesa di giustizia. Il Burkina Faso dà spazio alla reazione dell'associazione delle famiglie; il Mali insiste sulla richiesta di piena luce sulle circostanze; la Costa d'Avorio sottolinea che la giustizia ha raggiunto la compagnia dopo dodici anni; il Senegal si limita al fatto della condanna.",
+              "testate": [
+                "L'Infodrome",
+                "Lefaso.net",
+                "Seneweb",
+                "Studio Tamani"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 1,
+            "n_testate": 4,
+            "continenti": [
+              "Africa"
+            ],
+            "paesi": [
+              "Burkina Faso",
+              "Costa d'Avorio",
+              "Mali",
+              "Senegal"
+            ],
+            "trend": null
+          },
+          "n_articoli": 5,
+          "fonti": [
+            {
+              "testata": "Lefaso.net",
+              "url": "https://lefaso.net/spip.php?article149574",
+              "titolo": "Crash Air Algérie au Mali : Swiftair écope d'une amende de 225 000 euros, l'AFAVIC salue le verdict",
+              "titolo_it": "Schianto Air Algérie in Mali: Swiftair multata per 225.000 euro, l'AFAVIC saluta la sentenza",
+              "paese": "Burkina Faso",
+              "continente": "Africa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "L'Infodrome",
+              "url": "https://www.linfodrome.com/international/125819-crash-du-vol-ouagadougou-alger-en-2014-compagnie-aerienne-swiftair-rattrapee-par-la-justice",
+              "titolo": "Crash du vol Ouagadougou-Alger en 2014 : compagnie aérienne Swiftair rattrapée par la justice",
+              "titolo_it": "Schianto del volo Ouagadougou-Algeri del 2014: la Swiftair raggiunta dalla giustizia",
+              "paese": "Costa d'Avorio",
+              "continente": "Africa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "Studio Tamani",
+              "url": "https://www.studiotamani.org/208309-swiftair-condamnee-a-225-000-euros-damende-la-famille-dune-victime-malienne-attend-toute-la-lumiere-sur-le-crash",
+              "titolo": "Swiftair condamnée à 225 000 euros d’amende, la famille d’une victime malienne attend toute la lumière sur le crash",
+              "titolo_it": "Swiftair condannata a 225.000 euro di multa, la famiglia della vittima maliana chiede piena luce sul disastro",
+              "paese": "Mali",
+              "continente": "Africa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 2,
+          "convergenza_interna": {
+            "continente": "Africa",
+            "coperte": 4,
+            "totali": 57
+          }
+        },
+        {
+          "id": 87,
+          "titolo": "Guinea-Bissau, Embaló annuncia la candidatura alla presidenza",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "L'ex presidente della Guinea-Bissau, Embaló, deposto dal potere, annuncia la propria candidatura alle elezioni presidenziali e il ritorno nel Paese. La copertura è interamente africana; non si rileva un interesse significativo da parte della stampa internazionale.",
+          "confronto": [
+            {
+              "area": "Africa",
+              "sintesi": "Le testate africane mettono al centro l'annuncio della candidatura e il ritorno di Embaló nel Paese. Il rovesciamento è dato come fatto acquisito, senza approfondimento. Il tono è quello della cronaca politica: si registra la dichiarazione, si contestualizza brevemente.",
+              "testate": [
+                "Jeune Afrique",
+                "L'Infodrome",
+                "Seneweb",
+                "The Punch"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 1,
+            "n_testate": 4,
+            "continenti": [
+              "Africa"
+            ],
+            "paesi": [
+              "Costa d'Avorio",
+              "Francia",
+              "Nigeria",
+              "Senegal"
+            ],
+            "trend": null
+          },
+          "n_articoli": 4,
+          "fonti": [
+            {
+              "testata": "L'Infodrome",
+              "url": "https://www.linfodrome.com/international/125828-presidentielle-en-guinee-bissau-emballo-annonce-son-comeback-et-se-porte-candidat",
+              "titolo": "Présidentielle en Guinée-Bissau : Emballo annonce son « comeback » et se porte candidat",
+              "titolo_it": "Guinea-Bissau, elezioni presidenziali: Emballo annuncia il suo \"ritorno\" e si candida",
+              "paese": "Costa d'Avorio",
+              "continente": "Africa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "Jeune Afrique",
+              "url": "https://www.jeuneafrique.com/1846951/politique/exclusif-umaro-sissoco-embalo-oui-je-suis-candidat-a-la-presidentielle",
+              "titolo": "Exclusif–Umaro Sissoco Embaló : « Oui, je suis candidat à la présidentielle »",
+              "titolo_it": "Esclusiva – Umaro Sissoco Embaló: «Sì, sono candidato alla presidenza",
+              "paese": "Francia",
+              "continente": "Africa",
+              "lingua_originale": "francese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Punch",
+              "url": "https://punchng.com/guinea-bissaus-ousted-embalo-to-return-run-for-president/?utm_source=rss.punchng.com&utm_medium=web",
+              "titolo": "Guinea-Bissau’s ousted Embalo to return, run for president",
+              "titolo_it": "Guinea-Bissau: l'ex presidente Embalo, deposto, fa ritorno e correrà per la presidenza",
+              "paese": "Nigeria",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 1,
+          "convergenza_interna": {
+            "continente": "Africa",
+            "coperte": 4,
+            "totali": 57
+          }
+        },
+        {
+          "id": 76,
+          "titolo": "Dieci donne uccise a Tembisa: la scia di omicidi in Sudafrica",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "A Tembisa, nel distretto di Ekurhuleni, è stato ritrovato il corpo di una decima donna uccisa da luglio. La stampa sudafricana segue i singoli episodi e le indagini di polizia, mentre la copertura esterna li inquadra come possibile opera di un assassino seriale.",
+          "confronto": [
+            {
+              "area": "Africa",
+              "sintesi": "Le testate sudafricane danno spazio ai dettagli dei singoli episodi — l'età della vittima, il momento della morte, il percorso verso il lavoro — e alle sfumature dell'indagine, dove somiglianze e differenze tra i casi complicano il nesso. Al centro la sicurezza femminile nella comunità di Tembisa.",
+              "testate": [
+                "Daily Maverick",
+                "Mail & Guardian",
+                "News24"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "La copertura esterna è minima e si limita a un'unica testata messicana, che inquadra la vicenda come possibile opera di un assassino seriale, enfatizzando il numero dei corpi e l'ipotesi criminale senza i dettagli locali.",
+              "testate": [
+                "El Universal"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 2,
+            "n_testate": 4,
+            "continenti": [
+              "Africa",
+              "Nord America"
+            ],
+            "paesi": [
+              "Messico",
+              "Sudafrica"
+            ],
+            "trend": null
+          },
+          "n_articoli": 4,
+          "fonti": [
+            {
+              "testata": "Daily Maverick",
+              "url": "https://www.dailymaverick.co.za/article/2026-09-28-after-another-woman-murdered-in-ekurhuleni-heres-what-we-know-about-the-killings",
+              "titolo": "EAST RAND MURDERS: After another woman murdered in Ekurhuleni, here’s what we know about the killings",
+              "titolo_it": "Omicidi nell'East Rand: dopo la nuova donna uccisa a Ekurhuleni, ecco cosa sappiamo sulle stragi",
+              "paese": "Sudafrica",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Mail & Guardian",
+              "url": "https://mg.co.za/news/south-africa/2026-09-28-23-year-old-woman-shot-dead-on-her-way-to-work-in-tembisa",
+              "titolo": "23-year-old woman shot dead on her way to work in Tembisa",
+              "titolo_it": "Donna di 23 anni uccisa a colpi di arma da fuoco mentre si recava al lavoro a Tembisa",
+              "paese": "Sudafrica",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "News24",
+              "url": "https://www.news24.com/southafrica/crime-and-courts/tenth-womans-body-found-in-ekurhuleni-deepening-grisly-discovery-trail-20260926-0544",
+              "titolo": "News24 | UPDATE | Tenth woman’s body found in Ekurhuleni, deepening grisly discovery trail",
+              "titolo_it": "News24 | AGGIORNAMENTO | Decimo corpo di donna trovato a Ekurhuleni, si allunga la scia di macabre scoperte",
+              "paese": "Sudafrica",
+              "continente": "Africa",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universal",
+              "url": "https://www.eluniversal.com.mx/mundo/hallan-cuerpo-de-otra-mujer-en-sudafrica-aumentan-temores-de-que-se-trata-de-asesino-en-serie",
+              "titolo": "Hallan cuerpo de otra mujer en Sudáfrica; aumentan temores de que se trata de asesino en serie",
+              "titolo_it": "Sudafrica, trovato il corpo di un'altra donna: cresce la paura di un serial killer",
+              "paese": "Messico",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 0,
+          "convergenza_interna": {
+            "continente": "Africa",
+            "coperte": 3,
+            "totali": 57
+          }
+        }
+      ]
+    },
+    {
+      "continente": "Asia",
+      "temi": [
+        {
+          "id": 24,
+          "titolo": "Trump annuncia un'acciaieria da 15 miliardi in Iowa",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Il presidente statunitense annuncia un investimento da 15 miliardi di dollari per una nuova acciaieria in Iowa, definita la più grande del Paese. La copertura asiatica la inquadra prevalentemente come mossa elettorale in vista delle midterm, mentre la stampa spagnola ne sottolinea la portata industriale.",
+          "confronto": [
+            {
+              "area": "Asia",
+              "sintesi": "La stampa asiatica inquadra l'annuncio quasi esclusivamente come strumento politico in vista delle elezioni di medio termine: il timing elettorale è il filo conduttore dominante. Un'eccezione arriva dall'India, dove l'attenzione si sposta sull'immagine di Trump che appare addormentato in diretta, trasformando l'evento in una nota di cronaca umana.",
+              "testate": [
+                "Al Jazeera",
+                "Chosun Ilbo",
+                "Daily Sabah",
+                "Hindustan Times",
+                "South China Morning Post"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "La copertura spagnola pone al centro la dimensione industriale e economica: si tratta della più grande acciaieria degli Stati Uniti, con un investimento da 15 miliardi. Il contesto elettorale è presente ma resta in secondo piano rispetto alla portata infrastrutturale dell'annuncio.",
+              "testate": [
+                "El País"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 4,
+            "n_testate": 6,
+            "continenti": [
+              "Asia",
+              "Europa"
+            ],
+            "paesi": [
+              "Cina",
+              "Corea del Sud",
+              "India",
+              "Qatar",
+              "Spagna",
+              "Turchia"
+            ],
+            "trend": null
+          },
+          "n_articoli": 7,
+          "fonti": [
+            {
+              "testata": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3369110/trump-announcing-new-iowa-steel-plant-white-house-says-will-be-biggest-us?utm_source=rss_feed",
+              "titolo": "Trump unveils US$15 billion Iowa steel project the White House says will be biggest in US",
+              "titolo_it": "Trump presenta progetto da 15 miliardi di dollari per l'acciaio in Iowa, il più grande della storia degli Stati Uniti",
+              "paese": "Cina",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Chosun Ilbo",
+              "url": "https://www.chosun.com/international/international_general/2026/09/29/GQ4GCMDCGY2TSZRWMEYGINJVMI",
+              "titolo": "중간선거 앞둔 트럼프, 20조원 규모 제철소 투자 발표",
+              "titolo_it": "Trump, alla vigilia delle elezioni di midterm, annuncia investimenti da 20 trilioni di won per un'acciaieria",
+              "paese": "Corea del Sud",
+              "continente": "Asia",
+              "lingua_originale": "coreano",
+              "live_blog": false
+            },
+            {
+              "testata": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/us-news/trump-mocks-sleepy-joe-then-appears-to-doze-off-during-15b-steel-plant-announcement-watch-video-101790628770757.html",
+              "titolo": "Trump mocks 'Sleepy Joe', then appears to doze off during $15B steel plant announcement",
+              "titolo_it": "Trump deride \"Sleepy Joe\" e poi sembra addormentarsi durante l'annuncio di un impianto siderurgico da 15 miliardi di dollari",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "El País",
+              "url": "https://elpais.com/us/2026-09-28/trump-anuncia-que-iowa-acogera-la-mayor-planta-siderurgica-de-estados-unidos-con-una-inversion-de-15000-millones.html",
+              "titolo": "Trump anuncia que Iowa acogerá la mayor planta siderúrgica de Estados Unidos con una inversión de 15.000 millones",
+              "titolo_it": "Trump annuncia che l'Iowa ospiterà la più grande acciaieria degli Stati Uniti con un investimento di 15 miliardi di dollari",
+              "paese": "Spagna",
+              "continente": "Europa",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 3,
+          "convergenza_interna": {
+            "continente": "Asia",
+            "coperte": 5,
+            "totali": 56
+          }
+        },
+        {
+          "id": 17,
+          "titolo": "Netanyahu ad Abu Dhabi, gli Emirati confermano l'incontro",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Netanyahu si è recato ad Abu Dhabi per incontrare il presidente degli Emirati, Mohamed bin Zayed. Gli Emirati hanno confermato ufficialmente la visita, che era stata inizialmente non annunciata. Le testate asiatiche insistono sul carattere inaspettato dell'incontro e sul canale di conferma ufficiale; quelle latinoamericane riportano il fatto in modo più sintetico e distaccato.",
+          "confronto": [
+            {
+              "area": "Asia",
+              "sintesi": "Al centro c'è la conferma ufficiale emiratina, comunicata tramite agenzia di stampa di Stato, e il carattere inaspettato della visita. Si dà per scontato il quadro diplomatico regionale. L'accento è sul processo di riconoscimento dell'incontro più che sui suoi contenuti.",
+              "testate": [
+                "Afghanistan International",
+                "Al Jazeera",
+                "Hindustan Times",
+                "The Jerusalem Post"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "Il tono è più distaccato e fattuale: si riporta l'incontro e la sua conferma senza approfondimenti sul contesto regionale. L'attenzione va al fatto in sé e alla natura bilaterale della discussione, senza il framing diplomatico che caratterizza la copertura asiatica.",
+              "testate": [
+                "ABC Color",
+                "El Universo",
+                "Infobae",
+                "La Jornada"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 4,
+            "n_testate": 8,
+            "continenti": [
+              "Asia",
+              "Nord America",
+              "Sud America"
+            ],
+            "paesi": [
+              "Afghanistan",
+              "Argentina",
+              "Ecuador",
+              "India",
+              "Israele",
+              "Messico",
+              "Paraguay",
+              "Qatar"
+            ],
+            "trend": null
+          },
+          "n_articoli": 8,
+          "fonti": [
+            {
+              "testata": "Afghanistan International",
+              "url": "https://www.afintl.com/202609288833",
+              "titolo": "نخست‌وزیر اسرائیل و رئیس امارات متحده عربی درباره تقویت روابط دوجانبه گفت‌وگو کردند",
+              "titolo_it": "Il premier israeliano e il presidente degli Emirati Arabi Uniti hanno discusso del rafforzamento delle relazioni bilaterali",
+              "paese": "Afghanistan",
+              "continente": "Asia",
+              "lingua_originale": "farsi",
+              "live_blog": false
+            },
+            {
+              "testata": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/netanyahu-makes-surprise-uae-trip-to-meet-president-mohamed-bin-zayed-al-nahyan-report-101790569664823.html",
+              "titolo": "Netanyahu makes surprise UAE trip to meet President Mohamed bin Zayed Al Nahyan: Report",
+              "titolo_it": "Netanyahu in visita a sorpresa negli Emirati per incontrare il presidente Mohamed bin Zayed Al Nahyan",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Jerusalem Post",
+              "url": "https://www.jpost.com/middle-east/article-910022",
+              "titolo": "UAE confirms Netanyahu visit, discussion over bilateral relations with MBZ via state news agency",
+              "titolo_it": "Emirati confermano visita di Netanyahu, colloqui su relazioni bilaterali con MBZ",
+              "paese": "Israele",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Infobae",
+              "url": "https://www.infobae.com/america/mundo/2026/09/28/benjamin-netanyahu-se-reunio-con-mohamed-bin-zayed-en-abu-dhabi",
+              "titolo": "Benjamin Netanyahu se reunió con Mohamed bin Zayed en Abu Dhabi",
+              "titolo_it": "Netanyahu si incontra con Mohammed bin Zayed ad Abu Dhabi",
+              "paese": "Argentina",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "El Universo",
+              "url": "https://eluniverso.com/noticias/internacional/lideres-de-emiratos-arabes-unidos-e-israel-se-reunen-para-abordar-relaciones-bilaterales-nota",
+              "titolo": "Líderes de Emiratos Árabes Unidos e Israel se reúnen para abordar relaciones bilaterales",
+              "titolo_it": "Leader di Emirati Arabi Uniti e Israele si incontrano per discutere le relazioni bilaterali",
+              "paese": "Ecuador",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "ABC Color",
+              "url": "https://www.abc.com.py/internacionales/2026/09/28/emiratos-confirma-que-netanyahu-se-reunio-con-presidente-emirati-para-abordar-relaciones",
+              "titolo": "Emiratos confirma que Netanyahu se reunió con presidente emiratí para abordar relaciones",
+              "titolo_it": "Emirati: Netanyahu ha incontrato il presidente per discutere le relazioni bilaterali",
+              "paese": "Paraguay",
+              "continente": "Sud America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            },
+            {
+              "testata": "La Jornada",
+              "url": "https://www.jornada.com.mx/2026/09/28/mundo/022n1mun?partner=rss",
+              "titolo": "Premier israelí se reúne con el presidente de los Emiratos Árabes",
+              "titolo_it": "Il premier israeliano si incontra con il presidente degli Emirati Arabi",
+              "paese": "Messico",
+              "continente": "Nord America",
+              "lingua_originale": "spagnolo",
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 1,
+          "convergenza_interna": {
+            "continente": "Asia",
+            "coperte": 4,
+            "totali": 56
+          }
+        },
+        {
+          "id": 31,
+          "titolo": "Monsone: frane e alluvioni uccidono in Nepal e India",
+          "titolo_da": null,
+          "titolo_provvisorio": false,
+          "sintesi": "Il monsone ha provocato inondazioni e frane letali nell'Asia meridionale. In Nepal, piogge torrenziali hanno causato almeno 21 morti nel Paese occidentale, con il crollo di un edificio governativo a Baglung. In India, le alluvioni in uno Stato densamente popolato hanno fatto 81 vittime. La stampa asiatica si concentra sul Nepal con dettagli locali; l'unica copertura esterna riguarda l'India.",
+          "confronto": [
+            {
+              "area": "Asia",
+              "sintesi": "Le testate asiatiche concentrano l'attenzione sul Nepal: frane a Baglung, crollo di un edificio governativo, piogge torrenziali nel Paese occidentale. Si dà spazio agli aspetti visivi e alle operazioni di soccorso. La testata nepalese offre il quadro più completo con i dati sugli sfollati. L'evento è raccontato come catastrofe locale in corso.",
+              "testate": [
+                "Al Jazeera",
+                "Hindustan Times",
+                "The Kathmandu Post",
+                "The Times of India"
+              ]
+            },
+            {
+              "area": "Resto del mondo",
+              "sintesi": "L'unica testata esterna copre il tema riferendosi all'India, non al Nepal: 81 morti per inondazioni in uno Stato densamente popolato. La notizia è trattata in modo sintetico e distaccato. L'assenza di copertura esterna sul Nepal è essa stessa un dato: la catastrofe nepalese resta confinata alla stampa regionale.",
+              "testate": [
+                "Aftenposten"
+              ]
+            }
+          ],
+          "convergenza": {
+            "percento": 3,
+            "n_testate": 5,
+            "continenti": [
+              "Asia",
+              "Europa"
+            ],
+            "paesi": [
+              "India",
+              "Nepal",
+              "Norvegia",
+              "Qatar"
+            ],
+            "trend": null
+          },
+          "n_articoli": 6,
+          "fonti": [
+            {
+              "testata": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/landslides-bury-homes-in-nepal-s-baglung-10-killed-and-one-missing-101790583178870.html",
+              "titolo": "Nepal landslides bury homes in Baglung, 10 killed, 1 missing; terrifying visuals show mountains collapsing",
+              "titolo_it": "Frane in Nepal seppelliscono case a Baglung: 10 morti, 1 disperso, immagini agghiaccianti di montagne che crollano",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/world/south-asia/watch-government-building-collapses-into-river-as-heavy-rains-trigger-fresh-landslide-in-nepal/articleshow/134540955.cms",
+              "titolo": "Watch: Govt building collapses as heavy rains trigger fresh landslide in Nepal",
+              "titolo_it": "Guarda: crolla un edificio governativo dopo una nuova frana causata dalle piogge torrenziali in Nepal",
+              "paese": "India",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "The Kathmandu Post",
+              "url": "https://kathmandupost.com/national/2026/09/27/heavy-rain-kills-at-least-17-across-western-nepal",
+              "titolo": "Heavy rain kills at least 21 across western Nepal",
+              "titolo_it": "Piogge torrenziali uccidono almeno 21 persone nell'ovest del Nepal",
+              "paese": "Nepal",
+              "continente": "Asia",
+              "lingua_originale": "inglese",
+              "live_blog": false
+            },
+            {
+              "testata": "Aftenposten",
+              "url": "https://www.aftenposten.no/verden/i/Arjl5j/81-doede-i-flommer-i-indisk-delstat?utm_medium=rss",
+              "titolo": "81 døde i flommer i indisk delstat",
+              "titolo_it": null,
+              "paese": "Norvegia",
+              "continente": "Europa",
+              "lingua_originale": null,
+              "live_blog": false
+            }
+          ],
+          "fonti_omesse": 2,
+          "convergenza_interna": {
+            "continente": "Asia",
+            "coperte": 4,
+            "totali": 56
+          }
+        }
+      ]
+    }
+  ],
+  "degrado": [
+    "cono d'ombra: nessun tema ad alto impatto e bassa copertura oggi",
+    "parole non italiane da rivedere nei testi generati: Abu, Air, Algérie, Andersson, Arenas, Artemis, Axios, Baglung, Baja, Bolsonaro, Bursa, Carry, Cash, Centroamerica, Chancay, Cornell, Dhabi, Dnipro, East, Ekurhuleni"
+  ]
+}
